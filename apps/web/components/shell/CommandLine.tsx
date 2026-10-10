@@ -7,6 +7,8 @@ import { ArrowRight, BookOpen, Flag, GitCompareArrows, MessagesSquare, Orbit, Pa
 import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from "@/components/ui/dialog";
 import { useTheme } from "@/components/shell/ThemeProvider";
 import type { ThemeName } from "@/lib/theme";
+import { getMarkets, type MarketRow } from "@/lib/api";
+import { cents } from "@/lib/format";
 
 interface CommandLineCtx {
   open: boolean;
@@ -78,10 +80,18 @@ function CommandLineDialog() {
   const router = useRouter();
   const { setTheme } = useTheme();
   const [query, setQuery] = useState("");
+  const [markets, setMarkets] = useState<MarketRow[]>([]);
 
   useEffect(() => {
     if (!open) setQuery("");
-  }, [open]);
+    else if (markets.length === 0) getMarkets({ limit: 400 }).then((r) => r && setMarkets(r.markets));
+  }, [open, markets.length]);
+
+  const marketHits = useMemo(() => {
+    const q = query.trim().toLowerCase();
+    if (q.length < 2) return [];
+    return markets.filter((m) => m.ticker.toLowerCase().includes(q) || m.title.toLowerCase().includes(q) || m.eventTitle.toLowerCase().includes(q)).slice(0, 8);
+  }, [markets, query]);
 
   const ctx = useMemo(
     () => ({
@@ -119,6 +129,22 @@ function CommandLineDialog() {
             <CommandPrimitive.Empty className="px-3 py-8 text-center text-sm text-fg-3">
               No function by that name. Try <span className="num text-fg-2">FLAG</span> or <span className="num text-fg-2">SIM</span>.
             </CommandPrimitive.Empty>
+            {marketHits.length > 0 && (
+              <CommandPrimitive.Group heading="Markets" className="[&_[cmdk-group-heading]]:eyebrow [&_[cmdk-group-heading]]:px-2 [&_[cmdk-group-heading]]:py-1.5">
+                {marketHits.map((m) => (
+                  <CommandPrimitive.Item
+                    key={m.id}
+                    value={`${m.ticker} ${m.title} ${m.eventTitle}`}
+                    onSelect={() => { setOpen(false); router.push(`/scanner/${encodeURIComponent(m.id)}`); }}
+                    className="group flex cursor-pointer items-center gap-3 rounded-md px-2 py-2 text-sm text-fg-2 outline-none data-[selected=true]:bg-raised data-[selected=true]:text-fg"
+                  >
+                    <span className="num grid h-7 w-14 shrink-0 place-items-center rounded-sm border border-line bg-bg text-[9px] tracking-wider" style={{ color: m.venue === "kalshi" ? "var(--tmb-yes)" : "var(--tmb-mispricing)" }}>{m.venue === "kalshi" ? "KALSHI" : "POLY"}</span>
+                    <span className="flex-1 truncate">{m.subtitle && m.subtitle !== m.eventTitle ? `${m.eventTitle} · ${m.subtitle}` : m.title}</span>
+                    <span className="num text-[12px] text-fg">{cents(m.yesPrice)}</span>
+                  </CommandPrimitive.Item>
+                ))}
+              </CommandPrimitive.Group>
+            )}
             {GROUPS.map((g) => (
               <CommandPrimitive.Group key={g} heading={g} className="[&_[cmdk-group-heading]]:eyebrow [&_[cmdk-group-heading]]:px-2 [&_[cmdk-group-heading]]:py-1.5">
                 {COMMANDS.filter((c) => c.group === g).map((c) => (
