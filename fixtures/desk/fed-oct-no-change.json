@@ -1,0 +1,15 @@
+{"marketId":"poly:2589812","note":"Authored fallback for scenario 4. Regenerate with the LLM by setting a key and DEMO_MODE=false, then calling /desk/debate once.",
+ "takes":[
+  {"persona":"quant","stance":"yes","confidence":0.72,
+   "argument":"The market prices no change at {price}; the implied hike probability sits near 16% across both venues, so the venues agree within spreads. Fed funds futures and the September hike to 4.00% make a second consecutive move the minority case, which puts my own estimate of no change around 86%. That is roughly 2–3 cents of edge before fees, thin but positive.",
+   "keyRisk":"A hot CPI print before Oct 28 would move the hike bracket 10 points in an afternoon and erase the edge.",
+   "rebuttal":"The Contrarian is right that 83% is not 100%, but the price already discounts a surprise; the Risk Manager's sizing cap is the correct answer to that, not a pass.","revisedConfidence":0.7},
+  {"persona":"contrarian","stance":"pass","confidence":0.55,
+   "argument":"Everyone is comfortable: 83% no change, every headline says 'no urgency'. The last time the desk felt this calm, September delivered a hike the crowd had at 12% a month earlier. Buying YES here is buying consensus at a price with almost no room for being right and plenty for being wrong.",
+   "keyRisk":"Boring outcomes do happen most of the time, and fading a base rate is how contrarians go broke slowly.",
+   "rebuttal":"Fine, Quant: the math is a small positive number. My point is the small number is the whole trade, so I will not fight the Risk Manager's cap.","revisedConfidence":0.5},
+  {"persona":"riskmgr","stanceIfBudget":"yes","confidenceIfBudget":0.6,
+   "argumentIfBudget":"{name} has a ${budget} monthly risk budget. The contract is liquid, the anomaly score is {anomaly}, and the expected edge is a couple of cents, so I will approve at most ${cap} on YES at {price} and not a dollar more. A loss costs the budget for a week, not the rent.",
+   "keyRisk":"Thin edges get eaten by fees if the user trades in and out; this is buy-and-hold to resolution or nothing.",
+   "rebuttal":"Agreed with the Quant on direction and with the Contrarian on humility: the cap stands, {name}, and if the anomaly score moves above 70 before the meeting the answer becomes pass.","revisedConfidence":0.6}
+ ]}

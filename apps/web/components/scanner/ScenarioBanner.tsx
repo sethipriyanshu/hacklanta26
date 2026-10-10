@@ -9,7 +9,7 @@ export function ScenarioBanner({ scenario }: { scenario: Scenario }) {
       <span className="num text-[11px] tracking-wider text-anomaly">{scenario.code}</span>
       <span className="text-[13px] text-fg">{scenario.title}</span>
       <span className="text-[12px] text-fg-2">— {scenario.proves}</span>
-      {scenario.marketId && (
+      {scenario.marketId && scenario.module === "scanner" && (
         <Link href={`/scanner/${encodeURIComponent(scenario.marketId)}?scenario=${scenario.id}`} className="ml-auto rounded-md bg-anomaly px-2.5 py-1 text-[12px] font-medium text-bg hover:bg-anomaly/90">
           Open the contract
         </Link>

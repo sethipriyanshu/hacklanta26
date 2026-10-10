@@ -225,15 +225,52 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
-    "/desk/ping": {
+    "/desk/profiles": {
         parameters: {
             query?: never;
             header?: never;
             path?: never;
             cookie?: never;
         };
-        /** Ping */
-        get: operations["ping_desk_ping_get"];
+        /** List Profiles */
+        get: operations["list_profiles_desk_profiles_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/desk/debate": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Debate */
+        get: operations["debate_desk_debate_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/desk/debate/stream": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /**
+         * Debate Stream
+         * @description SSE: context, then each argument streamed word by word, then rebuttals, then consensus.
+         */
+        get: operations["debate_stream_desk_debate_stream_get"];
         put?: never;
         post?: never;
         delete?: never;
@@ -415,6 +452,72 @@ export interface components {
             /** Size */
             size: number;
         };
+        /** Consensus */
+        Consensus: {
+            /**
+             * Decision
+             * @enum {string}
+             */
+            decision: "yes" | "no" | "pass";
+            /** Sizeusd */
+            sizeUsd: number;
+            /** Riskbudget */
+            riskBudget: number;
+            /** Kellyfraction */
+            kellyFraction: number;
+            /** Weightedyes */
+            weightedYes: number;
+            /** Weightedno */
+            weightedNo: number;
+            /** Vetoed */
+            vetoed: boolean;
+            /** Vetoreason */
+            vetoReason?: string | null;
+            /** Summary */
+            summary: string;
+        };
+        /** DebateResult */
+        DebateResult: {
+            /** Marketid */
+            marketId: string;
+            /** Profileid */
+            profileId: string;
+            /**
+             * Source
+             * @enum {string}
+             */
+            source: "llm" | "authored";
+            /** Context */
+            context: {
+                [key: string]: unknown;
+            };
+            /** Takes */
+            takes: components["schemas"]["DeskTake"][];
+            consensus: components["schemas"]["Consensus"];
+        };
+        /** DeskTake */
+        DeskTake: {
+            /**
+             * Persona
+             * @enum {string}
+             */
+            persona: "quant" | "contrarian" | "riskmgr";
+            /**
+             * Stance
+             * @enum {string}
+             */
+            stance: "yes" | "no" | "pass";
+            /** Confidence */
+            confidence: number;
+            /** Argument */
+            argument: string;
+            /** Keyrisk */
+            keyRisk: string;
+            /** Rebuttal */
+            rebuttal?: string | null;
+            /** Revisedconfidence */
+            revisedConfidence?: number | null;
+        };
         /** Event */
         Event: {
             /** Id */
@@ -488,6 +591,13 @@ export interface components {
             resolution: string;
             /** Points */
             points: components["schemas"]["PricePoint"][];
+        };
+        /** Holding */
+        Holding: {
+            /** Label */
+            label: string;
+            /** Value */
+            value: number;
         };
         /** Market */
         Market: {
@@ -718,6 +828,43 @@ export interface components {
             price: number;
             /** Volume */
             volume?: number | null;
+        };
+        /** Profile */
+        Profile: {
+            /** Id */
+            id: string;
+            /** Name */
+            name: string;
+            /** Tier */
+            tier: string;
+            /** Monthlyincome */
+            monthlyIncome: number;
+            /** Fixedcosts */
+            fixedCosts: number;
+            /** Discretionary */
+            discretionary: number;
+            /** Holdings */
+            holdings?: components["schemas"]["Holding"][];
+            /**
+             * Risktolerance
+             * @default 1
+             */
+            riskTolerance: number;
+            /**
+             * Accent
+             * @default
+             */
+            accent: string;
+            /**
+             * Bio
+             * @default
+             */
+            bio: string;
+            /**
+             * Riskbudget
+             * @default 0
+             */
+            riskBudget: number;
         };
         /** Reaction */
         Reaction: {
@@ -1488,7 +1635,7 @@ export interface operations {
             };
         };
     };
-    ping_desk_ping_get: {
+    list_profiles_desk_profiles_get: {
         parameters: {
             query?: never;
             header?: never;
@@ -1503,9 +1650,71 @@ export interface operations {
                     [name: string]: unknown;
                 };
                 content: {
-                    "application/json": {
-                        [key: string]: string;
-                    };
+                    "application/json": components["schemas"]["Profile"][];
+                };
+            };
+        };
+    };
+    debate_desk_debate_get: {
+        parameters: {
+            query: {
+                market_id: string;
+                profile_id: string;
+            };
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["DebateResult"];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    debate_stream_desk_debate_stream_get: {
+        parameters: {
+            query: {
+                market_id: string;
+                profile_id: string;
+            };
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": unknown;
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
                 };
             };
         };

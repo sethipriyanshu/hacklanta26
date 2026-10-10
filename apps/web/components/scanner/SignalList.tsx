@@ -7,7 +7,7 @@ import { SIGNAL_META, SignalBadge } from "@/components/scanner/SignalBadge";
 import type { Signal } from "@/lib/api";
 
 const SUB_LABEL: Record<string, string> = { zVol: "Volume vs 7-day", zMove: "Move vs volatility", cWallet: "Fresh-wallet share", tNews: "Move before news", gapCents: "Gap (¢)", thresholdCents: "Spreads + fees (¢)", edgeCents: "Edge (¢)", sumPct: "Outcomes sum (%)", deviationPts: "Deviation (pts)", tolerancePts: "Tolerance (pts)" };
-const LEARN: Record<Signal["type"], string> = { anomaly: "/learn#anomaly-patterns", gap: "/learn#cross-venue-arbitrage", inconsistency: "/learn#implied-probability", newsLag: "/learn#anomaly-patterns" };
+const LEARN: Record<Signal["type"], string> = { anomaly: "/learn/anomaly-patterns", gap: "/learn/cross-venue-arbitrage", inconsistency: "/learn/implied-probability", newsLag: "/learn/anomaly-patterns" };
 
 export function SignalList({ signals }: { signals: Signal[] }) {
   if (signals.length === 0) return <p className="px-3 py-4 text-[12px] text-fg-3">No signals on this contract. Volume, price action and outcome sums all look ordinary.</p>;
