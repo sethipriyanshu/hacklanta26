@@ -1,0 +1,1362 @@
+[
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1791373051,
+"side": "no",
+"price": 0.004,
+"size": 5000.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1791373051,
+"side": "no",
+"price": 0.004,
+"size": 10.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1791373051,
+"side": "no",
+"price": 0.003,
+"size": 2750.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1791373051,
+"side": "no",
+"price": 0.005,
+"size": 9.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1791373051,
+"side": "no",
+"price": 0.003,
+"size": 1055.14,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1791373051,
+"side": "no",
+"price": 0.005,
+"size": 364.12,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1791373051,
+"side": "no",
+"price": 0.005,
+"size": 100.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1791373051,
+"side": "no",
+"price": 0.004,
+"size": 194.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1791256443,
+"side": "yes",
+"price": 0.006,
+"size": 763.54,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1791224264,
+"side": "yes",
+"price": 0.006,
+"size": 77.91,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1791156231,
+"side": "no",
+"price": 0.005,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1791150398,
+"side": "yes",
+"price": 0.006,
+"size": 155.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1791148828,
+"side": "no",
+"price": 0.006,
+"size": 117.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1791148828,
+"side": "no",
+"price": 0.006,
+"size": 106.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1791148828,
+"side": "no",
+"price": 0.006,
+"size": 365.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1791074235,
+"side": "no",
+"price": 0.006,
+"size": 31.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1791061676,
+"side": "no",
+"price": 0.006,
+"size": 30.51,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1791061676,
+"side": "no",
+"price": 0.006,
+"size": 15.49,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1790909126,
+"side": "yes",
+"price": 0.008,
+"size": 116.88,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1790867475,
+"side": "no",
+"price": 0.007,
+"size": 394.89,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1790733892,
+"side": "no",
+"price": 0.006,
+"size": 116.88,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1790733024,
+"side": "yes",
+"price": 0.008,
+"size": 20.98,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1790733024,
+"side": "yes",
+"price": 0.008,
+"size": 95.9,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1790570947,
+"side": "yes",
+"price": 0.008,
+"size": 368.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1790319149,
+"side": "yes",
+"price": 0.008,
+"size": 58.44,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1790221142,
+"side": "yes",
+"price": 0.008,
+"size": 56.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1790211240,
+"side": "yes",
+"price": 0.008,
+"size": 900.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1790211240,
+"side": "yes",
+"price": 0.008,
+"size": 1987.02,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1789951320,
+"side": "no",
+"price": 0.007,
+"size": 154.26,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1789949959,
+"side": "yes",
+"price": 0.008,
+"size": 100.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1789939745,
+"side": "yes",
+"price": 0.008,
+"size": 2000.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1789671216,
+"side": "no",
+"price": 0.007,
+"size": 11.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1789619654,
+"side": "no",
+"price": 0.007,
+"size": 9.99,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1789588399,
+"side": "no",
+"price": 0.007,
+"size": 1.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1789565302,
+"side": "yes",
+"price": 0.009,
+"size": 1608.68,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1789565302,
+"side": "yes",
+"price": 0.009,
+"size": 469.38,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1789560198,
+"side": "no",
+"price": 0.007,
+"size": 46.75,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1789545168,
+"side": "yes",
+"price": 0.009,
+"size": 311.11,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1789482782,
+"side": "yes",
+"price": 0.009,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1789258876,
+"side": "yes",
+"price": 0.009,
+"size": 69.62,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1789258876,
+"side": "yes",
+"price": 0.008,
+"size": 389.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1789214829,
+"side": "no",
+"price": 0.007,
+"size": 123.37,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1789214829,
+"side": "no",
+"price": 0.008,
+"size": 546.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1789214829,
+"side": "no",
+"price": 0.006,
+"size": 265.63,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1789070418,
+"side": "no",
+"price": 0.008,
+"size": 62.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1788911670,
+"side": "yes",
+"price": 0.009,
+"size": 919.04,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1788911670,
+"side": "yes",
+"price": 0.009,
+"size": 24.26,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1788911670,
+"side": "yes",
+"price": 0.009,
+"size": 95.73,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1788748203,
+"side": "yes",
+"price": 0.009,
+"size": 9.99,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1788724198,
+"side": "yes",
+"price": 0.009,
+"size": 103.91,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1788485497,
+"side": "yes",
+"price": 0.01,
+"size": 161.63,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1788485497,
+"side": "yes",
+"price": 0.01,
+"size": 1040.18,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1788485497,
+"side": "yes",
+"price": 0.009,
+"size": 961.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1788485497,
+"side": "yes",
+"price": 0.009,
+"size": 1030.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1788374728,
+"side": "no",
+"price": 0.007,
+"size": 589.63,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1788374728,
+"side": "no",
+"price": 0.008,
+"size": 0.1,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1788374728,
+"side": "no",
+"price": 0.007,
+"size": 10.79,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1788374728,
+"side": "no",
+"price": 0.007,
+"size": 0.46,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1788374728,
+"side": "no",
+"price": 0.007,
+"size": 5.41,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1788374728,
+"side": "no",
+"price": 0.008,
+"size": 80.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1788374728,
+"side": "no",
+"price": 0.008,
+"size": 384.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1788374728,
+"side": "no",
+"price": 0.009,
+"size": 29.81,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1788130555,
+"side": "no",
+"price": 0.009,
+"size": 55.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1788125383,
+"side": "yes",
+"price": 0.01,
+"size": 23.37,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1788087686,
+"side": "no",
+"price": 0.009,
+"size": 297.19,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1788087686,
+"side": "no",
+"price": 0.009,
+"size": 14.81,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1788030590,
+"side": "yes",
+"price": 0.011,
+"size": 85.02,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1787942369,
+"side": "no",
+"price": 0.01,
+"size": 4.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1787424761,
+"side": "yes",
+"price": 0.011,
+"size": 6.71,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1787424761,
+"side": "yes",
+"price": 0.014,
+"size": 222.38,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1787424761,
+"side": "yes",
+"price": 0.014,
+"size": 24.17,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1787424761,
+"side": "yes",
+"price": 0.012,
+"size": 7.91,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1787424761,
+"side": "yes",
+"price": 0.013,
+"size": 14.97,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1787424761,
+"side": "yes",
+"price": 0.013,
+"size": 65.03,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1787424761,
+"side": "yes",
+"price": 0.013,
+"size": 0.35,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1787412497,
+"side": "yes",
+"price": 0.011,
+"size": 547.77,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1787412497,
+"side": "yes",
+"price": 0.011,
+"size": 302.23,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1787099092,
+"side": "yes",
+"price": 0.011,
+"size": 9.35,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1787097264,
+"side": "yes",
+"price": 0.011,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1787085191,
+"side": "yes",
+"price": 0.011,
+"size": 7.65,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1787072976,
+"side": "yes",
+"price": 0.011,
+"size": 20.75,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1787071417,
+"side": "yes",
+"price": 0.011,
+"size": 85.02,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1787070021,
+"side": "yes",
+"price": 0.011,
+"size": 510.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1787021363,
+"side": "no",
+"price": 0.011,
+"size": 167.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1787021363,
+"side": "no",
+"price": 0.011,
+"size": 870.44,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1787005892,
+"side": "no",
+"price": 0.011,
+"size": 20.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1786997854,
+"side": "no",
+"price": 0.011,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1786990436,
+"side": "no",
+"price": 0.011,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1786989076,
+"side": "no",
+"price": 0.011,
+"size": 11.69,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1786989076,
+"side": "no",
+"price": 0.011,
+"size": 44.56,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1786989076,
+"side": "no",
+"price": 0.012,
+"size": 11.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1786989076,
+"side": "no",
+"price": 0.011,
+"size": 4.04,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1786989076,
+"side": "no",
+"price": 0.012,
+"size": 45.71,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1786864578,
+"side": "yes",
+"price": 0.015,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1786828065,
+"side": "no",
+"price": 0.012,
+"size": 32.33,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1786828065,
+"side": "no",
+"price": 0.012,
+"size": 1.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1786828065,
+"side": "no",
+"price": 0.012,
+"size": 0.11,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1786828065,
+"side": "no",
+"price": 0.013,
+"size": 1.96,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1786828065,
+"side": "no",
+"price": 0.012,
+"size": 0.84,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1786828065,
+"side": "no",
+"price": 0.013,
+"size": 14.74,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1786828065,
+"side": "no",
+"price": 0.014,
+"size": 11.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1786652011,
+"side": "no",
+"price": 0.011,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1786581475,
+"side": "yes",
+"price": 0.016,
+"size": 1753.75,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1786557549,
+"side": "yes",
+"price": 0.016,
+"size": 350.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1786557549,
+"side": "yes",
+"price": 0.017,
+"size": 301.07,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1786557549,
+"side": "yes",
+"price": 0.016,
+"size": 137.93,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1786418913,
+"side": "yes",
+"price": 0.017,
+"size": 346.3,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1786418913,
+"side": "yes",
+"price": 0.014,
+"size": 4.62,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1786418913,
+"side": "yes",
+"price": 0.017,
+"size": 191.95,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1786418913,
+"side": "yes",
+"price": 0.014,
+"size": 10.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1786249292,
+"side": "yes",
+"price": 0.017,
+"size": 468.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1786239684,
+"side": "yes",
+"price": 0.017,
+"size": 1100.2,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1785982619,
+"side": "yes",
+"price": 0.017,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1785982067,
+"side": "yes",
+"price": 0.017,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1785981160,
+"side": "yes",
+"price": 0.017,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1785978777,
+"side": "yes",
+"price": 0.017,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1785942641,
+"side": "yes",
+"price": 0.017,
+"size": 3081.5,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1785844064,
+"side": "yes",
+"price": 0.017,
+"size": 10.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1785806478,
+"side": "no",
+"price": 0.01,
+"size": 3.18,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1785727216,
+"side": "yes",
+"price": 0.018,
+"size": 12.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1785633301,
+"side": "yes",
+"price": 0.017,
+"size": 0.47,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1785626572,
+"side": "no",
+"price": 0.013,
+"size": 4.18,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1785626572,
+"side": "no",
+"price": 0.013,
+"size": 5.82,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1785622597,
+"side": "yes",
+"price": 0.018,
+"size": 2.03,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1785622597,
+"side": "yes",
+"price": 0.009,
+"size": 140.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1785622597,
+"side": "yes",
+"price": 0.017,
+"size": 1.67,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1785622597,
+"side": "yes",
+"price": 0.017,
+"size": 2.11,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1785622597,
+"side": "yes",
+"price": 0.018,
+"size": 500.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1785622597,
+"side": "yes",
+"price": 0.018,
+"size": 2040.25,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1785622597,
+"side": "yes",
+"price": 0.014,
+"size": 140.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1785622597,
+"side": "yes",
+"price": 0.018,
+"size": 2.86,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1785622597,
+"side": "yes",
+"price": 0.018,
+"size": 2.56,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1785622597,
+"side": "yes",
+"price": 0.019,
+"size": 358.72,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1785622597,
+"side": "yes",
+"price": 0.018,
+"size": 1.26,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1785622597,
+"side": "yes",
+"price": 0.018,
+"size": 2.88,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GWHI",
+"ts": 1785622597,
+"side": "yes",
+"price": 0.017,
+"size": 5.81,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+}
+]

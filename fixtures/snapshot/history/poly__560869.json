@@ -1,0 +1,1808 @@
+[
+{
+"marketId": "poly:560869",
+"ts": 1759017614,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759021205,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759024814,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759028414,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759032006,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759035603,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759039203,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759042816,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759046410,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759050012,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759053603,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759057215,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759060814,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759064408,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759068006,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759071605,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759075213,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759078815,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759082414,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759086012,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759089615,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759093206,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759096815,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759100408,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759104009,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759107606,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759111206,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759114802,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759118406,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759122012,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759125606,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759129212,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759132808,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759136414,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759140014,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759143608,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759147210,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759150807,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759154408,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759158006,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759161609,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759165209,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759168808,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759172406,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759176002,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759179610,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759183206,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759186802,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759190411,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759194011,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759197603,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759201209,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759204802,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759208408,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759212002,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759215606,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759219205,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759222810,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759226404,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759230007,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759233606,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759237204,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759240813,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759244410,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759248002,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759251612,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759255205,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759258811,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759262404,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759266012,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759269614,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759273207,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759276809,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759280407,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759284003,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759287605,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759291203,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759294804,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759298413,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759302009,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759305606,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759309204,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759312803,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759316412,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759320011,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759323609,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759327202,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759330807,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759334406,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759338015,
+"price": 0.005,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759341610,
+"price": 0.005,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759345211,
+"price": 0.005,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759348813,
+"price": 0.005,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759352414,
+"price": 0.005,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759356011,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759359611,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759363207,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759366807,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759370408,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759374013,
+"price": 0.0055,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759377604,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759381212,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759384802,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759388403,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759392004,
+"price": 0.0055,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759395609,
+"price": 0.0055,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759399212,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759402806,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759406417,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759410005,
+"price": 0.0055,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759413613,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759417211,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759420809,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759424415,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759428005,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759431603,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759435206,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759438803,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759442415,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759446005,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759449608,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759453208,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759456807,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759460403,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759464010,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759467604,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759471203,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759474808,
+"price": 0.009,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759478406,
+"price": 0.0095,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759482004,
+"price": 0.0095,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759485605,
+"price": 0.0095,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759489205,
+"price": 0.0095,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759492802,
+"price": 0.0095,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759496405,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759500005,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759503605,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759507206,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759510805,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759514409,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759518004,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759521605,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759525209,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759528806,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759532406,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759536008,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759539607,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759543207,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759546807,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759550405,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759554005,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759557606,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759561214,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759564807,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759568407,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759572006,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759575604,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759579207,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759582804,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759586403,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759590008,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759593605,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759597206,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759600808,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759604405,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759608003,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759611609,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759615205,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759618804,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759622408,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759626003,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759629606,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759633208,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759636805,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759640404,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759644008,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759647606,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759651205,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759654807,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759658403,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759662007,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759665608,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759669205,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759672807,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759676407,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759680005,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759683607,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759687205,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759690805,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759694403,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759698004,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759701605,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759705203,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759708804,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759712406,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759716007,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759719607,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759723206,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759726804,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759730408,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759734009,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759737606,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759741203,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759744806,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759748405,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759752009,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759755608,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759759206,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759762809,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759766406,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759770009,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759773609,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759777205,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759780808,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759784408,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759788014,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759791606,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759795202,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759798806,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759802408,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759806016,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759809608,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759813209,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759816811,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759820407,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759824004,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759827614,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759831208,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759834805,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759838417,
+"price": 0.01,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759842013,
+"price": 0.01,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759845608,
+"price": 0.0145,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759849213,
+"price": 0.0145,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759852815,
+"price": 0.0145,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759856415,
+"price": 0.0145,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759860012,
+"price": 0.0145,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759863612,
+"price": 0.0145,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759867214,
+"price": 0.0105,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759870818,
+"price": 0.0145,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759874415,
+"price": 0.014,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759878009,
+"price": 0.024,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759881609,
+"price": 0.014,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759885211,
+"price": 0.014,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759888812,
+"price": 0.014,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759892418,
+"price": 0.0145,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759896016,
+"price": 0.0155,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759899614,
+"price": 0.0155,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759903209,
+"price": 0.014,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759906811,
+"price": 0.0145,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759910416,
+"price": 0.0175,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759914013,
+"price": 0.0175,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759917602,
+"price": 0.0175,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759921207,
+"price": 0.0175,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759924811,
+"price": 0.0175,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759928415,
+"price": 0.0135,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759932007,
+"price": 0.014,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759935612,
+"price": 0.0125,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759939204,
+"price": 0.0165,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759942811,
+"price": 0.0165,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759946408,
+"price": 0.0165,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759950016,
+"price": 0.0165,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759953606,
+"price": 0.01,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759957211,
+"price": 0.0165,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759960814,
+"price": 0.0165,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759964406,
+"price": 0.013,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759968012,
+"price": 0.0115,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759971608,
+"price": 0.0125,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759975205,
+"price": 0.0125,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759978805,
+"price": 0.0125,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759982407,
+"price": 0.0145,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759986005,
+"price": 0.015,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759989602,
+"price": 0.01,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759993209,
+"price": 0.01,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1759996806,
+"price": 0.01,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1760000416,
+"price": 0.01,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1760004009,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1760007611,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1760011213,
+"price": 0.0075,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1760014810,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1760018416,
+"price": 0.0085,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1760022008,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1760025606,
+"price": 0.0085,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1760029203,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1760032814,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1760036415,
+"price": 0.007,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1760040014,
+"price": 0.009,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1760043607,
+"price": 0.0085,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1760047213,
+"price": 0.0085,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1760050814,
+"price": 0.008,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1760054414,
+"price": 0.005,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1760058009,
+"price": 0.0055,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1760061603,
+"price": 0.0045,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1760065219,
+"price": 0.0065,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1760068806,
+"price": 0.006,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1760072403,
+"price": 0.004,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1760076007,
+"price": 0.004,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1760079613,
+"price": 0.003,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1760083214,
+"price": 0.003,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1760086804,
+"price": 0.0565,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1760090405,
+"price": 0.0005,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1760094015,
+"price": 0.0005,
+"volume": null
+},
+{
+"marketId": "poly:560869",
+"ts": 1760097609,
+"price": 0.0005,
+"volume": null
+}
+]

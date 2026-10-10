@@ -1,0 +1,764 @@
+[
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790283600,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790287200,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790290800,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790294400,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790298000,
+"price": 0.01,
+"volume": 2.28
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790301600,
+"price": 0.02,
+"volume": 233.95
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790305200,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790308800,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790312400,
+"price": 0.02,
+"volume": 93.5
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790316000,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790319600,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790323200,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790330400,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790334000,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790337600,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790341200,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790344800,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790352000,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790355600,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790359200,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790362800,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790366400,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790370000,
+"price": 0.02,
+"volume": 32.28
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790373600,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790377200,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790388000,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790391600,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790398800,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790402400,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790406000,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790409600,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790413200,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790416800,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790420400,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790424000,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790427600,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790431200,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790438400,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790452800,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790485200,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790488800,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790499600,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790506800,
+"price": 0.01,
+"volume": 34.56
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790514000,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790517600,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790524800,
+"price": 0.02,
+"volume": 233.95
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790528400,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790532000,
+"price": 0.02,
+"volume": 38.36
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790535600,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790539200,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790542800,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790550000,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790557200,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790560800,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790564400,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790568000,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790571600,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790578800,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790589600,
+"price": 0.02,
+"volume": 467.9
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790593200,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790600400,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790604000,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790607600,
+"price": 0.01,
+"volume": 1.08
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790611200,
+"price": 0.02,
+"volume": 233.95
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790614800,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790618400,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790622000,
+"price": 0.02,
+"volume": 561.48
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790625600,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790629200,
+"price": 0.02,
+"volume": 233.95
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790632800,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790636400,
+"price": 0.02,
+"volume": 2807.4
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790640000,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790643600,
+"price": 0.02,
+"volume": 7.01
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790647200,
+"price": 0.02,
+"volume": 11.69
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790650800,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790654400,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790658000,
+"price": 0.02,
+"volume": 327.53
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790661600,
+"price": 0.01,
+"volume": 292.43
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790665200,
+"price": 0.02,
+"volume": 46.79
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790668800,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790672400,
+"price": 0.02,
+"volume": 46.79
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790676000,
+"price": 0.02,
+"volume": 46.79
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790679600,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790683200,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790686800,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790690400,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790694000,
+"price": 0.015,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790697600,
+"price": 0.02,
+"volume": 46.79
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790701200,
+"price": 0.02,
+"volume": 982.59
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790704800,
+"price": 0.01,
+"volume": 467.9
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790708400,
+"price": 0.02,
+"volume": 233.95
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790712000,
+"price": 0.02,
+"volume": 1169.75
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790715600,
+"price": 0.01,
+"volume": 227.28
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790719200,
+"price": 0.02,
+"volume": 149.03
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790726400,
+"price": 0.005,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790730000,
+"price": 0.01,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790737200,
+"price": 0.02,
+"volume": 16.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790748000,
+"price": 0.005,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790751600,
+"price": 0.005,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790766000,
+"price": 0.02,
+"volume": 142.07
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790769600,
+"price": 0.005,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790773200,
+"price": 0.01,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790776800,
+"price": 0.01,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790802000,
+"price": 0.01,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790805600,
+"price": 0.01,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790827200,
+"price": 0.01,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790830800,
+"price": 0.02,
+"volume": 467.9
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790838000,
+"price": 0.01,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790841600,
+"price": 0.01,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790863200,
+"price": 0.01,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790877600,
+"price": 0.005,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790906400,
+"price": 0.01,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790910000,
+"price": 0.02,
+"volume": 81.88
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790924400,
+"price": 0.02,
+"volume": 140.37
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790928000,
+"price": 0.02,
+"volume": 23.39
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790942400,
+"price": 0.01,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790985600,
+"price": 0.02,
+"volume": 93.58
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1790996400,
+"price": 0.02,
+"volume": 93.58
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1791000000,
+"price": 0.02,
+"volume": 982.59
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1791025200,
+"price": 0.01,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1791079200,
+"price": 0.02,
+"volume": 34.15
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1791147600,
+"price": 0.02,
+"volume": 70.18
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1791244800,
+"price": 0.02,
+"volume": 42.11
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1791309600,
+"price": 0.005,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1791370800,
+"price": 0.01,
+"volume": 4675.95
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1791392400,
+"price": 0.01,
+"volume": 5.61
+},
+{
+"marketId": "kalshi:KXFED-26OCT-T4.25",
+"ts": 1791396000,
+"price": 0.01,
+"volume": 2431.48
+}
+]

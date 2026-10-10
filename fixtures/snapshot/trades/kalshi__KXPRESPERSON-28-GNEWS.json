@@ -1,0 +1,2002 @@
+[
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791403683,
+"side": "no",
+"price": 0.082,
+"size": 98.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791399378,
+"side": "no",
+"price": 0.082,
+"size": 19.86,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791399378,
+"side": "no",
+"price": 0.083,
+"size": 20.22,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791399378,
+"side": "no",
+"price": 0.083,
+"size": 13.26,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791399378,
+"side": "no",
+"price": 0.083,
+"size": 8.94,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791399378,
+"side": "no",
+"price": 0.085,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791399378,
+"side": "no",
+"price": 0.086,
+"size": 3.8,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791399378,
+"side": "no",
+"price": 0.083,
+"size": 109.18,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791399378,
+"side": "no",
+"price": 0.084,
+"size": 0.26,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791399378,
+"side": "no",
+"price": 0.085,
+"size": 10.87,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791399378,
+"side": "no",
+"price": 0.085,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791399378,
+"side": "no",
+"price": 0.084,
+"size": 14.33,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791399378,
+"side": "no",
+"price": 0.085,
+"size": 101.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791399378,
+"side": "no",
+"price": 0.083,
+"size": 21.28,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791399378,
+"side": "no",
+"price": 0.086,
+"size": 10.45,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791399378,
+"side": "no",
+"price": 0.085,
+"size": 13.07,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791398178,
+"side": "yes",
+"price": 0.089,
+"size": 9.43,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791398178,
+"side": "yes",
+"price": 0.089,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791398178,
+"side": "yes",
+"price": 0.09,
+"size": 250.8,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791396006,
+"side": "yes",
+"price": 0.089,
+"size": 9.43,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791396006,
+"side": "yes",
+"price": 0.09,
+"size": 199.51,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791387083,
+"side": "yes",
+"price": 0.087,
+"size": 54.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791384442,
+"side": "no",
+"price": 0.086,
+"size": 21.11,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791384442,
+"side": "no",
+"price": 0.086,
+"size": 9.44,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791384442,
+"side": "no",
+"price": 0.086,
+"size": 6.88,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791384442,
+"side": "no",
+"price": 0.086,
+"size": 16.49,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791384442,
+"side": "no",
+"price": 0.085,
+"size": 29.47,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791378818,
+"side": "yes",
+"price": 0.09,
+"size": 104.45,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791377688,
+"side": "yes",
+"price": 0.09,
+"size": 208.91,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791359870,
+"side": "yes",
+"price": 0.089,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791359870,
+"side": "yes",
+"price": 0.089,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791359870,
+"side": "yes",
+"price": 0.09,
+"size": 8.46,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791351582,
+"side": "yes",
+"price": 0.089,
+"size": 10.61,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791351582,
+"side": "yes",
+"price": 0.089,
+"size": 56.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791351582,
+"side": "yes",
+"price": 0.088,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791351582,
+"side": "yes",
+"price": 0.089,
+"size": 20000.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791351582,
+"side": "yes",
+"price": 0.089,
+"size": 342.58,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791351582,
+"side": "yes",
+"price": 0.089,
+"size": 2222.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791351582,
+"side": "yes",
+"price": 0.089,
+"size": 100.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791351582,
+"side": "yes",
+"price": 0.09,
+"size": 19301.73,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791351511,
+"side": "yes",
+"price": 0.087,
+"size": 262.45,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791351511,
+"side": "yes",
+"price": 0.088,
+"size": 0.89,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791351511,
+"side": "yes",
+"price": 0.087,
+"size": 9653.59,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791351511,
+"side": "yes",
+"price": 0.088,
+"size": 12.81,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791351511,
+"side": "yes",
+"price": 0.089,
+"size": 746.72,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791351511,
+"side": "yes",
+"price": 0.087,
+"size": 100.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791351511,
+"side": "yes",
+"price": 0.087,
+"size": 10.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791348375,
+"side": "yes",
+"price": 0.087,
+"size": 1566.65,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791342450,
+"side": "yes",
+"price": 0.087,
+"size": 1.62,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791340719,
+"side": "no",
+"price": 0.085,
+"size": 10.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791339365,
+"side": "yes",
+"price": 0.086,
+"size": 1522.28,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791339365,
+"side": "yes",
+"price": 0.087,
+"size": 9298.85,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791338721,
+"side": "no",
+"price": 0.085,
+"size": 19.45,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791338721,
+"side": "no",
+"price": 0.085,
+"size": 9.3,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791335655,
+"side": "yes",
+"price": 0.086,
+"size": 54.64,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791333620,
+"side": "no",
+"price": 0.085,
+"size": 20.21,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791333151,
+"side": "yes",
+"price": 0.087,
+"size": 216.07,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791330446,
+"side": "no",
+"price": 0.085,
+"size": 73.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791326664,
+"side": "yes",
+"price": 0.087,
+"size": 3093.44,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791319201,
+"side": "yes",
+"price": 0.087,
+"size": 3.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791318173,
+"side": "yes",
+"price": 0.087,
+"size": 540.18,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791313682,
+"side": "no",
+"price": 0.085,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791313678,
+"side": "yes",
+"price": 0.087,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791308273,
+"side": "yes",
+"price": 0.086,
+"size": 9.3,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791308273,
+"side": "yes",
+"price": 0.087,
+"size": 43.64,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791307110,
+"side": "yes",
+"price": 0.086,
+"size": 101.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791307110,
+"side": "yes",
+"price": 0.086,
+"size": 9.3,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791307110,
+"side": "yes",
+"price": 0.086,
+"size": 25.86,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791307110,
+"side": "yes",
+"price": 0.087,
+"size": 3.78,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791291968,
+"side": "no",
+"price": 0.085,
+"size": 5.08,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791291968,
+"side": "no",
+"price": 0.084,
+"size": 101.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791291968,
+"side": "no",
+"price": 0.083,
+"size": 18.49,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791291968,
+"side": "no",
+"price": 0.084,
+"size": 5.08,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791291968,
+"side": "no",
+"price": 0.084,
+"size": 9.33,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791289267,
+"side": "yes",
+"price": 0.086,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791289267,
+"side": "yes",
+"price": 0.087,
+"size": 74.54,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791277937,
+"side": "yes",
+"price": 0.087,
+"size": 216.07,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791267006,
+"side": "yes",
+"price": 0.087,
+"size": 54.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791261864,
+"side": "yes",
+"price": 0.087,
+"size": 1080.37,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791260288,
+"side": "yes",
+"price": 0.086,
+"size": 22.63,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791260288,
+"side": "yes",
+"price": 0.085,
+"size": 9.5,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791260288,
+"side": "yes",
+"price": 0.086,
+"size": 16.08,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791260288,
+"side": "yes",
+"price": 0.086,
+"size": 4.72,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791260288,
+"side": "yes",
+"price": 0.085,
+"size": 101.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791260288,
+"side": "yes",
+"price": 0.087,
+"size": 1097.9,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791260288,
+"side": "yes",
+"price": 0.087,
+"size": 4152.95,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791255283,
+"side": "no",
+"price": 0.082,
+"size": 141.65,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791255283,
+"side": "no",
+"price": 0.084,
+"size": 101.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791255283,
+"side": "no",
+"price": 0.083,
+"size": 6.15,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791255283,
+"side": "no",
+"price": 0.084,
+"size": 9.17,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791255283,
+"side": "no",
+"price": 0.083,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791255283,
+"side": "no",
+"price": 0.083,
+"size": 25.22,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791255283,
+"side": "no",
+"price": 0.083,
+"size": 2.78,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791255283,
+"side": "no",
+"price": 0.083,
+"size": 4.17,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791254994,
+"side": "yes",
+"price": 0.086,
+"size": 1753.32,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791254994,
+"side": "yes",
+"price": 0.085,
+"size": 16.91,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791254994,
+"side": "yes",
+"price": 0.085,
+"size": 1.92,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791254994,
+"side": "yes",
+"price": 0.086,
+"size": 3.87,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791254994,
+"side": "yes",
+"price": 0.085,
+"size": 82.17,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791254994,
+"side": "yes",
+"price": 0.087,
+"size": 324.87,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791254786,
+"side": "yes",
+"price": 0.085,
+"size": 16.91,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791251985,
+"side": "yes",
+"price": 0.085,
+"size": 1.92,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791251985,
+"side": "yes",
+"price": 0.085,
+"size": 9.13,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791243636,
+"side": "yes",
+"price": 0.085,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791243636,
+"side": "yes",
+"price": 0.085,
+"size": 9.43,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791243636,
+"side": "yes",
+"price": 0.085,
+"size": 27.32,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791243636,
+"side": "yes",
+"price": 0.086,
+"size": 35.19,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791242422,
+"side": "no",
+"price": 0.084,
+"size": 101.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791242422,
+"side": "no",
+"price": 0.083,
+"size": 15.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791242422,
+"side": "no",
+"price": 0.083,
+"size": 9.38,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791242422,
+"side": "no",
+"price": 0.083,
+"size": 25.32,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791242422,
+"side": "no",
+"price": 0.083,
+"size": 2.68,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791242422,
+"side": "no",
+"price": 0.083,
+"size": 6.39,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791242422,
+"side": "no",
+"price": 0.084,
+"size": 9.38,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791242422,
+"side": "no",
+"price": 0.082,
+"size": 158.71,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791241336,
+"side": "yes",
+"price": 0.086,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791237725,
+"side": "yes",
+"price": 0.086,
+"size": 327.86,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791233893,
+"side": "yes",
+"price": 0.086,
+"size": 109.28,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791230172,
+"side": "yes",
+"price": 0.086,
+"size": 537.91,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791228714,
+"side": "yes",
+"price": 0.086,
+"size": 36.44,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791228714,
+"side": "yes",
+"price": 0.085,
+"size": 3.44,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791228714,
+"side": "yes",
+"price": 0.085,
+"size": 9.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791228714,
+"side": "yes",
+"price": 0.084,
+"size": 3.78,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791228714,
+"side": "yes",
+"price": 0.084,
+"size": 8.64,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791228714,
+"side": "yes",
+"price": 0.085,
+"size": 7.46,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791228714,
+"side": "yes",
+"price": 0.085,
+"size": 4.21,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791228714,
+"side": "yes",
+"price": 0.085,
+"size": 25.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791228714,
+"side": "yes",
+"price": 0.086,
+"size": 11.97,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791228091,
+"side": "yes",
+"price": 0.084,
+"size": 0.09,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791228091,
+"side": "yes",
+"price": 0.084,
+"size": 3.78,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791228091,
+"side": "yes",
+"price": 0.084,
+"size": 92.27,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791224365,
+"side": "no",
+"price": 0.082,
+"size": 454.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791215124,
+"side": "no",
+"price": 0.082,
+"size": 138.94,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791214174,
+"side": "no",
+"price": 0.082,
+"size": 46.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791214125,
+"side": "no",
+"price": 0.082,
+"size": 67.37,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791211355,
+"side": "no",
+"price": 0.082,
+"size": 20.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791201775,
+"side": "no",
+"price": 0.083,
+"size": 45.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791186328,
+"side": "no",
+"price": 0.083,
+"size": 35.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791174710,
+"side": "yes",
+"price": 0.084,
+"size": 97.69,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791174710,
+"side": "yes",
+"price": 0.084,
+"size": 3.44,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791174710,
+"side": "yes",
+"price": 0.083,
+"size": 10.79,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791168482,
+"side": "no",
+"price": 0.082,
+"size": 2.45,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791168482,
+"side": "no",
+"price": 0.082,
+"size": 101.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791168482,
+"side": "no",
+"price": 0.082,
+"size": 1.39,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791168482,
+"side": "no",
+"price": 0.082,
+"size": 2.33,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791168482,
+"side": "no",
+"price": 0.082,
+"size": 0.26,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791168482,
+"side": "no",
+"price": 0.082,
+"size": 0.41,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791168474,
+"side": "no",
+"price": 0.083,
+"size": 0.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791168468,
+"side": "no",
+"price": 0.083,
+"size": 8.94,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791168462,
+"side": "no",
+"price": 0.083,
+"size": 6.37,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791168462,
+"side": "no",
+"price": 0.083,
+"size": 2.77,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791167441,
+"side": "yes",
+"price": 0.085,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791167441,
+"side": "yes",
+"price": 0.085,
+"size": 4.53,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791167441,
+"side": "yes",
+"price": 0.086,
+"size": 1.42,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791163433,
+"side": "no",
+"price": 0.083,
+"size": 5.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791163433,
+"side": "no",
+"price": 0.083,
+"size": 3.7,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791163433,
+"side": "no",
+"price": 0.082,
+"size": 1.06,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791158054,
+"side": "yes",
+"price": 0.086,
+"size": 0.65,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791158042,
+"side": "yes",
+"price": 0.086,
+"size": 0.75,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791158042,
+"side": "yes",
+"price": 0.086,
+"size": 4.71,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791158037,
+"side": "yes",
+"price": 0.086,
+"size": 0.1,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791156789,
+"side": "yes",
+"price": 0.086,
+"size": 81.86,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791151860,
+"side": "no",
+"price": 0.083,
+"size": 5.42,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791151580,
+"side": "yes",
+"price": 0.085,
+"size": 109.18,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791151580,
+"side": "yes",
+"price": 0.086,
+"size": 127.6,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791150783,
+"side": "yes",
+"price": 0.085,
+"size": 6.08,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791150783,
+"side": "yes",
+"price": 0.085,
+"size": 16.23,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791150783,
+"side": "yes",
+"price": 0.085,
+"size": 2.46,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791150783,
+"side": "yes",
+"price": 0.086,
+"size": 193.98,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791150328,
+"side": "yes",
+"price": 0.085,
+"size": 3.25,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791150328,
+"side": "yes",
+"price": 0.085,
+"size": 1.76,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791150328,
+"side": "yes",
+"price": 0.085,
+"size": 13.74,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791150328,
+"side": "yes",
+"price": 0.085,
+"size": 3.29,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791149838,
+"side": "yes",
+"price": 0.085,
+"size": 14.29,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791149838,
+"side": "yes",
+"price": 0.085,
+"size": 11.71,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791145914,
+"side": "yes",
+"price": 0.079,
+"size": 101.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791145914,
+"side": "yes",
+"price": 0.08,
+"size": 15.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791145914,
+"side": "yes",
+"price": 0.085,
+"size": 13.81,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791145914,
+"side": "yes",
+"price": 0.085,
+"size": 9.29,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791145914,
+"side": "yes",
+"price": 0.086,
+"size": 66.99,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791142719,
+"side": "no",
+"price": 0.076,
+"size": 333.93,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791140157,
+"side": "no",
+"price": 0.077,
+"size": 0.45,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791140157,
+"side": "no",
+"price": 0.077,
+"size": 25.55,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791138776,
+"side": "no",
+"price": 0.076,
+"size": 222.83,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791138763,
+"side": "no",
+"price": 0.078,
+"size": 9.51,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791138763,
+"side": "no",
+"price": 0.078,
+"size": 2.66,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791138520,
+"side": "no",
+"price": 0.078,
+"size": 1.41,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791138520,
+"side": "no",
+"price": 0.078,
+"size": 9.51,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791132940,
+"side": "no",
+"price": 0.078,
+"size": 2.84,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791132940,
+"side": "no",
+"price": 0.078,
+"size": 1.16,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791131823,
+"side": "no",
+"price": 0.079,
+"size": 2.97,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791131823,
+"side": "no",
+"price": 0.08,
+"size": 3.59,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791131823,
+"side": "no",
+"price": 0.084,
+"size": 101.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791131823,
+"side": "no",
+"price": 0.08,
+"size": 3.89,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791131823,
+"side": "no",
+"price": 0.08,
+"size": 6.55,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791125988,
+"side": "yes",
+"price": 0.085,
+"size": 10.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791125337,
+"side": "no",
+"price": 0.083,
+"size": 5.9,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791121743,
+"side": "no",
+"price": 0.083,
+"size": 22.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791121107,
+"side": "yes",
+"price": 0.085,
+"size": 4.55,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GNEWS",
+"ts": 1791121107,
+"side": "yes",
+"price": 0.085,
+"size": 6.94,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+}
+]

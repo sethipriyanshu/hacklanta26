@@ -4,15 +4,117 @@
  */
 
 export interface paths {
-    "/markets/ping": {
+    "/markets": {
         parameters: {
             query?: never;
             header?: never;
             path?: never;
             cookie?: never;
         };
-        /** Ping */
-        get: operations["ping_markets_ping_get"];
+        /** List Markets */
+        get: operations["list_markets_markets_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/markets/{market_id}": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Get Market */
+        get: operations["get_market_markets__market_id__get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/markets/{market_id}/event": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Get Event */
+        get: operations["get_event_markets__market_id__event_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/markets/{market_id}/history": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Get History */
+        get: operations["get_history_markets__market_id__history_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/markets/{market_id}/book": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Get Book */
+        get: operations["get_book_markets__market_id__book_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/markets/{market_id}/trades": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Get Trades */
+        get: operations["get_trades_markets__market_id__trades_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/markets/{market_id}/news": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Get News */
+        get: operations["get_news_markets__market_id__news_get"];
         put?: never;
         post?: never;
         delete?: never;
@@ -89,6 +191,23 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
+    "/scenarios": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** List Scenarios */
+        get: operations["list_scenarios_scenarios_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
     "/health": {
         parameters: {
             query?: never;
@@ -109,7 +228,268 @@ export interface paths {
 }
 export type webhooks = Record<string, never>;
 export interface components {
-    schemas: never;
+    schemas: {
+        /** BookLevel */
+        BookLevel: {
+            /** Price */
+            price: number;
+            /** Size */
+            size: number;
+        };
+        /** HTTPValidationError */
+        HTTPValidationError: {
+            /** Detail */
+            detail?: components["schemas"]["ValidationError"][];
+        };
+        /** Headline */
+        Headline: {
+            /** Id */
+            id: string;
+            /** Title */
+            title: string;
+            /** Source */
+            source: string;
+            /** Url */
+            url: string;
+            /**
+             * Publishedat
+             * Format: date-time
+             */
+            publishedAt: string;
+            /**
+             * Query
+             * @default
+             */
+            query: string;
+        };
+        /** HistoryResponse */
+        HistoryResponse: {
+            /** Marketid */
+            marketId: string;
+            /** Resolution */
+            resolution: string;
+            /** Points */
+            points: components["schemas"]["PricePoint"][];
+        };
+        /** Market */
+        Market: {
+            /** Id */
+            id: string;
+            /**
+             * Venue
+             * @enum {string}
+             */
+            venue: "kalshi" | "polymarket";
+            /** Ticker */
+            ticker: string;
+            /** Title */
+            title: string;
+            /** Subtitle */
+            subtitle?: string | null;
+            /** Eventid */
+            eventId: string;
+            /** Eventtitle */
+            eventTitle: string;
+            /**
+             * Category
+             * @enum {string}
+             */
+            category: "Politics" | "Economics" | "Sports" | "Crypto" | "Tech" | "Other";
+            /** Outcomes */
+            outcomes?: string[];
+            /** Yesprice */
+            yesPrice: number;
+            /** Yesbid */
+            yesBid?: number | null;
+            /** Yesask */
+            yesAsk?: number | null;
+            /** Lastprice */
+            lastPrice?: number | null;
+            /** Spread */
+            spread?: number | null;
+            /** Change24H */
+            change24h?: number | null;
+            /**
+             * Volume
+             * @default 0
+             */
+            volume: number;
+            /**
+             * Volume24H
+             * @default 0
+             */
+            volume24h: number;
+            /** Openinterest */
+            openInterest?: number | null;
+            /** Liquidity */
+            liquidity?: number | null;
+            /** Closetime */
+            closeTime?: string | null;
+            /**
+             * Rulestext
+             * @default
+             */
+            rulesText: string;
+            /** Url */
+            url: string;
+            /**
+             * Status
+             * @default open
+             */
+            status: string;
+            /**
+             * Mutuallyexclusive
+             * @default false
+             */
+            mutuallyExclusive: boolean;
+            /** Meta */
+            meta?: {
+                [key: string]: unknown;
+            };
+        };
+        /** MarketsResponse */
+        MarketsResponse: {
+            /** Markets */
+            markets: components["schemas"]["Market"][];
+            snapshot: components["schemas"]["Snapshot"];
+        };
+        /** NewsResponse */
+        NewsResponse: {
+            /** Query */
+            query: string;
+            /** Headlines */
+            headlines: components["schemas"]["Headline"][];
+        };
+        /** OrderBook */
+        OrderBook: {
+            /** Marketid */
+            marketId: string;
+            /** Ts */
+            ts: number;
+            /** Bids */
+            bids?: components["schemas"]["BookLevel"][];
+            /** Asks */
+            asks?: components["schemas"]["BookLevel"][];
+        };
+        /** PricePoint */
+        PricePoint: {
+            /** Marketid */
+            marketId: string;
+            /** Ts */
+            ts: number;
+            /** Price */
+            price: number;
+            /** Volume */
+            volume?: number | null;
+        };
+        /** Scenario */
+        Scenario: {
+            /** Id */
+            id: number;
+            /** Code */
+            code: string;
+            /** Title */
+            title: string;
+            /**
+             * Module
+             * @enum {string}
+             */
+            module: "scanner" | "desk" | "sim" | "learn";
+            /** Route */
+            route: string;
+            /** Proves */
+            proves: string;
+            /** Marketid */
+            marketId?: string | null;
+            /** Eventid */
+            eventId?: string | null;
+            /** Pair */
+            pair?: {
+                [key: string]: unknown;
+            } | null;
+            /** Windowstart */
+            windowStart?: string | null;
+            /** Windowend */
+            windowEnd?: string | null;
+            headline?: components["schemas"]["ScenarioHeadline"] | null;
+        };
+        /** ScenarioHeadline */
+        ScenarioHeadline: {
+            /** Title */
+            title: string;
+            /**
+             * At
+             * Format: date-time
+             */
+            at: string;
+            /**
+             * Source
+             * @default
+             */
+            source: string;
+        };
+        /** Snapshot */
+        Snapshot: {
+            /**
+             * Recordedat
+             * Format: date-time
+             */
+            recordedAt: string;
+            /**
+             * Mode
+             * @enum {string}
+             */
+            mode: "live" | "replay";
+            /** Marketcount */
+            marketCount: number;
+            /** Venues */
+            venues?: {
+                [key: string]: number;
+            };
+        };
+        /** Trade */
+        Trade: {
+            /** Marketid */
+            marketId: string;
+            /** Ts */
+            ts: number;
+            /**
+             * Side
+             * @enum {string}
+             */
+            side: "yes" | "no";
+            /** Price */
+            price: number;
+            /** Size */
+            size: number;
+            /** Wallet */
+            wallet?: string | null;
+            /** Walletlabel */
+            walletLabel?: string | null;
+            /** Outcome */
+            outcome?: string | null;
+        };
+        /** TradesResponse */
+        TradesResponse: {
+            /** Marketid */
+            marketId: string;
+            /** Trades */
+            trades: components["schemas"]["Trade"][];
+        };
+        /** ValidationError */
+        ValidationError: {
+            /** Location */
+            loc: (string | number)[];
+            /** Message */
+            msg: string;
+            /** Error Type */
+            type: string;
+            /** Input */
+            input?: unknown;
+            /** Context */
+            ctx?: Record<string, never>;
+        };
+    };
     responses: never;
     parameters: never;
     requestBodies: never;
@@ -118,9 +498,15 @@ export interface components {
 }
 export type $defs = Record<string, never>;
 export interface operations {
-    ping_markets_ping_get: {
+    list_markets_markets_get: {
         parameters: {
-            query?: never;
+            query?: {
+                category?: ("Politics" | "Economics" | "Sports" | "Crypto" | "Tech" | "Other") | null;
+                venue?: string | null;
+                q?: string | null;
+                limit?: number;
+                include_closed?: boolean;
+            };
             header?: never;
             path?: never;
             cookie?: never;
@@ -133,9 +519,206 @@ export interface operations {
                     [name: string]: unknown;
                 };
                 content: {
+                    "application/json": components["schemas"]["MarketsResponse"];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    get_market_markets__market_id__get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                market_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["Market"];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    get_event_markets__market_id__event_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                market_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
                     "application/json": {
-                        [key: string]: string;
+                        [key: string]: unknown;
                     };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    get_history_markets__market_id__history_get: {
+        parameters: {
+            query?: {
+                res?: string;
+            };
+            header?: never;
+            path: {
+                market_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HistoryResponse"];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    get_book_markets__market_id__book_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                market_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["OrderBook"];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    get_trades_markets__market_id__trades_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                market_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["TradesResponse"];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    get_news_markets__market_id__news_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                market_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["NewsResponse"];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
                 };
             };
         };
@@ -224,6 +807,26 @@ export interface operations {
                     "application/json": {
                         [key: string]: string;
                     };
+                };
+            };
+        };
+    };
+    list_scenarios_scenarios_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["Scenario"][];
                 };
             };
         };

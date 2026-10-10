@@ -1,0 +1,64 @@
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-NHAR",
+"ts": 1791406171,
+"bids": [
+{
+"price": 0.04,
+"size": 21543.33
+},
+{
+"price": 0.03,
+"size": 111.54
+},
+{
+"price": 0.02,
+"size": 3613.4
+},
+{
+"price": 0.01,
+"size": 7623.93
+}
+],
+"asks": [
+{
+"price": 0.05,
+"size": 7417.78
+},
+{
+"price": 0.06,
+"size": 6232.56
+},
+{
+"price": 0.07,
+"size": 902.18
+},
+{
+"price": 0.08,
+"size": 3017.0
+},
+{
+"price": 0.09,
+"size": 2216.66
+},
+{
+"price": 0.1,
+"size": 127.88
+},
+{
+"price": 0.12,
+"size": 468.5
+},
+{
+"price": 0.13,
+"size": 3.0
+},
+{
+"price": 0.14,
+"size": 6.14
+},
+{
+"price": 0.15,
+"size": 112.25
+}
+]
+}

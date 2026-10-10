@@ -1,0 +1,2002 @@
+[
+{
+"marketId": "poly:5175503",
+"ts": 1791405963,
+"side": "no",
+"price": 0.38,
+"size": 1.612902,
+"wallet": "0x3e1352a7659c914b6359359ad79b3eaa82769f22",
+"walletLabel": "Well-Worn-Framework-Inlay",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405962,
+"side": "no",
+"price": 0.38,
+"size": 15.951613,
+"wallet": "0x61f621ed129a8b64f0d2abbef50d23cd52d1e497",
+"walletLabel": "Haunting-Subscription",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405959,
+"side": "no",
+"price": 0.38,
+"size": 6.05,
+"wallet": "0x61f621ed129a8b64f0d2abbef50d23cd52d1e497",
+"walletLabel": "Haunting-Subscription",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405956,
+"side": "yes",
+"price": 0.3799999924,
+"size": 26.31579,
+"wallet": "0x98689f5983898c1da0ec7a9f0864d478f3bee82b",
+"walletLabel": "Legal-Reset",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405951,
+"side": "yes",
+"price": 0.3799999069,
+"size": 3.868422,
+"wallet": "0xb0b7ab5241940bcefa2b0abde184118c47fd5441",
+"walletLabel": "Satisfied-Vellum",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405951,
+"side": "yes",
+"price": 0.37,
+"size": 1390.97,
+"wallet": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
+"walletLabel": null,
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405950,
+"side": "yes",
+"price": 0.37,
+"size": 14.03,
+"wallet": "0xae6fbc9390866ec63ac3e2ce657f5e411aa369f1",
+"walletLabel": "Arid-Luxury-Parser",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405947,
+"side": "yes",
+"price": 0.4005614322,
+"size": 74.894879,
+"wallet": "0x98689f5983898c1da0ec7a9f0864d478f3bee82b",
+"walletLabel": "Legal-Reset",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405945,
+"side": "no",
+"price": 0.38,
+"size": 15.0,
+"wallet": "0x61f621ed129a8b64f0d2abbef50d23cd52d1e497",
+"walletLabel": "Haunting-Subscription",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405941,
+"side": "yes",
+"price": 0.37,
+"size": 50.0,
+"wallet": "0x6796daf54ad13ba26faeefc5e0b0889aaf76453f",
+"walletLabel": "Hard-To-Find-Barley",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405939,
+"side": "no",
+"price": 0.36,
+"size": 65.296875,
+"wallet": "0x57f0a2bfd7855f99974bae2139fb339caf08c9ba",
+"walletLabel": "Forceful-Wash",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405938,
+"side": "yes",
+"price": 0.37,
+"size": 10.72,
+"wallet": "0xae6fbc9390866ec63ac3e2ce657f5e411aa369f1",
+"walletLabel": "Arid-Luxury-Parser",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405936,
+"side": "yes",
+"price": 0.3699999605,
+"size": 6.324325,
+"wallet": "0xa3b48b1e1e3c44c2c8181092206f65f29bce88df",
+"walletLabel": "Unacceptable-Horseradish",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405935,
+"side": "yes",
+"price": 0.369999992,
+"size": 13.702703,
+"wallet": "0x71271e0ffcf12540d937fb419fe65351be62c7a2",
+"walletLabel": "Frequent-Infiltration",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405935,
+"side": "yes",
+"price": 0.3699999935,
+"size": 54.054055,
+"wallet": "0x98689f5983898c1da0ec7a9f0864d478f3bee82b",
+"walletLabel": "Legal-Reset",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405933,
+"side": "yes",
+"price": 0.3699999593,
+"size": 2.702703,
+"wallet": "0xd9c9651bfd445b2cddf750662ee79a755f216686",
+"walletLabel": "Sardonic-Affiliate",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405929,
+"side": "yes",
+"price": 0.36,
+"size": 100.0,
+"wallet": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
+"walletLabel": null,
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405924,
+"side": "no",
+"price": 0.35,
+"size": 50.5,
+"wallet": "0x40e603883b165c3ccddb7d67c70923e483b08ff7",
+"walletLabel": "Average-Partner-Aftermath",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405923,
+"side": "yes",
+"price": 0.339999985,
+"size": 14.705883,
+"wallet": "0x466658e9a04e4586fb0ea46abf0a2fd8902f3a55",
+"walletLabel": "Thick-Alligator",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405923,
+"side": "yes",
+"price": 0.3399999974,
+"size": 22.647059,
+"wallet": "0x0fde10ef36646b3fb3eb8df2e18f0e1bc17c0258",
+"walletLabel": "Legal-Critic",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405923,
+"side": "yes",
+"price": 0.3399999985,
+"size": 13.382353,
+"wallet": "0x47c9014f76660cd2efe17c1f5ea342fd12cd2038",
+"walletLabel": "Simple-Cashew",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405923,
+"side": "yes",
+"price": 0.3399999879,
+"size": 21.470589,
+"wallet": "0x08fbce1c8eef258e81562880d89631c453b96dbb",
+"walletLabel": null,
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405921,
+"side": "yes",
+"price": 0.34,
+"size": 50.5,
+"wallet": "0x40e603883b165c3ccddb7d67c70923e483b08ff7",
+"walletLabel": "Average-Partner-Aftermath",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405921,
+"side": "no",
+"price": 0.33,
+"size": 150.0,
+"wallet": "0x0f76e9a901b9b18b0ac0561556079aa4f0a6dcc9",
+"walletLabel": "Victorious-Frequency",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405921,
+"side": "no",
+"price": 0.3769,
+"size": 4101.61,
+"wallet": "0x1f3a646ce5cbe2c70270e7a46161d89b7c7b895d",
+"walletLabel": "Grown-Difference-Burnout",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405921,
+"side": "yes",
+"price": 0.3399999906,
+"size": 34.117648,
+"wallet": "0x61f621ed129a8b64f0d2abbef50d23cd52d1e497",
+"walletLabel": "Haunting-Subscription",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405921,
+"side": "yes",
+"price": 0.34,
+"size": 4000.0,
+"wallet": "0x796fc6fda8f8e03c03e2a2d012155989960300f6",
+"walletLabel": "Bruised-Downfall",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405921,
+"side": "yes",
+"price": 0.34,
+"size": 50.0,
+"wallet": "0xa24e51e917d3f844b972e9bccfa6bc2e04621be8",
+"walletLabel": "Impossible-Comportment-Completion",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405921,
+"side": "yes",
+"price": 0.3399999388,
+"size": 2.941177,
+"wallet": "0xa85b3359d5e0bdcb925f6a2b94ddfbf6d403eb0e",
+"walletLabel": "Regular-Gallon",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405921,
+"side": "yes",
+"price": 0.34,
+"size": 5.0,
+"wallet": "0xc98ff9dad68a08a4e5ea0930a5ddbb05db86a13f",
+"walletLabel": "Muted-Comedy",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405921,
+"side": "yes",
+"price": 0.34,
+"size": 50.0,
+"wallet": "0xa24e51e917d3f844b972e9bccfa6bc2e04621be8",
+"walletLabel": "Impossible-Comportment-Completion",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405921,
+"side": "yes",
+"price": 0.34,
+"size": 15829.0,
+"wallet": "0xd1ed12197b7dc22dede923727e9b714024dbd7cb",
+"walletLabel": "Illiterate-Counterforce",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405920,
+"side": "no",
+"price": 0.38,
+"size": 48.387097,
+"wallet": "0xf5ebaf28b43e39ada4efd4b4780e628a36f6f1ed",
+"walletLabel": "Klutzy-Brother",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405908,
+"side": "yes",
+"price": 0.37,
+"size": 30.0,
+"wallet": "0x6796daf54ad13ba26faeefc5e0b0889aaf76453f",
+"walletLabel": "Hard-To-Find-Barley",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405906,
+"side": "no",
+"price": 0.36,
+"size": 50.0,
+"wallet": "0x3e1352a7659c914b6359359ad79b3eaa82769f22",
+"walletLabel": "Well-Worn-Framework-Inlay",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405899,
+"side": "no",
+"price": 0.36,
+"size": 52.640625,
+"wallet": "0x4060c20bddd25ded59f621456a2e5b38c7635980",
+"walletLabel": null,
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405891,
+"side": "no",
+"price": 0.35,
+"size": 2.12,
+"wallet": "0xfbdc9f21ec8a66808c966b24be03ec051677fd9e",
+"walletLabel": "Petty-Wombat",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405849,
+"side": "no",
+"price": 0.35,
+"size": 60.630768,
+"wallet": "0x5b6331e7ff0831a3fe2ed12004747db1a9c911a4",
+"walletLabel": "Monstrous-Dew",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405848,
+"side": "no",
+"price": 0.35,
+"size": 122.85,
+"wallet": "0x6fa94220823334114ebac52fc4438b4922e34e7b",
+"walletLabel": "Belated-Chin-Spyglass",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405816,
+"side": "no",
+"price": 0.35,
+"size": 1.569231,
+"wallet": "0x5ec1cb3d399595e0d9656616d0ed212693b9dd9a",
+"walletLabel": "Teeming-Ballpark",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405816,
+"side": "no",
+"price": 0.35,
+"size": 14.184614,
+"wallet": "0xd0698a02ded7b86284ebf25e9db0bb0d787ad078",
+"walletLabel": "Appropriate-Hemisphere-Shaker",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405813,
+"side": "no",
+"price": 0.35,
+"size": 10.723077,
+"wallet": "0x8e5c7e4c1be32a31dc673e93e45d040f95010856",
+"walletLabel": "Prickly-Aftershave-Bakeware",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405812,
+"side": "no",
+"price": 0.35,
+"size": 2.923077,
+"wallet": "0x04ea9a710e457a1159fc0ccfe73ab0d6b69cc362",
+"walletLabel": "Frail-Clef",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405810,
+"side": "no",
+"price": 0.35,
+"size": 5379.19,
+"wallet": "0x558f2f82cf0394c28ce3c8e117ee747aeab51a56",
+"walletLabel": "Prickly-Barrel",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405804,
+"side": "no",
+"price": 0.35,
+"size": 307.692308,
+"wallet": "0xb6876f8d85091e5cf2f82c35fab70690de107f9d",
+"walletLabel": "Shrill-Religion",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405785,
+"side": "yes",
+"price": 0.3599999712,
+"size": 2.777778,
+"wallet": "0x76e0b6364bd6451b02373c801baa8b74283a3488",
+"walletLabel": "Awkward-Helo",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405773,
+"side": "no",
+"price": 0.35,
+"size": 153.846154,
+"wallet": "0x2fc9ec42d3ef0ae30fe4216f35ac4e470036d7b5",
+"walletLabel": "Shameless-Anarchy",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405759,
+"side": "no",
+"price": 0.35,
+"size": 7.692308,
+"wallet": "0x188f11be7cfdf3d03b8fd72f4e8b46da59227a56",
+"walletLabel": null,
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405740,
+"side": "no",
+"price": 0.35,
+"size": 22.676922,
+"wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+"walletLabel": "Brisk-Clockwork-Behalf",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405740,
+"side": "no",
+"price": 0.35,
+"size": 1.6,
+"wallet": "0xfe67df6e0c585e50cbe8bdcad804d980c6b8a2e8",
+"walletLabel": "Silver-Comic-Alcohol",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405725,
+"side": "yes",
+"price": 0.36,
+"size": 50.0,
+"wallet": "0x8e3f2d97273dfe65050e786b07b950aaf9e16500",
+"walletLabel": null,
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405716,
+"side": "yes",
+"price": 0.3505733378,
+"size": 381.004445,
+"wallet": "0x003f47b12eb31cb10b27633194bff5eb213c3805",
+"walletLabel": "Concrete-Speaker-Muscle",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405716,
+"side": "yes",
+"price": 0.3499999995,
+"size": 288.371429,
+"wallet": "0xbbcb57aa37796e1382d0b78ebc34312408854332",
+"walletLabel": "Irritating-Cupola-Shed",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405704,
+"side": "yes",
+"price": 0.35,
+"size": 51.0,
+"wallet": "0x2b13ed3f8e08a89729414b1ad5c189363247fe3b",
+"walletLabel": "Finished-Birdhouse-Lifetime",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405702,
+"side": "yes",
+"price": 0.349999999,
+"size": 156.171429,
+"wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+"walletLabel": "Brisk-Clockwork-Behalf",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405701,
+"side": "yes",
+"price": 0.3499999948,
+"size": 57.142858,
+"wallet": "0x4bcd04f17b37a5e0c6c863f202cd04a3ca2dc00f",
+"walletLabel": "Indolent-Profile-Breakdown",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405698,
+"side": "yes",
+"price": 0.3499999825,
+"size": 14.285715,
+"wallet": "0x78d85066cc09e837c19b31f29374c8760829ce05",
+"walletLabel": "Yummy-Orchard-Harm",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405698,
+"side": "yes",
+"price": 0.349999999,
+"size": 48.857143,
+"wallet": "0x2b9d225b094a9dc54658b776314da2313ec03373",
+"walletLabel": "Untried-Casserole",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405696,
+"side": "no",
+"price": 0.34,
+"size": 16.12,
+"wallet": "0xbe5e493f0580ef1dd312e73a21e5c5517504a2e9",
+"walletLabel": null,
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405696,
+"side": "yes",
+"price": 0.3499999914,
+"size": 17.371429,
+"wallet": "0x76d2d8e2da11148b0b2f5758985da4fd232699a6",
+"walletLabel": "Vigilant-Switching",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405695,
+"side": "yes",
+"price": 0.35,
+"size": 9.4,
+"wallet": "0xfe67df6e0c585e50cbe8bdcad804d980c6b8a2e8",
+"walletLabel": "Silver-Comic-Alcohol",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405695,
+"side": "yes",
+"price": 0.3499999986,
+"size": 142.428572,
+"wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+"walletLabel": "Brisk-Clockwork-Behalf",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405680,
+"side": "yes",
+"price": 0.3499999825,
+"size": 8.571429,
+"wallet": "0x2052c45a2c84c56e92ad4f8754e9c31173ff3e8e",
+"walletLabel": "Modern-Attainment-Visit",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405663,
+"side": "no",
+"price": 0.35,
+"size": 899.5,
+"wallet": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
+"walletLabel": null,
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405663,
+"side": "no",
+"price": 0.35,
+"size": 646.19,
+"wallet": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
+"walletLabel": null,
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405659,
+"side": "no",
+"price": 0.34,
+"size": 4.545455,
+"wallet": "0xb0b7ab5241940bcefa2b0abde184118c47fd5441",
+"walletLabel": "Satisfied-Vellum",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405657,
+"side": "no",
+"price": 0.34,
+"size": 113.66,
+"wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+"walletLabel": "Irresponsible-Autumn",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405635,
+"side": "yes",
+"price": 0.3499999825,
+"size": 8.571429,
+"wallet": "0xaaa33b1da4b6e5a7bdfc387059a5d038bb7eff46",
+"walletLabel": "Verifiable-Default",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405621,
+"side": "no",
+"price": 0.34,
+"size": 16.666667,
+"wallet": "0x5a82b1e678d3557532dcfa64f20ca81764af007f",
+"walletLabel": "Essential-Sitar-Beverage",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405618,
+"side": "yes",
+"price": 0.3412412911,
+"size": 1406.6,
+"wallet": "0xaaa33b1da4b6e5a7bdfc387059a5d038bb7eff46",
+"walletLabel": "Verifiable-Default",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405618,
+"side": "yes",
+"price": 0.3499999994,
+"size": 165.714286,
+"wallet": "0x6fa94220823334114ebac52fc4438b4922e34e7b",
+"walletLabel": "Belated-Chin-Spyglass",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405614,
+"side": "no",
+"price": 0.32,
+"size": 6.0,
+"wallet": "0xb0b7ab5241940bcefa2b0abde184118c47fd5441",
+"walletLabel": "Satisfied-Vellum",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405614,
+"side": "no",
+"price": 0.31,
+"size": 4.724638,
+"wallet": "0xb0b7ab5241940bcefa2b0abde184118c47fd5441",
+"walletLabel": "Satisfied-Vellum",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405612,
+"side": "no",
+"price": 0.34,
+"size": 273.52,
+"wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+"walletLabel": "Irresponsible-Autumn",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405590,
+"side": "no",
+"price": 0.3059,
+"size": 504.285715,
+"wallet": "0x2fc9ec42d3ef0ae30fe4216f35ac4e470036d7b5",
+"walletLabel": "Shameless-Anarchy",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405588,
+"side": "yes",
+"price": 0.3499999825,
+"size": 5.714286,
+"wallet": "0xfd02334d567a1e90f1d30849439b8d39253f889f",
+"walletLabel": "Monstrous-Benefit",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405587,
+"side": "yes",
+"price": 0.3499999995,
+"size": 274.171429,
+"wallet": "0xa40435909485108bbba8983a147c54902c8c3ee0",
+"walletLabel": "Husky-Attenuation",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405570,
+"side": "no",
+"price": 0.31,
+"size": 1.579711,
+"wallet": "0xb0b7ab5241940bcefa2b0abde184118c47fd5441",
+"walletLabel": "Satisfied-Vellum",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405570,
+"side": "yes",
+"price": 0.339999997,
+"size": 20.147059,
+"wallet": "0xed01c17d6d17fe97d36b974e1add2127eb54b01e",
+"walletLabel": "Fruitful-Flight",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405569,
+"side": "yes",
+"price": 0.3499999825,
+"size": 2.857143,
+"wallet": "0x0a19c90dfbd080eb7530b82e2679145e052ca621",
+"walletLabel": null,
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405569,
+"side": "no",
+"price": 0.34,
+"size": 41.27,
+"wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+"walletLabel": "Irresponsible-Autumn",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405551,
+"side": "no",
+"price": 0.34,
+"size": 3.030304,
+"wallet": "0x055693d7dcbe91e31b00e3b1fd3852cb94e44fd8",
+"walletLabel": "Tremendous-Pompom",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405515,
+"side": "yes",
+"price": 0.3399999986,
+"size": 170.588236,
+"wallet": "0x6fa94220823334114ebac52fc4438b4922e34e7b",
+"walletLabel": "Belated-Chin-Spyglass",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405515,
+"side": "no",
+"price": 0.33,
+"size": 8.63,
+"wallet": "0x5b6331e7ff0831a3fe2ed12004747db1a9c911a4",
+"walletLabel": "Monstrous-Dew",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405477,
+"side": "yes",
+"price": 0.32,
+"size": 209.90625,
+"wallet": "0xf824deb8a062b24a4063e46f5a615991c5e0ebe3",
+"walletLabel": "Alienated-Adaptation-Likelihood",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405468,
+"side": "no",
+"price": 0.31,
+"size": 70.0,
+"wallet": "0x837142f648c8e71c9138b23258f858ca44e2b550",
+"walletLabel": "Yellow-Analogy-Wallaby",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405459,
+"side": "yes",
+"price": 0.32,
+"size": 200.74,
+"wallet": "0x5b6331e7ff0831a3fe2ed12004747db1a9c911a4",
+"walletLabel": "Monstrous-Dew",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405405,
+"side": "yes",
+"price": 0.32,
+"size": 7.0,
+"wallet": "0xb0b7ab5241940bcefa2b0abde184118c47fd5441",
+"walletLabel": "Satisfied-Vellum",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405405,
+"side": "yes",
+"price": 0.32,
+"size": 11.0,
+"wallet": "0xb0b7ab5241940bcefa2b0abde184118c47fd5441",
+"walletLabel": "Satisfied-Vellum",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405405,
+"side": "yes",
+"price": 0.32,
+"size": 8.0,
+"wallet": "0xb0b7ab5241940bcefa2b0abde184118c47fd5441",
+"walletLabel": "Satisfied-Vellum",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405405,
+"side": "yes",
+"price": 0.32,
+"size": 4.46875,
+"wallet": "0xb0b7ab5241940bcefa2b0abde184118c47fd5441",
+"walletLabel": "Satisfied-Vellum",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405404,
+"side": "no",
+"price": 0.3092,
+"size": 6803.744,
+"wallet": "0x36223d8d3540f862c6a2210218c9383349bd3fac",
+"walletLabel": "Sweet-Number",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405374,
+"side": "no",
+"price": 0.31,
+"size": 21.739129,
+"wallet": "0x645fc1606eebe75151ba4dc9d4bf309679b7a585",
+"walletLabel": "Animated-Blossom",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405369,
+"side": "no",
+"price": 0.31,
+"size": 2.579709,
+"wallet": "0x50f97e9c24050ca2cd7f0fef900df984e1d0c327",
+"walletLabel": "Kaleidoscopic-Clue",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405357,
+"side": "yes",
+"price": 0.32,
+"size": 6.39,
+"wallet": "0xe461f08b2f450c74486d68151388318f87ec9a34",
+"walletLabel": "Dual-Ambience",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405351,
+"side": "no",
+"price": 0.31,
+"size": 925.086954,
+"wallet": "0x50f97e9c24050ca2cd7f0fef900df984e1d0c327",
+"walletLabel": "Kaleidoscopic-Clue",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405348,
+"side": "yes",
+"price": 0.32,
+"size": 7.24,
+"wallet": "0x4b60f0867e89c9f404966223054942fc8fe76b24",
+"walletLabel": "Same-Waistband-Quart",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405348,
+"side": "yes",
+"price": 0.32,
+"size": 312.5,
+"wallet": "0xd8644051d1749bf5771cddf2f822fb7e986a497e",
+"walletLabel": "Hideous-Plea",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405341,
+"side": "yes",
+"price": 0.32,
+"size": 299.40625,
+"wallet": "0xb263e64dadf6160f138dbbd0b77c36a5461b6275",
+"walletLabel": "Next-Sabre",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405335,
+"side": "yes",
+"price": 0.32,
+"size": 312.5,
+"wallet": "0xd8644051d1749bf5771cddf2f822fb7e986a497e",
+"walletLabel": "Hideous-Plea",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405333,
+"side": "no",
+"price": 0.31,
+"size": 3.521738,
+"wallet": "0xa278b41b5afda5d18da683eb7f851a7b2dc13369",
+"walletLabel": "Organic-Networking",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405332,
+"side": "yes",
+"price": 0.32,
+"size": 50.0,
+"wallet": "0x6fa94220823334114ebac52fc4438b4922e34e7b",
+"walletLabel": "Belated-Chin-Spyglass",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405324,
+"side": "yes",
+"price": 0.32,
+"size": 250.0,
+"wallet": "0xc9ce867853e97f6a58d5befb7464369910251533",
+"walletLabel": "Acidic-Gaffe",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405312,
+"side": "no",
+"price": 0.31,
+"size": 7.246377,
+"wallet": "0x4b60f0867e89c9f404966223054942fc8fe76b24",
+"walletLabel": "Same-Waistband-Quart",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405311,
+"side": "no",
+"price": 0.31,
+"size": 14.492754,
+"wallet": "0xbf49b28a5cd0a1780dc66133dc9d31e018d6b4a5",
+"walletLabel": "Worn-Lanai",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405305,
+"side": "no",
+"price": 0.31,
+"size": 43.86,
+"wallet": "0xc76d3ea0363ccf3c84ff0f4d202cedcc265dcbcb",
+"walletLabel": "Mushy-Uncertainty",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405266,
+"side": "no",
+"price": 0.31,
+"size": 30.0,
+"wallet": "0x6796daf54ad13ba26faeefc5e0b0889aaf76453f",
+"walletLabel": "Hard-To-Find-Barley",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405255,
+"side": "no",
+"price": 0.31,
+"size": 1.449276,
+"wallet": "0xd9c9651bfd445b2cddf750662ee79a755f216686",
+"walletLabel": "Sardonic-Affiliate",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405234,
+"side": "no",
+"price": 0.32,
+"size": 32.35294,
+"wallet": "0xbf49b28a5cd0a1780dc66133dc9d31e018d6b4a5",
+"walletLabel": "Worn-Lanai",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405221,
+"side": "no",
+"price": 0.32,
+"size": 290.0,
+"wallet": "0x1be743680b3688b1265d9bb81654ad74bf7fa6e3",
+"walletLabel": "Pale-Upstairs",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405212,
+"side": "no",
+"price": 0.32,
+"size": 107.691177,
+"wallet": "0xe9076a87c5ed90ef16e6fe6529c943baeca0cff6",
+"walletLabel": "All-Peasant-Drug",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405191,
+"side": "no",
+"price": 0.32,
+"size": 5.0,
+"wallet": "0x53538e9eb5cbeed935108e40449ce2ef6e09293c",
+"walletLabel": "Frightened-Pan",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405180,
+"side": "no",
+"price": 0.32,
+"size": 34.0,
+"wallet": "0xb0b7ab5241940bcefa2b0abde184118c47fd5441",
+"walletLabel": "Satisfied-Vellum",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405179,
+"side": "yes",
+"price": 0.3347792256,
+"size": 11399.094412,
+"wallet": "0xacf8383491688a61a0e4dbba060122ba031be791",
+"walletLabel": "Sick-Backyard",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405179,
+"side": "no",
+"price": 0.33,
+"size": 100.0,
+"wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+"walletLabel": "Brisk-Clockwork-Behalf",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405170,
+"side": "no",
+"price": 0.32,
+"size": 10.294118,
+"wallet": "0xfb7bad0e6572d24136b66a4cf3bf22e83ae8027c",
+"walletLabel": "Nippy-Chapter",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405150,
+"side": "yes",
+"price": 0.357025974,
+"size": 770.0,
+"wallet": "0xacf8383491688a61a0e4dbba060122ba031be791",
+"walletLabel": "Sick-Backyard",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405147,
+"side": "no",
+"price": 0.32,
+"size": 151.529412,
+"wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+"walletLabel": "Hollow-Maggot-Sense",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405143,
+"side": "no",
+"price": 0.32,
+"size": 147.058821,
+"wallet": "0x1741a4c5d6b45d777b8e5a2c261b8b359aeaf702",
+"walletLabel": "Multicolored-Expression",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405123,
+"side": "no",
+"price": 0.31,
+"size": 144.927535,
+"wallet": "0x5179d2ddae33099a4a641fad5944e54083954eec",
+"walletLabel": "Talkative-Turret",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405120,
+"side": "yes",
+"price": 0.3299999815,
+"size": 15.151516,
+"wallet": "0xf610482004e919446a65d06832d0233c8166741c",
+"walletLabel": null,
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405120,
+"side": "yes",
+"price": 0.3299998944,
+"size": 3.030304,
+"wallet": "0xfeed88c9f141d7057608335cd540245279423aec",
+"walletLabel": "Long-Term-Feather-Savior",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405119,
+"side": "yes",
+"price": 0.3307461668,
+"size": 2050.48,
+"wallet": "0xacf8383491688a61a0e4dbba060122ba031be791",
+"walletLabel": "Sick-Backyard",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405114,
+"side": "yes",
+"price": 0.3299999969,
+"size": 51.515152,
+"wallet": "0x0d48e928f1a34f64250e3ff67868154a3dba93b0",
+"walletLabel": "Fuzzy-Frown-Surname",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405092,
+"side": "no",
+"price": 0.32,
+"size": 441.176471,
+"wallet": "0x0254f10461b2f53487bc198d26f4833c78af31e0",
+"walletLabel": "Ready-Airbus-Honor",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405089,
+"side": "yes",
+"price": 0.3299999994,
+"size": 299.424243,
+"wallet": "0x8629fdfac3fec1d3d672d801fd6e8bc032b8f6a0",
+"walletLabel": "Well-Made-Doorknob",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405080,
+"side": "no",
+"price": 0.33,
+"size": 135.0,
+"wallet": "0xfe67df6e0c585e50cbe8bdcad804d980c6b8a2e8",
+"walletLabel": "Silver-Comic-Alcohol",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405080,
+"side": "no",
+"price": 0.33,
+"size": 2073.746269,
+"wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+"walletLabel": "Brisk-Clockwork-Behalf",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405078,
+"side": "no",
+"price": 0.33,
+"size": 3.0,
+"wallet": "0xfe67df6e0c585e50cbe8bdcad804d980c6b8a2e8",
+"walletLabel": "Silver-Comic-Alcohol",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405078,
+"side": "no",
+"price": 0.33,
+"size": 40.149254,
+"wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+"walletLabel": "Brisk-Clockwork-Behalf",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405072,
+"side": "no",
+"price": 0.35,
+"size": 8.04,
+"wallet": "0x0f76e9a901b9b18b0ac0561556079aa4f0a6dcc9",
+"walletLabel": "Victorious-Frequency",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405072,
+"side": "no",
+"price": 0.36,
+"size": 51.0,
+"wallet": "0x0d2d845a6ff64e31e04a70afce8a573940767ff5",
+"walletLabel": "Sympathetic-Back",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405068,
+"side": "no",
+"price": 0.38,
+"size": 19.0,
+"wallet": "0xbca08c1bc204a34f2fddbe47b438b9bd42ac9705",
+"walletLabel": "Dependable-Waterfront",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405068,
+"side": "no",
+"price": 0.38,
+"size": 1.612902,
+"wallet": "0x276b6103ea450534d6097552efc04bb70651f381",
+"walletLabel": "Average-Intuition",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405039,
+"side": "no",
+"price": 0.4,
+"size": 6.666667,
+"wallet": "0x1e320f759590d8f6e793078bf03e72721a794847",
+"walletLabel": "Weary-Liquidity",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405035,
+"side": "no",
+"price": 0.4,
+"size": 2.63,
+"wallet": "0x624cd1c14f80934177d7ba32346a6614a5564599",
+"walletLabel": "Murky-Bin",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405033,
+"side": "no",
+"price": 0.4,
+"size": 57.75,
+"wallet": "0xbfd770b7ff07fb2ece41b0e7c593db65a84cf0bf",
+"walletLabel": "Trivial-Player",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405029,
+"side": "yes",
+"price": 0.41,
+"size": 2.63,
+"wallet": "0x624cd1c14f80934177d7ba32346a6614a5564599",
+"walletLabel": "Murky-Bin",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405027,
+"side": "no",
+"price": 0.4,
+"size": 3706.266667,
+"wallet": "0x30de156a425f2775918851ef0b0b8f8a2e631f9d",
+"walletLabel": "Threadbare-Lunchroom",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405024,
+"side": "no",
+"price": 0.41,
+"size": 30.20339,
+"wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+"walletLabel": "Brisk-Clockwork-Behalf",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405021,
+"side": "yes",
+"price": 0.4,
+"size": 5.0,
+"wallet": "0xa85b3359d5e0bdcb925f6a2b94ddfbf6d403eb0e",
+"walletLabel": "Regular-Gallon",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405017,
+"side": "no",
+"price": 0.38,
+"size": 27.161289,
+"wallet": "0x874b25071e6260301efc844c86f361693ca24af0",
+"walletLabel": null,
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405017,
+"side": "no",
+"price": 0.38,
+"size": 1.854839,
+"wallet": "0xa58f84122535fbe42cec75d70e24ba0dd7e7cec8",
+"walletLabel": "Tiny-Whisper",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791405015,
+"side": "no",
+"price": 0.38,
+"size": 26.322581,
+"wallet": "0xb6d2d81518cda8f9025697f942b2533ad4efd67b",
+"walletLabel": "Untidy-Archives",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404982,
+"side": "yes",
+"price": 0.37,
+"size": 8.11,
+"wallet": "0xb5f4c28c2f38a4f95c67054b013523994ba3a8b8",
+"walletLabel": "Beloved-Sultan-Assignment",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404979,
+"side": "no",
+"price": 0.36,
+"size": 3.125,
+"wallet": "0xf12b68709f37d769ca0a7b088020c053653beb45",
+"walletLabel": "Poised-Dash",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404952,
+"side": "no",
+"price": 0.36,
+"size": 31.25,
+"wallet": "0x019aa5f3e362152f71b29f7c176349f8d61cf457",
+"walletLabel": "Leafy-Instruction",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404940,
+"side": "yes",
+"price": 0.37,
+"size": 8.18,
+"wallet": "0xd9f7c24951c4e1d3232dd5e03a39185eb1b11c21",
+"walletLabel": null,
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404934,
+"side": "no",
+"price": 0.36,
+"size": 8.1875,
+"wallet": "0xd9f7c24951c4e1d3232dd5e03a39185eb1b11c21",
+"walletLabel": null,
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404927,
+"side": "no",
+"price": 0.36,
+"size": 7.09,
+"wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+"walletLabel": "Foolish-Mango",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404905,
+"side": "yes",
+"price": 0.37,
+"size": 200.0,
+"wallet": "0x5f8433debb2cf9ca2b26f9660937c7b503ee67ef",
+"walletLabel": "Advanced-Sparrow",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404902,
+"side": "no",
+"price": 0.36,
+"size": 312.5,
+"wallet": "0xb24f228181796f4cbd16aeeb17919a3521b5c638",
+"walletLabel": "Clean-Ethics",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404899,
+"side": "no",
+"price": 0.36,
+"size": 31.25,
+"wallet": "0xbf49b28a5cd0a1780dc66133dc9d31e018d6b4a5",
+"walletLabel": "Worn-Lanai",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404891,
+"side": "no",
+"price": 0.36,
+"size": 92.1875,
+"wallet": "0xbf49b28a5cd0a1780dc66133dc9d31e018d6b4a5",
+"walletLabel": "Worn-Lanai",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404885,
+"side": "no",
+"price": 0.36,
+"size": 99.515625,
+"wallet": "0x5439e5590ba2ee1f2f5389c8205d57ccffa8c45b",
+"walletLabel": "Free-Boatyard",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404885,
+"side": "no",
+"price": 0.36,
+"size": 1750.0,
+"wallet": "0xc44d644ddc841431037a94d87b3a28760f30935c",
+"walletLabel": "Unpleasant-Dust",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404885,
+"side": "no",
+"price": 0.36,
+"size": 5.8125,
+"wallet": "0x50f97e9c24050ca2cd7f0fef900df984e1d0c327",
+"walletLabel": "Kaleidoscopic-Clue",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404881,
+"side": "no",
+"price": 0.36,
+"size": 139.31,
+"wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+"walletLabel": "Foolish-Mango",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404875,
+"side": "no",
+"price": 0.36,
+"size": 7.8125,
+"wallet": "0xaf5f9e847def287a30a549483123b422d74183ae",
+"walletLabel": "Bowed-Chastity",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404864,
+"side": "yes",
+"price": 0.37,
+"size": 1.85,
+"wallet": "0xf5ab6eb7ab0e524403a1dfd65d2fe61ba733584d",
+"walletLabel": "Brief-Consignment",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404863,
+"side": "no",
+"price": 0.36,
+"size": 5.0,
+"wallet": "0x624cd1c14f80934177d7ba32346a6614a5564599",
+"walletLabel": "Murky-Bin",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404857,
+"side": "no",
+"price": 0.36,
+"size": 3000.0,
+"wallet": "0xd123211134d5dffbaaad1effd054f4b8a686d341",
+"walletLabel": "Zigzag-Aardvark",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404857,
+"side": "no",
+"price": 0.36,
+"size": 1718.640625,
+"wallet": "0x50f97e9c24050ca2cd7f0fef900df984e1d0c327",
+"walletLabel": "Kaleidoscopic-Clue",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404854,
+"side": "yes",
+"price": 0.37,
+"size": 5.0,
+"wallet": "0x624cd1c14f80934177d7ba32346a6614a5564599",
+"walletLabel": "Murky-Bin",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404846,
+"side": "no",
+"price": 0.36,
+"size": 1.5625,
+"wallet": "0x2dc5f3d7f21d8fee0bf03acdd6acfb80008cab0d",
+"walletLabel": null,
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404839,
+"side": "no",
+"price": 0.36,
+"size": 21.875,
+"wallet": "0xbf49b28a5cd0a1780dc66133dc9d31e018d6b4a5",
+"walletLabel": "Worn-Lanai",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404834,
+"side": "yes",
+"price": 0.3699999593,
+"size": 2.702703,
+"wallet": "0x918bcd9aabe8e44b837af448f8e56ccd93e719b3",
+"walletLabel": "Flickering-Joey",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404830,
+"side": "no",
+"price": 0.36,
+"size": 1093.75,
+"wallet": "0x6abdff9b3ffef2140cde4ad5786108f7484e94ec",
+"walletLabel": "Unfit-Outrigger",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404830,
+"side": "yes",
+"price": 0.3699999211,
+"size": 3.297298,
+"wallet": "0xb0b7ab5241940bcefa2b0abde184118c47fd5441",
+"walletLabel": "Satisfied-Vellum",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404827,
+"side": "yes",
+"price": 0.37,
+"size": 11.0,
+"wallet": "0xb0b7ab5241940bcefa2b0abde184118c47fd5441",
+"walletLabel": "Satisfied-Vellum",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404825,
+"side": "yes",
+"price": 0.35,
+"size": 290.0,
+"wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2",
+"walletLabel": "Irresponsible-Autumn",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404824,
+"side": "no",
+"price": 0.34,
+"size": 82.181817,
+"wallet": "0x933324edc6073f1bb12a74cfc9eb1a9226bc3067",
+"walletLabel": "Good-Natured-Mate",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404812,
+"side": "no",
+"price": 0.33,
+"size": 292.791045,
+"wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+"walletLabel": "Hollow-Maggot-Sense",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404810,
+"side": "yes",
+"price": 0.3399999966,
+"size": 17.647059,
+"wallet": "0x21d92f3631d8c7e76267de22d1e9dd6c8b1f4968",
+"walletLabel": null,
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404806,
+"side": "yes",
+"price": 0.33,
+"size": 112.0,
+"wallet": "0xfe67df6e0c585e50cbe8bdcad804d980c6b8a2e8",
+"walletLabel": "Silver-Comic-Alcohol",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404806,
+"side": "yes",
+"price": 0.3299999999,
+"size": 1711.424243,
+"wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+"walletLabel": "Brisk-Clockwork-Behalf",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404794,
+"side": "yes",
+"price": 0.3499999825,
+"size": 2.857143,
+"wallet": "0xd9c9651bfd445b2cddf750662ee79a755f216686",
+"walletLabel": "Sardonic-Affiliate",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404777,
+"side": "no",
+"price": 0.36,
+"size": 3.796875,
+"wallet": "0xa4b13fdbe5e7acdf08d9551b23fd060dab97d0a7",
+"walletLabel": "Ashamed-Executor-Pantyhose",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404777,
+"side": "no",
+"price": 0.36,
+"size": 4.6875,
+"wallet": "0x5ec1cb3d399595e0d9656616d0ed212693b9dd9a",
+"walletLabel": "Teeming-Ballpark",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404774,
+"side": "yes",
+"price": 0.35,
+"size": 10.0,
+"wallet": "0x6fa94220823334114ebac52fc4438b4922e34e7b",
+"walletLabel": "Belated-Chin-Spyglass",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404773,
+"side": "no",
+"price": 0.33,
+"size": 134.328357,
+"wallet": "0xaa57cd0782fb4583206ce547379e6442db61a128",
+"walletLabel": "Lively-Stirfry",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404759,
+"side": "yes",
+"price": 0.33,
+"size": 310.39,
+"wallet": "0x689f7d0a49d2646dc199848ffbdb4757242e259c",
+"walletLabel": "Standard-Tarragon",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404741,
+"side": "yes",
+"price": 0.3299999912,
+"size": 6.818182,
+"wallet": "0x0abdea0ecefa914190c1856fb377ddd75b5b695a",
+"walletLabel": "Deficient-Cummerbund",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404735,
+"side": "yes",
+"price": 0.33,
+"size": 3.57,
+"wallet": "0xd8179442aee8ee9b6a6c3609a98a1856e5618d67",
+"walletLabel": null,
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404731,
+"side": "yes",
+"price": 0.3299999962,
+"size": 81.060607,
+"wallet": "0x17f50d091dad70eefe372ae092d8c3008c27f087",
+"walletLabel": "Oily-Pet",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404725,
+"side": "no",
+"price": 0.31,
+"size": 5.0,
+"wallet": "0xe8c6c9d86734255cb17a4095510a27c5da8d737a",
+"walletLabel": "Unwilling-Brewer",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404722,
+"side": "yes",
+"price": 0.32,
+"size": 31.25,
+"wallet": "0xe58f75285dd072c12c604d632deca0a47096012d",
+"walletLabel": "Young-Crocus-Fava",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404720,
+"side": "yes",
+"price": 0.32,
+"size": 12.5,
+"wallet": "0x0e63841e363f35fd9049ca95e17ddea9fa1198d2",
+"walletLabel": "Miserable-Pray",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404714,
+"side": "yes",
+"price": 0.32,
+"size": 7.0,
+"wallet": "0xb0b7ab5241940bcefa2b0abde184118c47fd5441",
+"walletLabel": "Satisfied-Vellum",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404714,
+"side": "yes",
+"price": 0.32,
+"size": 6.25,
+"wallet": "0x05b35debb8d22ac68d8dd4f1b99bcd8fc0cb45c3",
+"walletLabel": "Rapid-Journey-Rite",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404714,
+"side": "yes",
+"price": 0.32,
+"size": 312.0,
+"wallet": "0x84ad9c5c547a82ec9a08547b94bd922446e5bfb7",
+"walletLabel": "Happy-Go-Lucky-Min",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404713,
+"side": "no",
+"price": 0.31,
+"size": 1099.5,
+"wallet": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
+"walletLabel": null,
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404713,
+"side": "no",
+"price": 0.31,
+"size": 6.75,
+"wallet": "0xffdabdaeb53e3d2b531d9b72ad17d8fe930a5c28",
+"walletLabel": "Negative-Definition-Warrant",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404713,
+"side": "yes",
+"price": 0.3192960128,
+"size": 9817.65,
+"wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+"walletLabel": "Powerless-Savannah",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404713,
+"side": "no",
+"price": 0.31,
+"size": 1099.5,
+"wallet": "0x9b11866433281ade9f2811dbde8acdefc45f5375",
+"walletLabel": null,
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404713,
+"side": "yes",
+"price": 0.32,
+"size": 1031.25,
+"wallet": "0x0c99d9f172fc4c25fd2aa92f9fc272da5f020c88",
+"walletLabel": "Jolly-Felony",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404711,
+"side": "no",
+"price": 0.3,
+"size": 6.66,
+"wallet": "0xffdabdaeb53e3d2b531d9b72ad17d8fe930a5c28",
+"walletLabel": "Negative-Definition-Warrant",
+"outcome": "Chicago White Sox"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404711,
+"side": "yes",
+"price": 0.31,
+"size": 400.0,
+"wallet": "0x893575c7d99542163c6b6e8a0fe5af0b6d217daa",
+"walletLabel": "Heavenly-Aftershave",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404711,
+"side": "yes",
+"price": 0.31,
+"size": 303.0,
+"wallet": "0x84ad9c5c547a82ec9a08547b94bd922446e5bfb7",
+"walletLabel": "Happy-Go-Lucky-Min",
+"outcome": "Cleveland Guardians"
+},
+{
+"marketId": "poly:5175503",
+"ts": 1791404668,
+"side": "no",
+"price": 0.3,
+"size": 118.214286,
+"wallet": "0xe09ac70414aacc194f441c212ea3f381cd4f506b",
+"walletLabel": "Circular-Color",
+"outcome": "Chicago White Sox"
+}
+]

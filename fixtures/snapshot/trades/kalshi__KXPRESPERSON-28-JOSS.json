@@ -1,0 +1,2002 @@
+[
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791403781,
+"side": "yes",
+"price": 0.12,
+"size": 313.99,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791403188,
+"side": "yes",
+"price": 0.12,
+"size": 13.5,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791403114,
+"side": "yes",
+"price": 0.12,
+"size": 0.82,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791403114,
+"side": "yes",
+"price": 0.12,
+"size": 0.35,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791397740,
+"side": "yes",
+"price": 0.12,
+"size": 16.34,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791397740,
+"side": "yes",
+"price": 0.12,
+"size": 19.3,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791396600,
+"side": "yes",
+"price": 0.12,
+"size": 1.27,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791396600,
+"side": "yes",
+"price": 0.12,
+"size": 6.02,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791396600,
+"side": "yes",
+"price": 0.12,
+"size": 0.55,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791394620,
+"side": "no",
+"price": 0.11,
+"size": 0.07,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791394591,
+"side": "yes",
+"price": 0.12,
+"size": 0.07,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791393602,
+"side": "no",
+"price": 0.11,
+"size": 25.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791388424,
+"side": "yes",
+"price": 0.12,
+"size": 23.54,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791387833,
+"side": "no",
+"price": 0.11,
+"size": 1000.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791387795,
+"side": "no",
+"price": 0.11,
+"size": 1000.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791385564,
+"side": "yes",
+"price": 0.12,
+"size": 313.99,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791374744,
+"side": "yes",
+"price": 0.12,
+"size": 39.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791369198,
+"side": "yes",
+"price": 0.12,
+"size": 39.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791354300,
+"side": "yes",
+"price": 0.12,
+"size": 7.84,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791349393,
+"side": "yes",
+"price": 0.12,
+"size": 78.46,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791348820,
+"side": "yes",
+"price": 0.12,
+"size": 1.72,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791348820,
+"side": "yes",
+"price": 0.12,
+"size": 1.15,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791348820,
+"side": "yes",
+"price": 0.12,
+"size": 3564.09,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791348820,
+"side": "yes",
+"price": 0.12,
+"size": 10.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791348820,
+"side": "yes",
+"price": 0.12,
+"size": 3.08,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791348820,
+"side": "yes",
+"price": 0.12,
+"size": 1.25,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791348820,
+"side": "yes",
+"price": 0.12,
+"size": 343.6,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791348410,
+"side": "yes",
+"price": 0.12,
+"size": 368.93,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791348357,
+"side": "yes",
+"price": 0.12,
+"size": 1140.65,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791346811,
+"side": "yes",
+"price": 0.12,
+"size": 117.74,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791344785,
+"side": "yes",
+"price": 0.12,
+"size": 35.64,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791342486,
+"side": "yes",
+"price": 0.12,
+"size": 1.17,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791340375,
+"side": "yes",
+"price": 0.12,
+"size": 39.4,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791340062,
+"side": "no",
+"price": 0.11,
+"size": 39.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791339348,
+"side": "yes",
+"price": 0.12,
+"size": 7849.75,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791337102,
+"side": "yes",
+"price": 0.12,
+"size": 156.92,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791335627,
+"side": "yes",
+"price": 0.12,
+"size": 117.74,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791334531,
+"side": "yes",
+"price": 0.12,
+"size": 1373.71,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791332893,
+"side": "yes",
+"price": 0.12,
+"size": 784.97,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791329249,
+"side": "yes",
+"price": 0.12,
+"size": 39.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791325996,
+"side": "yes",
+"price": 0.12,
+"size": 39.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791321756,
+"side": "yes",
+"price": 0.12,
+"size": 23.54,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791321738,
+"side": "yes",
+"price": 0.12,
+"size": 7.84,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791320116,
+"side": "yes",
+"price": 0.12,
+"size": 196.16,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791319216,
+"side": "yes",
+"price": 0.12,
+"size": 1.56,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791318973,
+"side": "yes",
+"price": 0.12,
+"size": 94.19,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791313222,
+"side": "no",
+"price": 0.11,
+"size": 2.23,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791308542,
+"side": "yes",
+"price": 0.12,
+"size": 39.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791303939,
+"side": "yes",
+"price": 0.12,
+"size": 313.91,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791291988,
+"side": "yes",
+"price": 0.12,
+"size": 0.94,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791291429,
+"side": "yes",
+"price": 0.12,
+"size": 313.91,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791289364,
+"side": "no",
+"price": 0.11,
+"size": 15.69,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791288076,
+"side": "yes",
+"price": 0.12,
+"size": 15.69,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791274865,
+"side": "yes",
+"price": 0.12,
+"size": 15.69,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791268109,
+"side": "yes",
+"price": 0.12,
+"size": 23.54,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791263717,
+"side": "yes",
+"price": 0.12,
+"size": 78.46,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791260190,
+"side": "yes",
+"price": 0.12,
+"size": 156.99,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791252026,
+"side": "yes",
+"price": 0.12,
+"size": 7.83,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791250126,
+"side": "no",
+"price": 0.11,
+"size": 7.84,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791244760,
+"side": "yes",
+"price": 0.12,
+"size": 23.54,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791237706,
+"side": "yes",
+"price": 0.12,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791232947,
+"side": "yes",
+"price": 0.12,
+"size": 3571.35,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791228215,
+"side": "yes",
+"price": 0.12,
+"size": 39.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791223468,
+"side": "yes",
+"price": 0.12,
+"size": 10.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791219518,
+"side": "no",
+"price": 0.11,
+"size": 11.77,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791216103,
+"side": "no",
+"price": 0.11,
+"size": 7.84,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791214032,
+"side": "yes",
+"price": 0.12,
+"size": 313.91,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791212181,
+"side": "yes",
+"price": 0.12,
+"size": 15.69,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791208385,
+"side": "yes",
+"price": 0.12,
+"size": 14.21,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791202771,
+"side": "no",
+"price": 0.11,
+"size": 27.47,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791202203,
+"side": "yes",
+"price": 0.12,
+"size": 392.48,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791196644,
+"side": "no",
+"price": 0.11,
+"size": 117.74,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791186317,
+"side": "no",
+"price": 0.11,
+"size": 24.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791183153,
+"side": "yes",
+"price": 0.12,
+"size": 39.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791178492,
+"side": "yes",
+"price": 0.12,
+"size": 392.48,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791177783,
+"side": "yes",
+"price": 0.12,
+"size": 15.69,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791172522,
+"side": "yes",
+"price": 0.12,
+"size": 39.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791171246,
+"side": "no",
+"price": 0.11,
+"size": 250.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791171126,
+"side": "no",
+"price": 0.11,
+"size": 250.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791168034,
+"side": "no",
+"price": 0.11,
+"size": 1150.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791167849,
+"side": "no",
+"price": 0.11,
+"size": 427.88,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791167362,
+"side": "yes",
+"price": 0.12,
+"size": 196.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791166799,
+"side": "yes",
+"price": 0.12,
+"size": 7.84,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791164329,
+"side": "yes",
+"price": 0.12,
+"size": 39.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791160168,
+"side": "yes",
+"price": 0.12,
+"size": 27.47,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791159738,
+"side": "yes",
+"price": 0.12,
+"size": 39.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791158429,
+"side": "yes",
+"price": 0.12,
+"size": 39.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791158400,
+"side": "yes",
+"price": 0.12,
+"size": 313.91,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791158052,
+"side": "yes",
+"price": 0.12,
+"size": 3.92,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791156767,
+"side": "yes",
+"price": 0.12,
+"size": 78.46,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791154360,
+"side": "yes",
+"price": 0.12,
+"size": 196.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791151799,
+"side": "yes",
+"price": 0.12,
+"size": 39.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791151358,
+"side": "yes",
+"price": 0.12,
+"size": 39.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791150119,
+"side": "no",
+"price": 0.11,
+"size": 39.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791147898,
+"side": "yes",
+"price": 0.12,
+"size": 39.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791147668,
+"side": "no",
+"price": 0.11,
+"size": 7.83,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791147124,
+"side": "no",
+"price": 0.11,
+"size": 78.49,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791142201,
+"side": "yes",
+"price": 0.12,
+"size": 78.49,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791141980,
+"side": "yes",
+"price": 0.12,
+"size": 196.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791140931,
+"side": "yes",
+"price": 0.12,
+"size": 7.84,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791138990,
+"side": "yes",
+"price": 0.12,
+"size": 10.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791133926,
+"side": "no",
+"price": 0.11,
+"size": 31.39,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791123916,
+"side": "no",
+"price": 0.11,
+"size": 117.74,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791123814,
+"side": "yes",
+"price": 0.12,
+"size": 117.74,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791123681,
+"side": "yes",
+"price": 0.12,
+"size": 78.46,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791120673,
+"side": "yes",
+"price": 0.12,
+"size": 1.96,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791097542,
+"side": "yes",
+"price": 0.12,
+"size": 9.75,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791097281,
+"side": "yes",
+"price": 0.12,
+"size": 23.54,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791096214,
+"side": "yes",
+"price": 0.12,
+"size": 1.56,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791096167,
+"side": "yes",
+"price": 0.12,
+"size": 1.56,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791096010,
+"side": "yes",
+"price": 0.12,
+"size": 1.96,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791095578,
+"side": "yes",
+"price": 0.12,
+"size": 3.92,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791093359,
+"side": "yes",
+"price": 0.12,
+"size": 7.84,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791081761,
+"side": "no",
+"price": 0.11,
+"size": 0.85,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791078114,
+"side": "yes",
+"price": 0.12,
+"size": 7.84,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791069974,
+"side": "yes",
+"price": 0.12,
+"size": 39.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791069524,
+"side": "yes",
+"price": 0.12,
+"size": 78.49,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791064762,
+"side": "yes",
+"price": 0.12,
+"size": 78.46,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791058699,
+"side": "yes",
+"price": 0.12,
+"size": 7.83,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791057221,
+"side": "no",
+"price": 0.11,
+"size": 1428.5,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791049301,
+"side": "no",
+"price": 0.11,
+"size": 2146.98,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791048808,
+"side": "yes",
+"price": 0.12,
+"size": 62.79,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791045946,
+"side": "yes",
+"price": 0.12,
+"size": 784.91,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791044155,
+"side": "yes",
+"price": 0.12,
+"size": 63.81,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791041749,
+"side": "yes",
+"price": 0.12,
+"size": 94.19,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791040688,
+"side": "yes",
+"price": 0.12,
+"size": 1569.95,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791036431,
+"side": "no",
+"price": 0.11,
+"size": 1177.46,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791027163,
+"side": "no",
+"price": 0.11,
+"size": 7.84,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791001949,
+"side": "yes",
+"price": 0.12,
+"size": 23.5,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1791000565,
+"side": "yes",
+"price": 0.12,
+"size": 15.66,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790998448,
+"side": "yes",
+"price": 0.12,
+"size": 0.78,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790996554,
+"side": "yes",
+"price": 0.12,
+"size": 27.47,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790995400,
+"side": "no",
+"price": 0.11,
+"size": 204.09,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790995282,
+"side": "yes",
+"price": 0.12,
+"size": 204.09,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790992961,
+"side": "no",
+"price": 0.11,
+"size": 39.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790989830,
+"side": "yes",
+"price": 0.12,
+"size": 7.84,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790986301,
+"side": "yes",
+"price": 0.12,
+"size": 7.84,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790980283,
+"side": "yes",
+"price": 0.12,
+"size": 39.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790974181,
+"side": "yes",
+"price": 0.12,
+"size": 11.83,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790972627,
+"side": "yes",
+"price": 0.12,
+"size": 78.49,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790969097,
+"side": "yes",
+"price": 0.12,
+"size": 7142.78,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790959326,
+"side": "yes",
+"price": 0.12,
+"size": 156.99,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790953652,
+"side": "yes",
+"price": 0.12,
+"size": 78.49,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790951375,
+"side": "yes",
+"price": 0.12,
+"size": 7.84,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790951357,
+"side": "yes",
+"price": 0.12,
+"size": 7.84,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790943586,
+"side": "no",
+"price": 0.11,
+"size": 14.21,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790942910,
+"side": "no",
+"price": 0.11,
+"size": 10000.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790941582,
+"side": "no",
+"price": 0.11,
+"size": 7.84,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790930989,
+"side": "yes",
+"price": 0.12,
+"size": 214.21,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790925270,
+"side": "yes",
+"price": 0.12,
+"size": 54.94,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790921216,
+"side": "yes",
+"price": 0.12,
+"size": 392.48,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790916152,
+"side": "no",
+"price": 0.11,
+"size": 7.84,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790913539,
+"side": "yes",
+"price": 0.12,
+"size": 31.39,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790912047,
+"side": "yes",
+"price": 0.12,
+"size": 0.39,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790911974,
+"side": "yes",
+"price": 0.12,
+"size": 78.49,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790909280,
+"side": "yes",
+"price": 0.12,
+"size": 2000.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790909075,
+"side": "no",
+"price": 0.11,
+"size": 11.15,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790906500,
+"side": "no",
+"price": 0.11,
+"size": 15.69,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790904758,
+"side": "no",
+"price": 0.11,
+"size": 39.23,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790902104,
+"side": "no",
+"price": 0.11,
+"size": 39.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790900247,
+"side": "yes",
+"price": 0.12,
+"size": 196.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790897534,
+"side": "yes",
+"price": 0.12,
+"size": 39.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790895036,
+"side": "yes",
+"price": 0.12,
+"size": 156.92,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790893514,
+"side": "yes",
+"price": 0.12,
+"size": 78.49,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790893464,
+"side": "yes",
+"price": 0.12,
+"size": 7.84,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790878924,
+"side": "yes",
+"price": 0.12,
+"size": 7.83,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790855993,
+"side": "yes",
+"price": 0.12,
+"size": 0.78,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790852826,
+"side": "no",
+"price": 0.11,
+"size": 8432.11,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790846901,
+"side": "no",
+"price": 0.11,
+"size": 39.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790829411,
+"side": "yes",
+"price": 0.12,
+"size": 78.49,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790825619,
+"side": "yes",
+"price": 0.12,
+"size": 11.77,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790823024,
+"side": "yes",
+"price": 0.12,
+"size": 86.34,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790815562,
+"side": "yes",
+"price": 0.12,
+"size": 392.48,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790805444,
+"side": "yes",
+"price": 0.12,
+"size": 78.49,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790804947,
+"side": "yes",
+"price": 0.12,
+"size": 78.49,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790798635,
+"side": "yes",
+"price": 0.12,
+"size": 31.33,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790791640,
+"side": "yes",
+"price": 0.12,
+"size": 784.97,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790788423,
+"side": "no",
+"price": 0.11,
+"size": 1.96,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790788342,
+"side": "no",
+"price": 0.11,
+"size": 14.65,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790788158,
+"side": "yes",
+"price": 0.12,
+"size": 784.97,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790787851,
+"side": "yes",
+"price": 0.12,
+"size": 1.96,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790784599,
+"side": "yes",
+"price": 0.12,
+"size": 39.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790782042,
+"side": "yes",
+"price": 0.12,
+"size": 102.04,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790781674,
+"side": "yes",
+"price": 0.12,
+"size": 117.74,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790775552,
+"side": "yes",
+"price": 0.12,
+"size": 1.58,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790771525,
+"side": "yes",
+"price": 0.12,
+"size": 78.49,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790768886,
+"side": "no",
+"price": 0.11,
+"size": 500.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790753797,
+"side": "yes",
+"price": 0.12,
+"size": 65.07,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790751421,
+"side": "yes",
+"price": 0.12,
+"size": 71.35,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790742151,
+"side": "yes",
+"price": 0.12,
+"size": 100.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790739251,
+"side": "yes",
+"price": 0.12,
+"size": 1000.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790739145,
+"side": "no",
+"price": 0.11,
+"size": 223.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790736187,
+"side": "no",
+"price": 0.11,
+"size": 4.29,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790735444,
+"side": "yes",
+"price": 0.12,
+"size": 169.25,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790733178,
+"side": "yes",
+"price": 0.12,
+"size": 39.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790731790,
+"side": "no",
+"price": 0.11,
+"size": 392.41,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790731120,
+"side": "yes",
+"price": 0.12,
+"size": 39.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790728414,
+"side": "no",
+"price": 0.11,
+"size": 196.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790727680,
+"side": "yes",
+"price": 0.12,
+"size": 7.84,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JOSS",
+"ts": 1790727069,
+"side": "yes",
+"price": 0.12,
+"size": 11.84,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+}
+]

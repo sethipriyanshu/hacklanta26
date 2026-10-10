@@ -1,0 +1,2002 @@
+[
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791404645,
+"side": "yes",
+"price": 0.087,
+"size": 21.6,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791397741,
+"side": "yes",
+"price": 0.087,
+"size": 76.92,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791388935,
+"side": "yes",
+"price": 0.087,
+"size": 8.03,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791388935,
+"side": "yes",
+"price": 0.087,
+"size": 100.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791385625,
+"side": "no",
+"price": 0.088,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791385625,
+"side": "no",
+"price": 0.089,
+"size": 10.32,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791385625,
+"side": "no",
+"price": 0.086,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791385625,
+"side": "no",
+"price": 0.086,
+"size": 5.14,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791385625,
+"side": "no",
+"price": 0.085,
+"size": 10.8,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791385625,
+"side": "no",
+"price": 0.085,
+"size": 18.08,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791349218,
+"side": "no",
+"price": 0.089,
+"size": 3.5,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791346821,
+"side": "yes",
+"price": 0.095,
+"size": 49.49,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791346575,
+"side": "yes",
+"price": 0.095,
+"size": 7.32,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791343547,
+"side": "yes",
+"price": 0.094,
+"size": 78.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791343547,
+"side": "yes",
+"price": 0.094,
+"size": 22.19,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791343547,
+"side": "yes",
+"price": 0.092,
+"size": 85.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791343547,
+"side": "yes",
+"price": 0.094,
+"size": 150.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791343547,
+"side": "yes",
+"price": 0.095,
+"size": 538.44,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791342493,
+"side": "yes",
+"price": 0.091,
+"size": 10.33,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791340553,
+"side": "yes",
+"price": 0.09,
+"size": 72.67,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791340553,
+"side": "yes",
+"price": 0.092,
+"size": 15.76,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791340553,
+"side": "yes",
+"price": 0.091,
+"size": 12.26,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791340553,
+"side": "yes",
+"price": 0.09,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791340553,
+"side": "yes",
+"price": 0.09,
+"size": 2.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791336229,
+"side": "yes",
+"price": 0.09,
+"size": 10.07,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791336229,
+"side": "yes",
+"price": 0.09,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791336229,
+"side": "yes",
+"price": 0.09,
+"size": 37.15,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791335509,
+"side": "no",
+"price": 0.087,
+"size": 2.2,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791335509,
+"side": "no",
+"price": 0.086,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791335509,
+"side": "no",
+"price": 0.082,
+"size": 9.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791335509,
+"side": "no",
+"price": 0.087,
+"size": 10.88,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791335509,
+"side": "no",
+"price": 0.087,
+"size": 2.68,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791335509,
+"side": "no",
+"price": 0.086,
+"size": 101.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791334155,
+"side": "yes",
+"price": 0.095,
+"size": 0.08,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791334154,
+"side": "yes",
+"price": 0.094,
+"size": 14.35,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791334154,
+"side": "yes",
+"price": 0.095,
+"size": 72.64,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791333753,
+"side": "yes",
+"price": 0.094,
+"size": 17.25,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791333753,
+"side": "yes",
+"price": 0.092,
+"size": 10.63,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791333753,
+"side": "yes",
+"price": 0.092,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791333753,
+"side": "yes",
+"price": 0.094,
+"size": 17.46,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791332627,
+"side": "no",
+"price": 0.088,
+"size": 0.1,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791331957,
+"side": "yes",
+"price": 0.092,
+"size": 12.87,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791331957,
+"side": "yes",
+"price": 0.093,
+"size": 240.03,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791331089,
+"side": "yes",
+"price": 0.092,
+"size": 20.58,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791331089,
+"side": "yes",
+"price": 0.092,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791331089,
+"side": "yes",
+"price": 0.092,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791331089,
+"side": "yes",
+"price": 0.091,
+"size": 15.82,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791331089,
+"side": "yes",
+"price": 0.092,
+"size": 18.06,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791331089,
+"side": "yes",
+"price": 0.092,
+"size": 80.42,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791331089,
+"side": "yes",
+"price": 0.093,
+"size": 1115.72,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791331089,
+"side": "yes",
+"price": 0.091,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791330033,
+"side": "yes",
+"price": 0.092,
+"size": 80.42,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791330033,
+"side": "yes",
+"price": 0.092,
+"size": 21.75,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791323993,
+"side": "yes",
+"price": 0.084,
+"size": 8.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791323993,
+"side": "yes",
+"price": 0.088,
+"size": 16.61,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791323993,
+"side": "yes",
+"price": 0.09,
+"size": 58.76,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791323993,
+"side": "yes",
+"price": 0.09,
+"size": 10.44,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791323993,
+"side": "yes",
+"price": 0.091,
+"size": 27.89,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791323993,
+"side": "yes",
+"price": 0.089,
+"size": 10.44,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791323993,
+"side": "yes",
+"price": 0.088,
+"size": 109.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791323993,
+"side": "yes",
+"price": 0.089,
+"size": 41.79,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791323993,
+"side": "yes",
+"price": 0.087,
+"size": 44.44,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791323993,
+"side": "yes",
+"price": 0.091,
+"size": 5.21,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791323993,
+"side": "yes",
+"price": 0.091,
+"size": 5.21,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791323993,
+"side": "yes",
+"price": 0.091,
+"size": 2.35,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791323993,
+"side": "yes",
+"price": 0.084,
+"size": 21.49,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791323993,
+"side": "yes",
+"price": 0.085,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791323993,
+"side": "yes",
+"price": 0.091,
+"size": 5.21,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791321742,
+"side": "no",
+"price": 0.078,
+"size": 117.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791321742,
+"side": "no",
+"price": 0.079,
+"size": 50.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791321742,
+"side": "no",
+"price": 0.079,
+"size": 34.29,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791321742,
+"side": "no",
+"price": 0.077,
+"size": 111.71,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791318666,
+"side": "no",
+"price": 0.078,
+"size": 26.96,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791313701,
+"side": "no",
+"price": 0.076,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791313696,
+"side": "yes",
+"price": 0.084,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791302183,
+"side": "yes",
+"price": 0.084,
+"size": 11.13,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791298935,
+"side": "yes",
+"price": 0.086,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791298935,
+"side": "yes",
+"price": 0.087,
+"size": 0.64,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.088,
+"size": 34.03,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.09,
+"size": 3.15,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.087,
+"size": 20.59,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.087,
+"size": 20.59,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.087,
+"size": 20.46,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.09,
+"size": 8.4,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.087,
+"size": 27.9,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.09,
+"size": 27.59,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.089,
+"size": 16.86,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.09,
+"size": 10.73,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.09,
+"size": 12.42,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.088,
+"size": 27.9,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.091,
+"size": 7.52,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.089,
+"size": 12.42,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.09,
+"size": 16.44,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.092,
+"size": 15.92,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.084,
+"size": 14.79,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.078,
+"size": 23.92,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.085,
+"size": 164.8,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.078,
+"size": 7.52,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.073,
+"size": 31.03,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.074,
+"size": 3.59,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.074,
+"size": 5.93,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.091,
+"size": 8.4,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.077,
+"size": 34.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.087,
+"size": 13.7,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.087,
+"size": 34.03,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.088,
+"size": 13.7,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.082,
+"size": 3.26,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.081,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.09,
+"size": 10.73,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.09,
+"size": 8.4,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.089,
+"size": 10.73,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.089,
+"size": 11.55,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.086,
+"size": 101.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791294307,
+"side": "no",
+"price": 0.073,
+"size": 30.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791285431,
+"side": "yes",
+"price": 0.095,
+"size": 0.17,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791285430,
+"side": "yes",
+"price": 0.094,
+"size": 7.59,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791285430,
+"side": "yes",
+"price": 0.094,
+"size": 27.59,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791285430,
+"side": "yes",
+"price": 0.094,
+"size": 4.54,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791285430,
+"side": "yes",
+"price": 0.095,
+"size": 90.97,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791248968,
+"side": "yes",
+"price": 0.091,
+"size": 2.65,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791248968,
+"side": "yes",
+"price": 0.094,
+"size": 5.93,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791248968,
+"side": "yes",
+"price": 0.094,
+"size": 2.6,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791248968,
+"side": "yes",
+"price": 0.094,
+"size": 6.56,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791248968,
+"side": "yes",
+"price": 0.089,
+"size": 15.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791248968,
+"side": "yes",
+"price": 0.092,
+"size": 12.34,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791248968,
+"side": "yes",
+"price": 0.093,
+"size": 891.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791248968,
+"side": "yes",
+"price": 0.091,
+"size": 5.43,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791248968,
+"side": "yes",
+"price": 0.093,
+"size": 2.46,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791248968,
+"side": "yes",
+"price": 0.091,
+"size": 7.65,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791248968,
+"side": "yes",
+"price": 0.09,
+"size": 10.51,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791248968,
+"side": "yes",
+"price": 0.093,
+"size": 6.94,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791248968,
+"side": "yes",
+"price": 0.091,
+"size": 2.18,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791248968,
+"side": "yes",
+"price": 0.092,
+"size": 1.83,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791248968,
+"side": "yes",
+"price": 0.092,
+"size": 1.83,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791248968,
+"side": "yes",
+"price": 0.093,
+"size": 200.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791248968,
+"side": "yes",
+"price": 0.093,
+"size": 3.21,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791248968,
+"side": "yes",
+"price": 0.094,
+"size": 150.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791248968,
+"side": "yes",
+"price": 0.091,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791248968,
+"side": "yes",
+"price": 0.088,
+"size": 11.83,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791248968,
+"side": "yes",
+"price": 0.094,
+"size": 5.91,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791248968,
+"side": "yes",
+"price": 0.092,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791248968,
+"side": "yes",
+"price": 0.092,
+"size": 71.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791248968,
+"side": "yes",
+"price": 0.089,
+"size": 101.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791248968,
+"side": "yes",
+"price": 0.095,
+"size": 489.02,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791247503,
+"side": "no",
+"price": 0.077,
+"size": 9.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791243125,
+"side": "no",
+"price": 0.078,
+"size": 38.33,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791243125,
+"side": "no",
+"price": 0.078,
+"size": 14.2,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791241014,
+"side": "no",
+"price": 0.078,
+"size": 189.44,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791241014,
+"side": "no",
+"price": 0.078,
+"size": 10.61,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791241014,
+"side": "no",
+"price": 0.078,
+"size": 55.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791241014,
+"side": "no",
+"price": 0.078,
+"size": 9.16,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791228698,
+"side": "yes",
+"price": 0.092,
+"size": 12.19,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791228698,
+"side": "yes",
+"price": 0.093,
+"size": 108.99,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791228698,
+"side": "yes",
+"price": 0.092,
+"size": 8.83,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791228698,
+"side": "yes",
+"price": 0.091,
+"size": 8.83,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791228698,
+"side": "yes",
+"price": 0.092,
+"size": 13.26,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791226319,
+"side": "yes",
+"price": 0.092,
+"size": 8.83,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791222960,
+"side": "yes",
+"price": 0.09,
+"size": 0.09,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791222959,
+"side": "yes",
+"price": 0.092,
+"size": 27.32,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791222959,
+"side": "yes",
+"price": 0.089,
+"size": 36.74,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791222959,
+"side": "yes",
+"price": 0.091,
+"size": 16.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791222959,
+"side": "yes",
+"price": 0.092,
+"size": 9.28,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791222959,
+"side": "yes",
+"price": 0.09,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791219672,
+"side": "no",
+"price": 0.083,
+"size": 17.79,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791219672,
+"side": "no",
+"price": 0.079,
+"size": 22.39,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791219672,
+"side": "no",
+"price": 0.081,
+"size": 12.43,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791219672,
+"side": "no",
+"price": 0.081,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791219672,
+"side": "no",
+"price": 0.082,
+"size": 101.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791219672,
+"side": "no",
+"price": 0.081,
+"size": 12.07,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791219672,
+"side": "no",
+"price": 0.079,
+"size": 6.11,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791219672,
+"side": "no",
+"price": 0.079,
+"size": 11.34,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791219672,
+"side": "no",
+"price": 0.076,
+"size": 1.48,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791219672,
+"side": "no",
+"price": 0.078,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791219672,
+"side": "no",
+"price": 0.076,
+"size": 4.37,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791219672,
+"side": "no",
+"price": 0.076,
+"size": 0.63,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791219672,
+"side": "no",
+"price": 0.078,
+"size": 6.11,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791219672,
+"side": "no",
+"price": 0.077,
+"size": 48.21,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791219672,
+"side": "no",
+"price": 0.082,
+"size": 2.09,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791219672,
+"side": "no",
+"price": 0.08,
+"size": 2.07,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791219672,
+"side": "no",
+"price": 0.082,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791219672,
+"side": "no",
+"price": 0.075,
+"size": 22.62,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791219672,
+"side": "no",
+"price": 0.08,
+"size": 15.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791214900,
+"side": "yes",
+"price": 0.093,
+"size": 68.71,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791214900,
+"side": "yes",
+"price": 0.092,
+"size": 11.4,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791214900,
+"side": "yes",
+"price": 0.093,
+"size": 30.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791214900,
+"side": "yes",
+"price": 0.093,
+"size": 901.04,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791214120,
+"side": "no",
+"price": 0.083,
+"size": 9.57,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791214120,
+"side": "no",
+"price": 0.083,
+"size": 18.49,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791214120,
+"side": "no",
+"price": 0.083,
+"size": 6.68,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791214120,
+"side": "no",
+"price": 0.083,
+"size": 15.06,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791211373,
+"side": "no",
+"price": 0.083,
+"size": 9.07,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791211373,
+"side": "no",
+"price": 0.083,
+"size": 15.83,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791206390,
+"side": "yes",
+"price": 0.093,
+"size": 4.33,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791191010,
+"side": "yes",
+"price": 0.093,
+"size": 10.11,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791168569,
+"side": "yes",
+"price": 0.093,
+"size": 84.52,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791164890,
+"side": "yes",
+"price": 0.094,
+"size": 49.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791164781,
+"side": "yes",
+"price": 0.094,
+"size": 1000.38,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791163834,
+"side": "yes",
+"price": 0.095,
+"size": 19.79,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791163205,
+"side": "yes",
+"price": 0.093,
+"size": 1.36,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-MRUB",
+"ts": 1791163205,
+"side": "yes",
+"price": 0.093,
+"size": 0.09,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+}
+]

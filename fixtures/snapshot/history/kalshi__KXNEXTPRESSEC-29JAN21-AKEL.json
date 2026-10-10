@@ -1,0 +1,986 @@
+[
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790802000,
+"price": 0.195,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790805600,
+"price": 0.18,
+"volume": 529.88
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790809200,
+"price": 0.19,
+"volume": 45.23
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790812800,
+"price": 0.2,
+"volume": 403.66
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790816400,
+"price": 0.18,
+"volume": 118.44
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790820000,
+"price": 0.19,
+"volume": 113.89
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790823600,
+"price": 0.19,
+"volume": 47.3
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790827200,
+"price": 0.2,
+"volume": 56.9
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790830800,
+"price": 0.19,
+"volume": 86.32
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790834400,
+"price": 0.19,
+"volume": 2626.87
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790838000,
+"price": 0.195,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790841600,
+"price": 0.195,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790848800,
+"price": 0.2,
+"volume": 85.51
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790852400,
+"price": 0.205,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790856000,
+"price": 0.205,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790859600,
+"price": 0.2,
+"volume": 11.97
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790863200,
+"price": 0.21,
+"volume": 15.91
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790866800,
+"price": 0.21,
+"volume": 45.12
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790870400,
+"price": 0.195,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790874000,
+"price": 0.19,
+"volume": 47.81
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790877600,
+"price": 0.19,
+"volume": 9.02
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790881200,
+"price": 0.21,
+"volume": 227.01
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790884800,
+"price": 0.21,
+"volume": 510.85
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790888400,
+"price": 0.19,
+"volume": 204.15
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790892000,
+"price": 0.2,
+"volume": 163.51
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790895600,
+"price": 0.195,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790899200,
+"price": 0.19,
+"volume": 11.4
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790902800,
+"price": 0.21,
+"volume": 241.63
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790906400,
+"price": 0.2,
+"volume": 2784.88
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790910000,
+"price": 0.22,
+"volume": 60.68
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790913600,
+"price": 0.2,
+"volume": 126.64
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790917200,
+"price": 0.21,
+"volume": 115.29
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790920800,
+"price": 0.21,
+"volume": 4.51
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790924400,
+"price": 0.22,
+"volume": 73.75
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790928000,
+"price": 0.22,
+"volume": 127.36
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790931600,
+"price": 0.22,
+"volume": 86.27
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790935200,
+"price": 0.205,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790938800,
+"price": 0.22,
+"volume": 302.22
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790942400,
+"price": 0.21,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790946000,
+"price": 0.21,
+"volume": 9.02
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790949600,
+"price": 0.21,
+"volume": 422.88
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790953200,
+"price": 0.22,
+"volume": 4.31
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790956800,
+"price": 0.2,
+"volume": 124.51
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790960400,
+"price": 0.19,
+"volume": 223.92
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790964000,
+"price": 0.21,
+"volume": 66.83
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790967600,
+"price": 0.21,
+"volume": 18.13
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790971200,
+"price": 0.2,
+"volume": 19.92
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790974800,
+"price": 0.2,
+"volume": 45.39
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790978400,
+"price": 0.21,
+"volume": 28.06
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790982000,
+"price": 0.21,
+"volume": 193.95
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790985600,
+"price": 0.21,
+"volume": 839.87
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790989200,
+"price": 0.21,
+"volume": 40.8
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790992800,
+"price": 0.2,
+"volume": 67.71
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1790996400,
+"price": 0.21,
+"volume": 4.51
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791000000,
+"price": 0.2,
+"volume": 17.99
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791003600,
+"price": 0.2,
+"volume": 2.0
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791007200,
+"price": 0.205,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791010800,
+"price": 0.205,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791014400,
+"price": 0.2,
+"volume": 194.44
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791018000,
+"price": 0.21,
+"volume": 69.68
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791021600,
+"price": 0.205,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791025200,
+"price": 0.205,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791028800,
+"price": 0.21,
+"volume": 45.08
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791032400,
+"price": 0.205,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791036000,
+"price": 0.21,
+"volume": 22.56
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791039600,
+"price": 0.21,
+"volume": 27.07
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791043200,
+"price": 0.21,
+"volume": 29.33
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791046800,
+"price": 0.2,
+"volume": 1117.16
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791050400,
+"price": 0.21,
+"volume": 4.51
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791054000,
+"price": 0.205,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791057600,
+"price": 0.21,
+"volume": 2331.21
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791061200,
+"price": 0.2,
+"volume": 70.24
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791064800,
+"price": 0.21,
+"volume": 145.8
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791068400,
+"price": 0.2,
+"volume": 85.05
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791072000,
+"price": 0.21,
+"volume": 90.82
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791075600,
+"price": 0.215,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791079200,
+"price": 0.22,
+"volume": 955.66
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791082800,
+"price": 0.21,
+"volume": 53.9
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791086400,
+"price": 0.21,
+"volume": 23.32
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791090000,
+"price": 0.22,
+"volume": 42.12
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791093600,
+"price": 0.22,
+"volume": 107.75
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791097200,
+"price": 0.215,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791100800,
+"price": 0.21,
+"volume": 17.8
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791104400,
+"price": 0.215,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791108000,
+"price": 0.21,
+"volume": 4.12
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791111600,
+"price": 0.205,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791115200,
+"price": 0.2,
+"volume": 18.04
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791118800,
+"price": 0.205,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791122400,
+"price": 0.21,
+"volume": 79.64
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791126000,
+"price": 0.2,
+"volume": 39.35
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791129600,
+"price": 0.21,
+"volume": 198.28
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791133200,
+"price": 0.21,
+"volume": 66.26
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791136800,
+"price": 0.2,
+"volume": 222.68
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791140400,
+"price": 0.21,
+"volume": 65.47
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791144000,
+"price": 0.21,
+"volume": 112.8
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791147600,
+"price": 0.21,
+"volume": 1927.31
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791151200,
+"price": 0.21,
+"volume": 4.51
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791154800,
+"price": 0.22,
+"volume": 252.09
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791158400,
+"price": 0.22,
+"volume": 230.39
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791162000,
+"price": 0.2,
+"volume": 83.43
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791165600,
+"price": 0.21,
+"volume": 207.53
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791169200,
+"price": 0.21,
+"volume": 155.41
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791172800,
+"price": 0.22,
+"volume": 363.29
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791176400,
+"price": 0.21,
+"volume": 282.55
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791180000,
+"price": 0.2,
+"volume": 22.56
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791183600,
+"price": 0.21,
+"volume": 40.17
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791187200,
+"price": 0.205,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791190800,
+"price": 0.2,
+"volume": 9.02
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791194400,
+"price": 0.22,
+"volume": 129.37
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791198000,
+"price": 0.21,
+"volume": 27.79
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791201600,
+"price": 0.21,
+"volume": 26.0
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791205200,
+"price": 0.22,
+"volume": 605.08
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791208800,
+"price": 0.22,
+"volume": 4.31
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791212400,
+"price": 0.21,
+"volume": 123.45
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791216000,
+"price": 0.21,
+"volume": 90.93
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791219600,
+"price": 0.22,
+"volume": 160.22
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791223200,
+"price": 0.22,
+"volume": 48.11
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791226800,
+"price": 0.22,
+"volume": 27.88
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791230400,
+"price": 0.21,
+"volume": 4.51
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791234000,
+"price": 0.21,
+"volume": 526.71
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791237600,
+"price": 0.22,
+"volume": 53.7
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791241200,
+"price": 0.22,
+"volume": 21.77
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791244800,
+"price": 0.22,
+"volume": 47.68
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791248400,
+"price": 0.21,
+"volume": 612.93
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791252000,
+"price": 0.21,
+"volume": 237.05
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791255600,
+"price": 0.21,
+"volume": 164.76
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791259200,
+"price": 0.21,
+"volume": 443.61
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791262800,
+"price": 0.22,
+"volume": 65.52
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791266400,
+"price": 0.21,
+"volume": 306.19
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791270000,
+"price": 0.21,
+"volume": 13.13
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791273600,
+"price": 0.21,
+"volume": 1.68
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791277200,
+"price": 0.22,
+"volume": 17.75
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791280800,
+"price": 0.22,
+"volume": 21.55
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791288000,
+"price": 0.215,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791291600,
+"price": 0.22,
+"volume": 90.27
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791295200,
+"price": 0.22,
+"volume": 29.31
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791298800,
+"price": 0.22,
+"volume": 1230.57
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791302400,
+"price": 0.21,
+"volume": 3.95
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791306000,
+"price": 0.21,
+"volume": 100.54
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791309600,
+"price": 0.22,
+"volume": 3331.19
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791313200,
+"price": 0.22,
+"volume": 109.04
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791316800,
+"price": 0.23,
+"volume": 214.51
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791320400,
+"price": 0.23,
+"volume": 144.42
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791324000,
+"price": 0.23,
+"volume": 8.24
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791327600,
+"price": 0.22,
+"volume": 174.5
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791331200,
+"price": 0.22,
+"volume": 114.97
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791334800,
+"price": 0.23,
+"volume": 244.36
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791338400,
+"price": 0.23,
+"volume": 271.59
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791342000,
+"price": 0.23,
+"volume": 128.8
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791345600,
+"price": 0.22,
+"volume": 105.32
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791352800,
+"price": 0.22,
+"volume": 133.59
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791360000,
+"price": 0.23,
+"volume": 127.88
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791363600,
+"price": 0.22,
+"volume": 193.37
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791367200,
+"price": 0.225,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791370800,
+"price": 0.225,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791374400,
+"price": 0.225,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791378000,
+"price": 0.23,
+"volume": 8.25
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791381600,
+"price": 0.23,
+"volume": 26.21
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791385200,
+"price": 0.22,
+"volume": 867.64
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791388800,
+"price": 0.23,
+"volume": 1149.86
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791392400,
+"price": 0.23,
+"volume": 2.06
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791396000,
+"price": 0.23,
+"volume": 377.02
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791399600,
+"price": 0.23,
+"volume": 304.72
+},
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"ts": 1791403200,
+"price": 0.22,
+"volume": 114.97
+}
+]

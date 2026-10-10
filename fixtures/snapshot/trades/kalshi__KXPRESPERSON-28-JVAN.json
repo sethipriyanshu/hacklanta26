@@ -1,0 +1,2002 @@
+[
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791405471,
+"side": "yes",
+"price": 0.2,
+"size": 47.34,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791404892,
+"side": "yes",
+"price": 0.2,
+"size": 50.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791403849,
+"side": "yes",
+"price": 0.2,
+"size": 0.28,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791403346,
+"side": "yes",
+"price": 0.2,
+"size": 0.47,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791401281,
+"side": "yes",
+"price": 0.2,
+"size": 236.74,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791399414,
+"side": "no",
+"price": 0.19,
+"size": 156.25,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791395309,
+"side": "yes",
+"price": 0.2,
+"size": 416.19,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791394470,
+"side": "no",
+"price": 0.19,
+"size": 0.03,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791391389,
+"side": "yes",
+"price": 0.2,
+"size": 236.74,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791391326,
+"side": "no",
+"price": 0.19,
+"size": 10.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791389191,
+"side": "no",
+"price": 0.19,
+"size": 7.55,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791389115,
+"side": "no",
+"price": 0.19,
+"size": 3.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791388560,
+"side": "yes",
+"price": 0.2,
+"size": 7.55,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791381935,
+"side": "no",
+"price": 0.19,
+"size": 8.62,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791379439,
+"side": "no",
+"price": 0.19,
+"size": 1500.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791377157,
+"side": "no",
+"price": 0.19,
+"size": 26.26,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791376612,
+"side": "no",
+"price": 0.19,
+"size": 4.12,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791375766,
+"side": "yes",
+"price": 0.2,
+"size": 23.67,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791372528,
+"side": "no",
+"price": 0.19,
+"size": 4.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791368982,
+"side": "no",
+"price": 0.19,
+"size": 12.03,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791368495,
+"side": "yes",
+"price": 0.2,
+"size": 23.65,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791366876,
+"side": "no",
+"price": 0.19,
+"size": 57.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791364490,
+"side": "yes",
+"price": 0.2,
+"size": 45.4,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791360199,
+"side": "yes",
+"price": 0.2,
+"size": 23.65,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791355513,
+"side": "no",
+"price": 0.19,
+"size": 12.18,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791352825,
+"side": "yes",
+"price": 0.2,
+"size": 0.99,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791349073,
+"side": "no",
+"price": 0.19,
+"size": 2.36,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791345728,
+"side": "no",
+"price": 0.19,
+"size": 23.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791344640,
+"side": "no",
+"price": 0.19,
+"size": 15.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791344633,
+"side": "no",
+"price": 0.19,
+"size": 1.21,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791342347,
+"side": "yes",
+"price": 0.2,
+"size": 9.04,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791342228,
+"side": "yes",
+"price": 0.2,
+"size": 45.4,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791342028,
+"side": "yes",
+"price": 0.2,
+"size": 96.44,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791338811,
+"side": "yes",
+"price": 0.2,
+"size": 45.4,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791338628,
+"side": "yes",
+"price": 0.2,
+"size": 227.22,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791336890,
+"side": "no",
+"price": 0.19,
+"size": 249.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791336709,
+"side": "yes",
+"price": 0.2,
+"size": 94.69,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791336011,
+"side": "yes",
+"price": 0.2,
+"size": 4.73,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791335712,
+"side": "no",
+"price": 0.19,
+"size": 94.69,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791334603,
+"side": "no",
+"price": 0.19,
+"size": 24.73,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791332261,
+"side": "yes",
+"price": 0.2,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791331429,
+"side": "yes",
+"price": 0.2,
+"size": 47.32,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791330526,
+"side": "yes",
+"price": 0.2,
+"size": 473.48,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791327792,
+"side": "yes",
+"price": 0.2,
+"size": 1183.71,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791322883,
+"side": "yes",
+"price": 0.2,
+"size": 47.34,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791322001,
+"side": "yes",
+"price": 0.2,
+"size": 804.92,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791320634,
+"side": "no",
+"price": 0.19,
+"size": 5.11,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791318601,
+"side": "yes",
+"price": 0.2,
+"size": 113.6,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791317268,
+"side": "yes",
+"price": 0.2,
+"size": 4.73,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791317038,
+"side": "no",
+"price": 0.19,
+"size": 0.04,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791316563,
+"side": "yes",
+"price": 0.2,
+"size": 50.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791316162,
+"side": "no",
+"price": 0.19,
+"size": 47.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791314823,
+"side": "no",
+"price": 0.19,
+"size": 373.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791314661,
+"side": "yes",
+"price": 0.2,
+"size": 236.74,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791314480,
+"side": "no",
+"price": 0.19,
+"size": 427.98,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791313756,
+"side": "no",
+"price": 0.19,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791313752,
+"side": "yes",
+"price": 0.2,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791311659,
+"side": "yes",
+"price": 0.2,
+"size": 0.47,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791311264,
+"side": "yes",
+"price": 0.2,
+"size": 23.67,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791309201,
+"side": "no",
+"price": 0.19,
+"size": 9.46,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791308853,
+"side": "yes",
+"price": 0.2,
+"size": 9.46,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791308022,
+"side": "yes",
+"price": 0.2,
+"size": 1.21,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791307974,
+"side": "no",
+"price": 0.19,
+"size": 10.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791307732,
+"side": "no",
+"price": 0.19,
+"size": 1.21,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791302196,
+"side": "yes",
+"price": 0.2,
+"size": 4.7,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791301929,
+"side": "no",
+"price": 0.19,
+"size": 0.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791301901,
+"side": "no",
+"price": 0.19,
+"size": 2.33,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791300832,
+"side": "no",
+"price": 0.19,
+"size": 25.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791300361,
+"side": "no",
+"price": 0.19,
+"size": 147.1,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791300048,
+"side": "yes",
+"price": 0.2,
+"size": 0.04,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791299932,
+"side": "yes",
+"price": 0.2,
+"size": 25.56,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791299767,
+"side": "yes",
+"price": 0.2,
+"size": 696.05,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791298549,
+"side": "yes",
+"price": 0.2,
+"size": 236.7,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791296542,
+"side": "no",
+"price": 0.19,
+"size": 1.2,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791293369,
+"side": "no",
+"price": 0.19,
+"size": 0.47,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791288749,
+"side": "no",
+"price": 0.19,
+"size": 9.46,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791271711,
+"side": "no",
+"price": 0.19,
+"size": 28.4,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791262890,
+"side": "yes",
+"price": 0.2,
+"size": 33.19,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791261205,
+"side": "yes",
+"price": 0.2,
+"size": 28.4,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791260682,
+"side": "yes",
+"price": 0.2,
+"size": 1140.86,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791260630,
+"side": "yes",
+"price": 0.2,
+"size": 9.46,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791256617,
+"side": "no",
+"price": 0.19,
+"size": 4.73,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791255640,
+"side": "yes",
+"price": 0.2,
+"size": 100.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791254614,
+"side": "yes",
+"price": 0.2,
+"size": 1.18,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791254343,
+"side": "no",
+"price": 0.19,
+"size": 6.09,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791254091,
+"side": "yes",
+"price": 0.2,
+"size": 118.37,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791253911,
+"side": "yes",
+"price": 0.2,
+"size": 23.67,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791253636,
+"side": "yes",
+"price": 0.2,
+"size": 9.46,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791251897,
+"side": "yes",
+"price": 0.2,
+"size": 4.7,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791251555,
+"side": "yes",
+"price": 0.2,
+"size": 0.04,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791247519,
+"side": "yes",
+"price": 0.2,
+"size": 9.46,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791247420,
+"side": "yes",
+"price": 0.2,
+"size": 23.65,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791247049,
+"side": "yes",
+"price": 0.2,
+"size": 4.73,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791246866,
+"side": "yes",
+"price": 0.2,
+"size": 0.47,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791244739,
+"side": "yes",
+"price": 0.2,
+"size": 14.2,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791237379,
+"side": "no",
+"price": 0.19,
+"size": 165.71,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791234469,
+"side": "no",
+"price": 0.19,
+"size": 5.55,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791233060,
+"side": "no",
+"price": 0.19,
+"size": 3.69,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791232176,
+"side": "yes",
+"price": 0.2,
+"size": 90.86,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791230942,
+"side": "yes",
+"price": 0.2,
+"size": 12.61,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791230841,
+"side": "yes",
+"price": 0.2,
+"size": 0.47,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791229480,
+"side": "yes",
+"price": 0.2,
+"size": 1.79,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791226016,
+"side": "yes",
+"price": 0.2,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791222788,
+"side": "yes",
+"price": 0.2,
+"size": 2.36,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791222505,
+"side": "no",
+"price": 0.19,
+"size": 294.18,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791222478,
+"side": "yes",
+"price": 0.2,
+"size": 9.45,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791220710,
+"side": "no",
+"price": 0.19,
+"size": 19.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791219529,
+"side": "no",
+"price": 0.19,
+"size": 7.1,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791216482,
+"side": "yes",
+"price": 0.2,
+"size": 1742.85,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791216416,
+"side": "yes",
+"price": 0.2,
+"size": 47.34,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791216061,
+"side": "no",
+"price": 0.19,
+"size": 49.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791213430,
+"side": "no",
+"price": 0.19,
+"size": 12.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791212524,
+"side": "no",
+"price": 0.19,
+"size": 2000.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791211803,
+"side": "yes",
+"price": 0.2,
+"size": 28.4,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791210367,
+"side": "yes",
+"price": 0.2,
+"size": 165.71,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791208716,
+"side": "yes",
+"price": 0.2,
+"size": 2367.42,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791208639,
+"side": "no",
+"price": 0.19,
+"size": 39.96,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791202775,
+"side": "no",
+"price": 0.19,
+"size": 16.28,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791200095,
+"side": "yes",
+"price": 0.2,
+"size": 47.32,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791197365,
+"side": "yes",
+"price": 0.2,
+"size": 4.73,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791189591,
+"side": "no",
+"price": 0.19,
+"size": 4.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791184837,
+"side": "no",
+"price": 0.19,
+"size": 63.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791175317,
+"side": "no",
+"price": 0.19,
+"size": 1.04,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791174720,
+"side": "no",
+"price": 0.19,
+"size": 41.25,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791174185,
+"side": "yes",
+"price": 0.2,
+"size": 47.34,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791173460,
+"side": "no",
+"price": 0.19,
+"size": 3.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791173436,
+"side": "no",
+"price": 0.19,
+"size": 41.25,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791172298,
+"side": "yes",
+"price": 0.2,
+"size": 0.61,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791170223,
+"side": "yes",
+"price": 0.2,
+"size": 94.69,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791169744,
+"side": "no",
+"price": 0.19,
+"size": 9.46,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791169564,
+"side": "yes",
+"price": 0.2,
+"size": 1.79,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791169429,
+"side": "no",
+"price": 0.19,
+"size": 0.04,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791168394,
+"side": "no",
+"price": 0.19,
+"size": 2.36,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791167612,
+"side": "no",
+"price": 0.19,
+"size": 30.45,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791165870,
+"side": "yes",
+"price": 0.2,
+"size": 118.37,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791165002,
+"side": "no",
+"price": 0.19,
+"size": 24.74,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791164982,
+"side": "yes",
+"price": 0.2,
+"size": 47.34,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791164777,
+"side": "yes",
+"price": 0.2,
+"size": 151.51,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791164324,
+"side": "yes",
+"price": 0.2,
+"size": 236.74,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791163899,
+"side": "no",
+"price": 0.19,
+"size": 3.66,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791163823,
+"side": "no",
+"price": 0.19,
+"size": 9.46,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791163408,
+"side": "no",
+"price": 0.19,
+"size": 14.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791163058,
+"side": "yes",
+"price": 0.2,
+"size": 94.69,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791162194,
+"side": "no",
+"price": 0.19,
+"size": 11.11,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791160177,
+"side": "yes",
+"price": 0.2,
+"size": 16.28,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791159656,
+"side": "no",
+"price": 0.19,
+"size": 9.46,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791159429,
+"side": "no",
+"price": 0.19,
+"size": 94.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791159276,
+"side": "no",
+"price": 0.19,
+"size": 195.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791159116,
+"side": "no",
+"price": 0.19,
+"size": 27.79,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791157331,
+"side": "yes",
+"price": 0.2,
+"size": 5.11,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791153722,
+"side": "no",
+"price": 0.19,
+"size": 2000.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791151780,
+"side": "no",
+"price": 0.19,
+"size": 6.09,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791148859,
+"side": "no",
+"price": 0.19,
+"size": 49.8,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791147659,
+"side": "no",
+"price": 0.19,
+"size": 4.47,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791146912,
+"side": "yes",
+"price": 0.2,
+"size": 1420.45,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791145343,
+"side": "no",
+"price": 0.19,
+"size": 355.11,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791144618,
+"side": "no",
+"price": 0.19,
+"size": 116.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791144604,
+"side": "yes",
+"price": 0.2,
+"size": 116.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791140905,
+"side": "no",
+"price": 0.19,
+"size": 1.21,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791139442,
+"side": "no",
+"price": 0.19,
+"size": 56.03,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791138563,
+"side": "no",
+"price": 0.19,
+"size": 4.12,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791135065,
+"side": "yes",
+"price": 0.2,
+"size": 4.73,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791134397,
+"side": "yes",
+"price": 0.2,
+"size": 9.46,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791132934,
+"side": "no",
+"price": 0.19,
+"size": 182.52,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791132827,
+"side": "yes",
+"price": 0.2,
+"size": 36.78,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791127183,
+"side": "yes",
+"price": 0.2,
+"size": 123.1,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791125994,
+"side": "yes",
+"price": 0.2,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791125910,
+"side": "no",
+"price": 0.19,
+"size": 8.21,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791124895,
+"side": "no",
+"price": 0.19,
+"size": 100.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791122347,
+"side": "no",
+"price": 0.19,
+"size": 2000.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791122233,
+"side": "no",
+"price": 0.19,
+"size": 2000.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791120651,
+"side": "yes",
+"price": 0.2,
+"size": 1.18,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791120427,
+"side": "yes",
+"price": 0.2,
+"size": 23.67,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791117971,
+"side": "yes",
+"price": 0.2,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791117326,
+"side": "yes",
+"price": 0.2,
+"size": 45.4,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791107088,
+"side": "no",
+"price": 0.19,
+"size": 45.12,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791096780,
+"side": "yes",
+"price": 0.2,
+"size": 0.94,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791096019,
+"side": "yes",
+"price": 0.2,
+"size": 1.18,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791095591,
+"side": "yes",
+"price": 0.2,
+"size": 2.36,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791095113,
+"side": "no",
+"price": 0.19,
+"size": 5.55,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791092873,
+"side": "no",
+"price": 0.19,
+"size": 17.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791092083,
+"side": "yes",
+"price": 0.2,
+"size": 473.48,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791089073,
+"side": "yes",
+"price": 0.2,
+"size": 500.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791087630,
+"side": "yes",
+"price": 0.2,
+"size": 2367.42,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791087331,
+"side": "yes",
+"price": 0.2,
+"size": 94.69,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791085101,
+"side": "yes",
+"price": 0.2,
+"size": 0.94,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791080181,
+"side": "no",
+"price": 0.19,
+"size": 111.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791078377,
+"side": "yes",
+"price": 0.2,
+"size": 94.69,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791077903,
+"side": "no",
+"price": 0.19,
+"size": 7.96,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791074547,
+"side": "no",
+"price": 0.19,
+"size": 126.9,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791074504,
+"side": "no",
+"price": 0.19,
+"size": 100.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791074376,
+"side": "no",
+"price": 0.19,
+"size": 0.6,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791071249,
+"side": "yes",
+"price": 0.2,
+"size": 118.37,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791070118,
+"side": "yes",
+"price": 0.2,
+"size": 18.95,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791069063,
+"side": "no",
+"price": 0.19,
+"size": 79.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791068437,
+"side": "yes",
+"price": 0.2,
+"size": 4.73,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791067384,
+"side": "yes",
+"price": 0.2,
+"size": 454.5,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791063870,
+"side": "yes",
+"price": 0.2,
+"size": 0.75,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791062982,
+"side": "no",
+"price": 0.19,
+"size": 28.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-JVAN",
+"ts": 1791062685,
+"side": "yes",
+"price": 0.2,
+"size": 9.46,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+}
+]

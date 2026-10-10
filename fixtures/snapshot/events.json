@@ -1,0 +1,2510 @@
+[
+{
+"id": "kalshi:KXELONMARS-99",
+"venue": "kalshi",
+"title": "Will Elon Musk visit Mars in his lifetime?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXELONMARS-99"
+],
+"closeTime": "2099-08-01T04:59:00Z",
+"url": "https://kalshi.com/markets/kxelonmars"
+},
+{
+"id": "kalshi:KXCOLONIZEMARS-50",
+"venue": "kalshi",
+"title": "Will humans colonize Mars before 2050?",
+"category": "Tech",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXCOLONIZEMARS-50"
+],
+"closeTime": "2050-01-01T04:59:00Z",
+"url": "https://kalshi.com/markets/kxcolonizemars"
+},
+{
+"id": "kalshi:KXPERSONPRESMAM-45",
+"venue": "kalshi",
+"title": "Will Zohran Mamdani become President of the United States before Jan 22, 2045?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXPERSONPRESMAM-45"
+],
+"closeTime": "2045-01-29T15:00:00Z",
+"url": "https://kalshi.com/markets/kxpersonpresmam"
+},
+{
+"id": "kalshi:KXMILLENNIUMNEXT-45",
+"venue": "kalshi",
+"title": "Which Millennium Prize Problem will be solved next?",
+"category": "Tech",
+"mutuallyExclusive": true,
+"marketIds": [
+"kalshi:KXMILLENNIUMNEXT-45-HODGE",
+"kalshi:KXMILLENNIUMNEXT-45-RIEMANN"
+],
+"closeTime": "2045-01-01T04:59:00Z",
+"url": "https://kalshi.com/markets/kxmillenniumnext"
+},
+{
+"id": "kalshi:KXPERSONPRESFUENTES-45",
+"venue": "kalshi",
+"title": "Will Nick Fuentes become President of the United States before 2045?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXPERSONPRESFUENTES-45"
+],
+"closeTime": "2045-01-08T15:00:00Z",
+"url": "https://kalshi.com/markets/kxpersonpresfuentes"
+},
+{
+"id": "kalshi:KXNEXTROMANIAPM-45JAN01",
+"venue": "kalshi",
+"title": "Who will be the next new Prime Minister of Romania?",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"kalshi:KXNEXTROMANIAPM-45JAN01-SGRI",
+"kalshi:KXNEXTROMANIAPM-45JAN01-ANAZ"
+],
+"closeTime": "2045-01-01T15:00:00Z",
+"url": "https://kalshi.com/markets/kxnextromaniapm"
+},
+{
+"id": "kalshi:KXG7LEADEROUT-26JUL20",
+"venue": "kalshi",
+"title": "Which G7 leader will leave office next?",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"kalshi:KXG7LEADEROUT-26JUL20-EMAC"
+],
+"closeTime": "2045-01-01T15:00:00Z",
+"url": "https://kalshi.com/markets/kxg7leaderout"
+},
+{
+"id": "kalshi:KXWCCAREERGOALS-KMBAPPE",
+"venue": "kalshi",
+"title": "Kylian Mbappe Total FIFA World Cup Career Goals",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXWCCAREERGOALS-KMBAPPE-35",
+"kalshi:KXWCCAREERGOALS-KMBAPPE-40"
+],
+"closeTime": "2043-07-28T14:00:00Z",
+"url": "https://kalshi.com/markets/kxwccareergoals"
+},
+{
+"id": "kalshi:KXRIEMANNRES-40",
+"venue": "kalshi",
+"title": "When will the Riemann Hypothesis be resolved?",
+"category": "Tech",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXRIEMANNRES-40-27JAN01",
+"kalshi:KXRIEMANNRES-40-28JAN01",
+"kalshi:KXRIEMANNRES-40-29JAN01",
+"kalshi:KXRIEMANNRES-40-30JAN01"
+],
+"closeTime": "2040-01-07T15:00:00Z",
+"url": "https://kalshi.com/markets/kxriemannres"
+},
+{
+"id": "kalshi:KXOAIANTH-40",
+"venue": "kalshi",
+"title": "Will OpenAI or Anthropic IPO first?",
+"category": "Economics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXOAIANTH-40-OAI",
+"kalshi:KXOAIANTH-40-ANTH"
+],
+"closeTime": "2040-01-01T04:59:00Z",
+"url": "https://kalshi.com/markets/kxoaianth"
+},
+{
+"id": "kalshi:KXFEDFUNDSYEAR-36JAN01",
+"venue": "kalshi",
+"title": "Fed funds rate at end of 2035",
+"category": "Economics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXFEDFUNDSYEAR-36JAN01-T5.75"
+],
+"closeTime": "2036-01-01T04:59:00Z",
+"url": "https://kalshi.com/markets/kxfedfundsyear"
+},
+{
+"id": "kalshi:KXNEXTUKPRIMEMIN-35JAN01",
+"venue": "kalshi",
+"title": "Who will be the next Prime Minister of the UK?",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"kalshi:KXNEXTUKPRIMEMIN-35JAN01-SMAH"
+],
+"closeTime": "2035-01-08T15:00:00Z",
+"url": "https://kalshi.com/markets/kxnextukprimemin"
+},
+{
+"id": "kalshi:KXWCHOST-2038",
+"venue": "kalshi",
+"title": "Who will host the 2038 FIFA World Cup?",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXWCHOST-2038-CHN"
+],
+"closeTime": "2034-01-01T04:59:00Z",
+"url": "https://kalshi.com/markets/kxwchost"
+},
+{
+"id": "kalshi:KXPNP-32",
+"venue": "kalshi",
+"title": "When will P vs NP be resolved?",
+"category": "Tech",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXPNP-32-30JAN01"
+],
+"closeTime": "2040-01-07T15:00:00Z",
+"url": "https://kalshi.com/markets/kxpnp"
+},
+{
+"id": "kalshi:KXHODGE-32",
+"venue": "kalshi",
+"title": "When will the Hodge Conjecture be resolved?",
+"category": "Tech",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXHODGE-32-27JAN01"
+],
+"closeTime": "2032-01-07T15:00:00Z",
+"url": "https://kalshi.com/markets/kxhodge"
+},
+{
+"id": "kalshi:KXBIRCHSWINN-32",
+"venue": "kalshi",
+"title": "When will Birch and Swinnerton-Dyer be resolved?",
+"category": "Tech",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXBIRCHSWINN-32-27JAN01"
+],
+"closeTime": "2032-01-07T15:00:00Z",
+"url": "https://kalshi.com/markets/kxbirchswinn"
+},
+{
+"id": "kalshi:KXFDAAPPROVE-MDMA",
+"venue": "kalshi",
+"title": "Will the FDA approve MDMA for PTSD?",
+"category": "Tech",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXFDAAPPROVE-MDMA-27JAN01"
+],
+"closeTime": "2032-01-01T04:59:00Z",
+"url": "https://kalshi.com/markets/kxfdaapprove"
+},
+{
+"id": "kalshi:KXNEXTSPEAKER-31",
+"venue": "kalshi",
+"title": "Who will be the next new Speaker of the House?",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"kalshi:KXNEXTSPEAKER-31-JJOR"
+],
+"closeTime": "2031-01-01T15:00:00Z",
+"url": "https://kalshi.com/markets/kxnextspeaker"
+},
+{
+"id": "kalshi:KXMOONMAN-31",
+"venue": "kalshi",
+"title": "Which country will be the next to send humans to the Moon?",
+"category": "Tech",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXMOONMAN-31-PRC",
+"kalshi:KXMOONMAN-31-E"
+],
+"closeTime": "2031-01-01T15:00:00Z",
+"url": "https://kalshi.com/markets/kxmoonman"
+},
+{
+"id": "kalshi:KXAGICO-COMP",
+"venue": "kalshi",
+"title": "When will any company achieve AGI?",
+"category": "Tech",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXAGICO-COMP-26Q4",
+"kalshi:KXAGICO-COMP-27Q1",
+"kalshi:KXAGICO-COMP-27Q2",
+"kalshi:KXAGICO-COMP-27Q3"
+],
+"closeTime": "2031-01-01T04:59:00Z",
+"url": "https://kalshi.com/markets/kxagico"
+},
+{
+"id": "kalshi:KXWCQUAL-30",
+"venue": "kalshi",
+"title": "2030 FIFA World Cup Qualifiers",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXWCQUAL-30-USA"
+],
+"closeTime": "2031-01-15T03:00:00Z",
+"url": "https://kalshi.com/markets/kxwcqual"
+},
+{
+"id": "kalshi:KXWC-30",
+"venue": "kalshi",
+"title": "2030 FIFA World Cup Champion",
+"category": "Sports",
+"mutuallyExclusive": true,
+"marketIds": [
+"kalshi:KXWC-30-MEX",
+"kalshi:KXWC-30-BRA",
+"kalshi:KXWC-30-USA",
+"kalshi:KXWC-30-GER",
+"kalshi:KXWC-30-UKR",
+"kalshi:KXWC-30-ESP",
+"kalshi:KXWC-30-FRA",
+"kalshi:KXWC-30-ARG",
+"kalshi:KXWC-30-ENG"
+],
+"closeTime": "2031-01-15T03:00:00Z",
+"url": "https://kalshi.com/markets/kxwc"
+},
+{
+"id": "kalshi:KXTVSEASONRELEASETHELASTOFUS",
+"venue": "kalshi",
+"title": "The Last of Us S3: Release date",
+"category": "Other",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXTVSEASONRELEASETHELASTOFUS-27-JAN",
+"kalshi:KXTVSEASONRELEASETHELASTOFUS-28-JAN"
+],
+"closeTime": "2028-01-01T15:00:00Z",
+"url": "https://kalshi.com/markets/kxtvseasonreleasethelastofus"
+},
+{
+"id": "kalshi:KXPRIMEENGCONSUMPTION-30",
+"venue": "kalshi",
+"title": "What will be the largest source of global primary energy consumption in 2030?",
+"category": "Other",
+"mutuallyExclusive": true,
+"marketIds": [
+"kalshi:KXPRIMEENGCONSUMPTION-30-NUCLEAR"
+],
+"closeTime": "2032-12-30T15:00:00Z",
+"url": "https://kalshi.com/markets/kxprimeengconsumption"
+},
+{
+"id": "kalshi:KXNCAAFCOACHLEAVE-26DSWI",
+"venue": "kalshi",
+"title": "When will Dabo Swinney leave Clemson?",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXNCAAFCOACHLEAVE-26DSWI-010128"
+],
+"closeTime": "2028-01-01T04:59:00Z",
+"url": "https://kalshi.com/markets/kxncaafcoachleave"
+},
+{
+"id": "kalshi:KXCITYCHAMPS-MIN30JUL01TVTW",
+"venue": "kalshi",
+"title": "Minnesota Sports: Championships before Jul 1, 2030",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXCITYCHAMPS-MIN30JUL01TVTW-1",
+"kalshi:KXCITYCHAMPS-MIN30JUL01TVTW-2"
+],
+"closeTime": "2030-07-01T03:59:00Z",
+"url": "https://kalshi.com/markets/kxcitychamps"
+},
+{
+"id": "kalshi:KXCITYCHAMPS-CHI30JUL01BBCWB",
+"venue": "kalshi",
+"title": "Chicago Sports: Championships before Jul 1, 2030",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXCITYCHAMPS-CHI30JUL01BBCWB-3",
+"kalshi:KXCITYCHAMPS-CHI30JUL01BBCWB-4"
+],
+"closeTime": "2030-07-01T03:59:00Z",
+"url": "https://kalshi.com/markets/kxcitychamps"
+},
+{
+"id": "kalshi:KXF1RETIRE-30VERSTAPPEN",
+"venue": "kalshi",
+"title": "Max Verstappen: Retirement",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXF1RETIRE-30VERSTAPPEN-2028"
+],
+"closeTime": "2030-04-01T03:59:00Z",
+"url": "https://kalshi.com/markets/kxf1retire"
+},
+{
+"id": "kalshi:KXGERELECTION-29MAR25",
+"venue": "kalshi",
+"title": "Next German federal election winner?",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"kalshi:KXGERELECTION-29MAR25-AFD"
+],
+"closeTime": "2030-03-25T14:00:00Z",
+"url": "https://kalshi.com/markets/kxgerelection"
+},
+{
+"id": "kalshi:KXTIMEDECADE20S-30",
+"venue": "kalshi",
+"title": "Time's Person of the Decade",
+"category": "Other",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXTIMEDECADE20S-30-VZEL",
+"kalshi:KXTIMEDECADE20S-30-TAY"
+],
+"closeTime": "2030-01-31T15:00:00Z",
+"url": "https://kalshi.com/markets/kxtimedecade20s"
+},
+{
+"id": "kalshi:KXNEXTSECARMY-30JAN01",
+"venue": "kalshi",
+"title": "Who will be the next Secretary of the Army?",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"kalshi:KXNEXTSECARMY-30JAN01-MOBA",
+"kalshi:KXNEXTSECARMY-30JAN01-SPAR",
+"kalshi:KXNEXTSECARMY-30JAN01-BING"
+],
+"closeTime": "2030-01-08T15:00:00Z",
+"url": "https://kalshi.com/markets/kxnextsecarmy"
+},
+{
+"id": "kalshi:KXMAMDANIOUT-26AUG",
+"venue": "kalshi",
+"title": "Will Zohran Mamdani announce his departure as Mayor of New York City?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXMAMDANIOUT-26AUG-30JAN01"
+],
+"closeTime": "2030-01-01T04:59:00Z",
+"url": "https://kalshi.com/markets/kxmamdaniout"
+},
+{
+"id": "kalshi:KXU3MAX-30",
+"venue": "kalshi",
+"title": "How high will unemployment get before 2030?",
+"category": "Economics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXU3MAX-30-9",
+"kalshi:KXU3MAX-30-10"
+],
+"closeTime": "2030-01-04T13:25:00Z",
+"url": "https://kalshi.com/markets/kxu3max"
+},
+{
+"id": "kalshi:KXPERFORMROLEBRITNEY",
+"venue": "kalshi",
+"title": "Britney Spears biopic: Actress cast as Britney Spears",
+"category": "Other",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXPERFORMROLEBRITNEY-MIL"
+],
+"closeTime": "2031-01-01T15:00:00Z",
+"url": "https://kalshi.com/markets/kxperformrolebritney"
+},
+{
+"id": "kalshi:KXPERFORMROLE007-MONEYPENNY",
+"venue": "kalshi",
+"title": "Next James Bond film: Actress cast as Moneypenny",
+"category": "Other",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXPERFORMROLE007-MONEYPENNY-NAO"
+],
+"closeTime": "2031-01-01T15:00:00Z",
+"url": "https://kalshi.com/markets/kxperformrole007"
+},
+{
+"id": "kalshi:KXPERFORMROLE007",
+"venue": "kalshi",
+"title": "Next James Bond film: Actress cast as Bond girl",
+"category": "Other",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXPERFORMROLE007-FLO"
+],
+"closeTime": "2031-01-01T15:00:00Z",
+"url": "https://kalshi.com/markets/kxperformrole007"
+},
+{
+"id": "kalshi:KXUSTAKEOVER-30",
+"venue": "kalshi",
+"title": "Will the US government take control of any AI company or project before 2030?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXUSTAKEOVER-30"
+],
+"closeTime": "2030-01-01T04:59:00Z",
+"url": "https://kalshi.com/markets/kxustakeover"
+},
+{
+"id": "kalshi:KXTAIWANLVL4",
+"venue": "kalshi",
+"title": "Will the US issue a Level 4 travel advisory for Taiwan?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXTAIWANLVL4-27JAN01"
+],
+"closeTime": "2030-01-01T04:59:00Z",
+"url": "https://kalshi.com/markets/kxtaiwanlvl4"
+},
+{
+"id": "kalshi:KXSHOWENDFAMILYGUY-30",
+"venue": "kalshi",
+"title": "Will there be an announcement that Family Guy is ending?",
+"category": "Other",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXSHOWENDFAMILYGUY-30"
+],
+"closeTime": "2030-01-01T04:59:00Z",
+"url": "https://kalshi.com/markets/kxshowendfamilyguy"
+},
+{
+"id": "kalshi:KXSCOTUSAR15-30JAN",
+"venue": "kalshi",
+"title": "Will SCOTUS recognize a right to possess AR-15-style rifles?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXSCOTUSAR15-30JAN"
+],
+"closeTime": "2030-01-01T15:00:00Z",
+"url": "https://kalshi.com/markets/kxscotusar15"
+},
+{
+"id": "kalshi:KXGTA6SONGS-30",
+"venue": "kalshi",
+"title": "Grand Theft Auto VI: Songs on radio at launch",
+"category": "Other",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXGTA6SONGS-30-SIC",
+"kalshi:KXGTA6SONGS-30-MOB",
+"kalshi:KXGTA6SONGS-30-MAS",
+"kalshi:KXGTA6SONGS-30-LOO"
+],
+"closeTime": "2030-01-01T15:00:00Z",
+"url": "https://kalshi.com/markets/kxgta6songs"
+},
+{
+"id": "kalshi:KXBOND-30",
+"venue": "kalshi",
+"title": "Next James Bond film: Actor cast as James Bond",
+"category": "Other",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXBOND-30-ATJ",
+"kalshi:KXBOND-30-THEO",
+"kalshi:KXBOND-30-JON",
+"kalshi:KXBOND-30-JAC",
+"kalshi:KXBOND-30-IDRIS",
+"kalshi:KXBOND-30-JACO",
+"kalshi:KXBOND-30-JOS",
+"kalshi:KXBOND-30-CAL",
+"kalshi:KXBOND-30-JACK",
+"kalshi:KXBOND-30-PAU"
+],
+"closeTime": "2030-01-01T15:00:00Z",
+"url": "https://kalshi.com/markets/kxbond"
+},
+{
+"id": "kalshi:EUEXIT",
+"venue": "kalshi",
+"title": "EU loses a member before 2030?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:EUEXIT-30"
+],
+"closeTime": "2030-01-01T15:00:00Z",
+"url": "https://kalshi.com/markets/kxeuexit"
+},
+{
+"id": "kalshi:KXNYCMAYORPERSON-29",
+"venue": "kalshi",
+"title": "New York City mayoral election winner?",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"kalshi:KXNYCMAYORPERSON-29-ZMAM",
+"kalshi:KXNYCMAYORPERSON-29-MLEV",
+"kalshi:KXNYCMAYORPERSON-29-JTIS",
+"kalshi:KXNYCMAYORPERSON-29-BLAN",
+"kalshi:KXNYCMAYORPERSON-29-LJAM",
+"kalshi:KXNYCMAYORPERSON-29-EADA",
+"kalshi:KXNYCMAYORPERSON-29-JMEN"
+],
+"closeTime": "2030-11-06T15:00:00Z",
+"url": "https://kalshi.com/markets/kxnycmayorperson"
+},
+{
+"id": "kalshi:KXALBERTAREFYES-29",
+"venue": "kalshi",
+"title": "Will Alberta vote to secede from Canada?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXALBERTAREFYES-29"
+],
+"closeTime": "2029-10-15T14:00:00Z",
+"url": "https://kalshi.com/markets/kxalbertarefyes"
+},
+{
+"id": "kalshi:KXTRUMPIMPEACHCOUNT-29JAN20",
+"venue": "kalshi",
+"title": "How many times will Trump be impeached in his second term?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXTRUMPIMPEACHCOUNT-29JAN20-AL1",
+"kalshi:KXTRUMPIMPEACHCOUNT-29JAN20-AL2"
+],
+"closeTime": "2029-01-21T13:59:00Z",
+"url": "https://kalshi.com/markets/kxtrumpimpeachcount"
+},
+{
+"id": "kalshi:KXTRUMPIMPEACHARTICLES-29JAN20",
+"venue": "kalshi",
+"title": "How many articles will Trump be impeached on in his second term?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXTRUMPIMPEACHARTICLES-29JAN20-AL4",
+"kalshi:KXTRUMPIMPEACHARTICLES-29JAN20-AL5"
+],
+"closeTime": "2029-01-21T13:59:00Z",
+"url": "https://kalshi.com/markets/kxtrumpimpeacharticles"
+},
+{
+"id": "kalshi:KXGOVTCUTS-28",
+"venue": "kalshi",
+"title": "How much government spending will Trump cut before his term ends?",
+"category": "Economics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXGOVTCUTS-28-50",
+"kalshi:KXGOVTCUTS-28-250",
+"kalshi:KXGOVTCUTS-28-500"
+],
+"closeTime": "2029-03-31T15:00:00Z",
+"url": "https://kalshi.com/markets/kxgovtcuts"
+},
+{
+"id": "kalshi:KXDEBTGROWTH-28DEC31",
+"venue": "kalshi",
+"title": "Peak US National Debt Under Trump Administration",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXDEBTGROWTH-28DEC31-40",
+"kalshi:KXDEBTGROWTH-28DEC31-50"
+],
+"closeTime": "2029-03-31T15:00:00Z",
+"url": "https://kalshi.com/markets/kxdebtgrowth"
+},
+{
+"id": "kalshi:POWER-28",
+"venue": "kalshi",
+"title": "2028: Who will win the Presidency, House, and Senate?",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"kalshi:POWER-28-DH-DS-DP",
+"kalshi:POWER-28-RH-DS-RP",
+"kalshi:POWER-28-RH-RS-RP"
+],
+"closeTime": "2029-11-07T15:00:00Z",
+"url": "https://kalshi.com/markets/power"
+},
+{
+"id": "kalshi:KXDSENATESEATS-29",
+"venue": "kalshi",
+"title": "Democratic Senate Seat Count (2028)",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"kalshi:KXDSENATESEATS-29-E53",
+"kalshi:KXDSENATESEATS-29-E54",
+"kalshi:KXDSENATESEATS-29-E55"
+],
+"closeTime": "2029-02-01T15:00:00Z",
+"url": "https://kalshi.com/markets/kxdsenateseats"
+},
+{
+"id": "kalshi:KXGDPUSMAX-28",
+"venue": "kalshi",
+"title": "Will there be a Trump economic boom?",
+"category": "Economics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXGDPUSMAX-28-5"
+],
+"closeTime": "2029-01-26T13:25:00Z",
+"url": "https://kalshi.com/markets/kxgdpusmax"
+},
+{
+"id": "kalshi:KXGREENLANDPRICE-29JAN21",
+"venue": "kalshi",
+"title": "How much will the US acquire Greenland for?",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"kalshi:KXGREENLANDPRICE-29JAN21-NOACQ"
+],
+"closeTime": "2029-01-22T04:59:00Z",
+"url": "https://kalshi.com/markets/kxgreenlandprice"
+},
+{
+"id": "kalshi:KXAMEND22-29",
+"venue": "kalshi",
+"title": "Will Trump be allowed to run for a 3rd term?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXAMEND22-29-JAN01"
+],
+"closeTime": "2029-01-01T15:00:00Z",
+"url": "https://kalshi.com/markets/kxamend22"
+},
+{
+"id": "kalshi:KXUSAEXPANDTERRITORY",
+"venue": "kalshi",
+"title": "Will the US acquire any new territory?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXUSAEXPANDTERRITORY-27JAN01",
+"kalshi:KXUSAEXPANDTERRITORY-28JAN01"
+],
+"closeTime": "2029-01-21T15:00:00Z",
+"url": "https://kalshi.com/markets/kxusaexpandterritory"
+},
+{
+"id": "kalshi:KXTRUMPRESIGN",
+"venue": "kalshi",
+"title": "Will Trump resign during his term?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXTRUMPRESIGN"
+],
+"closeTime": "2029-01-21T15:00:00Z",
+"url": "https://kalshi.com/markets/kxtrumpresign"
+},
+{
+"id": "kalshi:KXTRUMPPARDONS-29JAN21",
+"venue": "kalshi",
+"title": "Who will Trump pardon?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXTRUMPPARDONS-29JAN21-DJT",
+"kalshi:KXTRUMPPARDONS-29JAN21-JGIU"
+],
+"closeTime": "2029-01-21T15:00:00Z",
+"url": "https://kalshi.com/markets/kxtrumppardons"
+},
+{
+"id": "kalshi:KXSCOURT-29",
+"venue": "kalshi",
+"title": "Who will be the next Supreme Court justice?",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"kalshi:KXSCOURT-29-JH",
+"kalshi:KXSCOURT-29-AO",
+"kalshi:KXSCOURT-29-LVD",
+"kalshi:KXSCOURT-29-KM",
+"kalshi:KXSCOURT-29-BG",
+"kalshi:KXSCOURT-29-KN",
+"kalshi:KXSCOURT-29-MP",
+"kalshi:KXSCOURT-29-AJR",
+"kalshi:KXSCOURT-29-JSAU"
+],
+"closeTime": "2029-01-21T04:59:00Z",
+"url": "https://kalshi.com/markets/kxscourt"
+},
+{
+"id": "kalshi:KXPRESPERSON-28",
+"venue": "kalshi",
+"title": "2028 U.S. Presidential Election winner?",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"kalshi:KXPRESPERSON-28-GNEWS",
+"kalshi:KXPRESPERSON-28-AOCA",
+"kalshi:KXPRESPERSON-28-PBUT",
+"kalshi:KXPRESPERSON-28-JSHA",
+"kalshi:KXPRESPERSON-28-KHAR",
+"kalshi:KXPRESPERSON-28-WMOO",
+"kalshi:KXPRESPERSON-28-SSMI",
+"kalshi:KXPRESPERSON-28-GWHI",
+"kalshi:KXPRESPERSON-28-ABES",
+"kalshi:KXPRESPERSON-28-JPRI",
+"kalshi:KXPRESPERSON-28-JVAN",
+"kalshi:KXPRESPERSON-28-DTRU",
+"kalshi:KXPRESPERSON-28-MRUB",
+"kalshi:KXPRESPERSON-28-GYOU",
+"kalshi:KXPRESPERSON-28-DTRUJR",
+"kalshi:KXPRESPERSON-28-RDES",
+"kalshi:KXPRESPERSON-28-VRAM",
+"kalshi:KXPRESPERSON-28-TWAL",
+"kalshi:KXPRESPERSON-28-JDIM",
+"kalshi:KXPRESPERSON-28-JOSS",
+"kalshi:KXPRESPERSON-28-MKEL",
+"kalshi:KXPRESPERSON-28-TCAR",
+"kalshi:KXPRESPERSON-28-TMAS",
+"kalshi:KXPRESPERSON-28-REMA",
+"kalshi:KXPRESPERSON-28-JTAL",
+"kalshi:KXPRESPERSON-28-RKHA"
+],
+"closeTime": "2029-11-07T15:00:00Z",
+"url": "https://kalshi.com/markets/kxpresperson"
+},
+{
+"id": "kalshi:KXPRESPARTY-2028",
+"venue": "kalshi",
+"title": "2028 Presidential Election winner? (Party)",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"kalshi:KXPRESPARTY-2028-D"
+],
+"closeTime": "2029-11-07T15:00:00Z",
+"url": "https://kalshi.com/markets/kxpresparty"
+},
+{
+"id": "kalshi:KXNEXTPRESSEC-29JAN21",
+"venue": "kalshi",
+"title": "Who will be Trump's next Press Secretary?",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"kalshi:KXNEXTPRESSEC-29JAN21-AHAB",
+"kalshi:KXNEXTPRESSEC-29JAN21-JMIL",
+"kalshi:KXNEXTPRESSEC-29JAN21-SJEN",
+"kalshi:KXNEXTPRESSEC-29JAN21-NNP",
+"kalshi:KXNEXTPRESSEC-29JAN21-AKEL",
+"kalshi:KXNEXTPRESSEC-29JAN21-NHAR",
+"kalshi:KXNEXTPRESSEC-29JAN21-EPIP",
+"kalshi:KXNEXTPRESSEC-29JAN21-DALV",
+"kalshi:KXNEXTPRESSEC-29JAN21-TMCL",
+"kalshi:KXNEXTPRESSEC-29JAN21-MMAR",
+"kalshi:KXNEXTPRESSEC-29JAN21-MBAR",
+"kalshi:KXNEXTPRESSEC-29JAN21-TROG",
+"kalshi:KXNEXTPRESSEC-29JAN21-TGAB",
+"kalshi:KXNEXTPRESSEC-29JAN21-BHAR"
+],
+"closeTime": "2029-01-21T15:00:00Z",
+"url": "https://kalshi.com/markets/kxnextpressec"
+},
+{
+"id": "kalshi:KXGREENTERRITORY-29",
+"venue": "kalshi",
+"title": "Will the US take control of any part of Greenland?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXGREENTERRITORY-29-27",
+"kalshi:KXGREENTERRITORY-29"
+],
+"closeTime": "2029-01-21T15:00:00Z",
+"url": "https://kalshi.com/markets/kxgreenterritory"
+},
+{
+"id": "kalshi:KXCANTERRITORY-29",
+"venue": "kalshi",
+"title": "Will the US take control of any part of Canada?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXCANTERRITORY-29"
+],
+"closeTime": "2029-01-21T15:00:00Z",
+"url": "https://kalshi.com/markets/kxcanterritory"
+},
+{
+"id": "kalshi:KXZELENSKYPUTIN-29",
+"venue": "kalshi",
+"title": "Will Zelenskyy and Putin speak?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXZELENSKYPUTIN-29-27",
+"kalshi:KXZELENSKYPUTIN-29-VPUT"
+],
+"closeTime": "2029-01-20T04:59:00Z",
+"url": "https://kalshi.com/markets/kxzelenskyputin"
+},
+{
+"id": "kalshi:KXVETOOVERRIDE-29JAN20",
+"venue": "kalshi",
+"title": "Will Congress override Trump's veto?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXVETOOVERRIDE-29JAN20"
+],
+"closeTime": "2029-01-20T15:00:00Z",
+"url": "https://kalshi.com/markets/kxvetooverride"
+},
+{
+"id": "kalshi:KXTRUMPSNL-29",
+"venue": "kalshi",
+"title": "Will Trump go on SNL during his second term?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXTRUMPSNL-29"
+],
+"closeTime": "2029-01-20T15:00:00Z",
+"url": "https://kalshi.com/markets/kxtrumpsnl"
+},
+{
+"id": "kalshi:KXTRUMPREMOVE",
+"venue": "kalshi",
+"title": "Will Trump be impeached and removed from office?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXTRUMPREMOVE"
+],
+"closeTime": "2029-01-20T15:00:00Z",
+"url": "https://kalshi.com/markets/kxtrumpremove"
+},
+{
+"id": "kalshi:KXSTATE51-29",
+"venue": "kalshi",
+"title": "What will be the 51st state in Trump's term?",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"kalshi:KXSTATE51-29-GL",
+"kalshi:KXSTATE51-29-CU"
+],
+"closeTime": "2029-01-20T15:00:00Z",
+"url": "https://kalshi.com/markets/kxstate51"
+},
+{
+"id": "kalshi:KXSCOTUSRESIGN-29",
+"venue": "kalshi",
+"title": "Which Supreme Court justices will resign during Trump's term?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXSCOTUSRESIGN-29-SS",
+"kalshi:KXSCOTUSRESIGN-29-SA"
+],
+"closeTime": "2029-01-20T15:00:00Z",
+"url": "https://kalshi.com/markets/kxscotusresign"
+},
+{
+"id": "kalshi:KXNEXTOUTUS-26SEP28",
+"venue": "kalshi",
+"title": "Who will leave office first: RFK Jr., Hegseth, or Patel?",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"kalshi:KXNEXTOUTUS-26SEP28-KPAT"
+],
+"closeTime": "2029-01-20T15:00:00Z",
+"url": "https://kalshi.com/markets/kxnextoutus"
+},
+{
+"id": "kalshi:KXINSURRECTION-29",
+"venue": "kalshi",
+"title": "Will Trump invoke the Insurrection Act?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXINSURRECTION-29-27",
+"kalshi:KXINSURRECTION-29"
+],
+"closeTime": "2029-01-20T15:00:00Z",
+"url": "https://kalshi.com/markets/kxinsurrection"
+},
+{
+"id": "kalshi:KXIMPEACHCABINET",
+"venue": "kalshi",
+"title": "Will a cabinet member be impeached?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXIMPEACHCABINET-29JAN20"
+],
+"closeTime": "2029-01-20T15:00:00Z",
+"url": "https://kalshi.com/markets/kximpeachcabinet"
+},
+{
+"id": "kalshi:KXIMPEACH-29",
+"venue": "kalshi",
+"title": "Will President Trump be impeached during his term?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXIMPEACH-29-JAN20"
+],
+"closeTime": "2029-01-20T15:00:00Z",
+"url": "https://kalshi.com/markets/kximpeach"
+},
+{
+"id": "kalshi:KXGREENLAND-29",
+"venue": "kalshi",
+"title": "Will Trump buy at least part of Greenland?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXGREENLAND-29-27",
+"kalshi:KXGREENLAND-29"
+],
+"closeTime": "2029-01-20T15:00:00Z",
+"url": "https://kalshi.com/markets/kxgreenland"
+},
+{
+"id": "kalshi:KXCONSTAMEND-29",
+"venue": "kalshi",
+"title": "Will a new Constitutional Amendment be added during Trump's term?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXCONSTAMEND-29-JAN20"
+],
+"closeTime": "2029-01-20T15:00:00Z",
+"url": "https://kalshi.com/markets/kxconstamend"
+},
+{
+"id": "kalshi:KXCANAL-29",
+"venue": "kalshi",
+"title": "Will Trump take back the Panama Canal?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXCANAL-29"
+],
+"closeTime": "2029-01-20T15:00:00Z",
+"url": "https://kalshi.com/markets/kxcanal"
+},
+{
+"id": "kalshi:KXCABOUT-26MAY22",
+"venue": "kalshi",
+"title": "Who will leave Trump's Cabinet next?",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"kalshi:KXCABOUT-26MAY22-MRUB",
+"kalshi:KXCABOUT-26MAY22-PHEG",
+"kalshi:KXCABOUT-26MAY22-HLUT",
+"kalshi:KXCABOUT-26MAY22-RFK",
+"kalshi:KXCABOUT-26MAY22-SWIL"
+],
+"closeTime": "2029-01-20T15:00:00Z",
+"url": "https://kalshi.com/markets/kxcabout"
+},
+{
+"id": "kalshi:KXAMEND25-29",
+"venue": "kalshi",
+"title": "Will Section IV of the 25th Amendment be used during Trump's Presidency?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXAMEND25-29"
+],
+"closeTime": "2029-01-20T15:00:00Z",
+"url": "https://kalshi.com/markets/kxamend25"
+},
+{
+"id": "kalshi:KXABRAHAMSY-29",
+"venue": "kalshi",
+"title": "Will Israel and Syria normalize relations during Trump's term?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXABRAHAMSY-29-JAN20"
+],
+"closeTime": "2029-01-20T15:00:00Z",
+"url": "https://kalshi.com/markets/kxabrahamsy"
+},
+{
+"id": "kalshi:KXABRAHAMSA-29",
+"venue": "kalshi",
+"title": "Will Israel and Saudi Arabia normalize relations during Trump's term?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXABRAHAMSA-29-JAN20"
+],
+"closeTime": "2029-01-20T15:00:00Z",
+"url": "https://kalshi.com/markets/kxabrahamsa"
+},
+{
+"id": "kalshi:KXU3EOY-29JAN05",
+"venue": "kalshi",
+"title": "US unemployment rate at year-end 2028",
+"category": "Economics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXU3EOY-29JAN05-T6.0"
+],
+"closeTime": "2029-01-05T13:29:00Z",
+"url": "https://kalshi.com/markets/kxu3eoy"
+},
+{
+"id": "kalshi:GOVPARTYNH-28",
+"venue": "kalshi",
+"title": "New Hampshire Governor winner?",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"kalshi:GOVPARTYNH-28-D"
+],
+"closeTime": "2029-11-07T15:00:00Z",
+"url": "https://kalshi.com/markets/govpartynh"
+},
+{
+"id": "kalshi:KXLEAVEMERZ-29JAN01",
+"venue": "kalshi",
+"title": "Friedrich Merz out as Chancellor?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXLEAVEMERZ-29JAN01-27JAN01",
+"kalshi:KXLEAVEMERZ-29JAN01-28JAN01"
+],
+"closeTime": "2029-01-01T04:59:00Z",
+"url": "https://kalshi.com/markets/kxleavemerz"
+},
+{
+"id": "kalshi:SENATENC-28",
+"venue": "kalshi",
+"title": "North Carolina Senate winner? (2028)",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"kalshi:SENATENC-28-D"
+],
+"closeTime": "2029-11-07T15:00:00Z",
+"url": "https://kalshi.com/markets/senatenc"
+},
+{
+"id": "kalshi:SENATEKS-28",
+"venue": "kalshi",
+"title": "Kansas Senate winner? (2028)",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"kalshi:SENATEKS-28-D",
+"kalshi:SENATEKS-28-R"
+],
+"closeTime": "2029-11-07T15:00:00Z",
+"url": "https://kalshi.com/markets/senateks"
+},
+{
+"id": "kalshi:SENATEGA-28",
+"venue": "kalshi",
+"title": "Georgia Senate winner? (2028)",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"kalshi:SENATEGA-28-D"
+],
+"closeTime": "2029-11-07T15:00:00Z",
+"url": "https://kalshi.com/markets/senatega"
+},
+{
+"id": "kalshi:SENATEFL-28",
+"venue": "kalshi",
+"title": "Florida Senate winner? (2028)",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"kalshi:SENATEFL-28-R"
+],
+"closeTime": "2029-11-07T15:00:00Z",
+"url": "https://kalshi.com/markets/senatefl"
+},
+{
+"id": "poly:30829",
+"venue": "polymarket",
+"title": "Democratic Presidential Nominee 2028",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:559662",
+"poly:559664",
+"poly:559666",
+"poly:559673",
+"poly:559700",
+"poly:559702",
+"poly:559703"
+],
+"closeTime": "2028-11-08T04:59:00Z",
+"url": "https://polymarket.com/event/democratic-presidential-nominee-2028"
+},
+{
+"id": "poly:606422",
+"venue": "polymarket",
+"title": "Fed Decision in October?",
+"category": "Economics",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:2589810",
+"poly:2589811",
+"poly:2589812",
+"poly:2589813",
+"poly:2589814"
+],
+"closeTime": "2026-10-29T03:59:00Z",
+"url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537"
+},
+{
+"id": "poly:1101580",
+"venue": "polymarket",
+"title": "Elon Musk # tweets October 2 - October 9, 2026?",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:5114430",
+"poly:5114439",
+"poly:5114444",
+"poly:5114452",
+"poly:5114458",
+"poly:5114463",
+"poly:5114468",
+"poly:5114473",
+"poly:5114479",
+"poly:5114482",
+"poly:5114486"
+],
+"closeTime": "2026-10-09T16:00:00Z",
+"url": "https://polymarket.com/event/elon-musk-of-tweets-october-2-october-9-2026"
+},
+{
+"id": "poly:1113723",
+"venue": "polymarket",
+"title": "Cleveland Guardians vs. Chicago White Sox",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5175503",
+"poly:5175504",
+"poly:5350601",
+"poly:5350602",
+"poly:5350608"
+],
+"closeTime": "2026-10-14T20:00:00Z",
+"url": "https://polymarket.com/event/mlb-cle-cws-2026-10-07"
+},
+{
+"id": "poly:1138791",
+"venue": "polymarket",
+"title": "LoL: Team Heretics Academy vs G2 NORD (BO5) - EMEA Masters Playoffs",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5337584",
+"poly:5337588",
+"poly:5337591",
+"poly:5337593",
+"poly:5337595"
+],
+"closeTime": "2026-10-07T22:00:00Z",
+"url": "https://polymarket.com/event/lol-hrts-g2nord-2026-10-07"
+},
+{
+"id": "poly:45915",
+"venue": "polymarket",
+"title": "Brazil Presidential Election",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:601819",
+"poly:601826"
+],
+"closeTime": "2026-10-05T03:59:00Z",
+"url": "https://polymarket.com/event/brazil-presidential-election"
+},
+{
+"id": "poly:1112205",
+"venue": "polymarket",
+"title": "What price will Bitcoin hit in October?",
+"category": "Crypto",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5170727",
+"poly:5170728",
+"poly:5170734",
+"poly:5170735",
+"poly:5170737",
+"poly:5170738",
+"poly:5170740",
+"poly:5170741",
+"poly:5170744",
+"poly:5170745"
+],
+"closeTime": "2026-11-01T04:00:00Z",
+"url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026"
+},
+{
+"id": "poly:31195",
+"venue": "polymarket",
+"title": "Putin out as President of Russia by...?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:560317"
+],
+"closeTime": "2027-07-01T03:59:00Z",
+"url": "https://polymarket.com/event/putin-out-before-2027"
+},
+{
+"id": "poly:1143816",
+"venue": "polymarket",
+"title": "Dota 2: Yellow Submarine vs Blasterbl (BO3) - PARI Universe Closed Qualifier Playoffs",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5381315",
+"poly:5381316",
+"poly:5381318"
+],
+"closeTime": "2026-10-07T15:00:00Z",
+"url": "https://polymarket.com/event/dota2-yes-bbl-2026-10-07"
+},
+{
+"id": "poly:1138800",
+"venue": "polymarket",
+"title": "LoL: Kaufland Hangry Knights vs Unicorns Of Love Sexy Edition (BO5) - EMEA Masters Playoffs",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5337869",
+"poly:5337871",
+"poly:5337873",
+"poly:5337875",
+"poly:5337878"
+],
+"closeTime": "2026-10-07T22:00:00Z",
+"url": "https://polymarket.com/event/lol-khk-use1-2026-10-07"
+},
+{
+"id": "poly:1148767",
+"venue": "polymarket",
+"title": "Dota 2: CyberHero vs Blasterbl (BO3) - PARI Universe Closed Qualifier Playoffs",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5406366",
+"poly:5406367"
+],
+"closeTime": "2026-10-08T00:00:00Z",
+"url": "https://polymarket.com/event/dota2-ch1-bbl-2026-10-07"
+},
+{
+"id": "poly:699735",
+"venue": "polymarket",
+"title": "US announces end of Iranian blockade by...?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:3128886",
+"poly:3128888",
+"poly:4906127"
+],
+"closeTime": "2027-01-01T04:59:00Z",
+"url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080"
+},
+{
+"id": "poly:32225",
+"venue": "polymarket",
+"title": "Which party will win the House in 2026?",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:562802",
+"poly:562803"
+],
+"closeTime": "2026-11-04T04:59:00Z",
+"url": "https://polymarket.com/event/which-party-will-win-the-house-in-2026"
+},
+{
+"id": "poly:659671",
+"venue": "polymarket",
+"title": "UEFA Champions League: 2027 Champion",
+"category": "Sports",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:2772179",
+"poly:2772194"
+],
+"closeTime": "2027-06-20T03:59:00Z",
+"url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549"
+},
+{
+"id": "poly:79987",
+"venue": "polymarket",
+"title": "Next French Presidential Election",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:679018",
+"poly:679022",
+"poly:679026",
+"poly:679027",
+"poly:679028",
+"poly:679034"
+],
+"closeTime": "2027-04-19T03:59:00Z",
+"url": "https://polymarket.com/event/next-french-presidential-election"
+},
+{
+"id": "poly:1114353",
+"venue": "polymarket",
+"title": "Bitcoin above ___ on October 8?",
+"category": "Crypto",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5179249",
+"poly:5179250",
+"poly:5179252",
+"poly:5179254",
+"poly:5179256",
+"poly:5179262",
+"poly:5179265",
+"poly:5179270"
+],
+"closeTime": "2026-10-08T16:00:00Z",
+"url": "https://polymarket.com/event/bitcoin-above-on-october-8-2026"
+},
+{
+"id": "poly:48361",
+"venue": "polymarket",
+"title": "Ballon d'Or Winner 2026",
+"category": "Sports",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:608540",
+"poly:608545",
+"poly:608547",
+"poly:608551",
+"poly:608565"
+],
+"closeTime": "2027-01-01T04:59:00Z",
+"url": "https://polymarket.com/event/ballon-dor-winner-2026"
+},
+{
+"id": "poly:32228",
+"venue": "polymarket",
+"title": "Balance of Power: 2026 Midterms",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:562828",
+"poly:562829",
+"poly:562830",
+"poly:562831"
+],
+"closeTime": "2026-11-04T04:59:00Z",
+"url": "https://polymarket.com/event/balance-of-power-2026-midterms"
+},
+{
+"id": "poly:60182",
+"venue": "polymarket",
+"title": "Nobel Peace Prize Winner 2026",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:637002"
+],
+"closeTime": "2027-04-01T03:59:00Z",
+"url": "https://polymarket.com/event/nobel-peace-prize-winner-2026-139"
+},
+{
+"id": "poly:31552",
+"venue": "polymarket",
+"title": "Presidential Election Winner 2028",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:561234",
+"poly:561240",
+"poly:561246",
+"poly:561247"
+],
+"closeTime": "2028-11-08T04:59:00Z",
+"url": "https://polymarket.com/event/presidential-election-winner-2028"
+},
+{
+"id": "poly:1138797",
+"venue": "polymarket",
+"title": "LoL: Anubis Gaming vs The Ruddy Sack (BO5) - EMEA Masters Playoffs",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5337795",
+"poly:5337796"
+],
+"closeTime": "2026-10-07T22:00:00Z",
+"url": "https://polymarket.com/event/lol-anb-rs-2026-10-07"
+},
+{
+"id": "poly:81557",
+"venue": "polymarket",
+"title": "Prime Minister of Israel after the next election?",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:682705",
+"poly:682707",
+"poly:682711",
+"poly:682712",
+"poly:682722"
+],
+"closeTime": "2026-10-28T03:59:00Z",
+"url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election"
+},
+{
+"id": "poly:1038648",
+"venue": "polymarket",
+"title": "US-Iran ceasefire continues through...?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:4641065",
+"poly:5130977",
+"poly:5130978",
+"poly:5234660"
+],
+"closeTime": "2026-10-31T23:59:00Z",
+"url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt"
+},
+{
+"id": "poly:73130",
+"venue": "polymarket",
+"title": "Will the U.S. invade Iran before 2027?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:665374"
+],
+"closeTime": "2027-01-01T04:59:00Z",
+"url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027"
+},
+{
+"id": "poly:1112476",
+"venue": "polymarket",
+"title": "Counter-Strike: K27 vs Metizport (BO3) - 1win Private Club #2: Closed Qualifier Playoffs",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5171468",
+"poly:5171469",
+"poly:5171470"
+],
+"closeTime": "2026-10-07T23:50:00Z",
+"url": "https://polymarket.com/event/cs2-k271-mzp-2026-10-07"
+},
+{
+"id": "poly:1134913",
+"venue": "polymarket",
+"title": "What price will Ethereum hit October 5-11?",
+"category": "Crypto",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5311911",
+"poly:5311917",
+"poly:5311923"
+],
+"closeTime": "2026-10-12T04:00:00Z",
+"url": "https://polymarket.com/event/what-price-will-ethereum-hit-october-5-11-2026"
+},
+{
+"id": "poly:1125032",
+"venue": "polymarket",
+"title": "Bitcoin Up or Down on October 5?",
+"category": "Crypto",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5239514"
+],
+"closeTime": "2026-10-05T16:00:00Z",
+"url": "https://polymarket.com/event/bitcoin-up-or-down-on-october-5-2026"
+},
+{
+"id": "poly:1143724",
+"venue": "polymarket",
+"title": "Palermo: Gianluca Cadenasso vs Massimo Giunta",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5380293"
+],
+"closeTime": "2026-10-14T09:00:00Z",
+"url": "https://polymarket.com/event/atp-cadenas-giunta-2026-10-07"
+},
+{
+"id": "poly:90177",
+"venue": "polymarket",
+"title": "Will the US confirm that aliens exist by...?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:703257",
+"poly:5180509"
+],
+"closeTime": "2027-01-01T04:59:00Z",
+"url": "https://polymarket.com/event/will-the-us-confirm-that-aliens-exist-before-2027"
+},
+{
+"id": "poly:31875",
+"venue": "polymarket",
+"title": "Republican Presidential Nominee 2028",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:561982",
+"poly:561991"
+],
+"closeTime": "2028-11-08T04:59:00Z",
+"url": "https://polymarket.com/event/republican-presidential-nominee-2028"
+},
+{
+"id": "poly:1138993",
+"venue": "polymarket",
+"title": "Plague pandemic in 2026?",
+"category": "Tech",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5340154"
+],
+"closeTime": "2027-01-01T04:59:00Z",
+"url": "https://polymarket.com/event/plague-pandemic-in-2026"
+},
+{
+"id": "poly:89502",
+"venue": "polymarket",
+"title": "What price will Bitcoin hit in 2026?",
+"category": "Crypto",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:3013350",
+"poly:3865962",
+"poly:701496"
+],
+"closeTime": "2027-01-01T05:00:00Z",
+"url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027"
+},
+{
+"id": "poly:1146352",
+"venue": "polymarket",
+"title": "What price will Bitcoin hit on October 7?",
+"category": "Crypto",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5396121",
+"poly:5396126",
+"poly:5396127"
+],
+"closeTime": "2026-10-08T04:00:00Z",
+"url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-october-7-2026"
+},
+{
+"id": "poly:232617",
+"venue": "polymarket",
+"title": "Pro Football: NFC East Champion",
+"category": "Sports",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:1447964"
+],
+"closeTime": "2027-01-18T04:59:00Z",
+"url": "https://polymarket.com/event/pro-football-nfc-east-champion"
+},
+{
+"id": "poly:999620",
+"venue": "polymarket",
+"title": "Oilers vs. Ducks",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:4440800",
+"poly:4440803"
+],
+"closeTime": "2026-10-08T02:00:00Z",
+"url": "https://polymarket.com/event/nhl-edm-ana-2026-10-07"
+},
+{
+"id": "poly:1134901",
+"venue": "polymarket",
+"title": "What price will Bitcoin hit October 5-11?",
+"category": "Crypto",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5311871",
+"poly:5311874"
+],
+"closeTime": "2026-10-12T04:00:00Z",
+"url": "https://polymarket.com/event/what-price-will-bitcoin-hit-october-5-11-2026"
+},
+{
+"id": "poly:1112206",
+"venue": "polymarket",
+"title": "What price will Ethereum hit in October?",
+"category": "Crypto",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5170773",
+"poly:5170789"
+],
+"closeTime": "2026-11-01T04:00:00Z",
+"url": "https://polymarket.com/event/what-price-will-ethereum-hit-in-october-2026"
+},
+{
+"id": "poly:478277",
+"venue": "polymarket",
+"title": "NBA: 2027 Champion",
+"category": "Sports",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:2243308"
+],
+"closeTime": "2027-07-01T03:59:00Z",
+"url": "https://polymarket.com/event/nba-2027-champion"
+},
+{
+"id": "poly:1135224",
+"venue": "polymarket",
+"title": "Highest temperature in Madrid on October 7?",
+"category": "Other",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:5313802",
+"poly:5313803"
+],
+"closeTime": "2026-10-07T12:00:00Z",
+"url": "https://polymarket.com/event/highest-temperature-in-madrid-on-october-7-2026"
+},
+{
+"id": "poly:637442",
+"venue": "polymarket",
+"title": "Next Prime Minister of Spain?",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:2695678",
+"poly:2695687"
+],
+"closeTime": "2028-04-01T03:59:00Z",
+"url": "https://polymarket.com/event/next-prime-minister-of-spain-20260625005215443"
+},
+{
+"id": "poly:1135220",
+"venue": "polymarket",
+"title": "Highest temperature in Hong Kong on October 7?",
+"category": "Other",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:5313756",
+"poly:5313757"
+],
+"closeTime": "2026-10-07T12:00:00Z",
+"url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-october-7-2026"
+},
+{
+"id": "poly:1111240",
+"venue": "polymarket",
+"title": "Saudi Arabia military action against Yemen on...?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5167182"
+],
+"closeTime": "2026-11-01T03:59:00Z",
+"url": "https://polymarket.com/event/saudi-arabia-military-action-against-yemen-on-october-2026"
+},
+{
+"id": "poly:1113724",
+"venue": "polymarket",
+"title": "Tampa Bay Rays vs. New York Yankees",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5175505",
+"poly:5361542"
+],
+"closeTime": "2026-10-15T00:00:00Z",
+"url": "https://polymarket.com/event/mlb-tb-nyy-2026-10-07"
+},
+{
+"id": "poly:925590",
+"venue": "polymarket",
+"title": "Buccaneers vs. Cowboys",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:3951230",
+"poly:4061704"
+],
+"closeTime": "2026-10-09T00:15:00Z",
+"url": "https://polymarket.com/event/nfl-tb-dal-2026-10-09"
+},
+{
+"id": "poly:1119060",
+"venue": "polymarket",
+"title": "Los Angeles Dodgers vs. Atlanta Braves",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5203714",
+"poly:5394831"
+],
+"closeTime": "2026-10-14T22:00:00Z",
+"url": "https://polymarket.com/event/mlb-lad-atl-2026-10-07"
+},
+{
+"id": "poly:1145426",
+"venue": "polymarket",
+"title": "Antofagasta: Nick Hardt vs Felipe Meligeni Alves",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5393314"
+],
+"closeTime": "2026-10-14T19:30:00Z",
+"url": "https://polymarket.com/event/atp-hardt-alves-2026-10-07"
+},
+{
+"id": "poly:1135212",
+"venue": "polymarket",
+"title": "Highest temperature in Paris on October 7?",
+"category": "Other",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:5313667"
+],
+"closeTime": "2026-10-07T12:00:00Z",
+"url": "https://polymarket.com/event/highest-temperature-in-paris-on-october-7-2026"
+},
+{
+"id": "poly:1136515",
+"venue": "polymarket",
+"title": "Shanghai Rolex Masters: Hubert Hurkacz vs James Duckworth",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5320325"
+],
+"closeTime": "2026-10-14T02:00:00Z",
+"url": "https://polymarket.com/event/atp-hurkacz-duckwor-2026-10-06"
+},
+{
+"id": "poly:1061332",
+"venue": "polymarket",
+"title": "Serbia Parliamentary Election Winner",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:4824600",
+"poly:4824602"
+],
+"closeTime": "2026-10-25T23:59:00Z",
+"url": "https://polymarket.com/event/serbia-parliamentary-election-winner-2026"
+},
+{
+"id": "poly:237598",
+"venue": "polymarket",
+"title": "Iran leader end of 2026?",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:1469746"
+],
+"closeTime": "2026-12-31T17:00:00Z",
+"url": "https://polymarket.com/event/iran-leader-end-of-2026"
+},
+{
+"id": "poly:1119679",
+"venue": "polymarket",
+"title": "Bitcoin above ___ on October 9?",
+"category": "Crypto",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5207023"
+],
+"closeTime": "2026-10-09T16:00:00Z",
+"url": "https://polymarket.com/event/bitcoin-above-on-october-9-2026"
+},
+{
+"id": "poly:711714",
+"venue": "polymarket",
+"title": "Israel x Iran ceasefire continues through...?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:3399459"
+],
+"closeTime": "2026-12-31T20:29:00Z",
+"url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963"
+},
+{
+"id": "poly:179312",
+"venue": "polymarket",
+"title": "MLB World Series Champion 2026",
+"category": "Sports",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:1235562"
+],
+"closeTime": "2026-10-31T23:55:00Z",
+"url": "https://polymarket.com/event/mlb-world-series-champion-2026"
+},
+{
+"id": "poly:57672",
+"venue": "polymarket",
+"title": "Texas Senate Election Winner",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:630963",
+"poly:630964"
+],
+"closeTime": "2026-11-04T04:59:00Z",
+"url": "https://polymarket.com/event/texas-senate-election-winner"
+},
+{
+"id": "poly:103469",
+"venue": "polymarket",
+"title": "Variational FDV above ___ one day after launch?",
+"category": "Crypto",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:920403"
+],
+"closeTime": "2028-01-01T05:00:00Z",
+"url": "https://polymarket.com/event/variational-fdv-above-one-day-after-launch"
+},
+{
+"id": "poly:1146010",
+"venue": "polymarket",
+"title": "W35 Las Vegas, NV: Anastasia Kulikova vs Anastasia Abbagnato",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5395102"
+],
+"closeTime": "2026-10-14T17:00:00Z",
+"url": "https://polymarket.com/event/itf-kuliko1-abbagn1-2026-10-07"
+},
+{
+"id": "poly:1114593",
+"venue": "polymarket",
+"title": "World Championship of Legends: England Champions vs West Indies Champions",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5180779"
+],
+"closeTime": "2026-10-14T15:30:00Z",
+"url": "https://polymarket.com/event/cricwcl-eng-wes-2026-10-07"
+},
+{
+"id": "poly:1141832",
+"venue": "polymarket",
+"title": "Counter-Strike: Isurus vs MEIA NOITE (BO3) - ESL Challenger League South America Cup #3 Playoffs",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5369827"
+],
+"closeTime": "2026-10-08T03:00:00Z",
+"url": "https://polymarket.com/event/cs2-isg-meiano-2026-10-07"
+},
+{
+"id": "poly:57111",
+"venue": "polymarket",
+"title": "Los Angeles Mayoral Election",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:629030",
+"poly:629040"
+],
+"closeTime": "2026-06-03T03:59:00Z",
+"url": "https://polymarket.com/event/los-angeles-mayoral-election-117"
+},
+{
+"id": "poly:1114628",
+"venue": "polymarket",
+"title": "World Championship of Legends: Australia Champions vs Bangladesh Champions",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5180945"
+],
+"closeTime": "2026-10-14T11:30:00Z",
+"url": "https://polymarket.com/event/cricwcl-aus-ban-2026-10-07"
+},
+{
+"id": "poly:620025",
+"venue": "polymarket",
+"title": "US-Iran Final Nuclear Deal by\u2026?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:2696747",
+"poly:3491459"
+],
+"closeTime": "2027-01-01T04:59:00Z",
+"url": "https://polymarket.com/event/us-iran-final-nuclear-deal-by-20260621201254412"
+},
+{
+"id": "poly:89519",
+"venue": "polymarket",
+"title": "What price will Ethereum hit in 2026?",
+"category": "Crypto",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:2467356"
+],
+"closeTime": "2027-01-01T05:00:00Z",
+"url": "https://polymarket.com/event/what-price-will-ethereum-hit-before-2027"
+},
+{
+"id": "poly:1075383",
+"venue": "polymarket",
+"title": "SC Internacional vs. SC Corinthians Paulista",
+"category": "Sports",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:4911459",
+"poly:4911461"
+],
+"closeTime": "2026-10-07T22:30:00Z",
+"url": "https://polymarket.com/event/bra-int-cor1-2026-10-07"
+},
+{
+"id": "poly:1137068",
+"venue": "polymarket",
+"title": "Counter-Strike: Sangal vs SAW (BO1) - Roman Imperium Cup Group B",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5324410"
+],
+"closeTime": "2026-10-08T01:10:00Z",
+"url": "https://polymarket.com/event/cs2-sng2-saw2-2026-10-07"
+},
+{
+"id": "poly:1100237",
+"venue": "polymarket",
+"title": "Jacksonville State vs. Kennesaw State",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5094241"
+],
+"closeTime": "2026-10-07T23:00:00Z",
+"url": "https://polymarket.com/event/cfb-jaxst-kenest-2026-10-07"
+},
+{
+"id": "poly:1113939",
+"venue": "polymarket",
+"title": "Paris Basketball vs. ASVEL Lyon-Villeurbanne",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5176668"
+],
+"closeTime": "2026-10-07T18:45:00Z",
+"url": "https://polymarket.com/event/euroleague-paris-lyonvill-2026-10-07"
+},
+{
+"id": "poly:1110635",
+"venue": "polymarket",
+"title": "Israel accuses Iran/proxies of plane stabbing incident by Oct 31?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5164765"
+],
+"closeTime": "2026-11-01T03:59:00Z",
+"url": "https://polymarket.com/event/israel-accuses-iranproxies-of-plane-stabbing-incident-by-oct-31"
+},
+{
+"id": "poly:1113725",
+"venue": "polymarket",
+"title": "Milwaukee Brewers vs. San Diego Padres",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5175507"
+],
+"closeTime": "2026-10-15T02:00:00Z",
+"url": "https://polymarket.com/event/mlb-mil-sd-2026-10-07"
+},
+{
+"id": "poly:999619",
+"venue": "polymarket",
+"title": "Penguins vs. Capitals",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:4440794"
+],
+"closeTime": "2026-10-07T23:30:00Z",
+"url": "https://polymarket.com/event/nhl-pit-wsh-2026-10-07"
+},
+{
+"id": "poly:1133588",
+"venue": "polymarket",
+"title": "Valorant: 100 Thieves vs G2 Esports (BO3) - VCT Champions Playoffs",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5305649"
+],
+"closeTime": "2026-10-08T15:00:00Z",
+"url": "https://polymarket.com/event/val-100t1-g21-2026-10-08"
+},
+{
+"id": "poly:267102",
+"venue": "polymarket",
+"title": "Kharg Island no longer under Iranian control by...?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5081860"
+],
+"closeTime": "2027-01-01T04:59:00Z",
+"url": "https://polymarket.com/event/kharg-island-no-longer-under-iranian-control-by-march-31"
+},
+{
+"id": "poly:1143861",
+"venue": "polymarket",
+"title": "Counter-Strike: Noir Verse vs Fire Flux Esports (BO3) - CCT Europe Closed Qualifier: Series #11 Group B",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5381784"
+],
+"closeTime": "2026-10-07T23:35:00Z",
+"url": "https://polymarket.com/event/cs2-noirve-ff-2026-10-07"
+},
+{
+"id": "poly:192787",
+"venue": "polymarket",
+"title": "What will Gold (GC) hit__ by end of December?",
+"category": "Other",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:1294368"
+],
+"closeTime": "2027-01-01T04:59:00Z",
+"url": "https://polymarket.com/event/what-will-gold-gc-hit-by-end-of-december"
+},
+{
+"id": "poly:166565",
+"venue": "polymarket",
+"title": "Will the 2026 Midterm Elections happen as scheduled?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:1193650"
+],
+"closeTime": "2027-01-01T04:59:00Z",
+"url": "https://polymarket.com/event/will-the-2026-midterm-elections-happen-as-scheduled"
+},
+{
+"id": "poly:1141834",
+"venue": "polymarket",
+"title": "Counter-Strike: Bounty Hunters Esports vs Procyon Gaming (BO3) - ESL Challenger League South America Cup #3 Playoffs",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5392202"
+],
+"closeTime": "2026-10-08T03:00:00Z",
+"url": "https://polymarket.com/event/cs2-bhe-pcy-2026-10-07"
+},
+{
+"id": "poly:1112490",
+"venue": "polymarket",
+"title": "Warriors vs. Trail Blazers",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5171510"
+],
+"closeTime": "2026-10-08T02:00:00Z",
+"url": "https://polymarket.com/event/nba-gsw-por-2026-10-07"
+},
+{
+"id": "poly:994461",
+"venue": "polymarket",
+"title": "OpenAI announces another Millennium Prize solution by...?",
+"category": "Tech",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:4412200"
+],
+"closeTime": "2028-01-01T04:59:00Z",
+"url": "https://polymarket.com/event/openai-announces-another-millennium-prize-solution-by"
+},
+{
+"id": "poly:1075378",
+"venue": "polymarket",
+"title": "Clube do Remo vs. Gr\u00eamio FBPA",
+"category": "Sports",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:4911446"
+],
+"closeTime": "2026-10-07T22:30:00Z",
+"url": "https://polymarket.com/event/bra-cre-gre-2026-10-07"
+},
+{
+"id": "poly:770450",
+"venue": "polymarket",
+"title": "Fed Decision in December?",
+"category": "Economics",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:3215009"
+],
+"closeTime": "2026-12-10T04:59:00Z",
+"url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632"
+},
+{
+"id": "poly:166780",
+"venue": "polymarket",
+"title": "Bulgaria Presidential Election",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:1194643"
+],
+"closeTime": "2026-10-26T03:59:00Z",
+"url": "https://polymarket.com/event/bulgaria-presidential-election"
+},
+{
+"id": "poly:255195",
+"venue": "polymarket",
+"title": "Iran leadership change by...?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:3399450"
+],
+"closeTime": "2027-07-01T03:59:00Z",
+"url": "https://polymarket.com/event/iran-leadership-change-by"
+},
+{
+"id": "poly:1111338",
+"venue": "polymarket",
+"title": "Timberwolves vs. Pacers",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5167480"
+],
+"closeTime": "2026-10-07T23:00:00Z",
+"url": "https://polymarket.com/event/nba-min-ind-2026-10-07"
+},
+{
+"id": "poly:1083681",
+"venue": "polymarket",
+"title": "BV Borussia 09 Dortmund vs. SV Werder Bremen",
+"category": "Sports",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:4970404"
+],
+"closeTime": "2026-10-09T18:30:00Z",
+"url": "https://polymarket.com/event/bun-dor-wer-2026-10-09"
+},
+{
+"id": "poly:1110420",
+"venue": "polymarket",
+"title": "Cricket World Cup League 2: USA vs Namibia",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5163200"
+],
+"closeTime": "2026-10-14T15:00:00Z",
+"url": "https://polymarket.com/event/crint-usa-nam-2026-10-07"
+},
+{
+"id": "poly:1143567",
+"venue": "polymarket",
+"title": "China Open: Karolina Muchova vs Nikola Bartunkova",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5378879"
+],
+"closeTime": "2026-10-15T03:00:00Z",
+"url": "https://polymarket.com/event/wta-muchova-bartunk-2026-10-07"
+},
+{
+"id": "poly:48978",
+"venue": "polymarket",
+"title": "Will Ukraine recapture Crimean territory by...?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:2374271"
+],
+"closeTime": "2027-07-01T03:59:00Z",
+"url": "https://polymarket.com/event/will-ukraine-recapture-crimean-territory-by-june-30-2026"
+},
+{
+"id": "poly:57658",
+"venue": "polymarket",
+"title": "Michigan Senate Election Winner",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:630805"
+],
+"closeTime": "2026-11-04T04:59:00Z",
+"url": "https://polymarket.com/event/michigan-senate-election-winner"
+},
+{
+"id": "poly:212877",
+"venue": "polymarket",
+"title": "Will Samuel Alito announce his retirement by...?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:1388704"
+],
+"closeTime": "2027-07-01T03:59:00Z",
+"url": "https://polymarket.com/event/will-samuel-alito-announce-his-retirement-by"
+},
+{
+"id": "poly:995996",
+"venue": "polymarket",
+"title": "Will Iran target an Arab country by...?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:4424722"
+],
+"closeTime": "2026-10-31T20:59:00Z",
+"url": "https://polymarket.com/event/will-iran-target-an-arab-country-by-20260909"
+},
+{
+"id": "poly:1141914",
+"venue": "polymarket",
+"title": "Russia pneumonic plague spreads abroad?",
+"category": "Tech",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5369960"
+],
+"closeTime": "2027-01-01T04:59:00Z",
+"url": "https://polymarket.com/event/russia-pneumonic-plague-spreads-abroad"
+},
+{
+"id": "poly:1096286",
+"venue": "polymarket",
+"title": "Real Betis Balompi\u00e9 vs. CA Osasuna",
+"category": "Sports",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:5065315"
+],
+"closeTime": "2026-10-11T16:30:00Z",
+"url": "https://polymarket.com/event/lal-bet-osa-2026-10-11"
+},
+{
+"id": "poly:1111336",
+"venue": "polymarket",
+"title": "Bucks vs. Thunder",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5167474"
+],
+"closeTime": "2026-10-08T00:00:00Z",
+"url": "https://polymarket.com/event/nba-mil-okc-2026-10-07"
+},
+{
+"id": "poly:455875",
+"venue": "polymarket",
+"title": "Strait of Hormuz traffic returns to normal by December 31?",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:2176270"
+],
+"closeTime": "2027-01-01T04:59:00Z",
+"url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-december-31"
+},
+{
+"id": "poly:191532",
+"venue": "polymarket",
+"title": "NC-04 House Election Winner",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:1284017"
+],
+"closeTime": "2026-11-04T04:59:00Z",
+"url": "https://polymarket.com/event/nc-04-house-election-winner"
+},
+{
+"id": "poly:1127456",
+"venue": "polymarket",
+"title": "Villena: Abedallah Shelbayh vs David Jorda Sanchis",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5259079"
+],
+"closeTime": "2026-10-12T09:00:00Z",
+"url": "https://polymarket.com/event/atp-shelbay-sanchis-2026-10-05"
+},
+{
+"id": "poly:1136527",
+"venue": "polymarket",
+"title": "Shanghai Rolex Masters: Adolfo Vallejo vs Valentin Royer",
+"category": "Sports",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5320349"
+],
+"closeTime": "2026-10-14T02:00:00Z",
+"url": "https://polymarket.com/event/atp-vallejo-royer-2026-10-06"
+},
+{
+"id": "poly:1103971",
+"venue": "polymarket",
+"title": "Louisiana enacts data center moratorium by...?",
+"category": "Tech",
+"mutuallyExclusive": false,
+"marketIds": [
+"poly:5179176"
+],
+"closeTime": "2029-01-01T04:59:00Z",
+"url": "https://polymarket.com/event/louisiana-enacts-data-center-moratorium-by-20260929"
+},
+{
+"id": "poly:31406",
+"venue": "polymarket",
+"title": "Nobel Peace Prize Winner 2025 ",
+"category": "Politics",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:560856",
+"poly:560857",
+"poly:560858",
+"poly:560859",
+"poly:560860",
+"poly:560861",
+"poly:560862",
+"poly:560863",
+"poly:560864",
+"poly:560865",
+"poly:560866",
+"poly:560867",
+"poly:560868",
+"poly:560869",
+"poly:560870",
+"poly:560871",
+"poly:560872",
+"poly:560873",
+"poly:560874",
+"poly:560875",
+"poly:560876",
+"poly:560877",
+"poly:560878",
+"poly:560879",
+"poly:560880",
+"poly:560881",
+"poly:560882",
+"poly:560883",
+"poly:560884",
+"poly:560885",
+"poly:560886",
+"poly:560887",
+"poly:560888",
+"poly:560889",
+"poly:560890"
+],
+"closeTime": "2025-10-10T00:00:00Z",
+"url": "https://polymarket.com/event/nobel-peace-prize-winner-2025"
+},
+{
+"id": "kalshi:KXFED-26OCT",
+"venue": "kalshi",
+"title": "Fed funds rate after Oct 2026 meeting?",
+"category": "Economics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXFED-26OCT-T2.75",
+"kalshi:KXFED-26OCT-T3.00",
+"kalshi:KXFED-26OCT-T3.25",
+"kalshi:KXFED-26OCT-T3.50",
+"kalshi:KXFED-26OCT-T3.75",
+"kalshi:KXFED-26OCT-T4.00",
+"kalshi:KXFED-26OCT-T4.25",
+"kalshi:KXFED-26OCT-T4.50",
+"kalshi:KXFED-26OCT-T4.75",
+"kalshi:KXFED-26OCT-T5.00",
+"kalshi:KXFED-26OCT-T5.25"
+],
+"closeTime": "2026-10-28T17:55:00Z",
+"url": "https://kalshi.com/markets/kxfed"
+},
+{
+"id": "poly:481717",
+"venue": "polymarket",
+"title": "Fed Decision in September?",
+"category": "Economics",
+"mutuallyExclusive": true,
+"marketIds": [
+"poly:2252242",
+"poly:2252243",
+"poly:2252244",
+"poly:2252245",
+"poly:2252246"
+],
+"closeTime": "2026-09-16T00:00:00Z",
+"url": "https://polymarket.com/event/fed-decision-in-september-762"
+}
+]

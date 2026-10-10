@@ -1,0 +1,2002 @@
+[
+{
+"marketId": "poly:5337595",
+"ts": 1791406089,
+"side": "yes",
+"price": 0.001,
+"size": 11499.64,
+"wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+"walletLabel": "Rusty-Eagle",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791406002,
+"side": "yes",
+"price": 0.001,
+"size": 468.41,
+"wallet": "0x03202396163ce34208eb69bb1e07010f321c3757",
+"walletLabel": "Beloved-Hearsay",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791405882,
+"side": "yes",
+"price": 0.001,
+"size": 16.7,
+"wallet": "0x6daae04265d65cb2aae7fe6db4210568de7d954a",
+"walletLabel": "Well-Made-Birch-Allergist",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791405765,
+"side": "yes",
+"price": 0.001,
+"size": 5.74,
+"wallet": "0x5d8b6a8e16d23cca68a9e6e3a87049f44dbc2c89",
+"walletLabel": "Best-Fiddle",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791405735,
+"side": "yes",
+"price": 0.001,
+"size": 1387.41,
+"wallet": "0x87b4249418973fefd73725d1e9aff459c6f52e5c",
+"walletLabel": "Glistening-Buzz",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791405696,
+"side": "yes",
+"price": 0.001,
+"size": 3028.31,
+"wallet": "0x25576f200546e4c195f7cb30bb353b9529ffcc5b",
+"walletLabel": "Humiliating-Injustice-Navigation",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791405647,
+"side": "yes",
+"price": 0.001,
+"size": 36.23,
+"wallet": "0x76bba113f67e5903eb73548ce129d28060394548",
+"walletLabel": "Tame-Saint",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791405642,
+"side": "yes",
+"price": 0.001,
+"size": 14.79,
+"wallet": "0x286840279aa11b6027625f8dbb758fcde8b88fac",
+"walletLabel": "Half-Label-Colony",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791405531,
+"side": "yes",
+"price": 0.001,
+"size": 1.58,
+"wallet": "0x055693d7dcbe91e31b00e3b1fd3852cb94e44fd8",
+"walletLabel": "Tremendous-Pompom",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791405492,
+"side": "yes",
+"price": 0.001,
+"size": 5.33,
+"wallet": "0x98dc77d25a1dfc40e68d4dc911715c672d0ee3f0",
+"walletLabel": "Decimal-Suspension",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791405476,
+"side": "yes",
+"price": 0.001,
+"size": 61.71,
+"wallet": "0x4374833a7a52c2b8545ef1da3dcf5d3300b93d05",
+"walletLabel": "Overlooked-Dwelling",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791405344,
+"side": "yes",
+"price": 0.001,
+"size": 62.79,
+"wallet": "0x99584af850e7249365af3cc6e954b76a2b33b9ac",
+"walletLabel": "Giddy-Review",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791405290,
+"side": "yes",
+"price": 0.001,
+"size": 22.76,
+"wallet": "0xae093968fc73edf7736d2224892a28dbbe1f4d75",
+"walletLabel": "Visible-Belief",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791405267,
+"side": "yes",
+"price": 0.001,
+"size": 249.86,
+"wallet": "0x9befa1c5fa78eac2965dfacab5b38e1450966ca5",
+"walletLabel": "Vibrant-Instructor-Inclusion",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791405260,
+"side": "yes",
+"price": 0.001,
+"size": 16.46,
+"wallet": "0xbf39c303bb8b7f061e3721fa14bf781a590f3394",
+"walletLabel": "Woozy-Grandfather",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791405242,
+"side": "yes",
+"price": 0.001,
+"size": 18.65,
+"wallet": "0x6e5bc791e132cc7d4e01154ab3b8287c2c5144a5",
+"walletLabel": "Decisive-Vibraphone",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791405225,
+"side": "yes",
+"price": 0.001,
+"size": 483.47,
+"wallet": "0xf32de5829daae9ab35a9ece9200bc0a43f64bbbb",
+"walletLabel": "Vibrant-Millennium",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791405185,
+"side": "yes",
+"price": 0.001,
+"size": 37.06,
+"wallet": "0x201b4b055ec6d663aa5e42cb1487de2e72999e8c",
+"walletLabel": "Extraneous-Thunderstorm-Lifetime",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791405177,
+"side": "yes",
+"price": 0.001,
+"size": 34.75,
+"wallet": "0xe516e6c3f1275af655e22136ca69a3a43a4f76fd",
+"walletLabel": "Right-Electronics-Pruner",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791405116,
+"side": "yes",
+"price": 0.001,
+"size": 7.99,
+"wallet": "0x952718df56ab7955e0a0121a9e47fa8f52b6888b",
+"walletLabel": "Plain-Hazel-Suffocation",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791405062,
+"side": "yes",
+"price": 0.001,
+"size": 2.05,
+"wallet": "0x767ab66a8019d21d8be9590c94ef54b43850193d",
+"walletLabel": null,
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791405042,
+"side": "yes",
+"price": 0.001,
+"size": 189.8,
+"wallet": "0x26bdb15bb23ad00ad01d9927576edc5882f7e53b",
+"walletLabel": "Cute-Tuxedo",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791405020,
+"side": "yes",
+"price": 0.001,
+"size": 8.27,
+"wallet": "0xd68cad217ef18408ecdcd6a3571252e7ffdd77e0",
+"walletLabel": "Impassioned-Performance",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791405018,
+"side": "yes",
+"price": 0.001,
+"size": 2.02,
+"wallet": "0xa56dc583b887a8f49f66d00fac99798741ca2d84",
+"walletLabel": "Queasy-Synonym",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791405011,
+"side": "yes",
+"price": 0.001,
+"size": 75.39,
+"wallet": "0xf5ebaf28b43e39ada4efd4b4780e628a36f6f1ed",
+"walletLabel": "Klutzy-Brother",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404999,
+"side": "yes",
+"price": 0.001,
+"size": 18.04,
+"wallet": "0x5b6331e7ff0831a3fe2ed12004747db1a9c911a4",
+"walletLabel": "Monstrous-Dew",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404985,
+"side": "yes",
+"price": 0.001,
+"size": 199.97,
+"wallet": "0xc0c8ba933ce52cdeff6cc42ecc23824ca19697b4",
+"walletLabel": "Sarcastic-Validate",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404985,
+"side": "yes",
+"price": 0.001,
+"size": 74.5,
+"wallet": "0xf3b822ea0066afa6f44a3d8e09353aa5f5774e76",
+"walletLabel": "Shameful-Goose-Heel",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404954,
+"side": "yes",
+"price": 0.001,
+"size": 1000.0,
+"wallet": "0x36857d24bdbec85999b1ab312b0ca7a3327d3317",
+"walletLabel": null,
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404942,
+"side": "yes",
+"price": 0.001,
+"size": 40.61,
+"wallet": "0xbc6cb43673d09ff68c46a0c28c510b0fb0a78ceb",
+"walletLabel": "Evil-Neurobiologist",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404942,
+"side": "yes",
+"price": 0.001,
+"size": 1000.0,
+"wallet": "0x8ec3910d26bf5f886484e76bfb4a1987dd2c9766",
+"walletLabel": "Vengeful-Buzzard",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404919,
+"side": "yes",
+"price": 0.001,
+"size": 4336.4,
+"wallet": "0xc6beb58b302adbc88a64b34e8f991c283dffa0f3",
+"walletLabel": "Impressive-Dresser",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404903,
+"side": "yes",
+"price": 0.001,
+"size": 80.0,
+"wallet": "0x377d1929a14bd380c8d23154d2b8d1bbb33b1825",
+"walletLabel": "Thirsty-Detector",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404902,
+"side": "yes",
+"price": 0.001,
+"size": 20.0,
+"wallet": "0x23d8c538e74324cd56df9197e67e146a29dff6b9",
+"walletLabel": "Mature-Eyelash",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404902,
+"side": "yes",
+"price": 0.001,
+"size": 14.0,
+"wallet": "0xc520df01f36d1ad744114a24a4f2d6c6164fd43c",
+"walletLabel": "Elated-Input-Duty",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404899,
+"side": "yes",
+"price": 0.001,
+"size": 2.35,
+"wallet": "0xfb7bad0e6572d24136b66a4cf3bf22e83ae8027c",
+"walletLabel": "Nippy-Chapter",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404884,
+"side": "yes",
+"price": 0.001,
+"size": 543.55,
+"wallet": "0xf3ac5d2e5f653560cbff6d2502bcbe540633c9f4",
+"walletLabel": "Parallel-Hyena",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404884,
+"side": "yes",
+"price": 0.001,
+"size": 96.25,
+"wallet": "0x94bb4118fe6a319a0cf703f8dd0f258602b541c6",
+"walletLabel": "Humble-Photoreceptor-Origin",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404882,
+"side": "yes",
+"price": 0.001,
+"size": 9.86,
+"wallet": "0x4b60f0867e89c9f404966223054942fc8fe76b24",
+"walletLabel": "Same-Waistband-Quart",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404879,
+"side": "yes",
+"price": 0.001,
+"size": 109.99,
+"wallet": "0x42a1b2b43134d83f6ec639de4c2b40aa2a36a8e9",
+"walletLabel": "Wiry-Avenue",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404876,
+"side": "yes",
+"price": 0.001,
+"size": 22.02,
+"wallet": "0xd6aa7e2a3b61a65afc7e886d02171458255e4f26",
+"walletLabel": "Careless-Vegetarian",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404866,
+"side": "yes",
+"price": 0.001,
+"size": 1032.79,
+"wallet": "0x9c4db21669d5c5b48c0655761b4fedd646e6168c",
+"walletLabel": "Puny-Signify",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404866,
+"side": "yes",
+"price": 0.001,
+"size": 57.5,
+"wallet": "0xd72f83fcb36648d02e8df94b67714bdf6491d874",
+"walletLabel": null,
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404866,
+"side": "yes",
+"price": 0.001,
+"size": 308.09,
+"wallet": "0x0d642d3b2c566b989d0205f961bb42226a5a7857",
+"walletLabel": "Pleasing-Millennium-Innocence",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404864,
+"side": "yes",
+"price": 0.001,
+"size": 17.9,
+"wallet": "0xb777855557b476e969d552ca7e64cccd1e6c8703",
+"walletLabel": null,
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404863,
+"side": "yes",
+"price": 0.001,
+"size": 7.7,
+"wallet": "0x911bca4d2041413077226c5c5aa4a761f7d1f4b5",
+"walletLabel": "Worldly-Normal",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404863,
+"side": "yes",
+"price": 0.001,
+"size": 35.65,
+"wallet": "0x8f01e8003c54d0f1151a228306eb05bb15f66419",
+"walletLabel": null,
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404863,
+"side": "yes",
+"price": 0.001,
+"size": 2880.82,
+"wallet": "0xd6771bf957cab6a10fcb8e2c8c6db9713cf37579",
+"walletLabel": "Haunting-Decision",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404860,
+"side": "yes",
+"price": 0.001,
+"size": 7.04,
+"wallet": "0x4f87cf20ef5670723b17d971630dca178b36f04e",
+"walletLabel": "Far-Flung-Monastery",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404855,
+"side": "no",
+"price": 0.001,
+"size": 5878.38,
+"wallet": "0xa16a1302ca05463f30faebeb5c045767fde233a1",
+"walletLabel": "Every-Alligator",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404854,
+"side": "no",
+"price": 0.001,
+"size": 10.0,
+"wallet": "0x2db098d402c3f90531380b03834791b3744c2fed",
+"walletLabel": "Burdensome-Bidding",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404854,
+"side": "no",
+"price": 0.002,
+"size": 250.92,
+"wallet": "0x2518940d122e38d235d367ea4557eaff2796254f",
+"walletLabel": "Doting-Shoulder",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404848,
+"side": "yes",
+"price": 0.009,
+"size": 1.18,
+"wallet": "0xf5ab6eb7ab0e524403a1dfd65d2fe61ba733584d",
+"walletLabel": "Brief-Consignment",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404842,
+"side": "yes",
+"price": 0.0099,
+"size": 4565.2,
+"wallet": "0x56c9fbdeccf198f1f5ad95ace39b24f5f7fb0d9e",
+"walletLabel": "Wrathful-Row",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404833,
+"side": "yes",
+"price": 0.009,
+"size": 5.0,
+"wallet": "0xc546071d20d315966fa50bb7469127d32edf058e",
+"walletLabel": "Personal-Slate-Mezzanine",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404833,
+"side": "yes",
+"price": 0.0098141389,
+"size": 1291.61,
+"wallet": "0x3e591ae11c107331790396ab098f339561212a66",
+"walletLabel": "Scrawny-Windshield-Equation",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404831,
+"side": "no",
+"price": 0.0024,
+"size": 300.712,
+"wallet": "0x03202396163ce34208eb69bb1e07010f321c3757",
+"walletLabel": "Beloved-Hearsay",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404831,
+"side": "yes",
+"price": 0.01,
+"size": 19.98,
+"wallet": "0xe2cc7999bfdd4cbe1e0bbdaa32840c5e0b10893c",
+"walletLabel": null,
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404830,
+"side": "no",
+"price": 0.005,
+"size": 32.82,
+"wallet": "0xc785252b25901a591e9d962e09f4342468444ef2",
+"walletLabel": "Mean-Recruit-Idea",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404830,
+"side": "yes",
+"price": 0.009,
+"size": 39.93,
+"wallet": "0xd6771bf957cab6a10fcb8e2c8c6db9713cf37579",
+"walletLabel": "Haunting-Decision",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404830,
+"side": "yes",
+"price": 0.009,
+"size": 789.34,
+"wallet": "0x2c4cf6161ac648ce1e99bbf70945a111998face7",
+"walletLabel": "Perfumed-Understatement",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404830,
+"side": "yes",
+"price": 0.01,
+"size": 5.07,
+"wallet": "0xcf475caf6ea8912afa2ff973427e9683dd85d019",
+"walletLabel": "Irresponsible-Clasp",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404828,
+"side": "yes",
+"price": 0.0289999996,
+"size": 64.137932,
+"wallet": "0xc785252b25901a591e9d962e09f4342468444ef2",
+"walletLabel": "Mean-Recruit-Idea",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404828,
+"side": "no",
+"price": 0.0218,
+"size": 500.0,
+"wallet": "0x4ddc7068ef679dc7c34e2c22411975baa1b9e73f",
+"walletLabel": "Potable-Map-Chicken",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404828,
+"side": "no",
+"price": 0.0126,
+"size": 844.12,
+"wallet": "0xd487f513cfead22d76b6db4567c756b3cf25053e",
+"walletLabel": "Scary-Pearl",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404828,
+"side": "no",
+"price": 0.0176,
+"size": 250.415588,
+"wallet": "0x0d2d845a6ff64e31e04a70afce8a573940767ff5",
+"walletLabel": "Sympathetic-Back",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404827,
+"side": "yes",
+"price": 0.0299961778,
+"size": 225.0,
+"wallet": "0xe91171f655be1568e4c63f29663c0028649e3d4e",
+"walletLabel": "Yawning-Chicken",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404827,
+"side": "no",
+"price": 0.0350547189,
+"size": 239.04,
+"wallet": "0x2518940d122e38d235d367ea4557eaff2796254f",
+"walletLabel": "Doting-Shoulder",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404825,
+"side": "no",
+"price": 0.0525,
+"size": 530.11,
+"wallet": "0xfc23869c29e0cda2b3d379c4aa665bbe5b3c2f5e",
+"walletLabel": "Insistent-Workhorse",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404822,
+"side": "yes",
+"price": 0.079,
+"size": 5.07,
+"wallet": "0x2d1eeb1c3e188728d343635065bb9eeee9588213",
+"walletLabel": "Neighboring-Tofu",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404821,
+"side": "yes",
+"price": 0.0835,
+"size": 103.0,
+"wallet": "0xbb6863701a25839dfea191c411a5fc2e97c29bf0",
+"walletLabel": "Tempting-Subcomponent",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404819,
+"side": "yes",
+"price": 0.0747,
+"size": 210.67,
+"wallet": "0x2c4cf6161ac648ce1e99bbf70945a111998face7",
+"walletLabel": "Perfumed-Understatement",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404812,
+"side": "no",
+"price": 0.06,
+"size": 151.18,
+"wallet": "0x9c4db21669d5c5b48c0655761b4fedd646e6168c",
+"walletLabel": "Puny-Signify",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404810,
+"side": "no",
+"price": 0.06,
+"size": 2.021277,
+"wallet": "0xa56dc583b887a8f49f66d00fac99798741ca2d84",
+"walletLabel": "Queasy-Synonym",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404809,
+"side": "no",
+"price": 0.0609,
+"size": 10.648937,
+"wallet": "0x6b23c73159b753c96d3c1ed94413f113300c04a3",
+"walletLabel": "Spiffy-Patty",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404809,
+"side": "no",
+"price": 0.06,
+"size": 33.404256,
+"wallet": "0xb4cd4d6fe596f360137e5a0441fecc4e1ec9c041",
+"walletLabel": "Wrong-Respite",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404807,
+"side": "no",
+"price": 0.0813,
+"size": 1464.66,
+"wallet": "0x10ef48324b3ebc06d9137794c70285e8e37a7d7b",
+"walletLabel": "Fat-Septicaemia",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404804,
+"side": "yes",
+"price": 0.092,
+"size": 30.0,
+"wallet": "0x90b3b3bb15c0278f2a97e5c4f05f088aa1bda37e",
+"walletLabel": "Insignificant-Lapdog-Clogs",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404797,
+"side": "no",
+"price": 0.09,
+"size": 142.34,
+"wallet": "0x56c9fbdeccf198f1f5ad95ace39b24f5f7fb0d9e",
+"walletLabel": "Wrathful-Row",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404797,
+"side": "no",
+"price": 0.09,
+"size": 10.0,
+"wallet": "0x56c9fbdeccf198f1f5ad95ace39b24f5f7fb0d9e",
+"walletLabel": "Wrathful-Row",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404792,
+"side": "no",
+"price": 0.089,
+"size": 40.614707,
+"wallet": "0xbc6cb43673d09ff68c46a0c28c510b0fb0a78ceb",
+"walletLabel": "Evil-Neurobiologist",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404791,
+"side": "yes",
+"price": 0.0871457721,
+"size": 1042.506112,
+"wallet": "0x2a97e8680fbed0ffcb4661cac73b066dd3e12ffb",
+"walletLabel": "Shimmering-Wave",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404791,
+"side": "yes",
+"price": 0.0957891905,
+"size": 2663.45293,
+"wallet": "0xa278b41b5afda5d18da683eb7f851a7b2dc13369",
+"walletLabel": "Organic-Networking",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404791,
+"side": "yes",
+"price": 0.0992346667,
+"size": 150.0,
+"wallet": "0x952718df56ab7955e0a0121a9e47fa8f52b6888b",
+"walletLabel": "Plain-Hazel-Suffocation",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404786,
+"side": "no",
+"price": 0.08,
+"size": 145.9,
+"wallet": "0x56c9fbdeccf198f1f5ad95ace39b24f5f7fb0d9e",
+"walletLabel": "Wrathful-Row",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404786,
+"side": "no",
+"price": 0.08,
+"size": 146.46,
+"wallet": "0x9c4db21669d5c5b48c0655761b4fedd646e6168c",
+"walletLabel": "Puny-Signify",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404785,
+"side": "yes",
+"price": 0.0853230225,
+"size": 82.041163,
+"wallet": "0x0354058d0793b79b270894f881ecdc79e8c34de4",
+"walletLabel": "Ancient-Fanlight-Amnesty",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404782,
+"side": "no",
+"price": 0.0764,
+"size": 453.95,
+"wallet": "0x56c9fbdeccf198f1f5ad95ace39b24f5f7fb0d9e",
+"walletLabel": "Wrathful-Row",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404779,
+"side": "yes",
+"price": 0.086,
+"size": 0.8,
+"wallet": "0xb4cd4d6fe596f360137e5a0441fecc4e1ec9c041",
+"walletLabel": "Wrong-Respite",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404779,
+"side": "yes",
+"price": 0.0846,
+"size": 793.7,
+"wallet": "0x31864feb9d25dee93728c6225ba891530967e9ca",
+"walletLabel": "Solid-Grit",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404777,
+"side": "yes",
+"price": 0.0798031938,
+"size": 272.04425,
+"wallet": "0xeea18a2c461975d2c6769c50b90f963d12be9fac",
+"walletLabel": "Dapper-Testimony-Parrot",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404776,
+"side": "no",
+"price": 0.073,
+"size": 10.59,
+"wallet": "0x56c9fbdeccf198f1f5ad95ace39b24f5f7fb0d9e",
+"walletLabel": "Wrathful-Row",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404773,
+"side": "no",
+"price": 0.073,
+"size": 17.907228,
+"wallet": "0xb777855557b476e969d552ca7e64cccd1e6c8703",
+"walletLabel": null,
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404771,
+"side": "yes",
+"price": 0.08,
+"size": 7.38,
+"wallet": "0x7e8b4fd8f392de0e8ef06778ba0a0d69864a1b3a",
+"walletLabel": "Gaseous-Omega-Homogenate",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404770,
+"side": "no",
+"price": 0.0804,
+"size": 314.07,
+"wallet": "0x56c9fbdeccf198f1f5ad95ace39b24f5f7fb0d9e",
+"walletLabel": "Wrathful-Row",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404765,
+"side": "no",
+"price": 0.084,
+"size": 675.58,
+"wallet": "0x56c9fbdeccf198f1f5ad95ace39b24f5f7fb0d9e",
+"walletLabel": "Wrathful-Row",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404764,
+"side": "no",
+"price": 0.0801,
+"size": 543.549457,
+"wallet": "0xf3ac5d2e5f653560cbff6d2502bcbe540633c9f4",
+"walletLabel": "Parallel-Hyena",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404764,
+"side": "yes",
+"price": 0.0821687782,
+"size": 161.81,
+"wallet": "0x84ad9c5c547a82ec9a08547b94bd922446e5bfb7",
+"walletLabel": "Happy-Go-Lucky-Min",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404761,
+"side": "no",
+"price": 0.082,
+"size": 47.04,
+"wallet": "0x9c4db21669d5c5b48c0655761b4fedd646e6168c",
+"walletLabel": "Puny-Signify",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404761,
+"side": "no",
+"price": 0.083,
+"size": 51.56,
+"wallet": "0x56c9fbdeccf198f1f5ad95ace39b24f5f7fb0d9e",
+"walletLabel": "Wrathful-Row",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404759,
+"side": "yes",
+"price": 0.086,
+"size": 33.06,
+"wallet": "0x25576f200546e4c195f7cb30bb353b9529ffcc5b",
+"walletLabel": "Humiliating-Injustice-Navigation",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404759,
+"side": "yes",
+"price": 0.085999999,
+"size": 71.976745,
+"wallet": "0x25576f200546e4c195f7cb30bb353b9529ffcc5b",
+"walletLabel": "Humiliating-Injustice-Navigation",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404759,
+"side": "no",
+"price": 0.083,
+"size": 27.31,
+"wallet": "0xb777855557b476e969d552ca7e64cccd1e6c8703",
+"walletLabel": null,
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404756,
+"side": "yes",
+"price": 0.08295,
+"size": 100.0,
+"wallet": "0xf0dad340e363a1af5ffbc5a5fdeec45f1381749b",
+"walletLabel": "Common-Glory",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404755,
+"side": "yes",
+"price": 0.0831181793,
+"size": 393.47,
+"wallet": "0x84ad9c5c547a82ec9a08547b94bd922446e5bfb7",
+"walletLabel": "Happy-Go-Lucky-Min",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404753,
+"side": "no",
+"price": 0.0851,
+"size": 82.03,
+"wallet": "0x56c9fbdeccf198f1f5ad95ace39b24f5f7fb0d9e",
+"walletLabel": "Wrathful-Row",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404750,
+"side": "yes",
+"price": 0.0869480535,
+"size": 585.41,
+"wallet": "0x84ad9c5c547a82ec9a08547b94bd922446e5bfb7",
+"walletLabel": "Happy-Go-Lucky-Min",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404750,
+"side": "yes",
+"price": 0.0859999998,
+"size": 11.627907,
+"wallet": "0x8ec3910d26bf5f886484e76bfb4a1987dd2c9766",
+"walletLabel": "Vengeful-Buzzard",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404749,
+"side": "yes",
+"price": 0.074,
+"size": 52.0,
+"wallet": "0x2c4cf6161ac648ce1e99bbf70945a111998face7",
+"walletLabel": "Perfumed-Understatement",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404746,
+"side": "no",
+"price": 0.0735,
+"size": 77.04,
+"wallet": "0xc6beb58b302adbc88a64b34e8f991c283dffa0f3",
+"walletLabel": "Impressive-Dresser",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404744,
+"side": "yes",
+"price": 0.086,
+"size": 531.395349,
+"wallet": "0x9546f8702bc89e0a42ffb543a44741e0a3940bf9",
+"walletLabel": "Wooden-Fritter-Institution",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404744,
+"side": "no",
+"price": 0.0735,
+"size": 65.73,
+"wallet": "0x9c4db21669d5c5b48c0655761b4fedd646e6168c",
+"walletLabel": "Puny-Signify",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404744,
+"side": "yes",
+"price": 0.0855321,
+"size": 534.302326,
+"wallet": "0xeea18a2c461975d2c6769c50b90f963d12be9fac",
+"walletLabel": "Dapper-Testimony-Parrot",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404741,
+"side": "yes",
+"price": 0.0849999977,
+"size": 30.352942,
+"wallet": "0x25576f200546e4c195f7cb30bb353b9529ffcc5b",
+"walletLabel": "Humiliating-Injustice-Navigation",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404741,
+"side": "yes",
+"price": 0.0849999977,
+"size": 30.352942,
+"wallet": "0x25576f200546e4c195f7cb30bb353b9529ffcc5b",
+"walletLabel": "Humiliating-Injustice-Navigation",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404741,
+"side": "yes",
+"price": 0.084140978,
+"size": 30.662824,
+"wallet": "0x25576f200546e4c195f7cb30bb353b9529ffcc5b",
+"walletLabel": "Humiliating-Injustice-Navigation",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404740,
+"side": "yes",
+"price": 0.0839999992,
+"size": 30.714286,
+"wallet": "0x25576f200546e4c195f7cb30bb353b9529ffcc5b",
+"walletLabel": "Humiliating-Injustice-Navigation",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404740,
+"side": "yes",
+"price": 0.073464406,
+"size": 35.119048,
+"wallet": "0x25576f200546e4c195f7cb30bb353b9529ffcc5b",
+"walletLabel": "Humiliating-Injustice-Navigation",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404737,
+"side": "no",
+"price": 0.0733,
+"size": 30.1,
+"wallet": "0x9c4db21669d5c5b48c0655761b4fedd646e6168c",
+"walletLabel": "Puny-Signify",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404735,
+"side": "yes",
+"price": 0.0953309956,
+"size": 1594.13,
+"wallet": "0x60ec17443af511a21945f01430e61c803465f7b0",
+"walletLabel": "Enormous-Vegetable",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404732,
+"side": "no",
+"price": 0.0623,
+"size": 1841.9,
+"wallet": "0xc6beb58b302adbc88a64b34e8f991c283dffa0f3",
+"walletLabel": "Impressive-Dresser",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404728,
+"side": "yes",
+"price": 0.0932306092,
+"size": 409.414894,
+"wallet": "0x9546f8702bc89e0a42ffb543a44741e0a3940bf9",
+"walletLabel": "Wooden-Fritter-Institution",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404728,
+"side": "yes",
+"price": 0.0951112814,
+"size": 401.319375,
+"wallet": "0xeea18a2c461975d2c6769c50b90f963d12be9fac",
+"walletLabel": "Dapper-Testimony-Parrot",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404728,
+"side": "yes",
+"price": 0.073,
+"size": 30.99,
+"wallet": "0x1d1d408f7378a5ce9db1e796b15fb5574aebf2df",
+"walletLabel": "Sore-Afterthought-Room",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404728,
+"side": "yes",
+"price": 0.073,
+"size": 30.0,
+"wallet": "0x505f23d257d23e4a1ec37ff9bca7c88f3bf0645e",
+"walletLabel": "Thick-Ethyl",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404726,
+"side": "yes",
+"price": 0.0724223398,
+"size": 1030.0,
+"wallet": "0x84ad9c5c547a82ec9a08547b94bd922446e5bfb7",
+"walletLabel": "Happy-Go-Lucky-Min",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404717,
+"side": "no",
+"price": 0.0727,
+"size": 311.22,
+"wallet": "0xc6beb58b302adbc88a64b34e8f991c283dffa0f3",
+"walletLabel": "Impressive-Dresser",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404705,
+"side": "no",
+"price": 0.0617,
+"size": 319.732075,
+"wallet": "0xb70c4f38ce25d986a9da3f3190cbae87660934ca",
+"walletLabel": "Front-Gate",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404696,
+"side": "yes",
+"price": 0.077,
+"size": 7.82,
+"wallet": "0x333e32eb5d7e85f22eabacfb7fa585410de9891c",
+"walletLabel": "Weak-College-Jury",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404693,
+"side": "yes",
+"price": 0.0769999999,
+"size": 12.987013,
+"wallet": "0xcdf24fa5e1e6306a232c2214c14ff0ef8308f06d",
+"walletLabel": "Quarterly-Dolor",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404690,
+"side": "yes",
+"price": 0.0729,
+"size": 900.0,
+"wallet": "0x81b4db4da1ba7f9a7ef5bd046d069d61411f12db",
+"walletLabel": "Untrue-Mileage",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404689,
+"side": "no",
+"price": 0.0627,
+"size": 1600.265958,
+"wallet": "0xb70c4f38ce25d986a9da3f3190cbae87660934ca",
+"walletLabel": "Front-Gate",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404686,
+"side": "no",
+"price": 0.072,
+"size": 222.33,
+"wallet": "0x9c4db21669d5c5b48c0655761b4fedd646e6168c",
+"walletLabel": "Puny-Signify",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404683,
+"side": "no",
+"price": 0.074,
+"size": 5.0,
+"wallet": "0x56c9fbdeccf198f1f5ad95ace39b24f5f7fb0d9e",
+"walletLabel": "Wrathful-Row",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404678,
+"side": "yes",
+"price": 0.087,
+"size": 5.0,
+"wallet": "0x26d61145a64b1b5036c82a147dfeb7d56fa0cacc",
+"walletLabel": "Muffled-Frustration",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404677,
+"side": "yes",
+"price": 0.092,
+"size": 129.74,
+"wallet": "0x7cd5b2a057968376826c74e8c378ee36c0472b75",
+"walletLabel": "Ruddy-Blog",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404677,
+"side": "no",
+"price": 0.0868,
+"size": 50.0,
+"wallet": "0x56c9fbdeccf198f1f5ad95ace39b24f5f7fb0d9e",
+"walletLabel": "Wrathful-Row",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404675,
+"side": "yes",
+"price": 0.082,
+"size": 125.55,
+"wallet": "0x00cb3eedc099e8c59b957beceb55205669e7e987",
+"walletLabel": "Oblong-Auction-Bulb",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404675,
+"side": "yes",
+"price": 0.0869633534,
+"size": 19.92,
+"wallet": "0xe2cc7999bfdd4cbe1e0bbdaa32840c5e0b10893c",
+"walletLabel": null,
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404671,
+"side": "no",
+"price": 0.0822,
+"size": 21.62,
+"wallet": "0x56c9fbdeccf198f1f5ad95ace39b24f5f7fb0d9e",
+"walletLabel": "Wrathful-Row",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404665,
+"side": "no",
+"price": 0.0736286645,
+"size": 156.57,
+"wallet": "0xf6ced7761deb6c5e48a2fdbf637150dda8eb3f1d",
+"walletLabel": "Slight-Profile",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404663,
+"side": "no",
+"price": 0.0752304501,
+"size": 260.36,
+"wallet": "0x9c4db21669d5c5b48c0655761b4fedd646e6168c",
+"walletLabel": "Puny-Signify",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404659,
+"side": "no",
+"price": 0.102,
+"size": 5.0,
+"wallet": "0x269aae10ee228a4f4f24767944b1a5012fa72d2c",
+"walletLabel": "Liquid-Disconnection-Sunflower",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404657,
+"side": "no",
+"price": 0.0983232877,
+"size": 47.45,
+"wallet": "0xf3ac5d2e5f653560cbff6d2502bcbe540633c9f4",
+"walletLabel": "Parallel-Hyena",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404657,
+"side": "yes",
+"price": 0.13,
+"size": 5.0,
+"wallet": "0x26d61145a64b1b5036c82a147dfeb7d56fa0cacc",
+"walletLabel": "Muffled-Frustration",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404653,
+"side": "yes",
+"price": 0.158999996,
+"size": 18.867925,
+"wallet": "0xc10d688417ac23bf56321970e8c9b21318088355",
+"walletLabel": "Average-Lap",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404653,
+"side": "no",
+"price": 0.1002,
+"size": 122.244445,
+"wallet": "0x03202396163ce34208eb69bb1e07010f321c3757",
+"walletLabel": "Beloved-Hearsay",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404653,
+"side": "no",
+"price": 0.110846284,
+"size": 64.99,
+"wallet": "0x2518940d122e38d235d367ea4557eaff2796254f",
+"walletLabel": "Doting-Shoulder",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404650,
+"side": "yes",
+"price": 0.14,
+"size": 5.0,
+"wallet": "0xc546071d20d315966fa50bb7469127d32edf058e",
+"walletLabel": "Personal-Slate-Mezzanine",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404650,
+"side": "yes",
+"price": 0.14,
+"size": 0.5,
+"wallet": "0x6e2c0e9474af7d720e5aba2a5b0bb6f723b7787c",
+"walletLabel": "Flaky-Integer",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404648,
+"side": "no",
+"price": 0.1065679946,
+"size": 536.66,
+"wallet": "0xf5292dc2a5f92d3f924763676ddd4c62f80dc3de",
+"walletLabel": "Starchy-Dolman-Condition",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404648,
+"side": "no",
+"price": 0.1477,
+"size": 100.0,
+"wallet": "0xfc23869c29e0cda2b3d379c4aa665bbe5b3c2f5e",
+"walletLabel": "Insistent-Workhorse",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404645,
+"side": "no",
+"price": 0.1606915044,
+"size": 35.43,
+"wallet": "0xb0b9b8bca0e469939c2b2d88361d8234eae1df0c",
+"walletLabel": "Hidden-Past",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404645,
+"side": "no",
+"price": 0.161,
+"size": 0.5,
+"wallet": "0xb4cd4d6fe596f360137e5a0441fecc4e1ec9c041",
+"walletLabel": "Wrong-Respite",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404644,
+"side": "no",
+"price": 0.161,
+"size": 5.0,
+"wallet": "0xb4cd4d6fe596f360137e5a0441fecc4e1ec9c041",
+"walletLabel": "Wrong-Respite",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404644,
+"side": "no",
+"price": 0.1238016372,
+"size": 422.66,
+"wallet": "0x10ef48324b3ebc06d9137794c70285e8e37a7d7b",
+"walletLabel": "Fat-Septicaemia",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404644,
+"side": "yes",
+"price": 0.2336458871,
+"size": 124.0,
+"wallet": "0x155ed2edd10e16738a1698919c34e0a8074576e1",
+"walletLabel": "Alert-Pressure",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404644,
+"side": "no",
+"price": 0.1,
+"size": 398.13,
+"wallet": "0xfc23869c29e0cda2b3d379c4aa665bbe5b3c2f5e",
+"walletLabel": "Insistent-Workhorse",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404644,
+"side": "yes",
+"price": 0.248,
+"size": 5.0,
+"wallet": "0xec2477815529be3a254ba9d00c9a717179b5d744",
+"walletLabel": "Dramatic-Fun",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404642,
+"side": "yes",
+"price": 0.179,
+"size": 10.0,
+"wallet": "0x6e2c0e9474af7d720e5aba2a5b0bb6f723b7787c",
+"walletLabel": "Flaky-Integer",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404642,
+"side": "yes",
+"price": 0.2359800243,
+"size": 412.0,
+"wallet": "0x762d89ab9db7c0c2e87892d3d4631a34783b45a6",
+"walletLabel": "Kooky-Micronutrient",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404642,
+"side": "yes",
+"price": 0.2489271519,
+"size": 158.0,
+"wallet": "0x1d24e4fa945e12d08dd34178223f55f4e46c20b3",
+"walletLabel": "Pushy-Kid",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404642,
+"side": "no",
+"price": 0.11,
+"size": 2.0,
+"wallet": "0x47138dc1eef25f1ea91f3b2fda0e0f455c634d21",
+"walletLabel": "Overjoyed-Limo",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404642,
+"side": "no",
+"price": 0.11,
+"size": 6.0,
+"wallet": "0xbb8ef6381e4a35b4124584cfce1c73137e2508c1",
+"walletLabel": "Legitimate-Brewer",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404642,
+"side": "yes",
+"price": 0.2473252427,
+"size": 412.0,
+"wallet": "0x762d89ab9db7c0c2e87892d3d4631a34783b45a6",
+"walletLabel": "Kooky-Micronutrient",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404641,
+"side": "no",
+"price": 0.184,
+"size": 3.88,
+"wallet": "0x1cd1fc782677009597c8ad5247fb2bcc3925052c",
+"walletLabel": "Cooperative-Progenitor",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404641,
+"side": "no",
+"price": 0.11,
+"size": 16.0,
+"wallet": "0xbb8ef6381e4a35b4124584cfce1c73137e2508c1",
+"walletLabel": "Legitimate-Brewer",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404641,
+"side": "no",
+"price": 0.11,
+"size": 6.0,
+"wallet": "0xbb8ef6381e4a35b4124584cfce1c73137e2508c1",
+"walletLabel": "Legitimate-Brewer",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404641,
+"side": "no",
+"price": 0.11,
+"size": 28.47,
+"wallet": "0xb0b9b8bca0e469939c2b2d88361d8234eae1df0c",
+"walletLabel": "Hidden-Past",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404641,
+"side": "no",
+"price": 0.11,
+"size": 6.0,
+"wallet": "0xbb8ef6381e4a35b4124584cfce1c73137e2508c1",
+"walletLabel": "Legitimate-Brewer",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404641,
+"side": "no",
+"price": 0.184,
+"size": 20.612744,
+"wallet": "0xc785252b25901a591e9d962e09f4342468444ef2",
+"walletLabel": "Mean-Recruit-Idea",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404641,
+"side": "no",
+"price": 0.2282755443,
+"size": 379.83,
+"wallet": "0xfc23869c29e0cda2b3d379c4aa665bbe5b3c2f5e",
+"walletLabel": "Insistent-Workhorse",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404641,
+"side": "no",
+"price": 0.21,
+"size": 312.0,
+"wallet": "0x10ef48324b3ebc06d9137794c70285e8e37a7d7b",
+"walletLabel": "Fat-Septicaemia",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404641,
+"side": "no",
+"price": 0.2,
+"size": 318.0,
+"wallet": "0x6e2c0e9474af7d720e5aba2a5b0bb6f723b7787c",
+"walletLabel": "Flaky-Integer",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404639,
+"side": "no",
+"price": 0.3201,
+"size": 793.72,
+"wallet": "0x31864feb9d25dee93728c6225ba891530967e9ca",
+"walletLabel": "Solid-Grit",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404639,
+"side": "no",
+"price": 0.2901487854,
+"size": 494.0,
+"wallet": "0x31864feb9d25dee93728c6225ba891530967e9ca",
+"walletLabel": "Solid-Grit",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404636,
+"side": "yes",
+"price": 0.3889999977,
+"size": 60.154242,
+"wallet": "0x6e2c0e9474af7d720e5aba2a5b0bb6f723b7787c",
+"walletLabel": "Flaky-Integer",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404632,
+"side": "yes",
+"price": 0.3869999892,
+"size": 25.839794,
+"wallet": "0xb8b6cf9747f2df820115c0558a76c13edf679588",
+"walletLabel": "Shrill-Swivel",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404632,
+"side": "no",
+"price": 0.381,
+"size": 5.0,
+"wallet": "0xc6beb58b302adbc88a64b34e8f991c283dffa0f3",
+"walletLabel": "Impressive-Dresser",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404620,
+"side": "yes",
+"price": 0.3672074468,
+"size": 30.08,
+"wallet": "0x84ad9c5c547a82ec9a08547b94bd922446e5bfb7",
+"walletLabel": "Happy-Go-Lucky-Min",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404620,
+"side": "no",
+"price": 0.3477,
+"size": 200.0,
+"wallet": "0x10d79cc72df76ea3d6bdc2d54f41dbcbbb18bbf6",
+"walletLabel": "Polished-Adjustment",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404620,
+"side": "yes",
+"price": 0.366,
+"size": 2.34,
+"wallet": "0xfb7bad0e6572d24136b66a4cf3bf22e83ae8027c",
+"walletLabel": "Nippy-Chapter",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404615,
+"side": "yes",
+"price": 0.364999937,
+"size": 5.479453,
+"wallet": "0x0378e618775e35574830cde15e9d8ce997302f4c",
+"walletLabel": "Memorable-Questionnaire",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404612,
+"side": "yes",
+"price": 0.3596774567,
+"size": 278.026877,
+"wallet": "0x29965c505664ab27628f1ca1c3f7499fbb9fed4e",
+"walletLabel": "Corrupt-Pentagon-Batter",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404606,
+"side": "no",
+"price": 0.3414,
+"size": 189.802711,
+"wallet": "0x26bdb15bb23ad00ad01d9927576edc5882f7e53b",
+"walletLabel": "Cute-Tuxedo",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404605,
+"side": "yes",
+"price": 0.36,
+"size": 275.0,
+"wallet": "0x0354058d0793b79b270894f881ecdc79e8c34de4",
+"walletLabel": "Ancient-Fanlight-Amnesty",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404603,
+"side": "yes",
+"price": 0.3595608318,
+"size": 139.058528,
+"wallet": "0x9847946048bea6b740c882b660da886d9e61ca61",
+"walletLabel": "Gregarious-Lotion",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404599,
+"side": "yes",
+"price": 0.358,
+"size": 29.99,
+"wallet": "0x1747c91440cf1586335f76c1dc2a2ed0d9494afc",
+"walletLabel": "Limited-Route",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404596,
+"side": "yes",
+"price": 0.35709418,
+"size": 131.617939,
+"wallet": "0x191ffc25ec9ebec33683ffb9957fcdd01acff09e",
+"walletLabel": "Sharp-Attendant",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404593,
+"side": "no",
+"price": 0.3704,
+"size": 13.08,
+"wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+"walletLabel": "Rusty-Eagle",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404585,
+"side": "no",
+"price": 0.376,
+"size": 0.19,
+"wallet": "0xb4cd4d6fe596f360137e5a0441fecc4e1ec9c041",
+"walletLabel": "Wrong-Respite",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404585,
+"side": "no",
+"price": 0.3796842105,
+"size": 19.0,
+"wallet": "0x3e3b0e069a2a47ec82b5990aec0e412643ecbe27",
+"walletLabel": "Delicious-Modification",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404584,
+"side": "no",
+"price": 0.3874736842,
+"size": 190.0,
+"wallet": "0x31864feb9d25dee93728c6225ba891530967e9ca",
+"walletLabel": "Solid-Grit",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404576,
+"side": "no",
+"price": 0.4042,
+"size": 500.0,
+"wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+"walletLabel": "Rusty-Eagle",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404575,
+"side": "no",
+"price": 0.401,
+"size": 38.94,
+"wallet": "0xf6ced7761deb6c5e48a2fdbf637150dda8eb3f1d",
+"walletLabel": "Slight-Profile",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404572,
+"side": "yes",
+"price": 0.418999931,
+"size": 5.011934,
+"wallet": "0x6cdbb24da2701ee38655088ff3fd05d048e78a82",
+"walletLabel": "Silver-Angel",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404564,
+"side": "yes",
+"price": 0.368,
+"size": 30.0,
+"wallet": "0x84ad9c5c547a82ec9a08547b94bd922446e5bfb7",
+"walletLabel": "Happy-Go-Lucky-Min",
+"outcome": "Team Heretics Academy"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404563,
+"side": "no",
+"price": 0.351,
+"size": 5.0,
+"wallet": "0x47138dc1eef25f1ea91f3b2fda0e0f455c634d21",
+"walletLabel": "Overjoyed-Limo",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404557,
+"side": "yes",
+"price": 0.416,
+"size": 5.0,
+"wallet": "0x26d61145a64b1b5036c82a147dfeb7d56fa0cacc",
+"walletLabel": "Muffled-Frustration",
+"outcome": "G2 NORD"
+},
+{
+"marketId": "poly:5337595",
+"ts": 1791404551,
+"side": "yes",
+"price": 0.45,
+"size": 9.72,
+"wallet": "0x952718df56ab7955e0a0121a9e47fa8f52b6888b",
+"walletLabel": "Plain-Hazel-Suffocation",
+"outcome": "Team Heretics Academy"
+}
+]

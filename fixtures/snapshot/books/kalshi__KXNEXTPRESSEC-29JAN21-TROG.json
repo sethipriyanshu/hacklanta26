@@ -1,0 +1,47 @@
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-TROG",
+"ts": 1791406167,
+"bids": [],
+"asks": [
+{
+"price": 0.01,
+"size": 0.01
+},
+{
+"price": 0.02,
+"size": 289.0
+},
+{
+"price": 0.05,
+"size": 2000.0
+},
+{
+"price": 0.06,
+"size": 7.0
+},
+{
+"price": 0.07,
+"size": 16.0
+},
+{
+"price": 0.2,
+"size": 18.7
+},
+{
+"price": 0.21,
+"size": 2370.0
+},
+{
+"price": 0.25,
+"size": 17.0
+},
+{
+"price": 0.44,
+"size": 5.0
+},
+{
+"price": 0.51,
+"size": 496.0
+}
+]
+}

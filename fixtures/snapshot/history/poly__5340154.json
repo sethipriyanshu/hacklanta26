@@ -1,0 +1,308 @@
+[
+{
+"marketId": "poly:5340154",
+"ts": 1791230422,
+"price": 0.125,
+"volume": 0.0
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791234024,
+"price": 0.065,
+"volume": 0.0
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791237623,
+"price": 0.065,
+"volume": 0.0
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791241225,
+"price": 0.055,
+"volume": 0.0
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791244824,
+"price": 0.06,
+"volume": 0.0
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791248437,
+"price": 0.055,
+"volume": 0.0
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791252023,
+"price": 0.055,
+"volume": 0.0
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791255623,
+"price": 0.0355,
+"volume": 0.0
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791259222,
+"price": 0.033,
+"volume": 0.0
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791262823,
+"price": 0.0335,
+"volume": 0.0
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791266425,
+"price": 0.0335,
+"volume": 0.0
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791270021,
+"price": 0.047,
+"volume": 0.0
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791273619,
+"price": 0.0395,
+"volume": 0.0
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791277222,
+"price": 0.0495,
+"volume": 113.85
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791277255,
+"price": 0.0495,
+"volume": 113.85
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791280818,
+"price": 0.045,
+"volume": 559.04
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791284424,
+"price": 0.0405,
+"volume": 4146.83
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791288028,
+"price": 0.0425,
+"volume": 200.0
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791291623,
+"price": 0.0395,
+"volume": 439.49
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791295229,
+"price": 0.0395,
+"volume": 151.55
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791298827,
+"price": 0.0385,
+"volume": 1610.51
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791302423,
+"price": 0.037,
+"volume": 896.23
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791306025,
+"price": 0.0315,
+"volume": 115.62
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791309625,
+"price": 0.0315,
+"volume": 1164.14
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791313223,
+"price": 0.0355,
+"volume": 10955.31
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791316824,
+"price": 0.039,
+"volume": 392.2
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791320425,
+"price": 0.038,
+"volume": 5042.3
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791324036,
+"price": 0.0395,
+"volume": 19967.35
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791327624,
+"price": 0.044,
+"volume": 1354.65
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791331227,
+"price": 0.049,
+"volume": 3434.93
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791334822,
+"price": 0.053,
+"volume": 12413.03
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791338423,
+"price": 0.0325,
+"volume": 200.0
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791342027,
+"price": 0.0335,
+"volume": 0.0
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791345624,
+"price": 0.0345,
+"volume": 304.06
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791349224,
+"price": 0.032,
+"volume": 67299.54
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791352825,
+"price": 0.047,
+"volume": 149.82
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791356438,
+"price": 0.0415,
+"volume": 2.08
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791360024,
+"price": 0.042,
+"volume": 111.67
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791363627,
+"price": 0.042,
+"volume": 45.45
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791367218,
+"price": 0.042,
+"volume": 1086.08
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791370831,
+"price": 0.0475,
+"volume": 933.96
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791374445,
+"price": 0.0475,
+"volume": 127.66
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791378025,
+"price": 0.0465,
+"volume": 63968.74
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791381627,
+"price": 0.048,
+"volume": 8439.6
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791385238,
+"price": 0.0405,
+"volume": 38586.82
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791388837,
+"price": 0.0435,
+"volume": 302.46
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791392431,
+"price": 0.0475,
+"volume": 599.03
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791396038,
+"price": 0.0465,
+"volume": 1224.31
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791399626,
+"price": 0.0465,
+"volume": 1142.14
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791403225,
+"price": 0.0455,
+"volume": 2715.0
+},
+{
+"marketId": "poly:5340154",
+"ts": 1791406163,
+"price": 0.0425,
+"volume": 2715.0
+}
+]

@@ -1,0 +1,2002 @@
+[
+{
+"marketId": "poly:5380293",
+"ts": 1791405869,
+"side": "yes",
+"price": 0.001,
+"size": 1250.0,
+"wallet": "0xdeff55f3132a313985035c34539e94da7b9178f8",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791405867,
+"side": "yes",
+"price": 0.001,
+"size": 30.76,
+"wallet": "0x0632bd4d276b8084bb58234ad854fde488ce3a79",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791405833,
+"side": "yes",
+"price": 0.001,
+"size": 1.73,
+"wallet": "0xb3413b96f6e979e90ce628bb90c653daadc47981",
+"walletLabel": "Innocent-Sleepiness",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791405825,
+"side": "yes",
+"price": 0.001,
+"size": 1.63,
+"wallet": "0x4b65c17ec2cbd5d805655ee78af7639125d3957e",
+"walletLabel": "Worthless-Radiosonde",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791405825,
+"side": "yes",
+"price": 0.001,
+"size": 1.71,
+"wallet": "0x14381dfb6c2f2ba4c53ae1da258b7460f6150658",
+"walletLabel": "Terrible-Thought-Invoice",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791405810,
+"side": "yes",
+"price": 0.001,
+"size": 1.73,
+"wallet": "0xde8456bf7d5990a2434ddbbe1779276de4d7d581",
+"walletLabel": "Second-Disk-Funding",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791405783,
+"side": "yes",
+"price": 0.001,
+"size": 9.0,
+"wallet": "0x7525a17908bdf7726bb00c503ff71e1ef0db781a",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791405779,
+"side": "yes",
+"price": 0.001,
+"size": 1.73,
+"wallet": "0xcc116e32979ff8241c626ca56631e9be030194d0",
+"walletLabel": "Sweet-Banking-Tile",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791405716,
+"side": "yes",
+"price": 0.001,
+"size": 15.62,
+"wallet": "0xf402af75d54d36bc552798e50095f10545ed1784",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791405636,
+"side": "yes",
+"price": 0.001,
+"size": 1000.0,
+"wallet": "0xadb4e86d256a52b9089b45323ae073e67202e33d",
+"walletLabel": null,
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791405623,
+"side": "yes",
+"price": 0.001,
+"size": 32.05,
+"wallet": "0x286840279aa11b6027625f8dbb758fcde8b88fac",
+"walletLabel": "Half-Label-Colony",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791405564,
+"side": "yes",
+"price": 0.001,
+"size": 1.2,
+"wallet": "0xf14bfb696f14b6c596d7f9432352e9f73bc7bd9f",
+"walletLabel": "Plush-Shout",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791405522,
+"side": "yes",
+"price": 0.001,
+"size": 3.01,
+"wallet": "0x055693d7dcbe91e31b00e3b1fd3852cb94e44fd8",
+"walletLabel": "Tremendous-Pompom",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791405510,
+"side": "yes",
+"price": 0.001,
+"size": 5.23,
+"wallet": "0x3bef1113bf8967c540e5d712d0d2912f5ed6f36e",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791405507,
+"side": "yes",
+"price": 0.001,
+"size": 7.89,
+"wallet": "0xadb4e86d256a52b9089b45323ae073e67202e33d",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791405488,
+"side": "yes",
+"price": 0.001,
+"size": 43.66,
+"wallet": "0x3eb5308c5ec4b869369561bbb7456b35bcc86267",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791405440,
+"side": "yes",
+"price": 0.001,
+"size": 4.49,
+"wallet": "0x4afee32dd756232e1861c4d5cc22df6922fd0906",
+"walletLabel": "Aggravating-Achiever-Crime",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791405431,
+"side": "yes",
+"price": 0.001,
+"size": 507.06,
+"wallet": "0x808a8f9d68357b1c59bc2cd636d11f7d163332c5",
+"walletLabel": "Pretty-Download",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791405375,
+"side": "yes",
+"price": 0.001,
+"size": 27.61,
+"wallet": "0xf4b1f81bfaad7f761b8769841adaa82f5a4c70b7",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791405329,
+"side": "yes",
+"price": 0.001,
+"size": 31.21,
+"wallet": "0xf7030d5b501e6625a211d15e656439227a6fcd64",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791405188,
+"side": "yes",
+"price": 0.001,
+"size": 739.81,
+"wallet": "0x0d0efde748a217f3985ef32ecc7d005f83e50570",
+"walletLabel": "Treasured-Notoriety-Romance",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791405140,
+"side": "yes",
+"price": 0.001,
+"size": 27.29,
+"wallet": "0xadc44dbb82586476f67dbf691a3122697a22eeae",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404949,
+"side": "yes",
+"price": 0.001,
+"size": 590.36,
+"wallet": "0x4bf4949d9c899a7202c65ba406cddcb027287e67",
+"walletLabel": "Doting-Nightclub",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404884,
+"side": "yes",
+"price": 0.001,
+"size": 36.25,
+"wallet": "0xe8c6c9d86734255cb17a4095510a27c5da8d737a",
+"walletLabel": "Unwilling-Brewer",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404872,
+"side": "yes",
+"price": 0.001,
+"size": 260.0,
+"wallet": "0x377d1929a14bd380c8d23154d2b8d1bbb33b1825",
+"walletLabel": "Thirsty-Detector",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404837,
+"side": "yes",
+"price": 0.001,
+"size": 29.41,
+"wallet": "0xe2297d1fe1b7be5ce06bf9069a5c334559e3f8fc",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404795,
+"side": "yes",
+"price": 0.001,
+"size": 15.74,
+"wallet": "0x07d9f8de7ea1f811254371576f9171fc292b559d",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404770,
+"side": "yes",
+"price": 0.001,
+"size": 65.99,
+"wallet": "0xcc32124b1db3b28ef7740f82549e6b994eb09a77",
+"walletLabel": "Hurtful-Exercise",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404734,
+"side": "yes",
+"price": 0.001,
+"size": 21.19,
+"wallet": "0x6e0fb4f5e81f541b33213496a416374c21a2488b",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404728,
+"side": "yes",
+"price": 0.001,
+"size": 67.41,
+"wallet": "0x2ce00a557986c7484857152e91b2af9e004597af",
+"walletLabel": "Vivacious-Specialist",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404722,
+"side": "yes",
+"price": 0.001,
+"size": 262.73,
+"wallet": "0xc1d7e47eed8622aa036b0e5b5db22240b05647a4",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404675,
+"side": "yes",
+"price": 0.001,
+"size": 142.85,
+"wallet": "0xaa57cd0782fb4583206ce547379e6442db61a128",
+"walletLabel": "Lively-Stirfry",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404669,
+"side": "yes",
+"price": 0.001,
+"size": 18.93,
+"wallet": "0x3f348100519813dd4ba2a9aff346de5a0f42ed6a",
+"walletLabel": "Flimsy-Nightgown",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404666,
+"side": "yes",
+"price": 0.001,
+"size": 4125.0,
+"wallet": "0x124524c2fbaa57cecad01f9ae8402941a54de0af",
+"walletLabel": "Gloomy-Marxism-Idiom",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404665,
+"side": "yes",
+"price": 0.001,
+"size": 37.33,
+"wallet": "0xbc6cb43673d09ff68c46a0c28c510b0fb0a78ceb",
+"walletLabel": "Evil-Neurobiologist",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404650,
+"side": "yes",
+"price": 0.001,
+"size": 30.0,
+"wallet": "0x6f702c8615f43e450c5287837e4717df68f0862a",
+"walletLabel": "Sparkling-Daffodil",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404639,
+"side": "yes",
+"price": 0.001,
+"size": 145.88,
+"wallet": "0x42a1b2b43134d83f6ec639de4c2b40aa2a36a8e9",
+"walletLabel": "Wiry-Avenue",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404638,
+"side": "yes",
+"price": 0.001,
+"size": 786.07,
+"wallet": "0xe9076a87c5ed90ef16e6fe6529c943baeca0cff6",
+"walletLabel": "All-Peasant-Drug",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404635,
+"side": "yes",
+"price": 0.001,
+"size": 0.33,
+"wallet": "0xa48525692d9c0fc2ece45fad35eff50799fc7b85",
+"walletLabel": "Sore-Bait",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404632,
+"side": "yes",
+"price": 0.001,
+"size": 4.5,
+"wallet": "0xa48525692d9c0fc2ece45fad35eff50799fc7b85",
+"walletLabel": "Sore-Bait",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404630,
+"side": "yes",
+"price": 0.001,
+"size": 694.73,
+"wallet": "0xfbe4dd438ac8f252f724f144165fc219c45593af",
+"walletLabel": "Buzzing-Litmus",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404624,
+"side": "yes",
+"price": 0.001,
+"size": 5.0,
+"wallet": "0x06b61a68bdb3db98259d2a563a8e7e7c366d0004",
+"walletLabel": "Valuable-Alligator-Flavor",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404620,
+"side": "yes",
+"price": 0.01,
+"size": 55.89,
+"wallet": "0x933324edc6073f1bb12a74cfc9eb1a9226bc3067",
+"walletLabel": "Good-Natured-Mate",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404602,
+"side": "yes",
+"price": 0.01,
+"size": 1.63,
+"wallet": "0xd66d792fb52fc7c6b7cf4e3fd84bc4540370811a",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404602,
+"side": "yes",
+"price": 0.01,
+"size": 35.52,
+"wallet": "0xcadbe3896b8852b247b84d4c7dbc5ca11993a023",
+"walletLabel": "Slow-Trigonometry-Chicken",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404549,
+"side": "yes",
+"price": 0.01,
+"size": 30.0,
+"wallet": "0x849cc4395480a9d9019ea33c271516f73eee50bc",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404542,
+"side": "yes",
+"price": 0.01,
+"size": 6.22,
+"wallet": "0x288f10dc53649fa78b84d9722c34811c3b751025",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404540,
+"side": "yes",
+"price": 0.01,
+"size": 6.41,
+"wallet": "0x5ccc129ea666765a42f07cecb4bb808906598aba",
+"walletLabel": "Parallel-Snail-Backup",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404540,
+"side": "yes",
+"price": 0.01,
+"size": 7.65,
+"wallet": "0x41bfa557070a83397015b629863ff4346b11c524",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404536,
+"side": "yes",
+"price": 0.01,
+"size": 83.33,
+"wallet": "0x3968b9ccb92062667295229330f8051afd7d6346",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404530,
+"side": "yes",
+"price": 0.01,
+"size": 354.43,
+"wallet": "0xafef98246f384449a4e13aa779e7cb414d7ff50e",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404522,
+"side": "yes",
+"price": 0.01,
+"size": 55.45,
+"wallet": "0xbe51ad2f5619511e22d94a4e2d63127951cb032c",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404510,
+"side": "yes",
+"price": 0.01,
+"size": 15.15,
+"wallet": "0x18d80d275b6e3c6b074db42f317a8151d71dda3b",
+"walletLabel": "General-Wealth",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404504,
+"side": "yes",
+"price": 0.01,
+"size": 3.0,
+"wallet": "0xcbb63e4a7e60c7353070777710905c7877b43a9d",
+"walletLabel": "Serene-Goddess",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404498,
+"side": "yes",
+"price": 0.01,
+"size": 848.0,
+"wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+"walletLabel": "Hollow-Maggot-Sense",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404497,
+"side": "no",
+"price": 0.02,
+"size": 30.0,
+"wallet": "0x6f702c8615f43e450c5287837e4717df68f0862a",
+"walletLabel": "Sparkling-Daffodil",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404497,
+"side": "no",
+"price": 0.02,
+"size": 305.9,
+"wallet": "0xeea3f08e8a36081233e4c4b4142fd61a7b56a6a2",
+"walletLabel": "Cumbersome-Dock-Shield",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404497,
+"side": "no",
+"price": 0.0196,
+"size": 143.92,
+"wallet": "0xeea3f08e8a36081233e4c4b4142fd61a7b56a6a2",
+"walletLabel": "Cumbersome-Dock-Shield",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404497,
+"side": "no",
+"price": 0.02,
+"size": 25.66,
+"wallet": "0x745c0e815c51ab9673338004a04b77d4840d4425",
+"walletLabel": "Golden-Trapezoid",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404494,
+"side": "no",
+"price": 0.15,
+"size": 5.0,
+"wallet": "0x8948d895ec79f990d60927185ef10cb05374b414",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404485,
+"side": "yes",
+"price": 0.1799999856,
+"size": 5.555556,
+"wallet": "0x0b6ae8445f1518784687c1df63403b7889bc710d",
+"walletLabel": null,
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404482,
+"side": "yes",
+"price": 0.18,
+"size": 32.05,
+"wallet": "0x1a15e59e549758f2c47379758a3efb7b4c38fec2",
+"walletLabel": "Decisive-Dock",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404482,
+"side": "yes",
+"price": 0.1799999992,
+"size": 172.222223,
+"wallet": "0xcdf03af22777ac4ac1f769c7ab27f248fe1acd14",
+"walletLabel": null,
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404480,
+"side": "no",
+"price": 0.17,
+"size": 3333.0,
+"wallet": "0x56c9fbdeccf198f1f5ad95ace39b24f5f7fb0d9e",
+"walletLabel": "Wrathful-Row",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404471,
+"side": "no",
+"price": 0.17,
+"size": 36.144576,
+"wallet": "0xcc32124b1db3b28ef7740f82549e6b994eb09a77",
+"walletLabel": "Hurtful-Exercise",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404465,
+"side": "no",
+"price": 0.17,
+"size": 5.0,
+"wallet": "0x505f23d257d23e4a1ec37ff9bca7c88f3bf0645e",
+"walletLabel": "Thick-Ethyl",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404443,
+"side": "yes",
+"price": 0.26,
+"size": 100.0,
+"wallet": "0x25bf42fe847ca0d55db331103a11d0496202ef3d",
+"walletLabel": "Athletic-Disarmament-Congressman",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404417,
+"side": "no",
+"price": 0.28,
+"size": 83.333332,
+"wallet": "0x0539490293b8d671188fdf900de22de501746c1f",
+"walletLabel": "Dear-Grub-Airfare",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404407,
+"side": "no",
+"price": 0.28,
+"size": 5.0,
+"wallet": "0x505f23d257d23e4a1ec37ff9bca7c88f3bf0645e",
+"walletLabel": "Thick-Ethyl",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404396,
+"side": "yes",
+"price": 0.3242036314,
+"size": 101.787879,
+"wallet": "0x25bf42fe847ca0d55db331103a11d0496202ef3d",
+"walletLabel": "Athletic-Disarmament-Congressman",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404363,
+"side": "yes",
+"price": 0.34,
+"size": 100.0,
+"wallet": "0x25bf42fe847ca0d55db331103a11d0496202ef3d",
+"walletLabel": "Athletic-Disarmament-Congressman",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404363,
+"side": "yes",
+"price": 0.33,
+"size": 15.1,
+"wallet": "0x0c99d9f172fc4c25fd2aa92f9fc272da5f020c88",
+"walletLabel": "Jolly-Felony",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404362,
+"side": "yes",
+"price": 0.33,
+"size": 26.3,
+"wallet": "0xeea3f08e8a36081233e4c4b4142fd61a7b56a6a2",
+"walletLabel": "Cumbersome-Dock-Shield",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404362,
+"side": "yes",
+"price": 0.31,
+"size": 8.26,
+"wallet": "0xeea3f08e8a36081233e4c4b4142fd61a7b56a6a2",
+"walletLabel": "Cumbersome-Dock-Shield",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404351,
+"side": "yes",
+"price": 0.26,
+"size": 20.0,
+"wallet": "0x0267ebb4a7371037b79e2b062c766b03ee2e7f7e",
+"walletLabel": "Testy-Comma",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404342,
+"side": "yes",
+"price": 0.2666,
+"size": 61.57,
+"wallet": "0x2f578e983bfce63208b317f36d531e7af9483e7a",
+"walletLabel": "Famous-Unit",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404342,
+"side": "no",
+"price": 0.24,
+"size": 20.776316,
+"wallet": "0xafef98246f384449a4e13aa779e7cb414d7ff50e",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404342,
+"side": "no",
+"price": 0.24,
+"size": 1.31579,
+"wallet": "0x055693d7dcbe91e31b00e3b1fd3852cb94e44fd8",
+"walletLabel": "Tremendous-Pompom",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404341,
+"side": "yes",
+"price": 0.269999993,
+"size": 18.518519,
+"wallet": "0xcbcbe8f3896adf1a77bca7cce576802fb8559497",
+"walletLabel": "Lovable-Titanium",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404335,
+"side": "yes",
+"price": 0.2799999993,
+"size": 110.714286,
+"wallet": "0xcdf03af22777ac4ac1f769c7ab27f248fe1acd14",
+"walletLabel": null,
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404333,
+"side": "no",
+"price": 0.27,
+"size": 80.0,
+"wallet": "0x859467c23cfc72345fec2f845078696896f03733",
+"walletLabel": "Dismal-Stonework",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404332,
+"side": "no",
+"price": 0.27,
+"size": 129.808218,
+"wallet": "0xafef98246f384449a4e13aa779e7cb414d7ff50e",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404332,
+"side": "yes",
+"price": 0.28,
+"size": 34.84,
+"wallet": "0xe461f08b2f450c74486d68151388318f87ec9a34",
+"walletLabel": "Dual-Ambience",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404329,
+"side": "yes",
+"price": 0.2799999993,
+"size": 357.142858,
+"wallet": "0xc086b4ca8dd35ecbfe8d2700441f9b3e28d7b1af",
+"walletLabel": "Unequaled-Fledgling",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404317,
+"side": "no",
+"price": 0.27,
+"size": 4.369862,
+"wallet": "0xafef98246f384449a4e13aa779e7cb414d7ff50e",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404315,
+"side": "yes",
+"price": 0.28,
+"size": 100.0,
+"wallet": "0x25bf42fe847ca0d55db331103a11d0496202ef3d",
+"walletLabel": "Athletic-Disarmament-Congressman",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404314,
+"side": "no",
+"price": 0.27,
+"size": 5.0,
+"wallet": "0x5d634050ad89f172afb340437ed3170eaa2c9075",
+"walletLabel": "Winged-Researcher",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404314,
+"side": "yes",
+"price": 0.14,
+"size": 20.0,
+"wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+"walletLabel": "Brisk-Clockwork-Behalf",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404314,
+"side": "yes",
+"price": 0.15,
+"size": 40.0,
+"wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+"walletLabel": "Brisk-Clockwork-Behalf",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404314,
+"side": "no",
+"price": 0.11,
+"size": 10.977527,
+"wallet": "0xafef98246f384449a4e13aa779e7cb414d7ff50e",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404306,
+"side": "no",
+"price": 0.17,
+"size": 590.361441,
+"wallet": "0x4bf4949d9c899a7202c65ba406cddcb027287e67",
+"walletLabel": "Doting-Nightclub",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404305,
+"side": "no",
+"price": 0.17,
+"size": 188.506023,
+"wallet": "0xafef98246f384449a4e13aa779e7cb414d7ff50e",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404300,
+"side": "no",
+"price": 0.17,
+"size": 5555.0,
+"wallet": "0x56c9fbdeccf198f1f5ad95ace39b24f5f7fb0d9e",
+"walletLabel": "Wrathful-Row",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404299,
+"side": "no",
+"price": 0.1735006106,
+"size": 540.42,
+"wallet": "0xafef98246f384449a4e13aa779e7cb414d7ff50e",
+"walletLabel": null,
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404297,
+"side": "yes",
+"price": 0.1899999962,
+"size": 5.263158,
+"wallet": "0xd1384c2979286e94695bea5694c8752c8f342fe1",
+"walletLabel": "Humongous-Grant-Park",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404291,
+"side": "no",
+"price": 0.18,
+"size": 5.0,
+"wallet": "0x505f23d257d23e4a1ec37ff9bca7c88f3bf0645e",
+"walletLabel": "Thick-Ethyl",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404273,
+"side": "yes",
+"price": 0.2599999996,
+"size": 103.846154,
+"wallet": "0x25bf42fe847ca0d55db331103a11d0496202ef3d",
+"walletLabel": "Athletic-Disarmament-Congressman",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404269,
+"side": "yes",
+"price": 0.3,
+"size": 70.0,
+"wallet": "0x2f578e983bfce63208b317f36d531e7af9483e7a",
+"walletLabel": "Famous-Unit",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404266,
+"side": "yes",
+"price": 0.29,
+"size": 1375.0,
+"wallet": "0x124524c2fbaa57cecad01f9ae8402941a54de0af",
+"walletLabel": "Gloomy-Marxism-Idiom",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404261,
+"side": "no",
+"price": 0.28,
+"size": 29.99,
+"wallet": "0xbb29dc16e284e25bfecdce14fb69621224611b48",
+"walletLabel": "Slow-Hospital",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404246,
+"side": "yes",
+"price": 0.28,
+"size": 19.5,
+"wallet": "0x25bf42fe847ca0d55db331103a11d0496202ef3d",
+"walletLabel": "Athletic-Disarmament-Congressman",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404245,
+"side": "yes",
+"price": 0.27,
+"size": 17.3,
+"wallet": "0xeea3f08e8a36081233e4c4b4142fd61a7b56a6a2",
+"walletLabel": "Cumbersome-Dock-Shield",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404237,
+"side": "yes",
+"price": 0.22,
+"size": 36.0,
+"wallet": "0x051adea0d16c85df8a8a9c7e400e0655905d1db9",
+"walletLabel": "Curly-Dust",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404231,
+"side": "yes",
+"price": 0.2199999998,
+"size": 454.545455,
+"wallet": "0x0f16a66df16a707334d89704631338ae7a770246",
+"walletLabel": "Humiliating-Buffer",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404230,
+"side": "no",
+"price": 0.22,
+"size": 165.03,
+"wallet": "0x377d1929a14bd380c8d23154d2b8d1bbb33b1825",
+"walletLabel": "Thirsty-Detector",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404228,
+"side": "no",
+"price": 0.22,
+"size": 32.051283,
+"wallet": "0x286840279aa11b6027625f8dbb758fcde8b88fac",
+"walletLabel": "Half-Label-Colony",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404225,
+"side": "no",
+"price": 0.22,
+"size": 32.051283,
+"wallet": "0x1a15e59e549758f2c47379758a3efb7b4c38fec2",
+"walletLabel": "Decisive-Dock",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404224,
+"side": "yes",
+"price": 0.2299999517,
+"size": 4.347827,
+"wallet": "0xd1384c2979286e94695bea5694c8752c8f342fe1",
+"walletLabel": "Humongous-Grant-Park",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404222,
+"side": "no",
+"price": 0.22,
+"size": 4.0,
+"wallet": "0x9674d0d14a078c5dd5cd411c64bff82523dfe1a2",
+"walletLabel": "Great-Aftershock-Yourself",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404218,
+"side": "no",
+"price": 0.22,
+"size": 3.846154,
+"wallet": "0x34595ebbe3f577291f0daf0ec740c5344ca0caa6",
+"walletLabel": "Friendly-Probability",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404216,
+"side": "yes",
+"price": 0.22,
+"size": 15.7,
+"wallet": "0x25bf42fe847ca0d55db331103a11d0496202ef3d",
+"walletLabel": "Athletic-Disarmament-Congressman",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404216,
+"side": "no",
+"price": 0.21,
+"size": 5.0,
+"wallet": "0x5d634050ad89f172afb340437ed3170eaa2c9075",
+"walletLabel": "Winged-Researcher",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404215,
+"side": "yes",
+"price": 0.2,
+"size": 5.0,
+"wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+"walletLabel": "Powerless-Savannah",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404206,
+"side": "no",
+"price": 0.17,
+"size": 6.024094,
+"wallet": "0x2f1aebbb2364fc0d9ff61986ba8b6f5a3a94d280",
+"walletLabel": "Somber-Lashes-Comedy",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404185,
+"side": "yes",
+"price": 0.1799999986,
+"size": 27.777778,
+"wallet": "0x47be8d541cbdc204c75740a4cf9801a6cbd96fcc",
+"walletLabel": "Useful-Charge",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404185,
+"side": "no",
+"price": 0.18,
+"size": 66.18,
+"wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+"walletLabel": "Powerless-Savannah",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404182,
+"side": "yes",
+"price": 0.2829052367,
+"size": 336.614483,
+"wallet": "0x9e3ed7b661a903fc97afcf49e0f014ebe869f882",
+"walletLabel": "Favorable-Pepper-Brushing",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404167,
+"side": "yes",
+"price": 0.25,
+"size": 22.16,
+"wallet": "0x051adea0d16c85df8a8a9c7e400e0655905d1db9",
+"walletLabel": "Curly-Dust",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404164,
+"side": "no",
+"price": 0.24,
+"size": 13.157895,
+"wallet": "0xe58f75285dd072c12c604d632deca0a47096012d",
+"walletLabel": "Young-Crocus-Fava",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404159,
+"side": "yes",
+"price": 0.25,
+"size": 84.2,
+"wallet": "0x051adea0d16c85df8a8a9c7e400e0655905d1db9",
+"walletLabel": "Curly-Dust",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404158,
+"side": "no",
+"price": 0.24,
+"size": 1.31579,
+"wallet": "0x0b6ae8445f1518784687c1df63403b7889bc710d",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404158,
+"side": "no",
+"price": 0.24,
+"size": 1.31579,
+"wallet": "0x8336ecb15d9678ac99a6ffde9974f1f5a71dc17a",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404155,
+"side": "no",
+"price": 0.24,
+"size": 40.789474,
+"wallet": "0xcdf03af22777ac4ac1f769c7ab27f248fe1acd14",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404153,
+"side": "yes",
+"price": 0.2576644425,
+"size": 31048.133462,
+"wallet": "0xe7870d0e1bfc65a23e3d66caf00ca1b9129e5034",
+"walletLabel": "Quixotic-Brow",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404152,
+"side": "no",
+"price": 0.24,
+"size": 131.578948,
+"wallet": "0x2f578e983bfce63208b317f36d531e7af9483e7a",
+"walletLabel": "Famous-Unit",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404146,
+"side": "yes",
+"price": 0.25,
+"size": 20.28,
+"wallet": "0x874b25071e6260301efc844c86f361693ca24af0",
+"walletLabel": null,
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404143,
+"side": "yes",
+"price": 0.25,
+"size": 20.28,
+"wallet": "0xb6d2d81518cda8f9025697f942b2533ad4efd67b",
+"walletLabel": "Untidy-Archives",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404143,
+"side": "no",
+"price": 0.24,
+"size": 5.07,
+"wallet": "0x2d1eeb1c3e188728d343635065bb9eeee9588213",
+"walletLabel": "Neighboring-Tofu",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404143,
+"side": "yes",
+"price": 0.25,
+"size": 100.0,
+"wallet": "0x25bf42fe847ca0d55db331103a11d0496202ef3d",
+"walletLabel": "Athletic-Disarmament-Congressman",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404140,
+"side": "no",
+"price": 0.2668224,
+"size": 31.25,
+"wallet": "0x301fcd4e6bc88232f7138fcaf252e1dba67ae84c",
+"walletLabel": "Fantastic-Longboat",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404071,
+"side": "no",
+"price": 0.3,
+"size": 142.857143,
+"wallet": "0xaa57cd0782fb4583206ce547379e6442db61a128",
+"walletLabel": "Lively-Stirfry",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404057,
+"side": "yes",
+"price": 0.3,
+"size": 52.3,
+"wallet": "0x2559b5bae55fc693e15896e816aae2761d8eb2e3",
+"walletLabel": "Fond-Tongue",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404057,
+"side": "yes",
+"price": 0.3,
+"size": 25.4,
+"wallet": "0xcb9cfb9ab89df5f63c5d532568f962f6502d0e84",
+"walletLabel": "Shrill-Ectodermal-Submitter",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404054,
+"side": "yes",
+"price": 0.3,
+"size": 200.0,
+"wallet": "0x3252790b3229b4cdeec7aee5f139fafc74791d21",
+"walletLabel": "Wiry-Legislation",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404054,
+"side": "yes",
+"price": 0.3,
+"size": 14.1,
+"wallet": "0xbb6418f9db6d1c765965dc4c9d48cd5b4d2bdb86",
+"walletLabel": "Front-Kilogram",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404050,
+"side": "yes",
+"price": 0.29999994,
+"size": 3.333334,
+"wallet": "0x8336ecb15d9678ac99a6ffde9974f1f5a71dc17a",
+"walletLabel": null,
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404050,
+"side": "yes",
+"price": 0.29999994,
+"size": 3.333334,
+"wallet": "0x0b6ae8445f1518784687c1df63403b7889bc710d",
+"walletLabel": null,
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404048,
+"side": "yes",
+"price": 0.3,
+"size": 70.0,
+"wallet": "0xd46e2bf5fbf2349351611e071d696eaa8910d10d",
+"walletLabel": "Steep-Stupidity",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404047,
+"side": "yes",
+"price": 0.3,
+"size": 256.5,
+"wallet": "0xbb6418f9db6d1c765965dc4c9d48cd5b4d2bdb86",
+"walletLabel": "Front-Kilogram",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404045,
+"side": "yes",
+"price": 0.3,
+"size": 6.25,
+"wallet": "0x05b35debb8d22ac68d8dd4f1b99bcd8fc0cb45c3",
+"walletLabel": "Rapid-Journey-Rite",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404044,
+"side": "yes",
+"price": 0.2999999981,
+"size": 103.333334,
+"wallet": "0xcdf03af22777ac4ac1f769c7ab27f248fe1acd14",
+"walletLabel": null,
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404044,
+"side": "yes",
+"price": 0.3,
+"size": 275.5,
+"wallet": "0xbb6418f9db6d1c765965dc4c9d48cd5b4d2bdb86",
+"walletLabel": "Front-Kilogram",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404044,
+"side": "no",
+"price": 0.3,
+"size": 18582.39,
+"wallet": "0x6c26cb64a32797edcb0bdf29ed10de0f7ec698b9",
+"walletLabel": "Foolish-Complexity-Columnist",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404026,
+"side": "yes",
+"price": 0.3099999857,
+"size": 16.129033,
+"wallet": "0xce9e69261aadac9a9c54bda47f38a3848cc65b3b",
+"walletLabel": null,
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791404014,
+"side": "yes",
+"price": 0.31,
+"size": 100.0,
+"wallet": "0x25bf42fe847ca0d55db331103a11d0496202ef3d",
+"walletLabel": "Athletic-Disarmament-Congressman",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403987,
+"side": "yes",
+"price": 0.3299999992,
+"size": 325.212122,
+"wallet": "0x6b37c925993771b06532c09845d043a82a9f9cb3",
+"walletLabel": null,
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403957,
+"side": "no",
+"price": 0.35,
+"size": 35.892308,
+"wallet": "0x5b6331e7ff0831a3fe2ed12004747db1a9c911a4",
+"walletLabel": "Monstrous-Dew",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403955,
+"side": "yes",
+"price": 0.3599999995,
+"size": 330.555556,
+"wallet": "0x93da0455cf87da0c1e8b736f653ec9a44e3fac64",
+"walletLabel": "Grouchy-Webpage-Lending",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403942,
+"side": "no",
+"price": 0.35,
+"size": 5.0,
+"wallet": "0x5d634050ad89f172afb340437ed3170eaa2c9075",
+"walletLabel": "Winged-Researcher",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403939,
+"side": "no",
+"price": 0.31,
+"size": 4.347825,
+"wallet": "0x00b37ff014efd919f19f72d9b996ee4b49978356",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403927,
+"side": "no",
+"price": 0.32,
+"size": 8.970587,
+"wallet": "0xd863b5bfae9eebc41f7b88cf0e400a44573bb7e2",
+"walletLabel": "Unhappy-Violation-Pipe",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403927,
+"side": "no",
+"price": 0.33,
+"size": 91.0,
+"wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+"walletLabel": "Gleeful-Cauliflower",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403921,
+"side": "yes",
+"price": 0.34,
+"size": 25.81,
+"wallet": "0x8ad4e2f3e6c5713deacf3bbd32661535d239cc8a",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403889,
+"side": "yes",
+"price": 0.3599999712,
+"size": 2.777778,
+"wallet": "0x78d07d3833af727cbe0a256ea9e5dbc66046a663",
+"walletLabel": "Cooperative-Accompanist",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403889,
+"side": "no",
+"price": 0.35,
+"size": 3.076922,
+"wallet": "0x05b35debb8d22ac68d8dd4f1b99bcd8fc0cb45c3",
+"walletLabel": "Rapid-Journey-Rite",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403888,
+"side": "yes",
+"price": 0.36,
+"size": 100.0,
+"wallet": "0x25bf42fe847ca0d55db331103a11d0496202ef3d",
+"walletLabel": "Athletic-Disarmament-Congressman",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403864,
+"side": "no",
+"price": 0.38,
+"size": 4.83871,
+"wallet": "0x00b37ff014efd919f19f72d9b996ee4b49978356",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403852,
+"side": "no",
+"price": 0.38,
+"size": 3.225807,
+"wallet": "0x05b35debb8d22ac68d8dd4f1b99bcd8fc0cb45c3",
+"walletLabel": "Rapid-Journey-Rite",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403850,
+"side": "no",
+"price": 0.38,
+"size": 432.806452,
+"wallet": "0xd863b5bfae9eebc41f7b88cf0e400a44573bb7e2",
+"walletLabel": "Unhappy-Violation-Pipe",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403850,
+"side": "yes",
+"price": 0.3899999994,
+"size": 641.025642,
+"wallet": "0xbdf7c34c782c16cf10768b80ab9fd6337f31f1ee",
+"walletLabel": "Creepy-Species",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403850,
+"side": "no",
+"price": 0.39,
+"size": 4399.0,
+"wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+"walletLabel": "Gleeful-Cauliflower",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403847,
+"side": "yes",
+"price": 0.4,
+"size": 24.86,
+"wallet": "0x192be5711684248db06ee2905c425547bf2f4dfa",
+"walletLabel": "Runny-Wolf-Underwire",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403837,
+"side": "yes",
+"price": 0.4,
+"size": 2.5,
+"wallet": "0x2bab42624a3bf721e6241e1cbdb26e4844c62e67",
+"walletLabel": "Icky-Cook",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403828,
+"side": "no",
+"price": 0.39,
+"size": 1.655738,
+"wallet": "0xd0698a02ded7b86284ebf25e9db0bb0d787ad078",
+"walletLabel": "Appropriate-Hemisphere-Shaker",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403819,
+"side": "yes",
+"price": 0.4,
+"size": 1219.57,
+"wallet": "0x93da0455cf87da0c1e8b736f653ec9a44e3fac64",
+"walletLabel": "Grouchy-Webpage-Lending",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403810,
+"side": "no",
+"price": 0.3926598381,
+"size": 512.55,
+"wallet": "0x6fa94220823334114ebac52fc4438b4922e34e7b",
+"walletLabel": "Belated-Chin-Spyglass",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403789,
+"side": "yes",
+"price": 0.409999954,
+"size": 5.439025,
+"wallet": "0xaadb0195b9bd6ce427d3510322f9f7280dd58de6",
+"walletLabel": "Female-Planning-Syrup",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403789,
+"side": "yes",
+"price": 0.4,
+"size": 65.93,
+"wallet": "0x25bf42fe847ca0d55db331103a11d0496202ef3d",
+"walletLabel": "Athletic-Disarmament-Congressman",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403787,
+"side": "yes",
+"price": 0.39,
+"size": 150.0,
+"wallet": "0xeea3f08e8a36081233e4c4b4142fd61a7b56a6a2",
+"walletLabel": "Cumbersome-Dock-Shield",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403780,
+"side": "yes",
+"price": 0.3899999976,
+"size": 128.205129,
+"wallet": "0xe99ae61648bfef8e1df90303b41eea634ffe66bd",
+"walletLabel": "Prestigious-News-Tabernacle",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403775,
+"side": "yes",
+"price": 0.39,
+"size": 10.1,
+"wallet": "0x8ad4e2f3e6c5713deacf3bbd32661535d239cc8a",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403768,
+"side": "no",
+"price": 0.38,
+"size": 2.0,
+"wallet": "0xc3a3da667acfd316207a817d618e240dd261b441",
+"walletLabel": "Variable-Illness",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403759,
+"side": "yes",
+"price": 0.38,
+"size": 93.84,
+"wallet": "0x25bf42fe847ca0d55db331103a11d0496202ef3d",
+"walletLabel": "Athletic-Disarmament-Congressman",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403738,
+"side": "yes",
+"price": 0.35,
+"size": 7.75,
+"wallet": "0x8ad4e2f3e6c5713deacf3bbd32661535d239cc8a",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403729,
+"side": "yes",
+"price": 0.36,
+"size": 500.0,
+"wallet": "0x124524c2fbaa57cecad01f9ae8402941a54de0af",
+"walletLabel": "Gloomy-Marxism-Idiom",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403727,
+"side": "no",
+"price": 0.35,
+"size": 64.98,
+"wallet": "0x175861081063dae8ea21d63792274e98600e0091",
+"walletLabel": null,
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403727,
+"side": "yes",
+"price": 0.3599999712,
+"size": 2.777778,
+"wallet": "0x0a19c90dfbd080eb7530b82e2679145e052ca621",
+"walletLabel": null,
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403723,
+"side": "no",
+"price": 0.35,
+"size": 5.0,
+"wallet": "0x5d634050ad89f172afb340437ed3170eaa2c9075",
+"walletLabel": "Winged-Researcher",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403723,
+"side": "no",
+"price": 0.35,
+"size": 170.19,
+"wallet": "0xda51d335118d91ec576b0d22f361a3276e3eef7f",
+"walletLabel": "Agile-Card",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403717,
+"side": "yes",
+"price": 0.35,
+"size": 92.07,
+"wallet": "0x25bf42fe847ca0d55db331103a11d0496202ef3d",
+"walletLabel": "Athletic-Disarmament-Congressman",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403715,
+"side": "yes",
+"price": 0.34,
+"size": 5.0,
+"wallet": "0x505f23d257d23e4a1ec37ff9bca7c88f3bf0645e",
+"walletLabel": "Thick-Ethyl",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403705,
+"side": "yes",
+"price": 0.32,
+"size": 7.32,
+"wallet": "0xe9076a87c5ed90ef16e6fe6529c943baeca0cff6",
+"walletLabel": "All-Peasant-Drug",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403693,
+"side": "yes",
+"price": 0.32,
+"size": 6.06,
+"wallet": "0x05b35debb8d22ac68d8dd4f1b99bcd8fc0cb45c3",
+"walletLabel": "Rapid-Journey-Rite",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403693,
+"side": "yes",
+"price": 0.32,
+"size": 160.21875,
+"wallet": "0xd863b5bfae9eebc41f7b88cf0e400a44573bb7e2",
+"walletLabel": "Unhappy-Violation-Pipe",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403693,
+"side": "no",
+"price": 0.31,
+"size": 5.0,
+"wallet": "0x5d634050ad89f172afb340437ed3170eaa2c9075",
+"walletLabel": "Winged-Researcher",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403691,
+"side": "yes",
+"price": 0.31,
+"size": 608.94,
+"wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+"walletLabel": "Glaring-Salt",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403691,
+"side": "yes",
+"price": 0.31,
+"size": 1654.0,
+"wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+"walletLabel": "Gleeful-Cauliflower",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403691,
+"side": "yes",
+"price": 0.3099999913,
+"size": 3.451613,
+"wallet": "0x3834543091d124db03d5e01a7c6824930da83a8f",
+"walletLabel": null,
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403684,
+"side": "yes",
+"price": 0.3099999996,
+"size": 76.451613,
+"wallet": "0x6e61aac144a7c6903fe9afb57919ff6c7c352f1b",
+"walletLabel": "Single-Thought",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403661,
+"side": "yes",
+"price": 0.35,
+"size": 100.0,
+"wallet": "0x25bf42fe847ca0d55db331103a11d0496202ef3d",
+"walletLabel": "Athletic-Disarmament-Congressman",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403660,
+"side": "yes",
+"price": 0.34,
+"size": 67.0,
+"wallet": "0x051adea0d16c85df8a8a9c7e400e0655905d1db9",
+"walletLabel": "Curly-Dust",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403654,
+"side": "yes",
+"price": 0.3299999759,
+"size": 3.727273,
+"wallet": "0xa410cd3db2d0df126df877df657e9ed48c769ec0",
+"walletLabel": "Cheap-Minimalism-Dealing",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403651,
+"side": "yes",
+"price": 0.31,
+"size": 150.0,
+"wallet": "0x0f76e9a901b9b18b0ac0561556079aa4f0a6dcc9",
+"walletLabel": "Victorious-Frequency",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403648,
+"side": "no",
+"price": 0.31,
+"size": 2.84058,
+"wallet": "0x5ccc129ea666765a42f07cecb4bb808906598aba",
+"walletLabel": "Parallel-Snail-Backup",
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403616,
+"side": "no",
+"price": 0.3179,
+"size": 32.152464,
+"wallet": "0xe01ab8adba281c9db5f855a7b6541d5229a678b6",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403615,
+"side": "yes",
+"price": 0.3299999997,
+"size": 454.545455,
+"wallet": "0x0f16a66df16a707334d89704631338ae7a770246",
+"walletLabel": "Humiliating-Buffer",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403607,
+"side": "yes",
+"price": 0.33,
+"size": 296.969697,
+"wallet": "0x6fa94220823334114ebac52fc4438b4922e34e7b",
+"walletLabel": "Belated-Chin-Spyglass",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403594,
+"side": "no",
+"price": 0.32,
+"size": 3.0,
+"wallet": "0xc3a3da667acfd316207a817d618e240dd261b441",
+"walletLabel": "Variable-Illness",
+"outcome": "Gianluca Cadenasso"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403573,
+"side": "no",
+"price": 0.32,
+"size": 1.470587,
+"wallet": "0x124a357f2634804b52a0118e106d28bbe49574e0",
+"walletLabel": null,
+"outcome": "Massimo Giunta"
+},
+{
+"marketId": "poly:5380293",
+"ts": 1791403520,
+"side": "yes",
+"price": 0.33,
+"size": 100.0,
+"wallet": "0x25bf42fe847ca0d55db331103a11d0496202ef3d",
+"walletLabel": "Athletic-Disarmament-Congressman",
+"outcome": "Gianluca Cadenasso"
+}
+]

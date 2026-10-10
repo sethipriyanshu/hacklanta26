@@ -1,0 +1,2002 @@
+[
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1791397868,
+"side": "yes",
+"price": 0.42,
+"size": 0.02,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1791397868,
+"side": "yes",
+"price": 0.42,
+"size": 51.79,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1791397868,
+"side": "yes",
+"price": 0.42,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1791351492,
+"side": "no",
+"price": 0.44,
+"size": 1000.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1791351492,
+"side": "no",
+"price": 0.45,
+"size": 200.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1791351492,
+"side": "no",
+"price": 0.47,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1791320184,
+"side": "no",
+"price": 0.48,
+"size": 100.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1791320184,
+"side": "no",
+"price": 0.47,
+"size": 99.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1791320174,
+"side": "no",
+"price": 0.48,
+"size": 400.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1791320174,
+"side": "no",
+"price": 0.49,
+"size": 960.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1791320174,
+"side": "no",
+"price": 0.49,
+"size": 400.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1791320174,
+"side": "no",
+"price": 0.49,
+"size": 1000.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1791320174,
+"side": "no",
+"price": 0.49,
+"size": 200.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1791320174,
+"side": "no",
+"price": 0.49,
+"size": 419.38,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1791320174,
+"side": "no",
+"price": 0.49,
+"size": 200.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1791320174,
+"side": "no",
+"price": 0.49,
+"size": 6.84,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1791320174,
+"side": "no",
+"price": 0.49,
+"size": 0.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1791251011,
+"side": "no",
+"price": 0.49,
+"size": 18.95,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1791232955,
+"side": "yes",
+"price": 0.49,
+"size": 6.03,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1791232955,
+"side": "yes",
+"price": 0.49,
+"size": 54.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1791232955,
+"side": "yes",
+"price": 0.49,
+"size": 1.64,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1791167178,
+"side": "yes",
+"price": 0.49,
+"size": 143.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1791167178,
+"side": "yes",
+"price": 0.49,
+"size": 143.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1791166452,
+"side": "yes",
+"price": 0.49,
+"size": 143.13,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1791166452,
+"side": "yes",
+"price": 0.49,
+"size": 3.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1791158759,
+"side": "yes",
+"price": 0.49,
+"size": 197.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1791153933,
+"side": "yes",
+"price": 0.49,
+"size": 197.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1791153923,
+"side": "yes",
+"price": 0.49,
+"size": 197.04,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790997277,
+"side": "no",
+"price": 0.48,
+"size": 1.93,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790994041,
+"side": "no",
+"price": 0.49,
+"size": 3.86,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790992119,
+"side": "yes",
+"price": 0.5,
+"size": 3.86,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790984798,
+"side": "yes",
+"price": 0.5,
+"size": 3.86,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790980445,
+"side": "yes",
+"price": 0.5,
+"size": 200.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790974331,
+"side": "yes",
+"price": 0.5,
+"size": 1.93,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790971389,
+"side": "yes",
+"price": 0.48,
+"size": 0.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790971389,
+"side": "yes",
+"price": 0.48,
+"size": 200.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790971389,
+"side": "yes",
+"price": 0.48,
+"size": 150.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790954834,
+"side": "no",
+"price": 0.47,
+"size": 100.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790954834,
+"side": "no",
+"price": 0.47,
+"size": 100.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790917120,
+"side": "yes",
+"price": 0.5,
+"size": 48.3,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790887888,
+"side": "yes",
+"price": 0.49,
+"size": 28.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790887888,
+"side": "yes",
+"price": 0.49,
+"size": 7.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790887888,
+"side": "yes",
+"price": 0.5,
+"size": 165.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790887688,
+"side": "yes",
+"price": 0.49,
+"size": 14.46,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790887688,
+"side": "yes",
+"price": 0.5,
+"size": 138.54,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790887688,
+"side": "yes",
+"price": 0.49,
+"size": 444.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790887688,
+"side": "yes",
+"price": 0.49,
+"size": 200.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790887688,
+"side": "yes",
+"price": 0.49,
+"size": 43.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790881305,
+"side": "yes",
+"price": 0.48,
+"size": 7.8,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790881305,
+"side": "yes",
+"price": 0.49,
+"size": 2.19,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790869852,
+"side": "no",
+"price": 0.48,
+"size": 0.34,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790869852,
+"side": "no",
+"price": 0.49,
+"size": 2.42,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790869852,
+"side": "no",
+"price": 0.48,
+"size": 20.82,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790869852,
+"side": "no",
+"price": 0.49,
+"size": 76.3,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790869852,
+"side": "no",
+"price": 0.48,
+"size": 0.12,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790863994,
+"side": "yes",
+"price": 0.5,
+"size": 20.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790857852,
+"side": "no",
+"price": 0.49,
+"size": 3.37,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790857852,
+"side": "no",
+"price": 0.49,
+"size": 34.7,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790816916,
+"side": "no",
+"price": 0.49,
+"size": 5.76,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790816916,
+"side": "no",
+"price": 0.5,
+"size": 3.78,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790805438,
+"side": "yes",
+"price": 0.51,
+"size": 3.79,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790778852,
+"side": "yes",
+"price": 0.51,
+"size": 29.06,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790778852,
+"side": "yes",
+"price": 0.5,
+"size": 0.58,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790778852,
+"side": "yes",
+"price": 0.5,
+"size": 5.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790778852,
+"side": "yes",
+"price": 0.5,
+"size": 3.42,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790769955,
+"side": "no",
+"price": 0.49,
+"size": 3.32,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790769955,
+"side": "no",
+"price": 0.49,
+"size": 22.84,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790769955,
+"side": "no",
+"price": 0.48,
+"size": 58.91,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790720123,
+"side": "yes",
+"price": 0.53,
+"size": 9.13,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790712136,
+"side": "no",
+"price": 0.52,
+"size": 150.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790712130,
+"side": "no",
+"price": 0.53,
+"size": 191.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790712130,
+"side": "no",
+"price": 0.53,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790712130,
+"side": "no",
+"price": 0.53,
+"size": 85.07,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790712130,
+"side": "no",
+"price": 0.53,
+"size": 200.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790712130,
+"side": "no",
+"price": 0.53,
+"size": 0.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790712130,
+"side": "no",
+"price": 0.53,
+"size": 9.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790700875,
+"side": "no",
+"price": 0.53,
+"size": 9.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790681227,
+"side": "no",
+"price": 0.53,
+"size": 4.72,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790681227,
+"side": "no",
+"price": 0.53,
+"size": 0.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790643896,
+"side": "yes",
+"price": 0.55,
+"size": 200.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790643886,
+"side": "yes",
+"price": 0.52,
+"size": 150.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790643886,
+"side": "yes",
+"price": 0.52,
+"size": 100.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790643886,
+"side": "yes",
+"price": 0.52,
+"size": 175.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790643886,
+"side": "yes",
+"price": 0.52,
+"size": 500.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790643886,
+"side": "yes",
+"price": 0.52,
+"size": 200.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790643886,
+"side": "yes",
+"price": 0.52,
+"size": 840.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790636578,
+"side": "yes",
+"price": 0.52,
+"size": 25.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790611534,
+"side": "yes",
+"price": 0.5,
+"size": 200.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790611534,
+"side": "yes",
+"price": 0.5,
+"size": 84.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790382989,
+"side": "yes",
+"price": 0.5,
+"size": 48.32,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790382914,
+"side": "yes",
+"price": 0.5,
+"size": 36.79,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790382914,
+"side": "yes",
+"price": 0.49,
+"size": 24.94,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790382914,
+"side": "yes",
+"price": 0.5,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790372203,
+"side": "no",
+"price": 0.48,
+"size": 86.03,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790372203,
+"side": "no",
+"price": 0.48,
+"size": 100.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790221766,
+"side": "no",
+"price": 0.48,
+"size": 2.5,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790221759,
+"side": "no",
+"price": 0.49,
+"size": 200.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1790216271,
+"side": "no",
+"price": 0.49,
+"size": 2.61,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1789959258,
+"side": "no",
+"price": 0.49,
+"size": 200.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1789959258,
+"side": "no",
+"price": 0.49,
+"size": 3.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1789932847,
+"side": "no",
+"price": 0.52,
+"size": 3.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1789926822,
+"side": "no",
+"price": 0.51,
+"size": 111.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1789926816,
+"side": "no",
+"price": 0.53,
+"size": 11.49,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1789926816,
+"side": "no",
+"price": 0.53,
+"size": 3.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1789872227,
+"side": "no",
+"price": 0.53,
+"size": 20.51,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1789608528,
+"side": "yes",
+"price": 0.57,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1789608528,
+"side": "yes",
+"price": 0.55,
+"size": 3.39,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1789608528,
+"side": "yes",
+"price": 0.58,
+"size": 9.8,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1789608528,
+"side": "yes",
+"price": 0.55,
+"size": 0.92,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1789593874,
+"side": "yes",
+"price": 0.55,
+"size": 0.08,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1789585210,
+"side": "yes",
+"price": 0.56,
+"size": 1.63,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1789584666,
+"side": "no",
+"price": 0.54,
+"size": 200.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1789563821,
+"side": "yes",
+"price": 0.64,
+"size": 0.73,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1789563821,
+"side": "yes",
+"price": 0.62,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1789563821,
+"side": "yes",
+"price": 0.61,
+"size": 3.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1789558171,
+"side": "yes",
+"price": 0.56,
+"size": 1.61,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1789558171,
+"side": "yes",
+"price": 0.55,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1789542481,
+"side": "no",
+"price": 0.56,
+"size": 26.73,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1789542481,
+"side": "no",
+"price": 0.56,
+"size": 444.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1789542481,
+"side": "no",
+"price": 0.48,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1789542481,
+"side": "no",
+"price": 0.56,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1789542481,
+"side": "no",
+"price": 0.42,
+"size": 53.47,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1789521873,
+"side": "no",
+"price": 0.57,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1789521873,
+"side": "no",
+"price": 0.57,
+"size": 30.53,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1789450462,
+"side": "no",
+"price": 0.56,
+"size": 16.27,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1789450462,
+"side": "no",
+"price": 0.57,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788993566,
+"side": "no",
+"price": 0.61,
+"size": 3.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788993446,
+"side": "no",
+"price": 0.61,
+"size": 3.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788993206,
+"side": "no",
+"price": 0.61,
+"size": 3.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788993086,
+"side": "no",
+"price": 0.61,
+"size": 3.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788992966,
+"side": "no",
+"price": 0.61,
+"size": 3.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788992328,
+"side": "no",
+"price": 0.57,
+"size": 200.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788992322,
+"side": "no",
+"price": 0.6,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788992311,
+"side": "no",
+"price": 0.58,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788992311,
+"side": "no",
+"price": 0.58,
+"size": 6.8,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788992311,
+"side": "no",
+"price": 0.58,
+"size": 10.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788992299,
+"side": "no",
+"price": 0.6,
+"size": 71.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788992299,
+"side": "no",
+"price": 0.6,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788992280,
+"side": "no",
+"price": 0.6,
+"size": 0.79,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788992280,
+"side": "no",
+"price": 0.6,
+"size": 15.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788992280,
+"side": "no",
+"price": 0.6,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788992274,
+"side": "no",
+"price": 0.61,
+"size": 1.99,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788988711,
+"side": "no",
+"price": 0.62,
+"size": 1.31,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788945841,
+"side": "no",
+"price": 0.81,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788945841,
+"side": "no",
+"price": 0.81,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788945841,
+"side": "no",
+"price": 0.81,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788945839,
+"side": "no",
+"price": 0.81,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788923351,
+"side": "no",
+"price": 0.63,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788910521,
+"side": "yes",
+"price": 0.6,
+"size": 200.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788910521,
+"side": "yes",
+"price": 0.59,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788909806,
+"side": "yes",
+"price": 0.57,
+"size": 6.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788909806,
+"side": "yes",
+"price": 0.57,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788869406,
+"side": "no",
+"price": 0.53,
+"size": 9.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788869406,
+"side": "no",
+"price": 0.53,
+"size": 9.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788869406,
+"side": "no",
+"price": 0.53,
+"size": 22.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788869406,
+"side": "no",
+"price": 0.54,
+"size": 2.26,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788869406,
+"side": "no",
+"price": 0.55,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788869406,
+"side": "no",
+"price": 0.54,
+"size": 0.88,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788869406,
+"side": "no",
+"price": 0.55,
+"size": 2.84,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788869406,
+"side": "no",
+"price": 0.55,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788869406,
+"side": "no",
+"price": 0.54,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788869406,
+"side": "no",
+"price": 0.53,
+"size": 9.02,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788852782,
+"side": "yes",
+"price": 0.55,
+"size": 176.25,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788842986,
+"side": "yes",
+"price": 0.55,
+"size": 18.77,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788842986,
+"side": "yes",
+"price": 0.54,
+"size": 16.76,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788831392,
+"side": "yes",
+"price": 0.53,
+"size": 36.22,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788831392,
+"side": "yes",
+"price": 0.53,
+"size": 9.21,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788829736,
+"side": "no",
+"price": 0.53,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788792297,
+"side": "no",
+"price": 0.57,
+"size": 4.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788778143,
+"side": "no",
+"price": 0.62,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788772359,
+"side": "no",
+"price": 0.65,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788772359,
+"side": "no",
+"price": 0.64,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788772359,
+"side": "no",
+"price": 0.62,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788771743,
+"side": "no",
+"price": 0.62,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788761432,
+"side": "yes",
+"price": 0.49,
+"size": 11.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788761432,
+"side": "yes",
+"price": 0.49,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788761296,
+"side": "yes",
+"price": 0.49,
+"size": 26.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788761296,
+"side": "yes",
+"price": 0.49,
+"size": 22.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788761295,
+"side": "yes",
+"price": 0.49,
+"size": 9.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788761295,
+"side": "yes",
+"price": 0.49,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788760309,
+"side": "yes",
+"price": 0.45,
+"size": 5.6,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788760306,
+"side": "yes",
+"price": 0.45,
+"size": 8.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788759871,
+"side": "yes",
+"price": 0.46,
+"size": 4.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788759786,
+"side": "yes",
+"price": 0.46,
+"size": 0.87,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788759784,
+"side": "yes",
+"price": 0.46,
+"size": 4.13,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788759784,
+"side": "yes",
+"price": 0.46,
+"size": 0.87,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788759652,
+"side": "yes",
+"price": 0.46,
+"size": 8.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788759425,
+"side": "yes",
+"price": 0.47,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788759357,
+"side": "no",
+"price": 0.47,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788759357,
+"side": "no",
+"price": 0.47,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788759357,
+"side": "no",
+"price": 0.42,
+"size": 14.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788759357,
+"side": "yes",
+"price": 0.48,
+"size": 20.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788759357,
+"side": "yes",
+"price": 0.48,
+"size": 46.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788759357,
+"side": "yes",
+"price": 0.48,
+"size": 24.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788759357,
+"side": "yes",
+"price": 0.48,
+"size": 9.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788759357,
+"side": "yes",
+"price": 0.48,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788759341,
+"side": "yes",
+"price": 0.48,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788759140,
+"side": "yes",
+"price": 0.48,
+"size": 100.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788759138,
+"side": "yes",
+"price": 0.48,
+"size": 97.99,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXAGICO-COMP-27Q3",
+"ts": 1788759138,
+"side": "yes",
+"price": 0.48,
+"size": 2.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+}
+]

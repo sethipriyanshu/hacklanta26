@@ -1,0 +1,2002 @@
+[
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1791324049,
+"side": "yes",
+"price": 0.004,
+"size": 13432.97,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1791323993,
+"side": "yes",
+"price": 0.004,
+"size": 2500.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1791296181,
+"side": "yes",
+"price": 0.004,
+"size": 50000.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1791286478,
+"side": "yes",
+"price": 0.004,
+"size": 2000.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1791224292,
+"side": "yes",
+"price": 0.004,
+"size": 116.87,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1791133111,
+"side": "yes",
+"price": 0.004,
+"size": 500.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1791130759,
+"side": "no",
+"price": 0.003,
+"size": 500.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1791130699,
+"side": "yes",
+"price": 0.004,
+"size": 500.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1791126255,
+"side": "yes",
+"price": 0.004,
+"size": 2000.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1791046515,
+"side": "no",
+"price": 0.003,
+"size": 275.8,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1790996382,
+"side": "yes",
+"price": 0.004,
+"size": 458.07,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1790996371,
+"side": "yes",
+"price": 0.004,
+"size": 114.53,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1790961609,
+"side": "yes",
+"price": 0.004,
+"size": 1500.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1790956893,
+"side": "yes",
+"price": 0.004,
+"size": 232.49,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1790956284,
+"side": "yes",
+"price": 0.004,
+"size": 458.07,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1790898315,
+"side": "yes",
+"price": 0.004,
+"size": 500.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1790896484,
+"side": "no",
+"price": 0.003,
+"size": 154.26,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1790894624,
+"side": "yes",
+"price": 0.004,
+"size": 229.04,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1790864382,
+"side": "yes",
+"price": 0.004,
+"size": 1000.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1790858167,
+"side": "no",
+"price": 0.003,
+"size": 467.42,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1790857093,
+"side": "yes",
+"price": 0.004,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1790803099,
+"side": "no",
+"price": 0.003,
+"size": 10.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1790788535,
+"side": "yes",
+"price": 0.004,
+"size": 5000.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1790732923,
+"side": "yes",
+"price": 0.004,
+"size": 458.07,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1790714127,
+"side": "yes",
+"price": 0.004,
+"size": 10000.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1790681634,
+"side": "yes",
+"price": 0.004,
+"size": 1500.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1790541745,
+"side": "no",
+"price": 0.003,
+"size": 793.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1790541674,
+"side": "no",
+"price": 0.003,
+"size": 793.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1790540734,
+"side": "no",
+"price": 0.003,
+"size": 1585.99,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1790540555,
+"side": "no",
+"price": 0.003,
+"size": 915.79,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1790540555,
+"side": "no",
+"price": 0.003,
+"size": 2256.19,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1790540451,
+"side": "no",
+"price": 0.003,
+"size": 6343.97,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1790516250,
+"side": "yes",
+"price": 0.004,
+"size": 5000.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1790461664,
+"side": "no",
+"price": 0.003,
+"size": 41.06,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1790304614,
+"side": "yes",
+"price": 0.004,
+"size": 458.07,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1790247998,
+"side": "yes",
+"price": 0.004,
+"size": 25000.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1790129038,
+"side": "yes",
+"price": 0.004,
+"size": 6870.96,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1790095751,
+"side": "yes",
+"price": 0.004,
+"size": 23.37,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1789959552,
+"side": "no",
+"price": 0.003,
+"size": 33.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1789844396,
+"side": "no",
+"price": 0.003,
+"size": 102.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1789671218,
+"side": "no",
+"price": 0.003,
+"size": 10.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1789404235,
+"side": "yes",
+"price": 0.004,
+"size": 25.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1789315645,
+"side": "no",
+"price": 0.003,
+"size": 4679.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1789248879,
+"side": "yes",
+"price": 0.004,
+"size": 100.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1789110184,
+"side": "yes",
+"price": 0.004,
+"size": 11685.31,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1789110136,
+"side": "yes",
+"price": 0.004,
+"size": 11685.31,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788936243,
+"side": "yes",
+"price": 0.004,
+"size": 5000.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788879845,
+"side": "no",
+"price": 0.003,
+"size": 2337.07,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788744820,
+"side": "yes",
+"price": 0.004,
+"size": 2337.07,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788724762,
+"side": "yes",
+"price": 0.004,
+"size": 233.72,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788724181,
+"side": "yes",
+"price": 0.004,
+"size": 233.72,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788712045,
+"side": "yes",
+"price": 0.004,
+"size": 467.42,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788654482,
+"side": "yes",
+"price": 0.004,
+"size": 233.72,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788567670,
+"side": "yes",
+"price": 0.004,
+"size": 233.72,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788438927,
+"side": "yes",
+"price": 0.004,
+"size": 2337.07,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788401069,
+"side": "no",
+"price": 0.003,
+"size": 1400.82,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788319937,
+"side": "no",
+"price": 0.003,
+"size": 2.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788319937,
+"side": "yes",
+"price": 0.004,
+"size": 2.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788317480,
+"side": "no",
+"price": 0.003,
+"size": 2.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788317480,
+"side": "yes",
+"price": 0.004,
+"size": 2.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788317475,
+"side": "no",
+"price": 0.003,
+"size": 2.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788317475,
+"side": "yes",
+"price": 0.004,
+"size": 2.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788317241,
+"side": "no",
+"price": 0.003,
+"size": 2.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788317240,
+"side": "yes",
+"price": 0.004,
+"size": 2.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788317235,
+"side": "no",
+"price": 0.003,
+"size": 2.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788317235,
+"side": "yes",
+"price": 0.004,
+"size": 2.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788316219,
+"side": "no",
+"price": 0.003,
+"size": 2.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788316219,
+"side": "yes",
+"price": 0.004,
+"size": 2.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788316214,
+"side": "no",
+"price": 0.003,
+"size": 2.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788316214,
+"side": "yes",
+"price": 0.004,
+"size": 2.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788316209,
+"side": "no",
+"price": 0.003,
+"size": 2.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788316209,
+"side": "yes",
+"price": 0.004,
+"size": 2.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788301236,
+"side": "yes",
+"price": 0.004,
+"size": 467.42,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788297607,
+"side": "yes",
+"price": 0.004,
+"size": 5842.65,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788290169,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788290169,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788290162,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788290162,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788290135,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788290135,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788290123,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788290123,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788290111,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788290111,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788290099,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788290099,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788290088,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788290088,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788290078,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788290078,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788290068,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788290067,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788290055,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788290055,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788290046,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788290046,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788289830,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788289830,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788289821,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788289821,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788289811,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788289811,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788289799,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788289798,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788284532,
+"side": "yes",
+"price": 0.004,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788283828,
+"side": "yes",
+"price": 0.004,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788282895,
+"side": "yes",
+"price": 0.004,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788281929,
+"side": "yes",
+"price": 0.004,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788280885,
+"side": "yes",
+"price": 0.004,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788280011,
+"side": "yes",
+"price": 0.004,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788280009,
+"side": "yes",
+"price": 0.004,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788280001,
+"side": "yes",
+"price": 0.004,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788279999,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788242274,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788242274,
+"side": "no",
+"price": 0.003,
+"size": 0.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788242274,
+"side": "yes",
+"price": 0.004,
+"size": 2.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788242241,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788242241,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788239639,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788239639,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788236899,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788236899,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229259,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229258,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229249,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229248,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229237,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229237,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229229,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229229,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229219,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229219,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229209,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229208,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229202,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229202,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229170,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229170,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229161,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229161,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229152,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229152,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229142,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229142,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229131,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229131,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229121,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229121,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229112,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229111,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229102,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229102,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229092,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229092,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229082,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229082,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229072,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229071,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229063,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229063,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229054,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229054,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229024,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229024,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229015,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229015,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229007,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229007,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229000,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788229000,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228992,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228991,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228896,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228896,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228889,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228888,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228879,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228879,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228872,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228872,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228863,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228863,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228854,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228854,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228846,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228846,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228817,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228816,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228809,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228809,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228802,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228802,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228793,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228793,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228785,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228785,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228778,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228777,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228770,
+"side": "no",
+"price": 0.003,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-GYOU",
+"ts": 1788228770,
+"side": "yes",
+"price": 0.004,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+}
+]

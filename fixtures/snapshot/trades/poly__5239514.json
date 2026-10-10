@@ -1,0 +1,2002 @@
+[
+{
+"marketId": "poly:5239514",
+"ts": 1791405002,
+"side": "no",
+"price": 0.999,
+"size": 5.0,
+"wallet": "0x8bbed83c85f8efbbc96bd011c0c0c825707c1439",
+"walletLabel": "Quaint-Purpose-Badge",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791397779,
+"side": "no",
+"price": 0.999,
+"size": 1000.0,
+"wallet": "0x2caeaf162d9e224aca285d04b89da63f24c28bd9",
+"walletLabel": "Insecure-Position",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791393206,
+"side": "no",
+"price": 0.999,
+"size": 10000.0,
+"wallet": "0x56f80cbd785a0d1cc379dcff3622ce6e88916415",
+"walletLabel": null,
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791388712,
+"side": "no",
+"price": 0.999,
+"size": 54.34,
+"wallet": "0x82bfc0126f1cf439fe610d44a0891db1c7aa9934",
+"walletLabel": "Concrete-Debt-Cockpit",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791388463,
+"side": "no",
+"price": 0.999,
+"size": 3500.0,
+"wallet": "0xf90d84cc80a6295527727fa7f01f2fe04113e27d",
+"walletLabel": null,
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791387871,
+"side": "no",
+"price": 0.999,
+"size": 7000.0,
+"wallet": "0xf90d84cc80a6295527727fa7f01f2fe04113e27d",
+"walletLabel": null,
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791384979,
+"side": "no",
+"price": 0.999,
+"size": 19.26,
+"wallet": "0x378d4fc4b3c2affeede01df17c059f13b9a0a852",
+"walletLabel": "Frightened-Guacamole",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791378100,
+"side": "no",
+"price": 0.999,
+"size": 45.38,
+"wallet": "0xd673df94d847898102c8eec850ccc606793c2305",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791367892,
+"side": "no",
+"price": 0.999,
+"size": 2000.0,
+"wallet": "0xebb28df43258f6aa915f0e9d865075ff935163ed",
+"walletLabel": "Electric-Thunderbolt",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791366048,
+"side": "no",
+"price": 0.999,
+"size": 4.13,
+"wallet": "0x95de29a81236789fbabca8ccaeaae875a0776eae",
+"walletLabel": "Noted-Gastronomy-Pegboard",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791364077,
+"side": "no",
+"price": 0.999,
+"size": 16.33,
+"wallet": "0x935c03a2e661e55bde1f3d494b44bcbf68fcfb8f",
+"walletLabel": "Roasted-Ride",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791360860,
+"side": "no",
+"price": 0.999,
+"size": 1.2,
+"wallet": "0x0ceb211bce08f16e9a124e7eb0e03c5ebcfc48ac",
+"walletLabel": "Hideous-Stair",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791353952,
+"side": "no",
+"price": 0.999,
+"size": 400.0,
+"wallet": "0x6e9a6afde1e8bd4a0c7bf2809cf87fe14c00f3bb",
+"walletLabel": "Crisp-Official",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791352086,
+"side": "no",
+"price": 0.999,
+"size": 10000.0,
+"wallet": "0xb5dcb31f6fcc1be85f67eadee2c8610da0f41fc3",
+"walletLabel": null,
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791351626,
+"side": "no",
+"price": 0.999,
+"size": 1.11,
+"wallet": "0xfe5e6798b74330cede98071b9d7b635f8596b9b4",
+"walletLabel": "Unwilling-Afoul",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791349998,
+"side": "no",
+"price": 0.999,
+"size": 75.19,
+"wallet": "0xa58f84122535fbe42cec75d70e24ba0dd7e7cec8",
+"walletLabel": "Tiny-Whisper",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791349997,
+"side": "no",
+"price": 0.999,
+"size": 10895.56,
+"wallet": "0x33e27ac64a453337cfcea8345c705a407c573a1b",
+"walletLabel": "Simple-Tradition",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791347438,
+"side": "no",
+"price": 0.999,
+"size": 1.12,
+"wallet": "0xb9767637453513ffddc37d77e19529dc4f508092",
+"walletLabel": "Subdued-Diversity",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791344252,
+"side": "no",
+"price": 0.999,
+"size": 142.5,
+"wallet": "0x1fb0b54457474df8cae6c72d866f9ec8dc0f51ce",
+"walletLabel": "Victorious-Silver",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791341138,
+"side": "yes",
+"price": 0.999,
+"size": 15284.07,
+"wallet": "0x6a88c5ecd262e2c42e78bad8e6db7ab3c4e4b859",
+"walletLabel": "Short-Convention",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791340392,
+"side": "no",
+"price": 0.998,
+"size": 2500.0,
+"wallet": "0x104f51d40148f165e0e9451cef47517cf5c1694c",
+"walletLabel": null,
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791340289,
+"side": "yes",
+"price": 0.999,
+"size": 200.0,
+"wallet": "0x6e9a6afde1e8bd4a0c7bf2809cf87fe14c00f3bb",
+"walletLabel": "Crisp-Official",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791340215,
+"side": "yes",
+"price": 0.999,
+"size": 1000.0,
+"wallet": "0x8f0cf808ce167d625ce3b50936e363cb785f57f5",
+"walletLabel": "Terrible-Cruelty",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791340193,
+"side": "yes",
+"price": 0.999,
+"size": 56.0,
+"wallet": "0x7635a88fb8204b84b7e299db79f22fb4b45f7cba",
+"walletLabel": "Liquid-Toy",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791340109,
+"side": "yes",
+"price": 0.999,
+"size": 1000.0,
+"wallet": "0xddcd8e90d139f6d60042b4a14cb2cd00a3a8725f",
+"walletLabel": "Clear-Tower",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791339734,
+"side": "yes",
+"price": 0.999,
+"size": 70176.04,
+"wallet": "0xf67f72df65797a85dc9fd44d57adfe5b7b4a31cf",
+"walletLabel": "Jumpy-Recollection",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791338757,
+"side": "yes",
+"price": 0.999,
+"size": 79.0,
+"wallet": "0x126fef068e520d0aae8ffaaf04b6c54d2e7e4ac0",
+"walletLabel": "Juvenile-Miter",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791338138,
+"side": "yes",
+"price": 0.999,
+"size": 68.0,
+"wallet": "0x3e349e18f0c4488ad9f9c61b688257ed1ab81211",
+"walletLabel": "Dental-Penalty",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791337094,
+"side": "yes",
+"price": 0.999,
+"size": 107.0,
+"wallet": "0x2a54f52841d73e3bfacf1daf88ade0da3459b991",
+"walletLabel": "Circular-Pressure",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791336513,
+"side": "no",
+"price": 0.998,
+"size": 1.0,
+"wallet": "0x9b2594f4b1c25c233dd8791f2d3f6ddf6c0106b0",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791336395,
+"side": "no",
+"price": 0.998,
+"size": 5235.0,
+"wallet": "0x5b6331e7ff0831a3fe2ed12004747db1a9c911a4",
+"walletLabel": "Monstrous-Dew",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791336123,
+"side": "yes",
+"price": 0.999,
+"size": 500.0,
+"wallet": "0xebe996387239a925ad9e4c672a66a56d3afac6f8",
+"walletLabel": "Messy-Toad",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791336005,
+"side": "yes",
+"price": 0.999,
+"size": 72000.0,
+"wallet": "0x4ad6cadefae3c28f5b2caa32a99ebba3a614464c",
+"walletLabel": "Unripe-Split",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791335669,
+"side": "yes",
+"price": 0.999,
+"size": 15.0,
+"wallet": "0x7e30c3a56d89edac738d788dd218a9e64fb91e50",
+"walletLabel": "International-Venue",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791335654,
+"side": "yes",
+"price": 0.999,
+"size": 16659.0,
+"wallet": "0x7e30c3a56d89edac738d788dd218a9e64fb91e50",
+"walletLabel": "International-Venue",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791334847,
+"side": "no",
+"price": 0.998,
+"size": 466.0,
+"wallet": "0x8e410488c11c077b76ab6f2b77eafaee9a59958f",
+"walletLabel": "Illustrious-Volcano",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791333883,
+"side": "no",
+"price": 0.998,
+"size": 2.0,
+"wallet": "0x674d7859f56014ed8832af629e6c75f6ba22e994",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791333539,
+"side": "yes",
+"price": 0.999,
+"size": 500.0,
+"wallet": "0x674d7859f56014ed8832af629e6c75f6ba22e994",
+"walletLabel": null,
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791333518,
+"side": "yes",
+"price": 0.999,
+"size": 13.57,
+"wallet": "0x3e597f553bd48e1b2cc7c164400517ce3f770d8b",
+"walletLabel": null,
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791332980,
+"side": "yes",
+"price": 0.999,
+"size": 2.002,
+"wallet": "0x674d7859f56014ed8832af629e6c75f6ba22e994",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791332912,
+"side": "no",
+"price": 0.998,
+"size": 500.0,
+"wallet": "0x674d7859f56014ed8832af629e6c75f6ba22e994",
+"walletLabel": null,
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791331215,
+"side": "no",
+"price": 0.998,
+"size": 500.0,
+"wallet": "0x8e6a9858886cd99acc79e696f2666a9f1d364d57",
+"walletLabel": null,
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791329453,
+"side": "no",
+"price": 0.998,
+"size": 500.0,
+"wallet": "0x0161c91cfdb7d048cd6b94a3931b457908ebec86",
+"walletLabel": null,
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791328880,
+"side": "no",
+"price": 0.998,
+"size": 1032.23,
+"wallet": "0x9372c55408c20c3ed2e16a55be2023cc05b33b1a",
+"walletLabel": "Uncomfortable-Unemployment",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791326396,
+"side": "no",
+"price": 0.998,
+"size": 7.55,
+"wallet": "0x5a663f6f2cdf67a9a39f720027eac342b6aca6da",
+"walletLabel": "Well-To-Do-Availability",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791325554,
+"side": "no",
+"price": 0.998,
+"size": 730.0,
+"wallet": "0xece1c5b51d65c9ac1de0e69b7537f149d51ada74",
+"walletLabel": "Mature-Variability",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791324731,
+"side": "no",
+"price": 0.998,
+"size": 1435.0,
+"wallet": "0x1144c70cd43efc16d3d0f143dfbd26ef9bf8b8c0",
+"walletLabel": "Granular-Consumption",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791324726,
+"side": "yes",
+"price": 0.999,
+"size": 14095.85,
+"wallet": "0x995937f2b90f0235b9773baa4bc83455ada8d99b",
+"walletLabel": "Dark-Mansard",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791324608,
+"side": "yes",
+"price": 0.999,
+"size": 14301.591,
+"wallet": "0x178d913891fee26e0380817f7689d41d33e474ed",
+"walletLabel": "Hungry-Hunger",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791323388,
+"side": "yes",
+"price": 0.999,
+"size": 10.01,
+"wallet": "0x270870eb538617c0fe915d1d9d80046c6cd187bd",
+"walletLabel": "Parched-Koala",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791321953,
+"side": "yes",
+"price": 0.999,
+"size": 2000.0,
+"wallet": "0x7003debf9d7d7208411bb3a3fb029b6518f17ca4",
+"walletLabel": "Kindhearted-Impress-Cereal",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791321761,
+"side": "yes",
+"price": 0.999,
+"size": 17.48,
+"wallet": "0x028be7496302642b893fdd61a83abe44c3644ad0",
+"walletLabel": "Tough-Dirt",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791320594,
+"side": "yes",
+"price": 0.999,
+"size": 3.463,
+"wallet": "0x5d9481fe6b83688549aa3fa60c8ec9279ddc5e8e",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791319587,
+"side": "yes",
+"price": 0.999,
+"size": 1.001,
+"wallet": "0x9b2594f4b1c25c233dd8791f2d3f6ddf6c0106b0",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791318999,
+"side": "yes",
+"price": 0.999,
+"size": 25000.0,
+"wallet": "0x73e35ce0b7e36ef3ce29ebd12b30b28007383239",
+"walletLabel": "Well-Informed-Ischemia",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791318585,
+"side": "no",
+"price": 0.998,
+"size": 2.3,
+"wallet": "0xa9b73b68f02f26238e2fa948fe0b7dbeb5bff43c",
+"walletLabel": "Friendly-Legislation",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791317978,
+"side": "yes",
+"price": 0.999,
+"size": 73.0,
+"wallet": "0xb0ef1bd59313a8f408ffae380a6903317522e55d",
+"walletLabel": "Giving-Sailboat",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791316899,
+"side": "yes",
+"price": 0.999,
+"size": 82.0,
+"wallet": "0x81389c6473fc195f9db3b4b4b31101aeb941df1e",
+"walletLabel": "Well-Groomed-Fusarium",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791316370,
+"side": "yes",
+"price": 0.999,
+"size": 83.0,
+"wallet": "0xe6e02257b47584cafe126513c905caaf5f7308be",
+"walletLabel": "Defenseless-Signup",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791315663,
+"side": "yes",
+"price": 0.999,
+"size": 66.0,
+"wallet": "0x2d421062becbc359de6ff9de4f264447cf93ba64",
+"walletLabel": "Optimistic-Ford",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791314736,
+"side": "no",
+"price": 0.998,
+"size": 405.0,
+"wallet": "0x57befc9b769b96a469d918bece9bee03a72105f6",
+"walletLabel": "Wicked-Drum",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791312951,
+"side": "no",
+"price": 0.998,
+"size": 6785.0,
+"wallet": "0x5b6331e7ff0831a3fe2ed12004747db1a9c911a4",
+"walletLabel": "Monstrous-Dew",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791312636,
+"side": "yes",
+"price": 0.9989998014,
+"size": 5.005006,
+"wallet": "0x7459860bf48c5b7a9de89f533b1d23cc4236a257",
+"walletLabel": "Only-Insurgence-Report",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791312012,
+"side": "no",
+"price": 0.998,
+"size": 4320.0,
+"wallet": "0xb59c2017f993e9a8d134af901f981c8d260e4e1b",
+"walletLabel": "Acceptable-Shelter-Cherry",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791309422,
+"side": "no",
+"price": 0.998,
+"size": 500.0,
+"wallet": "0x494e88d3dade4088515de45d0dcf694daf044bc6",
+"walletLabel": null,
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791307944,
+"side": "yes",
+"price": 0.999,
+"size": 41.0,
+"wallet": "0xcd970f60837a37f25bf686e31f785c633a1c7ca8",
+"walletLabel": "Poor-Fondue",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791306944,
+"side": "yes",
+"price": 0.999,
+"size": 81.0,
+"wallet": "0x95d0ef4b1a513e062eb5d1bfc4e1b6fc3f30b1bc",
+"walletLabel": "Slight-Neuropathologist",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791306588,
+"side": "yes",
+"price": 0.999,
+"size": 1500.0,
+"wallet": "0x374cba403b526c1893234e69718956c51f3320ef",
+"walletLabel": "Kindly-Personnel",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791306351,
+"side": "yes",
+"price": 0.999,
+"size": 94.0,
+"wallet": "0x94c20fb79e835de26df81d7c64f7a77835f368fa",
+"walletLabel": "Thunderous-Ninja",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791306213,
+"side": "no",
+"price": 0.998,
+"size": 9.69,
+"wallet": "0x4a0dce1ab89fd96fc66a2041f6d7955f47fe00b3",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791305679,
+"side": "no",
+"price": 0.998,
+"size": 430.0,
+"wallet": "0x48f639a98b648ac786f911f631c4fb7f93af566e",
+"walletLabel": "Novel-Spokeswoman",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791304902,
+"side": "yes",
+"price": 0.999,
+"size": 97.0,
+"wallet": "0xb8b1389633efea9aba33a232132177cead4d4c5a",
+"walletLabel": "Cylindrical-Insert",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791304347,
+"side": "yes",
+"price": 0.999,
+"size": 74.0,
+"wallet": "0x23b22a8094f2278a04eb0223d47aef8ce4f791ce",
+"walletLabel": "Shady-Experimentation",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791302643,
+"side": "no",
+"price": 0.998,
+"size": 2335.0,
+"wallet": "0xf462ec3943a4ea4aa9b7535128597262deb1fb0a",
+"walletLabel": null,
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791302528,
+"side": "yes",
+"price": 0.999,
+"size": 82.0,
+"wallet": "0x2679806b16b64fb54ab7a9f4f36255e69067fe02",
+"walletLabel": "Shadowy-Spouse",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791302498,
+"side": "no",
+"price": 0.998,
+"size": 500.0,
+"wallet": "0xebe996387239a925ad9e4c672a66a56d3afac6f8",
+"walletLabel": "Messy-Toad",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791301644,
+"side": "yes",
+"price": 0.999,
+"size": 915.0,
+"wallet": "0x87c4274aa1749d8f0b84b949ecf444a456865fe4",
+"walletLabel": "Pleased-Countess-Real",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791301461,
+"side": "no",
+"price": 0.998,
+"size": 409.0,
+"wallet": "0xb7400e0dececf51dad5a1e6acd6401258060e904",
+"walletLabel": "Urban-Behalf",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791300743,
+"side": "no",
+"price": 0.998,
+"size": 200.0,
+"wallet": "0x6e9a6afde1e8bd4a0c7bf2809cf87fe14c00f3bb",
+"walletLabel": "Crisp-Official",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791299034,
+"side": "yes",
+"price": 0.999,
+"size": 500.0,
+"wallet": "0x7c1b4d94bfdfb6f17735bd317ba33cbbfae9153d",
+"walletLabel": null,
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791295625,
+"side": "no",
+"price": 0.998,
+"size": 4.77,
+"wallet": "0xcbe7cdd7eb4c7f0882dbb8b4df9e1e208c6563fb",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791295506,
+"side": "yes",
+"price": 0.9989999529,
+"size": 4.774775,
+"wallet": "0xcbe7cdd7eb4c7f0882dbb8b4df9e1e208c6563fb",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791294696,
+"side": "no",
+"price": 0.998,
+"size": 118.6,
+"wallet": "0x799ff2d8b6da8d37b1f88af617ca00a05ca80fc0",
+"walletLabel": "Lively-Second-Line",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791293205,
+"side": "yes",
+"price": 0.999,
+"size": 1.96,
+"wallet": "0x343922aa8138a81a31b679a3bbd57d8217575ca3",
+"walletLabel": null,
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791293179,
+"side": "yes",
+"price": 0.999,
+"size": 11.06,
+"wallet": "0x3cf89b141fd440b1818dfd40cbcf81b627b4af49",
+"walletLabel": "Clever-Gravy",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791292056,
+"side": "yes",
+"price": 0.999,
+"size": 500.0,
+"wallet": "0x9619bdea2d8b8fb84fae807b7ffc41eb364ff3ad",
+"walletLabel": "Kosher-Hospitalization",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791291973,
+"side": "no",
+"price": 0.998,
+"size": 500.0,
+"wallet": "0x9619bdea2d8b8fb84fae807b7ffc41eb364ff3ad",
+"walletLabel": "Kosher-Hospitalization",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791291222,
+"side": "no",
+"price": 0.998,
+"size": 915.0,
+"wallet": "0x87c4274aa1749d8f0b84b949ecf444a456865fe4",
+"walletLabel": "Pleased-Countess-Real",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791288636,
+"side": "no",
+"price": 0.998,
+"size": 237.74,
+"wallet": "0xf5846121ab8acbd2cbcb5e4ca4953e239179d000",
+"walletLabel": "Unwilling-Licorice",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791288541,
+"side": "no",
+"price": 0.998,
+"size": 105.26,
+"wallet": "0x600fee6c46494810742ee001022f1f2848100c61",
+"walletLabel": "Neighboring-Wetbar",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791287599,
+"side": "yes",
+"price": 0.998,
+"size": 5.0,
+"wallet": "0x8dde8726fc2efed383eda970435e6f2be7745045",
+"walletLabel": "Bronze-Stalk",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791287466,
+"side": "no",
+"price": 0.998,
+"size": 50661.94,
+"wallet": "0x63070e01f4135fbd76771972222a3869df2d2b67",
+"walletLabel": "Frugal-Girdle",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791287071,
+"side": "no",
+"price": 0.998,
+"size": 40.0,
+"wallet": "0x905f72c0fd65232e8bd0782336a06e7bdbe387d3",
+"walletLabel": "Weak-Morbid",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286984,
+"side": "no",
+"price": 0.998,
+"size": 290.51,
+"wallet": "0x905f72c0fd65232e8bd0782336a06e7bdbe387d3",
+"walletLabel": "Weak-Morbid",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286953,
+"side": "no",
+"price": 0.998,
+"size": 291.1,
+"wallet": "0x905f72c0fd65232e8bd0782336a06e7bdbe387d3",
+"walletLabel": "Weak-Morbid",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286855,
+"side": "yes",
+"price": 0.999,
+"size": 200.0,
+"wallet": "0xf1ff40f082633619cd012bb96affb4ac7a645b03",
+"walletLabel": "Infatuated-Treasury",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286851,
+"side": "no",
+"price": 0.998,
+"size": 500.0,
+"wallet": "0x374cba403b526c1893234e69718956c51f3320ef",
+"walletLabel": "Kindly-Personnel",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286849,
+"side": "no",
+"price": 0.998,
+"size": 1552.28,
+"wallet": "0x401ee31e9ebf9ab9f6315cd95faca5f950436fc9",
+"walletLabel": "Attached-Pump",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286840,
+"side": "yes",
+"price": 0.999,
+"size": 100.0,
+"wallet": "0xf1ff40f082633619cd012bb96affb4ac7a645b03",
+"walletLabel": "Infatuated-Treasury",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286824,
+"side": "no",
+"price": 0.998,
+"size": 1393.97,
+"wallet": "0xf1ff40f082633619cd012bb96affb4ac7a645b03",
+"walletLabel": "Infatuated-Treasury",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286806,
+"side": "no",
+"price": 0.998,
+"size": 500.0,
+"wallet": "0x374cba403b526c1893234e69718956c51f3320ef",
+"walletLabel": "Kindly-Personnel",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286794,
+"side": "yes",
+"price": 0.999,
+"size": 1000.0,
+"wallet": "0xf1ff40f082633619cd012bb96affb4ac7a645b03",
+"walletLabel": "Infatuated-Treasury",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286786,
+"side": "no",
+"price": 0.998,
+"size": 500.0,
+"wallet": "0xf1ff40f082633619cd012bb96affb4ac7a645b03",
+"walletLabel": "Infatuated-Treasury",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286780,
+"side": "no",
+"price": 0.998,
+"size": 500.0,
+"wallet": "0xf1ff40f082633619cd012bb96affb4ac7a645b03",
+"walletLabel": "Infatuated-Treasury",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286668,
+"side": "no",
+"price": 0.998,
+"size": 500.0,
+"wallet": "0x374cba403b526c1893234e69718956c51f3320ef",
+"walletLabel": "Kindly-Personnel",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286657,
+"side": "no",
+"price": 0.998,
+"size": 500.0,
+"wallet": "0x905f72c0fd65232e8bd0782336a06e7bdbe387d3",
+"walletLabel": "Weak-Morbid",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286647,
+"side": "yes",
+"price": 0.999,
+"size": 22.0,
+"wallet": "0x905f72c0fd65232e8bd0782336a06e7bdbe387d3",
+"walletLabel": "Weak-Morbid",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286629,
+"side": "no",
+"price": 0.998,
+"size": 50.0,
+"wallet": "0x905f72c0fd65232e8bd0782336a06e7bdbe387d3",
+"walletLabel": "Weak-Morbid",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286591,
+"side": "yes",
+"price": 0.999,
+"size": 40.0,
+"wallet": "0x905f72c0fd65232e8bd0782336a06e7bdbe387d3",
+"walletLabel": "Weak-Morbid",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286579,
+"side": "no",
+"price": 0.998,
+"size": 292.88,
+"wallet": "0x905f72c0fd65232e8bd0782336a06e7bdbe387d3",
+"walletLabel": "Weak-Morbid",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286540,
+"side": "no",
+"price": 0.998,
+"size": 293.0,
+"wallet": "0x905f72c0fd65232e8bd0782336a06e7bdbe387d3",
+"walletLabel": "Weak-Morbid",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286509,
+"side": "no",
+"price": 0.998,
+"size": 294.1,
+"wallet": "0x905f72c0fd65232e8bd0782336a06e7bdbe387d3",
+"walletLabel": "Weak-Morbid",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286465,
+"side": "yes",
+"price": 0.999,
+"size": 10.0,
+"wallet": "0xf1ff40f082633619cd012bb96affb4ac7a645b03",
+"walletLabel": "Infatuated-Treasury",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286437,
+"side": "no",
+"price": 0.998,
+"size": 294.0,
+"wallet": "0x905f72c0fd65232e8bd0782336a06e7bdbe387d3",
+"walletLabel": "Weak-Morbid",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286411,
+"side": "yes",
+"price": 0.999,
+"size": 10.0,
+"wallet": "0x905f72c0fd65232e8bd0782336a06e7bdbe387d3",
+"walletLabel": "Weak-Morbid",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286399,
+"side": "no",
+"price": 0.998,
+"size": 295.3,
+"wallet": "0x905f72c0fd65232e8bd0782336a06e7bdbe387d3",
+"walletLabel": "Weak-Morbid",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286371,
+"side": "no",
+"price": 0.998,
+"size": 296.02,
+"wallet": "0x905f72c0fd65232e8bd0782336a06e7bdbe387d3",
+"walletLabel": "Weak-Morbid",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286342,
+"side": "no",
+"price": 0.998,
+"size": 296.6,
+"wallet": "0x905f72c0fd65232e8bd0782336a06e7bdbe387d3",
+"walletLabel": "Weak-Morbid",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286314,
+"side": "no",
+"price": 0.998,
+"size": 297.29,
+"wallet": "0x905f72c0fd65232e8bd0782336a06e7bdbe387d3",
+"walletLabel": "Weak-Morbid",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286276,
+"side": "no",
+"price": 0.998,
+"size": 297.93,
+"wallet": "0x905f72c0fd65232e8bd0782336a06e7bdbe387d3",
+"walletLabel": "Weak-Morbid",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286245,
+"side": "yes",
+"price": 0.998999003,
+"size": 1.001002,
+"wallet": "0xf1ff40f082633619cd012bb96affb4ac7a645b03",
+"walletLabel": "Infatuated-Treasury",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286236,
+"side": "no",
+"price": 0.998,
+"size": 1398.16,
+"wallet": "0xf1ff40f082633619cd012bb96affb4ac7a645b03",
+"walletLabel": "Infatuated-Treasury",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286215,
+"side": "no",
+"price": 0.998,
+"size": 27.9,
+"wallet": "0xf1ff40f082633619cd012bb96affb4ac7a645b03",
+"walletLabel": "Infatuated-Treasury",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286206,
+"side": "no",
+"price": 0.998,
+"size": 1373.26,
+"wallet": "0xf1ff40f082633619cd012bb96affb4ac7a645b03",
+"walletLabel": "Infatuated-Treasury",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286176,
+"side": "no",
+"price": 0.998,
+"size": 298.57,
+"wallet": "0x905f72c0fd65232e8bd0782336a06e7bdbe387d3",
+"walletLabel": "Weak-Morbid",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286137,
+"side": "yes",
+"price": 0.999,
+"size": 1373.25,
+"wallet": "0xf1ff40f082633619cd012bb96affb4ac7a645b03",
+"walletLabel": "Infatuated-Treasury",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286092,
+"side": "no",
+"price": 0.998,
+"size": 299.0,
+"wallet": "0x905f72c0fd65232e8bd0782336a06e7bdbe387d3",
+"walletLabel": "Weak-Morbid",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286066,
+"side": "no",
+"price": 0.998,
+"size": 299.0,
+"wallet": "0x905f72c0fd65232e8bd0782336a06e7bdbe387d3",
+"walletLabel": "Weak-Morbid",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791286038,
+"side": "no",
+"price": 0.998,
+"size": 300.49,
+"wallet": "0x905f72c0fd65232e8bd0782336a06e7bdbe387d3",
+"walletLabel": "Weak-Morbid",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791285882,
+"side": "yes",
+"price": 0.999,
+"size": 400.0,
+"wallet": "0xebb28df43258f6aa915f0e9d865075ff935163ed",
+"walletLabel": "Electric-Thunderbolt",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791285778,
+"side": "no",
+"price": 0.998,
+"size": 1402.0,
+"wallet": "0xf1ff40f082633619cd012bb96affb4ac7a645b03",
+"walletLabel": "Infatuated-Treasury",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791284866,
+"side": "yes",
+"price": 0.999,
+"size": 63.0,
+"wallet": "0x27338f0f8b095760a5604060225281195d2579a5",
+"walletLabel": "Blank-Silica",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791284782,
+"side": "no",
+"price": 0.998,
+"size": 1344.51,
+"wallet": "0xf1ff40f082633619cd012bb96affb4ac7a645b03",
+"walletLabel": "Infatuated-Treasury",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791284755,
+"side": "no",
+"price": 0.998,
+"size": 87.84,
+"wallet": "0xf1ff40f082633619cd012bb96affb4ac7a645b03",
+"walletLabel": "Infatuated-Treasury",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791281712,
+"side": "yes",
+"price": 0.999,
+"size": 38.0,
+"wallet": "0x8df9da721b0a085cf666d53db2d043b0fdfdc3a2",
+"walletLabel": "Eminent-Company",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791280458,
+"side": "yes",
+"price": 0.999,
+"size": 94.0,
+"wallet": "0x86e624eee82478af3b939bda8649ce814612a6ee",
+"walletLabel": "Vague-Teacher",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791279811,
+"side": "no",
+"price": 0.998,
+"size": 456.0,
+"wallet": "0x67a5882677f8b34279d949816c405ac23ac3b144",
+"walletLabel": "Mealy-Pan",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791278776,
+"side": "no",
+"price": 0.998,
+"size": 860.0,
+"wallet": "0x42477970683d4d0a52ec7082fee5d760cc5591c4",
+"walletLabel": "Thankful-Allegation-Fahrenheit",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791278529,
+"side": "yes",
+"price": 0.9989996683,
+"size": 1.501502,
+"wallet": "0x566566e29bbab5c35de29ea52bbaf9cf949ffc16",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791278526,
+"side": "no",
+"price": 0.998,
+"size": 2500.0,
+"wallet": "0x2ed11457899cbe7d2b8c32ee723170bf62441240",
+"walletLabel": "Bruised-State",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791278479,
+"side": "yes",
+"price": 0.9989999886,
+"size": 30.650651,
+"wallet": "0xf0d5eb1cbe7350f1f896ade6c172e6700414c665",
+"walletLabel": "Key-Sovereignty",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791277758,
+"side": "yes",
+"price": 0.9989996683,
+"size": 1.501502,
+"wallet": "0x566566e29bbab5c35de29ea52bbaf9cf949ffc16",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791277755,
+"side": "no",
+"price": 0.998,
+"size": 2000.0,
+"wallet": "0x2ed11457899cbe7d2b8c32ee723170bf62441240",
+"walletLabel": "Bruised-State",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791277603,
+"side": "yes",
+"price": 0.9989996683,
+"size": 1.501502,
+"wallet": "0x566566e29bbab5c35de29ea52bbaf9cf949ffc16",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791277599,
+"side": "no",
+"price": 0.998,
+"size": 500.0,
+"wallet": "0x2ed11457899cbe7d2b8c32ee723170bf62441240",
+"walletLabel": "Bruised-State",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791277413,
+"side": "yes",
+"price": 0.9989996683,
+"size": 1.501502,
+"wallet": "0x566566e29bbab5c35de29ea52bbaf9cf949ffc16",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791277402,
+"side": "no",
+"price": 0.998,
+"size": 10.0,
+"wallet": "0x2ed11457899cbe7d2b8c32ee723170bf62441240",
+"walletLabel": "Bruised-State",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791276535,
+"side": "yes",
+"price": 0.9989996683,
+"size": 1.501502,
+"wallet": "0x566566e29bbab5c35de29ea52bbaf9cf949ffc16",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791276532,
+"side": "no",
+"price": 0.998,
+"size": 5.0,
+"wallet": "0x3b938905ee174e8f87535ba2d425024676b3cf00",
+"walletLabel": "Unrealistic-Situation",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791275988,
+"side": "yes",
+"price": 0.9989996683,
+"size": 1.501502,
+"wallet": "0x566566e29bbab5c35de29ea52bbaf9cf949ffc16",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791275985,
+"side": "no",
+"price": 0.998,
+"size": 5.0,
+"wallet": "0xe7009c1222af9ac07006ac99ebf9f2cbae5ba18e",
+"walletLabel": "Whispered-Nightgown",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791274767,
+"side": "yes",
+"price": 0.9989997819,
+"size": 3.283284,
+"wallet": "0x566566e29bbab5c35de29ea52bbaf9cf949ffc16",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791274759,
+"side": "no",
+"price": 0.998,
+"size": 5000.0,
+"wallet": "0x75fee3e25260606351c7345f584949ead4a5da36",
+"walletLabel": "Unwilling-Hybridisation",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791273927,
+"side": "yes",
+"price": 0.9989996683,
+"size": 1.501502,
+"wallet": "0x566566e29bbab5c35de29ea52bbaf9cf949ffc16",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791273913,
+"side": "no",
+"price": 0.998,
+"size": 6.97,
+"wallet": "0xf639a53def726cf9e22c49afc8d9f904699cefd8",
+"walletLabel": "Confused-Employ",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791273765,
+"side": "yes",
+"price": 0.999,
+"size": 300.0,
+"wallet": "0x6e9a6afde1e8bd4a0c7bf2809cf87fe14c00f3bb",
+"walletLabel": "Crisp-Official",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791273027,
+"side": "yes",
+"price": 0.9989999444,
+"size": 10.420421,
+"wallet": "0x566566e29bbab5c35de29ea52bbaf9cf949ffc16",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791273019,
+"side": "no",
+"price": 0.998,
+"size": 14780.0,
+"wallet": "0xe5c66c8a7da87393372cb801d004b94dea78c89a",
+"walletLabel": "Big-Hearted-Outlaw-Inbox",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791272236,
+"side": "yes",
+"price": 0.9989996683,
+"size": 1.501502,
+"wallet": "0x566566e29bbab5c35de29ea52bbaf9cf949ffc16",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791272233,
+"side": "no",
+"price": 0.998,
+"size": 12.67,
+"wallet": "0x2c3fb363d7ac54942fafcf7e658859fcbd385dca",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791271111,
+"side": "yes",
+"price": 0.9989999083,
+"size": 1.831832,
+"wallet": "0x566566e29bbab5c35de29ea52bbaf9cf949ffc16",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791271104,
+"side": "no",
+"price": 0.998,
+"size": 2500.0,
+"wallet": "0x6152c6ba1cc8539d144464bc013d540ac1e442f7",
+"walletLabel": null,
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791270850,
+"side": "yes",
+"price": 0.999,
+"size": 5.88,
+"wallet": "0x45270723d112df422cfb128bec8655a0d7c295e9",
+"walletLabel": null,
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791268213,
+"side": "yes",
+"price": 0.9989996683,
+"size": 1.501502,
+"wallet": "0x566566e29bbab5c35de29ea52bbaf9cf949ffc16",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791268210,
+"side": "no",
+"price": 0.998,
+"size": 1026.94,
+"wallet": "0x5651f0e01b52367ef76f5c18460c8e21f4a766a6",
+"walletLabel": "Unwelcome-Reserve",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791268021,
+"side": "yes",
+"price": 0.9989996683,
+"size": 1.501502,
+"wallet": "0x566566e29bbab5c35de29ea52bbaf9cf949ffc16",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791268018,
+"side": "no",
+"price": 0.998,
+"size": 1750.0,
+"wallet": "0x44ab2ecd69117e7d0e26e57747903614cf9afeaf",
+"walletLabel": null,
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791267910,
+"side": "yes",
+"price": 0.9989996683,
+"size": 1.501502,
+"wallet": "0x566566e29bbab5c35de29ea52bbaf9cf949ffc16",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791267907,
+"side": "no",
+"price": 0.998,
+"size": 6.0,
+"wallet": "0x7b47cc99fa4d478de0c26489a6771aaf7fa9902d",
+"walletLabel": "Trusting-Down",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791267889,
+"side": "yes",
+"price": 0.999,
+"size": 4500.0,
+"wallet": "0x44ab2ecd69117e7d0e26e57747903614cf9afeaf",
+"walletLabel": null,
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791267841,
+"side": "yes",
+"price": 0.9989996683,
+"size": 1.501502,
+"wallet": "0x566566e29bbab5c35de29ea52bbaf9cf949ffc16",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791267838,
+"side": "no",
+"price": 0.998,
+"size": 1075.1,
+"wallet": "0x9c1e72180e9940345ea9fac113b839f4c84e302f",
+"walletLabel": "Plain-Alteration",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791267010,
+"side": "yes",
+"price": 0.998999887,
+"size": 3.593594,
+"wallet": "0x566566e29bbab5c35de29ea52bbaf9cf949ffc16",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791267004,
+"side": "no",
+"price": 0.998,
+"size": 4500.0,
+"wallet": "0x44ab2ecd69117e7d0e26e57747903614cf9afeaf",
+"walletLabel": null,
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791266007,
+"side": "yes",
+"price": 0.9989996683,
+"size": 1.501502,
+"wallet": "0x566566e29bbab5c35de29ea52bbaf9cf949ffc16",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791266004,
+"side": "no",
+"price": 0.998,
+"size": 510.0,
+"wallet": "0x0c22d12ceb5502a39528fadcdb956629c62d8781",
+"walletLabel": "Oily-Kazoo-Caper",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791265627,
+"side": "yes",
+"price": 0.9989996683,
+"size": 1.501502,
+"wallet": "0x566566e29bbab5c35de29ea52bbaf9cf949ffc16",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791265624,
+"side": "no",
+"price": 0.998,
+"size": 1765.9,
+"wallet": "0xefb92699291627fbc395550648815b1241c3e74f",
+"walletLabel": "Juvenile-Update",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791265468,
+"side": "yes",
+"price": 0.9989996683,
+"size": 1.501502,
+"wallet": "0x566566e29bbab5c35de29ea52bbaf9cf949ffc16",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791265465,
+"side": "no",
+"price": 0.998,
+"size": 666.66,
+"wallet": "0x3c8a8a8d3efcc5063deeb18c0c1c7b338aef84db",
+"walletLabel": "Humming-Bonding",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791264999,
+"side": "yes",
+"price": 0.999,
+"size": 10.0,
+"wallet": "0xd25b8718f61fb64a754356ad8cf16b5579f59f3d",
+"walletLabel": "Sudden-Snowstorm",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791263847,
+"side": "yes",
+"price": 0.9989999233,
+"size": 8.358359,
+"wallet": "0x566566e29bbab5c35de29ea52bbaf9cf949ffc16",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791263844,
+"side": "no",
+"price": 0.998,
+"size": 10000.0,
+"wallet": "0x75fee3e25260606351c7345f584949ead4a5da36",
+"walletLabel": "Unwilling-Hybridisation",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791263544,
+"side": "yes",
+"price": 0.9989996683,
+"size": 1.501502,
+"wallet": "0x566566e29bbab5c35de29ea52bbaf9cf949ffc16",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791263539,
+"side": "no",
+"price": 0.998,
+"size": 555.0,
+"wallet": "0x0c22d12ceb5502a39528fadcdb956629c62d8781",
+"walletLabel": "Oily-Kazoo-Caper",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791263257,
+"side": "yes",
+"price": 0.9989999751,
+"size": 18.538539,
+"wallet": "0x566566e29bbab5c35de29ea52bbaf9cf949ffc16",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791263254,
+"side": "no",
+"price": 0.998,
+"size": 20000.0,
+"wallet": "0xbd3f8f21345d84b865feed7a48d260e9c9aed12d",
+"walletLabel": "Ideal-Friction",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791263236,
+"side": "yes",
+"price": 0.999,
+"size": 10.0,
+"wallet": "0x8dde8726fc2efed383eda970435e6f2be7745045",
+"walletLabel": "Bronze-Stalk",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791262957,
+"side": "yes",
+"price": 0.999,
+"size": 160.0,
+"wallet": "0x8dde8726fc2efed383eda970435e6f2be7745045",
+"walletLabel": "Bronze-Stalk",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791262309,
+"side": "yes",
+"price": 0.9989999672,
+"size": 10.650651,
+"wallet": "0x566566e29bbab5c35de29ea52bbaf9cf949ffc16",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791262306,
+"side": "no",
+"price": 0.998,
+"size": 11500.0,
+"wallet": "0xbd3f8f21345d84b865feed7a48d260e9c9aed12d",
+"walletLabel": "Ideal-Friction",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791260632,
+"side": "yes",
+"price": 0.9989996683,
+"size": 1.501502,
+"wallet": "0x566566e29bbab5c35de29ea52bbaf9cf949ffc16",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791260631,
+"side": "yes",
+"price": 0.999,
+"size": 32.0,
+"wallet": "0xa56dc583b887a8f49f66d00fac99798741ca2d84",
+"walletLabel": "Queasy-Synonym",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791260623,
+"side": "no",
+"price": 0.998,
+"size": 31.97,
+"wallet": "0xa56dc583b887a8f49f66d00fac99798741ca2d84",
+"walletLabel": "Queasy-Synonym",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791259947,
+"side": "yes",
+"price": 0.9989996683,
+"size": 1.501502,
+"wallet": "0x566566e29bbab5c35de29ea52bbaf9cf949ffc16",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791259939,
+"side": "no",
+"price": 0.998,
+"size": 20.0,
+"wallet": "0x9c1e72180e9940345ea9fac113b839f4c84e302f",
+"walletLabel": "Plain-Alteration",
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791259933,
+"side": "yes",
+"price": 0.9989996987,
+"size": 3.073074,
+"wallet": "0x4aa632cc936c386871dfac0e0a2c5a6cb8cb58f1",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791259696,
+"side": "yes",
+"price": 0.9989999606,
+"size": 8.658659,
+"wallet": "0x566566e29bbab5c35de29ea52bbaf9cf949ffc16",
+"walletLabel": null,
+"outcome": "Up"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791259693,
+"side": "no",
+"price": 0.998,
+"size": 10000.0,
+"wallet": "0x75fee3e25260606351c7345f584949ead4a5da36",
+"walletLabel": "Unwilling-Hybridisation",
+"outcome": "Down"
+},
+{
+"marketId": "poly:5239514",
+"ts": 1791259618,
+"side": "yes",
+"price": 0.9989996683,
+"size": 1.501502,
+"wallet": "0x566566e29bbab5c35de29ea52bbaf9cf949ffc16",
+"walletLabel": null,
+"outcome": "Up"
+}
+]

@@ -1,0 +1,80 @@
+{
+"marketId": "kalshi:KXTRUMPIMPEACHCOUNT-29JAN20-AL1",
+"ts": 1791406174,
+"bids": [
+{
+"price": 0.63,
+"size": 5373.79
+},
+{
+"price": 0.23,
+"size": 600.0
+},
+{
+"price": 0.22,
+"size": 2745.0
+},
+{
+"price": 0.21,
+"size": 500.0
+},
+{
+"price": 0.04,
+"size": 198.0
+},
+{
+"price": 0.03,
+"size": 7750.0
+},
+{
+"price": 0.02,
+"size": 9030.0
+},
+{
+"price": 0.01,
+"size": 10055.0
+}
+],
+"asks": [
+{
+"price": 0.64,
+"size": 2820.94
+},
+{
+"price": 0.67,
+"size": 500.0
+},
+{
+"price": 0.68,
+"size": 5.0
+},
+{
+"price": 0.69,
+"size": 250.0
+},
+{
+"price": 0.75,
+"size": 15.69
+},
+{
+"price": 0.81,
+"size": 132.0
+},
+{
+"price": 0.83,
+"size": 435.0
+},
+{
+"price": 0.84,
+"size": 111.0
+},
+{
+"price": 0.85,
+"size": 326.0
+},
+{
+"price": 0.86,
+"size": 614.0
+}
+]
+}

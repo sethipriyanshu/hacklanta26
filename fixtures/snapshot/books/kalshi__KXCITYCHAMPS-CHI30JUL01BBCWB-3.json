@@ -1,0 +1,88 @@
+{
+"marketId": "kalshi:KXCITYCHAMPS-CHI30JUL01BBCWB-3",
+"ts": 1791406174,
+"bids": [
+{
+"price": 0.12,
+"size": 13100.0
+},
+{
+"price": 0.11,
+"size": 2000.0
+},
+{
+"price": 0.1,
+"size": 1000.0
+},
+{
+"price": 0.09,
+"size": 2255.0
+},
+{
+"price": 0.07,
+"size": 285.0
+},
+{
+"price": 0.06,
+"size": 733.0
+},
+{
+"price": 0.05,
+"size": 400.0
+},
+{
+"price": 0.04,
+"size": 700.0
+},
+{
+"price": 0.03,
+"size": 666.0
+},
+{
+"price": 0.02,
+"size": 1057.0
+}
+],
+"asks": [
+{
+"price": 0.13,
+"size": 7166.0
+},
+{
+"price": 0.14,
+"size": 624.0
+},
+{
+"price": 0.15,
+"size": 200.0
+},
+{
+"price": 0.2,
+"size": 400.0
+},
+{
+"price": 0.25,
+"size": 90.0
+},
+{
+"price": 0.54,
+"size": 198.0
+},
+{
+"price": 0.59,
+"size": 224.0
+},
+{
+"price": 0.6,
+"size": 100.0
+},
+{
+"price": 0.65,
+"size": 100.0
+},
+{
+"price": 0.7,
+"size": 100.0
+}
+]
+}

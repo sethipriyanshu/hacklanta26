@@ -1,0 +1,2002 @@
+[
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791404002,
+"side": "yes",
+"price": 0.096,
+"size": 51.61,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791404002,
+"side": "yes",
+"price": 0.097,
+"size": 12.61,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791404002,
+"side": "yes",
+"price": 0.094,
+"size": 101.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791404002,
+"side": "yes",
+"price": 0.094,
+"size": 13.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791404002,
+"side": "yes",
+"price": 0.094,
+"size": 6.76,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791404002,
+"side": "yes",
+"price": 0.093,
+"size": 98.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791404002,
+"side": "yes",
+"price": 0.093,
+"size": 9.93,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791404002,
+"side": "yes",
+"price": 0.092,
+"size": 101.64,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791404002,
+"side": "yes",
+"price": 0.094,
+"size": 10.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791404002,
+"side": "yes",
+"price": 0.093,
+"size": 4.67,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791404002,
+"side": "yes",
+"price": 0.092,
+"size": 9.93,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791404002,
+"side": "yes",
+"price": 0.097,
+"size": 74.52,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791404002,
+"side": "yes",
+"price": 0.097,
+"size": 4.69,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791404002,
+"side": "yes",
+"price": 0.092,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791403754,
+"side": "yes",
+"price": 0.092,
+"size": 306.59,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791403667,
+"side": "no",
+"price": 0.091,
+"size": 134.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791396608,
+"side": "yes",
+"price": 0.092,
+"size": 10.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791393726,
+"side": "no",
+"price": 0.09,
+"size": 820.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791393711,
+"side": "no",
+"price": 0.09,
+"size": 911.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791393694,
+"side": "no",
+"price": 0.09,
+"size": 1013.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791392573,
+"side": "yes",
+"price": 0.092,
+"size": 81.76,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791392573,
+"side": "yes",
+"price": 0.092,
+"size": 288.81,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791388825,
+"side": "no",
+"price": 0.09,
+"size": 16.48,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791388825,
+"side": "no",
+"price": 0.09,
+"size": 256.52,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791359882,
+"side": "yes",
+"price": 0.091,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791359882,
+"side": "yes",
+"price": 0.092,
+"size": 9.19,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791353386,
+"side": "no",
+"price": 0.091,
+"size": 100.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791353386,
+"side": "no",
+"price": 0.091,
+"size": 100.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791353386,
+"side": "no",
+"price": 0.09,
+"size": 273.48,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791353386,
+"side": "no",
+"price": 0.09,
+"size": 307.52,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791350528,
+"side": "no",
+"price": 0.091,
+"size": 100.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791350528,
+"side": "no",
+"price": 0.09,
+"size": 192.48,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791350528,
+"side": "no",
+"price": 0.091,
+"size": 100.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791346831,
+"side": "no",
+"price": 0.092,
+"size": 101.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791346831,
+"side": "no",
+"price": 0.092,
+"size": 101.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791342456,
+"side": "yes",
+"price": 0.094,
+"size": 1.5,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791341438,
+"side": "yes",
+"price": 0.094,
+"size": 1.74,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791341438,
+"side": "yes",
+"price": 0.094,
+"size": 101.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791341438,
+"side": "yes",
+"price": 0.093,
+"size": 98.29,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791341229,
+"side": "yes",
+"price": 0.093,
+"size": 1.71,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791337567,
+"side": "no",
+"price": 0.092,
+"size": 50.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791333960,
+"side": "no",
+"price": 0.094,
+"size": 1.43,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791333960,
+"side": "no",
+"price": 0.094,
+"size": 3.61,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791333960,
+"side": "no",
+"price": 0.097,
+"size": 10.51,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791333960,
+"side": "no",
+"price": 0.094,
+"size": 2.59,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791333960,
+"side": "no",
+"price": 0.096,
+"size": 0.63,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791333960,
+"side": "no",
+"price": 0.093,
+"size": 81.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791333960,
+"side": "no",
+"price": 0.094,
+"size": 4.09,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791333960,
+"side": "no",
+"price": 0.093,
+"size": 15.63,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791333960,
+"side": "no",
+"price": 0.093,
+"size": 14.22,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791333960,
+"side": "no",
+"price": 0.093,
+"size": 2.23,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791333960,
+"side": "no",
+"price": 0.093,
+"size": 15.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791333960,
+"side": "no",
+"price": 0.093,
+"size": 1.62,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791333960,
+"side": "no",
+"price": 0.093,
+"size": 3.41,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791333960,
+"side": "no",
+"price": 0.093,
+"size": 7.26,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791333960,
+"side": "no",
+"price": 0.093,
+"size": 10.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791333960,
+"side": "no",
+"price": 0.093,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791333960,
+"side": "no",
+"price": 0.093,
+"size": 6.53,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791333960,
+"side": "no",
+"price": 0.093,
+"size": 7.09,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791333960,
+"side": "no",
+"price": 0.096,
+"size": 100.37,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791333960,
+"side": "no",
+"price": 0.094,
+"size": 3.91,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791333960,
+"side": "no",
+"price": 0.093,
+"size": 0.74,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791333960,
+"side": "no",
+"price": 0.093,
+"size": 1.13,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791333960,
+"side": "no",
+"price": 0.092,
+"size": 979.7,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791333960,
+"side": "no",
+"price": 0.093,
+"size": 1.47,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791332797,
+"side": "yes",
+"price": 0.1,
+"size": 47.03,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791332308,
+"side": "yes",
+"price": 0.1,
+"size": 47.03,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791331395,
+"side": "yes",
+"price": 0.1,
+"size": 163.83,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791328642,
+"side": "yes",
+"price": 0.1,
+"size": 309.03,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791319677,
+"side": "yes",
+"price": 0.1,
+"size": 141.11,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791319185,
+"side": "yes",
+"price": 0.1,
+"size": 2.35,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791318850,
+"side": "yes",
+"price": 0.099,
+"size": 6.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791318850,
+"side": "yes",
+"price": 0.1,
+"size": 934.71,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791318730,
+"side": "no",
+"price": 0.096,
+"size": 0.63,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791318730,
+"side": "no",
+"price": 0.097,
+"size": 7.15,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791318730,
+"side": "no",
+"price": 0.097,
+"size": 3.21,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791313369,
+"side": "yes",
+"price": 0.1,
+"size": 188.14,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791300040,
+"side": "yes",
+"price": 0.1,
+"size": 940.73,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791285327,
+"side": "yes",
+"price": 0.1,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791285327,
+"side": "yes",
+"price": 0.1,
+"size": 299.28,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791285327,
+"side": "yes",
+"price": 0.1,
+"size": 50.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791285327,
+"side": "yes",
+"price": 0.1,
+"size": 2.38,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791285327,
+"side": "yes",
+"price": 0.1,
+"size": 33.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791285327,
+"side": "yes",
+"price": 0.1,
+"size": 18428.94,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791279411,
+"side": "yes",
+"price": 0.1,
+"size": 399.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791259258,
+"side": "no",
+"price": 0.099,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791259163,
+"side": "no",
+"price": 0.099,
+"size": 20.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791259026,
+"side": "yes",
+"price": 0.1,
+"size": 94.07,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791251780,
+"side": "yes",
+"price": 0.1,
+"size": 2.35,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791245259,
+"side": "yes",
+"price": 0.099,
+"size": 0.12,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791245259,
+"side": "yes",
+"price": 0.097,
+"size": 101.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791245259,
+"side": "yes",
+"price": 0.097,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791245259,
+"side": "yes",
+"price": 0.098,
+"size": 4000.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791245259,
+"side": "yes",
+"price": 0.098,
+"size": 7.49,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791245259,
+"side": "yes",
+"price": 0.099,
+"size": 5.14,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791245259,
+"side": "yes",
+"price": 0.099,
+"size": 7.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791245259,
+"side": "yes",
+"price": 0.099,
+"size": 100.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791245259,
+"side": "yes",
+"price": 0.099,
+"size": 16906.69,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791239956,
+"side": "no",
+"price": 0.095,
+"size": 69.49,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791239956,
+"side": "no",
+"price": 0.096,
+"size": 11.5,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791239956,
+"side": "no",
+"price": 0.095,
+"size": 9.2,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791239956,
+"side": "no",
+"price": 0.095,
+"size": 7.05,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791239956,
+"side": "no",
+"price": 0.095,
+"size": 3.86,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791237095,
+"side": "yes",
+"price": 0.099,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791234057,
+"side": "yes",
+"price": 0.099,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791231693,
+"side": "yes",
+"price": 0.099,
+"size": 5606.02,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791230454,
+"side": "yes",
+"price": 0.098,
+"size": 1021.02,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791230454,
+"side": "yes",
+"price": 0.098,
+"size": 2000.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791230454,
+"side": "yes",
+"price": 0.098,
+"size": 7.35,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791230454,
+"side": "yes",
+"price": 0.099,
+"size": 6503.74,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791225883,
+"side": "yes",
+"price": 0.098,
+"size": 2.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791219240,
+"side": "no",
+"price": 0.096,
+"size": 0.54,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791219240,
+"side": "no",
+"price": 0.096,
+"size": 6.46,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791219240,
+"side": "no",
+"price": 0.096,
+"size": 3.98,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791218895,
+"side": "yes",
+"price": 0.098,
+"size": 4.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791212269,
+"side": "yes",
+"price": 0.098,
+"size": 40.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791212085,
+"side": "yes",
+"price": 0.098,
+"size": 406.99,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791206429,
+"side": "yes",
+"price": 0.098,
+"size": 4.15,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791201680,
+"side": "yes",
+"price": 0.098,
+"size": 10.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791193871,
+"side": "yes",
+"price": 0.098,
+"size": 0.08,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791193871,
+"side": "yes",
+"price": 0.098,
+"size": 6.46,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791193871,
+"side": "yes",
+"price": 0.098,
+"size": 11.76,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791186527,
+"side": "no",
+"price": 0.095,
+"size": 20.6,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791186470,
+"side": "no",
+"price": 0.096,
+"size": 5.8,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791172293,
+"side": "yes",
+"price": 0.098,
+"size": 0.54,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791171852,
+"side": "no",
+"price": 0.096,
+"size": 1.08,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791167609,
+"side": "no",
+"price": 0.096,
+"size": 7.12,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791167609,
+"side": "no",
+"price": 0.095,
+"size": 3.86,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791167425,
+"side": "yes",
+"price": 0.098,
+"size": 3.42,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791167425,
+"side": "yes",
+"price": 0.098,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791167425,
+"side": "yes",
+"price": 0.099,
+"size": 1.14,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791164856,
+"side": "no",
+"price": 0.097,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791164856,
+"side": "no",
+"price": 0.096,
+"size": 3.17,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791164856,
+"side": "no",
+"price": 0.097,
+"size": 3.17,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791164856,
+"side": "no",
+"price": 0.096,
+"size": 7.56,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791164856,
+"side": "no",
+"price": 0.095,
+"size": 7.05,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791161944,
+"side": "yes",
+"price": 0.099,
+"size": 180.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791161027,
+"side": "yes",
+"price": 0.099,
+"size": 101.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791160611,
+"side": "yes",
+"price": 0.099,
+"size": 369.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791157363,
+"side": "yes",
+"price": 0.099,
+"size": 8.31,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791151809,
+"side": "yes",
+"price": 0.099,
+"size": 47.5,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791144841,
+"side": "yes",
+"price": 0.099,
+"size": 54.64,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791142054,
+"side": "yes",
+"price": 0.099,
+"size": 95.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791140302,
+"side": "yes",
+"price": 0.098,
+"size": 9.32,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791140302,
+"side": "yes",
+"price": 0.098,
+"size": 588.3,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791140302,
+"side": "yes",
+"price": 0.099,
+"size": 120.95,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791125975,
+"side": "yes",
+"price": 0.094,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791125975,
+"side": "yes",
+"price": 0.094,
+"size": 98.5,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791125975,
+"side": "yes",
+"price": 0.094,
+"size": 0.5,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791120603,
+"side": "yes",
+"price": 0.094,
+"size": 2.5,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791107539,
+"side": "no",
+"price": 0.097,
+"size": 50.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791096153,
+"side": "yes",
+"price": 0.098,
+"size": 1.92,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791095996,
+"side": "yes",
+"price": 0.098,
+"size": 2.39,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791073044,
+"side": "yes",
+"price": 0.098,
+"size": 239.95,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791071886,
+"side": "yes",
+"price": 0.096,
+"size": 0.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791071886,
+"side": "yes",
+"price": 0.097,
+"size": 8.34,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791071886,
+"side": "yes",
+"price": 0.097,
+"size": 11.82,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791071886,
+"side": "yes",
+"price": 0.095,
+"size": 78.23,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791071375,
+"side": "yes",
+"price": 0.095,
+"size": 21.77,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791069294,
+"side": "no",
+"price": 0.093,
+"size": 5.3,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791069294,
+"side": "no",
+"price": 0.093,
+"size": 1.21,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791069294,
+"side": "no",
+"price": 0.093,
+"size": 3.6,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791068928,
+"side": "no",
+"price": 0.095,
+"size": 3.99,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791068928,
+"side": "no",
+"price": 0.095,
+"size": 88.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791068928,
+"side": "no",
+"price": 0.095,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791064554,
+"side": "yes",
+"price": 0.097,
+"size": 8.28,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791064554,
+"side": "yes",
+"price": 0.097,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791064554,
+"side": "yes",
+"price": 0.098,
+"size": 0.38,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791063176,
+"side": "yes",
+"price": 0.097,
+"size": 8.17,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791063176,
+"side": "yes",
+"price": 0.097,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791063176,
+"side": "yes",
+"price": 0.097,
+"size": 3.52,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791063176,
+"side": "yes",
+"price": 0.098,
+"size": 222.57,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791062971,
+"side": "no",
+"price": 0.093,
+"size": 25.58,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791062971,
+"side": "no",
+"price": 0.094,
+"size": 6.01,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791062971,
+"side": "no",
+"price": 0.093,
+"size": 0.24,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791062971,
+"side": "no",
+"price": 0.092,
+"size": 8.17,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791062331,
+"side": "no",
+"price": 0.093,
+"size": 35.13,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791062331,
+"side": "no",
+"price": 0.094,
+"size": 6.71,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791062331,
+"side": "no",
+"price": 0.093,
+"size": 5.06,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791062331,
+"side": "no",
+"price": 0.095,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791062331,
+"side": "no",
+"price": 0.095,
+"size": 2.03,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791062331,
+"side": "no",
+"price": 0.093,
+"size": 0.07,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791045541,
+"side": "yes",
+"price": 0.097,
+"size": 399.47,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791045541,
+"side": "yes",
+"price": 0.096,
+"size": 1.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791045541,
+"side": "yes",
+"price": 0.097,
+"size": 8.06,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791045541,
+"side": "yes",
+"price": 0.096,
+"size": 3.2,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791045541,
+"side": "yes",
+"price": 0.096,
+"size": 0.25,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791045541,
+"side": "yes",
+"price": 0.098,
+"size": 551.98,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791044346,
+"side": "yes",
+"price": 0.096,
+"size": 0.25,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791044346,
+"side": "yes",
+"price": 0.097,
+"size": 8.04,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791044346,
+"side": "yes",
+"price": 0.097,
+"size": 88.63,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791027146,
+"side": "no",
+"price": 0.093,
+"size": 1.87,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791027146,
+"side": "no",
+"price": 0.093,
+"size": 8.14,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791025303,
+"side": "yes",
+"price": 0.097,
+"size": 11.46,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791025303,
+"side": "yes",
+"price": 0.098,
+"size": 948.36,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791021148,
+"side": "no",
+"price": 0.094,
+"size": 4.57,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791021148,
+"side": "no",
+"price": 0.094,
+"size": 4.57,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791021148,
+"side": "no",
+"price": 0.093,
+"size": 5.0,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791021148,
+"side": "no",
+"price": 0.092,
+"size": 7.9,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791021148,
+"side": "no",
+"price": 0.093,
+"size": 9.36,
+"wallet": null,
+"walletLabel": null,
+"outcome": null
+}
+]

@@ -1,0 +1,52 @@
+{
+"marketId": "kalshi:KXPRESPERSON-28-JTAL",
+"ts": 1791406167,
+"bids": [
+{
+"price": 0.01,
+"size": 11710.99
+}
+],
+"asks": [
+{
+"price": 0.02,
+"size": 253452.49
+},
+{
+"price": 0.03,
+"size": 22120.27
+},
+{
+"price": 0.04,
+"size": 6579.62
+},
+{
+"price": 0.05,
+"size": 3997.82
+},
+{
+"price": 0.06,
+"size": 5162.45
+},
+{
+"price": 0.07,
+"size": 1.0
+},
+{
+"price": 0.08,
+"size": 5.3
+},
+{
+"price": 0.09,
+"size": 7828.0
+},
+{
+"price": 0.1,
+"size": 10001.0
+},
+{
+"price": 0.11,
+"size": 21.0
+}
+]
+}

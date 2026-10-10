@@ -1,0 +1,764 @@
+[
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790802000,
+"price": 0.092,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790805600,
+"price": 0.092,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790812800,
+"price": 0.092,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790816400,
+"price": 0.092,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790830800,
+"price": 0.092,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790834400,
+"price": 0.092,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790838000,
+"price": 0.092,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790841600,
+"price": 0.092,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790848800,
+"price": 0.092,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790856000,
+"price": 0.091,
+"volume": 402.54
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790859600,
+"price": 0.091,
+"volume": 219.59
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790863200,
+"price": 0.092,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790870400,
+"price": 0.092,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790874000,
+"price": 0.092,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790877600,
+"price": 0.093,
+"volume": 1769.47
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790881200,
+"price": 0.092,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790888400,
+"price": 0.092,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790892000,
+"price": 0.092,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790895600,
+"price": 0.093,
+"volume": 2357.14
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790899200,
+"price": 0.093,
+"volume": 202.19
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790902800,
+"price": 0.091,
+"volume": 82.55
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790906400,
+"price": 0.093,
+"volume": 252.76
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790910000,
+"price": 0.092,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790913600,
+"price": 0.092,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790917200,
+"price": 0.092,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790920800,
+"price": 0.092,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790924400,
+"price": 0.092,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790928000,
+"price": 0.092,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790938800,
+"price": 0.091,
+"volume": 27.32
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790946000,
+"price": 0.092,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790949600,
+"price": 0.092,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790953200,
+"price": 0.092,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790956800,
+"price": 0.093,
+"volume": 5.05
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790960400,
+"price": 0.093,
+"volume": 50.55
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790964000,
+"price": 0.091,
+"volume": 47.53
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790967600,
+"price": 0.093,
+"volume": 161.76
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790971200,
+"price": 0.098,
+"volume": 2005.12
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790974800,
+"price": 0.095,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790978400,
+"price": 0.095,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790982000,
+"price": 0.098,
+"volume": 492.09
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1790985600,
+"price": 0.0955,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791003600,
+"price": 0.098,
+"volume": 207.06
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791010800,
+"price": 0.093,
+"volume": 456.45
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791018000,
+"price": 0.096,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791021600,
+"price": 0.092,
+"volume": 100.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791025200,
+"price": 0.0945,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791028800,
+"price": 0.093,
+"volume": 969.83
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791032400,
+"price": 0.094,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791036000,
+"price": 0.094,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791039600,
+"price": 0.094,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791043200,
+"price": 0.094,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791046800,
+"price": 0.098,
+"volume": 1060.88
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791050400,
+"price": 0.0965,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791064800,
+"price": 0.098,
+"volume": 334.92
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791068400,
+"price": 0.0965,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791072000,
+"price": 0.097,
+"volume": 223.28
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791075600,
+"price": 0.098,
+"volume": 239.95
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791079200,
+"price": 0.0975,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791082800,
+"price": 0.0975,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791097200,
+"price": 0.098,
+"volume": 4.31
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791104400,
+"price": 0.0975,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791108000,
+"price": 0.097,
+"volume": 50.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791111600,
+"price": 0.0935,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791115200,
+"price": 0.0935,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791118800,
+"price": 0.0935,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791122400,
+"price": 0.094,
+"volume": 2.5
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791126000,
+"price": 0.094,
+"volume": 100.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791129600,
+"price": 0.0975,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791133200,
+"price": 0.0965,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791136800,
+"price": 0.0965,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791140400,
+"price": 0.099,
+"volume": 718.57
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791144000,
+"price": 0.099,
+"volume": 95.01
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791147600,
+"price": 0.099,
+"volume": 54.64
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791151200,
+"price": 0.098,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791154800,
+"price": 0.099,
+"volume": 47.5
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791158400,
+"price": 0.099,
+"volume": 8.31
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791162000,
+"price": 0.099,
+"volume": 650.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791165600,
+"price": 0.095,
+"volume": 21.95
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791169200,
+"price": 0.095,
+"volume": 20.54
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791172800,
+"price": 0.098,
+"volume": 1.62
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791187200,
+"price": 0.095,
+"volume": 26.4
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791194400,
+"price": 0.098,
+"volume": 18.3
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791198000,
+"price": 0.097,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791205200,
+"price": 0.098,
+"volume": 10.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791208800,
+"price": 0.098,
+"volume": 4.15
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791212400,
+"price": 0.098,
+"volume": 446.99
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791216000,
+"price": 0.097,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791219600,
+"price": 0.096,
+"volume": 14.98
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791223200,
+"price": 0.0965,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791226800,
+"price": 0.098,
+"volume": 2.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791234000,
+"price": 0.099,
+"volume": 15138.13
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791237600,
+"price": 0.099,
+"volume": 6.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791241200,
+"price": 0.095,
+"volume": 101.1
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791248400,
+"price": 0.099,
+"volume": 21129.44
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791252000,
+"price": 0.1,
+"volume": 2.35
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791255600,
+"price": 0.0995,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791259200,
+"price": 0.099,
+"volume": 114.07
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791262800,
+"price": 0.099,
+"volume": 5.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791266400,
+"price": 0.0995,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791280800,
+"price": 0.1,
+"volume": 399.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791288000,
+"price": 0.1,
+"volume": 18814.6
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791295200,
+"price": 0.0985,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791298800,
+"price": 0.0985,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791302400,
+"price": 0.1,
+"volume": 940.73
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791306000,
+"price": 0.0985,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791309600,
+"price": 0.0985,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791313200,
+"price": 0.0985,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791316800,
+"price": 0.1,
+"volume": 188.14
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791320400,
+"price": 0.1,
+"volume": 1095.16
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791324000,
+"price": 0.0985,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791331200,
+"price": 0.1,
+"volume": 309.03
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791334800,
+"price": 0.092,
+"volume": 1537.06
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791338400,
+"price": 0.092,
+"volume": 50.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791342000,
+"price": 0.094,
+"volume": 202.74
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791345600,
+"price": 0.094,
+"volume": 1.5
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791349200,
+"price": 0.092,
+"volume": 202.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791352800,
+"price": 0.09,
+"volume": 392.48
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791356400,
+"price": 0.09,
+"volume": 781.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791360000,
+"price": 0.092,
+"volume": 10.19
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791363600,
+"price": 0.091,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791374400,
+"price": 0.091,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791381600,
+"price": 0.091,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791388800,
+"price": 0.091,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791392400,
+"price": 0.09,
+"volume": 273.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791396000,
+"price": 0.09,
+"volume": 3114.57
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791399600,
+"price": 0.092,
+"volume": 10.01
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-AOCA",
+"ts": 1791403200,
+"price": 0.0915,
+"volume": 0.0
+}
+]

@@ -1,0 +1,47 @@
+{
+"marketId": "kalshi:KXNEXTPRESSEC-29JAN21-BHAR",
+"ts": 1791406173,
+"bids": [],
+"asks": [
+{
+"price": 0.02,
+"size": 2439.4
+},
+{
+"price": 0.03,
+"size": 2601.58
+},
+{
+"price": 0.04,
+"size": 2500.0
+},
+{
+"price": 0.05,
+"size": 100.0
+},
+{
+"price": 0.07,
+"size": 27.6
+},
+{
+"price": 0.08,
+"size": 500.0
+},
+{
+"price": 0.09,
+"size": 2000.0
+},
+{
+"price": 0.21,
+"size": 4.78
+},
+{
+"price": 0.22,
+"size": 27.0
+},
+{
+"price": 0.36,
+"size": 1299.0
+}
+]
+}
