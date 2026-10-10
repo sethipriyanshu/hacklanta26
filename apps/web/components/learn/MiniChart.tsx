@@ -4,7 +4,7 @@ export function MiniChart({ price, volume, headlineIndex, highlight }: { price: 
   const padB = 34;
   const min = Math.min(...price);
   const max = Math.max(...price);
-  const span = max - min || 0.01;
+  const span = Math.max(max - min, 0.2); // never zoom into noise: a flat market must look flat
   const step = w / Math.max(1, price.length - 1);
   const d = price.map((p, i) => `${i === 0 ? "M" : "L"}${(i * step).toFixed(1)},${(h - padB - 6 - ((p - min) / span) * (h - padB - 16)).toFixed(1)}`).join(" ");
   const color = highlight === "bad" ? "var(--tmb-anomaly)" : highlight === "good" ? "var(--tmb-fg-3)" : "var(--tmb-fg)";

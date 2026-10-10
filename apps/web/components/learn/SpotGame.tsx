@@ -52,7 +52,7 @@ export function SpotGame({ rounds, onExit }: { rounds: GameRound[]; onExit: () =
           </Button>
         </div>
       </div>
-      <div className="grid flex-1 grid-cols-2 grid-rows-2 gap-3">
+      <div className="grid min-h-0 flex-1 grid-cols-2 grid-rows-[minmax(0,1fr)_minmax(0,1fr)] gap-3">
         {round.charts.map((c, idx) => {
           const isAnswer = idx === round.answer;
           const state = !revealed ? null : isAnswer ? "bad" : "good";
@@ -63,7 +63,7 @@ export function SpotGame({ rounds, onExit }: { rounds: GameRound[]; onExit: () =
               disabled={revealed}
               onClick={() => { setPick(idx); if (idx === round.answer) setScore((s) => s + 1); }}
               whileHover={!revealed ? { scale: 1.01 } : undefined}
-              className={cn("relative flex flex-col overflow-hidden rounded-lg border bg-panel text-left transition-colors", !revealed && "border-line hover:border-fg-3", revealed && isAnswer && "border-anomaly", revealed && !isAnswer && pick === idx && "border-no", revealed && !isAnswer && pick !== idx && "border-line opacity-60")}
+              className={cn("relative flex min-h-0 flex-col overflow-hidden rounded-lg border bg-panel text-left transition-colors", !revealed && "border-line hover:border-fg-3", revealed && isAnswer && "border-anomaly", revealed && !isAnswer && pick === idx && "border-no", revealed && !isAnswer && pick !== idx && "border-line opacity-60")}
             >
               <div className="flex items-center justify-between px-3 pt-2.5">
                 <span className="num text-[11px] text-fg-3">CHART {String.fromCharCode(65 + idx)}</span>
