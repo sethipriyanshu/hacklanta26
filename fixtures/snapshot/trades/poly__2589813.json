@@ -1,6 +1,16 @@
 [
 {
 "marketId": "poly:2589813",
+"ts": 1791406523,
+"side": "yes",
+"price": 0.16,
+"size": 181.0625,
+"wallet": "0x1ed8e59c940a28f0a713d4b20d7e08aa4fbc04a2",
+"walletLabel": "Flawed-Web",
+"outcome": "Yes"
+},
+{
+"marketId": "poly:2589813",
 "ts": 1791404780,
 "side": "no",
 "price": 0.15,
@@ -1988,15 +1998,5 @@
 "wallet": "0x296693128006a7aec4c3a37d9d9ba27c54199f82",
 "walletLabel": null,
 "outcome": "No"
-},
-{
-"marketId": "poly:2589813",
-"ts": 1791282807,
-"side": "yes",
-"price": 0.2,
-"size": 35.7,
-"wallet": "0x7f8798123521b1a8e3b6c93aba0b51a9ec7d0c99",
-"walletLabel": "Faint-Catalogue",
-"outcome": "Yes"
 }
 ]

@@ -41,6 +41,7 @@ class MarketStore:
         self.books: dict[str, OrderBook] = {}
         self.trades: dict[str, list[Trade]] = {}
         self.news: dict[str, list[Headline]] = {}  # keyed by market id
+        self.wallet_meta: dict[str, dict[str, dict[str, int | None]]] = {}  # market id -> wallet -> {firstSeen, priorTrades}
         self.recorded_at: datetime | None = None
         self.mode: str = "replay"
 
@@ -73,6 +74,9 @@ class MarketStore:
             _dump(root / "trades" / f"{safe(mid)}.json", tr)
         for mid, hs in self.news.items():
             _dump(root / "news" / f"{safe(mid)}.json", hs)
+        for mid, wm in self.wallet_meta.items():
+            (root / "wallets").mkdir(parents=True, exist_ok=True)
+            (root / "wallets" / f"{safe(mid)}.json").write_text(json.dumps(wm))
         (root / "meta.json").write_text(json.dumps({"recordedAt": (self.recorded_at or datetime.now(timezone.utc)).isoformat(), "marketCount": len(self.markets)}))
         log.info("saved %d markets to %s", len(self.markets), root)
 
@@ -96,6 +100,10 @@ class MarketStore:
             for p in d.glob("*.json"):
                 ob = OrderBook.model_validate(json.loads(p.read_text()))
                 self.books[ob.market_id] = ob
+        d = root / "wallets"
+        if d.exists():
+            for p in d.glob("*.json"):
+                self.wallet_meta[p.stem.replace("__", ":")] = json.loads(p.read_text())
         meta = root / "meta.json"
         if meta.exists():
             try:

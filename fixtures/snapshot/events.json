@@ -8,6 +8,7 @@
 "marketIds": [
 "kalshi:KXELONMARS-99"
 ],
+"totalMarkets": null,
 "closeTime": "2099-08-01T04:59:00Z",
 "url": "https://kalshi.com/markets/kxelonmars"
 },
@@ -20,6 +21,7 @@
 "marketIds": [
 "kalshi:KXCOLONIZEMARS-50"
 ],
+"totalMarkets": null,
 "closeTime": "2050-01-01T04:59:00Z",
 "url": "https://kalshi.com/markets/kxcolonizemars"
 },
@@ -32,6 +34,7 @@
 "marketIds": [
 "kalshi:KXPERSONPRESMAM-45"
 ],
+"totalMarkets": null,
 "closeTime": "2045-01-29T15:00:00Z",
 "url": "https://kalshi.com/markets/kxpersonpresmam"
 },
@@ -45,6 +48,7 @@
 "kalshi:KXMILLENNIUMNEXT-45-HODGE",
 "kalshi:KXMILLENNIUMNEXT-45-RIEMANN"
 ],
+"totalMarkets": null,
 "closeTime": "2045-01-01T04:59:00Z",
 "url": "https://kalshi.com/markets/kxmillenniumnext"
 },
@@ -57,6 +61,7 @@
 "marketIds": [
 "kalshi:KXPERSONPRESFUENTES-45"
 ],
+"totalMarkets": null,
 "closeTime": "2045-01-08T15:00:00Z",
 "url": "https://kalshi.com/markets/kxpersonpresfuentes"
 },
@@ -70,6 +75,7 @@
 "kalshi:KXNEXTROMANIAPM-45JAN01-SGRI",
 "kalshi:KXNEXTROMANIAPM-45JAN01-ANAZ"
 ],
+"totalMarkets": null,
 "closeTime": "2045-01-01T15:00:00Z",
 "url": "https://kalshi.com/markets/kxnextromaniapm"
 },
@@ -82,6 +88,7 @@
 "marketIds": [
 "kalshi:KXG7LEADEROUT-26JUL20-EMAC"
 ],
+"totalMarkets": null,
 "closeTime": "2045-01-01T15:00:00Z",
 "url": "https://kalshi.com/markets/kxg7leaderout"
 },
@@ -95,6 +102,7 @@
 "kalshi:KXWCCAREERGOALS-KMBAPPE-35",
 "kalshi:KXWCCAREERGOALS-KMBAPPE-40"
 ],
+"totalMarkets": null,
 "closeTime": "2043-07-28T14:00:00Z",
 "url": "https://kalshi.com/markets/kxwccareergoals"
 },
@@ -110,6 +118,7 @@
 "kalshi:KXRIEMANNRES-40-29JAN01",
 "kalshi:KXRIEMANNRES-40-30JAN01"
 ],
+"totalMarkets": null,
 "closeTime": "2040-01-07T15:00:00Z",
 "url": "https://kalshi.com/markets/kxriemannres"
 },
@@ -123,6 +132,7 @@
 "kalshi:KXOAIANTH-40-OAI",
 "kalshi:KXOAIANTH-40-ANTH"
 ],
+"totalMarkets": null,
 "closeTime": "2040-01-01T04:59:00Z",
 "url": "https://kalshi.com/markets/kxoaianth"
 },
@@ -135,6 +145,7 @@
 "marketIds": [
 "kalshi:KXFEDFUNDSYEAR-36JAN01-T5.75"
 ],
+"totalMarkets": null,
 "closeTime": "2036-01-01T04:59:00Z",
 "url": "https://kalshi.com/markets/kxfedfundsyear"
 },
@@ -147,6 +158,7 @@
 "marketIds": [
 "kalshi:KXNEXTUKPRIMEMIN-35JAN01-SMAH"
 ],
+"totalMarkets": null,
 "closeTime": "2035-01-08T15:00:00Z",
 "url": "https://kalshi.com/markets/kxnextukprimemin"
 },
@@ -159,6 +171,7 @@
 "marketIds": [
 "kalshi:KXWCHOST-2038-CHN"
 ],
+"totalMarkets": null,
 "closeTime": "2034-01-01T04:59:00Z",
 "url": "https://kalshi.com/markets/kxwchost"
 },
@@ -171,6 +184,7 @@
 "marketIds": [
 "kalshi:KXPNP-32-30JAN01"
 ],
+"totalMarkets": null,
 "closeTime": "2040-01-07T15:00:00Z",
 "url": "https://kalshi.com/markets/kxpnp"
 },
@@ -183,6 +197,7 @@
 "marketIds": [
 "kalshi:KXHODGE-32-27JAN01"
 ],
+"totalMarkets": null,
 "closeTime": "2032-01-07T15:00:00Z",
 "url": "https://kalshi.com/markets/kxhodge"
 },
@@ -195,6 +210,7 @@
 "marketIds": [
 "kalshi:KXBIRCHSWINN-32-27JAN01"
 ],
+"totalMarkets": null,
 "closeTime": "2032-01-07T15:00:00Z",
 "url": "https://kalshi.com/markets/kxbirchswinn"
 },
@@ -207,6 +223,7 @@
 "marketIds": [
 "kalshi:KXFDAAPPROVE-MDMA-27JAN01"
 ],
+"totalMarkets": null,
 "closeTime": "2032-01-01T04:59:00Z",
 "url": "https://kalshi.com/markets/kxfdaapprove"
 },
@@ -219,6 +236,7 @@
 "marketIds": [
 "kalshi:KXNEXTSPEAKER-31-JJOR"
 ],
+"totalMarkets": null,
 "closeTime": "2031-01-01T15:00:00Z",
 "url": "https://kalshi.com/markets/kxnextspeaker"
 },
@@ -232,6 +250,7 @@
 "kalshi:KXMOONMAN-31-PRC",
 "kalshi:KXMOONMAN-31-E"
 ],
+"totalMarkets": null,
 "closeTime": "2031-01-01T15:00:00Z",
 "url": "https://kalshi.com/markets/kxmoonman"
 },
@@ -247,6 +266,7 @@
 "kalshi:KXAGICO-COMP-27Q2",
 "kalshi:KXAGICO-COMP-27Q3"
 ],
+"totalMarkets": null,
 "closeTime": "2031-01-01T04:59:00Z",
 "url": "https://kalshi.com/markets/kxagico"
 },
@@ -259,6 +279,7 @@
 "marketIds": [
 "kalshi:KXWCQUAL-30-USA"
 ],
+"totalMarkets": null,
 "closeTime": "2031-01-15T03:00:00Z",
 "url": "https://kalshi.com/markets/kxwcqual"
 },
@@ -279,6 +300,7 @@
 "kalshi:KXWC-30-ARG",
 "kalshi:KXWC-30-ENG"
 ],
+"totalMarkets": null,
 "closeTime": "2031-01-15T03:00:00Z",
 "url": "https://kalshi.com/markets/kxwc"
 },
@@ -292,6 +314,7 @@
 "kalshi:KXTVSEASONRELEASETHELASTOFUS-27-JAN",
 "kalshi:KXTVSEASONRELEASETHELASTOFUS-28-JAN"
 ],
+"totalMarkets": null,
 "closeTime": "2028-01-01T15:00:00Z",
 "url": "https://kalshi.com/markets/kxtvseasonreleasethelastofus"
 },
@@ -304,6 +327,7 @@
 "marketIds": [
 "kalshi:KXPRIMEENGCONSUMPTION-30-NUCLEAR"
 ],
+"totalMarkets": null,
 "closeTime": "2032-12-30T15:00:00Z",
 "url": "https://kalshi.com/markets/kxprimeengconsumption"
 },
@@ -316,6 +340,7 @@
 "marketIds": [
 "kalshi:KXNCAAFCOACHLEAVE-26DSWI-010128"
 ],
+"totalMarkets": null,
 "closeTime": "2028-01-01T04:59:00Z",
 "url": "https://kalshi.com/markets/kxncaafcoachleave"
 },
@@ -329,6 +354,7 @@
 "kalshi:KXCITYCHAMPS-MIN30JUL01TVTW-1",
 "kalshi:KXCITYCHAMPS-MIN30JUL01TVTW-2"
 ],
+"totalMarkets": null,
 "closeTime": "2030-07-01T03:59:00Z",
 "url": "https://kalshi.com/markets/kxcitychamps"
 },
@@ -342,6 +368,7 @@
 "kalshi:KXCITYCHAMPS-CHI30JUL01BBCWB-3",
 "kalshi:KXCITYCHAMPS-CHI30JUL01BBCWB-4"
 ],
+"totalMarkets": null,
 "closeTime": "2030-07-01T03:59:00Z",
 "url": "https://kalshi.com/markets/kxcitychamps"
 },
@@ -354,6 +381,7 @@
 "marketIds": [
 "kalshi:KXF1RETIRE-30VERSTAPPEN-2028"
 ],
+"totalMarkets": null,
 "closeTime": "2030-04-01T03:59:00Z",
 "url": "https://kalshi.com/markets/kxf1retire"
 },
@@ -366,6 +394,7 @@
 "marketIds": [
 "kalshi:KXGERELECTION-29MAR25-AFD"
 ],
+"totalMarkets": null,
 "closeTime": "2030-03-25T14:00:00Z",
 "url": "https://kalshi.com/markets/kxgerelection"
 },
@@ -379,6 +408,7 @@
 "kalshi:KXTIMEDECADE20S-30-VZEL",
 "kalshi:KXTIMEDECADE20S-30-TAY"
 ],
+"totalMarkets": null,
 "closeTime": "2030-01-31T15:00:00Z",
 "url": "https://kalshi.com/markets/kxtimedecade20s"
 },
@@ -393,6 +423,7 @@
 "kalshi:KXNEXTSECARMY-30JAN01-SPAR",
 "kalshi:KXNEXTSECARMY-30JAN01-BING"
 ],
+"totalMarkets": null,
 "closeTime": "2030-01-08T15:00:00Z",
 "url": "https://kalshi.com/markets/kxnextsecarmy"
 },
@@ -405,6 +436,7 @@
 "marketIds": [
 "kalshi:KXMAMDANIOUT-26AUG-30JAN01"
 ],
+"totalMarkets": null,
 "closeTime": "2030-01-01T04:59:00Z",
 "url": "https://kalshi.com/markets/kxmamdaniout"
 },
@@ -418,6 +450,7 @@
 "kalshi:KXU3MAX-30-9",
 "kalshi:KXU3MAX-30-10"
 ],
+"totalMarkets": null,
 "closeTime": "2030-01-04T13:25:00Z",
 "url": "https://kalshi.com/markets/kxu3max"
 },
@@ -430,6 +463,7 @@
 "marketIds": [
 "kalshi:KXPERFORMROLEBRITNEY-MIL"
 ],
+"totalMarkets": null,
 "closeTime": "2031-01-01T15:00:00Z",
 "url": "https://kalshi.com/markets/kxperformrolebritney"
 },
@@ -442,6 +476,7 @@
 "marketIds": [
 "kalshi:KXPERFORMROLE007-MONEYPENNY-NAO"
 ],
+"totalMarkets": null,
 "closeTime": "2031-01-01T15:00:00Z",
 "url": "https://kalshi.com/markets/kxperformrole007"
 },
@@ -454,6 +489,7 @@
 "marketIds": [
 "kalshi:KXPERFORMROLE007-FLO"
 ],
+"totalMarkets": null,
 "closeTime": "2031-01-01T15:00:00Z",
 "url": "https://kalshi.com/markets/kxperformrole007"
 },
@@ -466,6 +502,7 @@
 "marketIds": [
 "kalshi:KXUSTAKEOVER-30"
 ],
+"totalMarkets": null,
 "closeTime": "2030-01-01T04:59:00Z",
 "url": "https://kalshi.com/markets/kxustakeover"
 },
@@ -478,6 +515,7 @@
 "marketIds": [
 "kalshi:KXTAIWANLVL4-27JAN01"
 ],
+"totalMarkets": null,
 "closeTime": "2030-01-01T04:59:00Z",
 "url": "https://kalshi.com/markets/kxtaiwanlvl4"
 },
@@ -490,6 +528,7 @@
 "marketIds": [
 "kalshi:KXSHOWENDFAMILYGUY-30"
 ],
+"totalMarkets": null,
 "closeTime": "2030-01-01T04:59:00Z",
 "url": "https://kalshi.com/markets/kxshowendfamilyguy"
 },
@@ -502,6 +541,7 @@
 "marketIds": [
 "kalshi:KXSCOTUSAR15-30JAN"
 ],
+"totalMarkets": null,
 "closeTime": "2030-01-01T15:00:00Z",
 "url": "https://kalshi.com/markets/kxscotusar15"
 },
@@ -517,6 +557,7 @@
 "kalshi:KXGTA6SONGS-30-MAS",
 "kalshi:KXGTA6SONGS-30-LOO"
 ],
+"totalMarkets": null,
 "closeTime": "2030-01-01T15:00:00Z",
 "url": "https://kalshi.com/markets/kxgta6songs"
 },
@@ -538,6 +579,7 @@
 "kalshi:KXBOND-30-JACK",
 "kalshi:KXBOND-30-PAU"
 ],
+"totalMarkets": null,
 "closeTime": "2030-01-01T15:00:00Z",
 "url": "https://kalshi.com/markets/kxbond"
 },
@@ -550,6 +592,7 @@
 "marketIds": [
 "kalshi:EUEXIT-30"
 ],
+"totalMarkets": null,
 "closeTime": "2030-01-01T15:00:00Z",
 "url": "https://kalshi.com/markets/kxeuexit"
 },
@@ -568,6 +611,7 @@
 "kalshi:KXNYCMAYORPERSON-29-EADA",
 "kalshi:KXNYCMAYORPERSON-29-JMEN"
 ],
+"totalMarkets": null,
 "closeTime": "2030-11-06T15:00:00Z",
 "url": "https://kalshi.com/markets/kxnycmayorperson"
 },
@@ -580,6 +624,7 @@
 "marketIds": [
 "kalshi:KXALBERTAREFYES-29"
 ],
+"totalMarkets": null,
 "closeTime": "2029-10-15T14:00:00Z",
 "url": "https://kalshi.com/markets/kxalbertarefyes"
 },
@@ -593,6 +638,7 @@
 "kalshi:KXTRUMPIMPEACHCOUNT-29JAN20-AL1",
 "kalshi:KXTRUMPIMPEACHCOUNT-29JAN20-AL2"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-21T13:59:00Z",
 "url": "https://kalshi.com/markets/kxtrumpimpeachcount"
 },
@@ -606,6 +652,7 @@
 "kalshi:KXTRUMPIMPEACHARTICLES-29JAN20-AL4",
 "kalshi:KXTRUMPIMPEACHARTICLES-29JAN20-AL5"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-21T13:59:00Z",
 "url": "https://kalshi.com/markets/kxtrumpimpeacharticles"
 },
@@ -620,6 +667,7 @@
 "kalshi:KXGOVTCUTS-28-250",
 "kalshi:KXGOVTCUTS-28-500"
 ],
+"totalMarkets": null,
 "closeTime": "2029-03-31T15:00:00Z",
 "url": "https://kalshi.com/markets/kxgovtcuts"
 },
@@ -633,6 +681,7 @@
 "kalshi:KXDEBTGROWTH-28DEC31-40",
 "kalshi:KXDEBTGROWTH-28DEC31-50"
 ],
+"totalMarkets": null,
 "closeTime": "2029-03-31T15:00:00Z",
 "url": "https://kalshi.com/markets/kxdebtgrowth"
 },
@@ -647,6 +696,7 @@
 "kalshi:POWER-28-RH-DS-RP",
 "kalshi:POWER-28-RH-RS-RP"
 ],
+"totalMarkets": null,
 "closeTime": "2029-11-07T15:00:00Z",
 "url": "https://kalshi.com/markets/power"
 },
@@ -661,6 +711,7 @@
 "kalshi:KXDSENATESEATS-29-E54",
 "kalshi:KXDSENATESEATS-29-E55"
 ],
+"totalMarkets": null,
 "closeTime": "2029-02-01T15:00:00Z",
 "url": "https://kalshi.com/markets/kxdsenateseats"
 },
@@ -673,6 +724,7 @@
 "marketIds": [
 "kalshi:KXGDPUSMAX-28-5"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-26T13:25:00Z",
 "url": "https://kalshi.com/markets/kxgdpusmax"
 },
@@ -685,6 +737,7 @@
 "marketIds": [
 "kalshi:KXGREENLANDPRICE-29JAN21-NOACQ"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-22T04:59:00Z",
 "url": "https://kalshi.com/markets/kxgreenlandprice"
 },
@@ -697,6 +750,7 @@
 "marketIds": [
 "kalshi:KXAMEND22-29-JAN01"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-01T15:00:00Z",
 "url": "https://kalshi.com/markets/kxamend22"
 },
@@ -710,6 +764,7 @@
 "kalshi:KXUSAEXPANDTERRITORY-27JAN01",
 "kalshi:KXUSAEXPANDTERRITORY-28JAN01"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-21T15:00:00Z",
 "url": "https://kalshi.com/markets/kxusaexpandterritory"
 },
@@ -722,6 +777,7 @@
 "marketIds": [
 "kalshi:KXTRUMPRESIGN"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-21T15:00:00Z",
 "url": "https://kalshi.com/markets/kxtrumpresign"
 },
@@ -735,6 +791,7 @@
 "kalshi:KXTRUMPPARDONS-29JAN21-DJT",
 "kalshi:KXTRUMPPARDONS-29JAN21-JGIU"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-21T15:00:00Z",
 "url": "https://kalshi.com/markets/kxtrumppardons"
 },
@@ -755,6 +812,7 @@
 "kalshi:KXSCOURT-29-AJR",
 "kalshi:KXSCOURT-29-JSAU"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-21T04:59:00Z",
 "url": "https://kalshi.com/markets/kxscourt"
 },
@@ -776,12 +834,15 @@
 "kalshi:KXPRESPERSON-28-ABES",
 "kalshi:KXPRESPERSON-28-JPRI",
 "kalshi:KXPRESPERSON-28-JVAN",
+"kalshi:KXPRESPERSON-28-TGAB",
 "kalshi:KXPRESPERSON-28-DTRU",
 "kalshi:KXPRESPERSON-28-MRUB",
 "kalshi:KXPRESPERSON-28-GYOU",
 "kalshi:KXPRESPERSON-28-DTRUJR",
+"kalshi:KXPRESPERSON-28-NHAL",
 "kalshi:KXPRESPERSON-28-RDES",
 "kalshi:KXPRESPERSON-28-VRAM",
+"kalshi:KXPRESPERSON-28-GABB",
 "kalshi:KXPRESPERSON-28-TWAL",
 "kalshi:KXPRESPERSON-28-JDIM",
 "kalshi:KXPRESPERSON-28-JOSS",
@@ -790,8 +851,11 @@
 "kalshi:KXPRESPERSON-28-TMAS",
 "kalshi:KXPRESPERSON-28-REMA",
 "kalshi:KXPRESPERSON-28-JTAL",
-"kalshi:KXPRESPERSON-28-RKHA"
+"kalshi:KXPRESPERSON-28-HBID",
+"kalshi:KXPRESPERSON-28-RKHA",
+"kalshi:KXPRESPERSON-28-TCRU"
 ],
+"totalMarkets": 31,
 "closeTime": "2029-11-07T15:00:00Z",
 "url": "https://kalshi.com/markets/kxpresperson"
 },
@@ -804,6 +868,7 @@
 "marketIds": [
 "kalshi:KXPRESPARTY-2028-D"
 ],
+"totalMarkets": null,
 "closeTime": "2029-11-07T15:00:00Z",
 "url": "https://kalshi.com/markets/kxpresparty"
 },
@@ -829,6 +894,7 @@
 "kalshi:KXNEXTPRESSEC-29JAN21-TGAB",
 "kalshi:KXNEXTPRESSEC-29JAN21-BHAR"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-21T15:00:00Z",
 "url": "https://kalshi.com/markets/kxnextpressec"
 },
@@ -842,6 +908,7 @@
 "kalshi:KXGREENTERRITORY-29-27",
 "kalshi:KXGREENTERRITORY-29"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-21T15:00:00Z",
 "url": "https://kalshi.com/markets/kxgreenterritory"
 },
@@ -854,6 +921,7 @@
 "marketIds": [
 "kalshi:KXCANTERRITORY-29"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-21T15:00:00Z",
 "url": "https://kalshi.com/markets/kxcanterritory"
 },
@@ -867,6 +935,7 @@
 "kalshi:KXZELENSKYPUTIN-29-27",
 "kalshi:KXZELENSKYPUTIN-29-VPUT"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-20T04:59:00Z",
 "url": "https://kalshi.com/markets/kxzelenskyputin"
 },
@@ -879,6 +948,7 @@
 "marketIds": [
 "kalshi:KXVETOOVERRIDE-29JAN20"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-20T15:00:00Z",
 "url": "https://kalshi.com/markets/kxvetooverride"
 },
@@ -891,6 +961,7 @@
 "marketIds": [
 "kalshi:KXTRUMPSNL-29"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-20T15:00:00Z",
 "url": "https://kalshi.com/markets/kxtrumpsnl"
 },
@@ -903,6 +974,7 @@
 "marketIds": [
 "kalshi:KXTRUMPREMOVE"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-20T15:00:00Z",
 "url": "https://kalshi.com/markets/kxtrumpremove"
 },
@@ -916,6 +988,7 @@
 "kalshi:KXSTATE51-29-GL",
 "kalshi:KXSTATE51-29-CU"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-20T15:00:00Z",
 "url": "https://kalshi.com/markets/kxstate51"
 },
@@ -929,6 +1002,7 @@
 "kalshi:KXSCOTUSRESIGN-29-SS",
 "kalshi:KXSCOTUSRESIGN-29-SA"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-20T15:00:00Z",
 "url": "https://kalshi.com/markets/kxscotusresign"
 },
@@ -941,6 +1015,7 @@
 "marketIds": [
 "kalshi:KXNEXTOUTUS-26SEP28-KPAT"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-20T15:00:00Z",
 "url": "https://kalshi.com/markets/kxnextoutus"
 },
@@ -954,6 +1029,7 @@
 "kalshi:KXINSURRECTION-29-27",
 "kalshi:KXINSURRECTION-29"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-20T15:00:00Z",
 "url": "https://kalshi.com/markets/kxinsurrection"
 },
@@ -966,6 +1042,7 @@
 "marketIds": [
 "kalshi:KXIMPEACHCABINET-29JAN20"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-20T15:00:00Z",
 "url": "https://kalshi.com/markets/kximpeachcabinet"
 },
@@ -978,6 +1055,7 @@
 "marketIds": [
 "kalshi:KXIMPEACH-29-JAN20"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-20T15:00:00Z",
 "url": "https://kalshi.com/markets/kximpeach"
 },
@@ -991,6 +1069,7 @@
 "kalshi:KXGREENLAND-29-27",
 "kalshi:KXGREENLAND-29"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-20T15:00:00Z",
 "url": "https://kalshi.com/markets/kxgreenland"
 },
@@ -1003,6 +1082,7 @@
 "marketIds": [
 "kalshi:KXCONSTAMEND-29-JAN20"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-20T15:00:00Z",
 "url": "https://kalshi.com/markets/kxconstamend"
 },
@@ -1015,6 +1095,7 @@
 "marketIds": [
 "kalshi:KXCANAL-29"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-20T15:00:00Z",
 "url": "https://kalshi.com/markets/kxcanal"
 },
@@ -1031,6 +1112,7 @@
 "kalshi:KXCABOUT-26MAY22-RFK",
 "kalshi:KXCABOUT-26MAY22-SWIL"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-20T15:00:00Z",
 "url": "https://kalshi.com/markets/kxcabout"
 },
@@ -1043,6 +1125,7 @@
 "marketIds": [
 "kalshi:KXAMEND25-29"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-20T15:00:00Z",
 "url": "https://kalshi.com/markets/kxamend25"
 },
@@ -1055,6 +1138,7 @@
 "marketIds": [
 "kalshi:KXABRAHAMSY-29-JAN20"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-20T15:00:00Z",
 "url": "https://kalshi.com/markets/kxabrahamsy"
 },
@@ -1067,6 +1151,7 @@
 "marketIds": [
 "kalshi:KXABRAHAMSA-29-JAN20"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-20T15:00:00Z",
 "url": "https://kalshi.com/markets/kxabrahamsa"
 },
@@ -1079,6 +1164,7 @@
 "marketIds": [
 "kalshi:KXU3EOY-29JAN05-T6.0"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-05T13:29:00Z",
 "url": "https://kalshi.com/markets/kxu3eoy"
 },
@@ -1091,6 +1177,7 @@
 "marketIds": [
 "kalshi:GOVPARTYNH-28-D"
 ],
+"totalMarkets": null,
 "closeTime": "2029-11-07T15:00:00Z",
 "url": "https://kalshi.com/markets/govpartynh"
 },
@@ -1104,6 +1191,7 @@
 "kalshi:KXLEAVEMERZ-29JAN01-27JAN01",
 "kalshi:KXLEAVEMERZ-29JAN01-28JAN01"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-01T04:59:00Z",
 "url": "https://kalshi.com/markets/kxleavemerz"
 },
@@ -1116,6 +1204,7 @@
 "marketIds": [
 "kalshi:SENATENC-28-D"
 ],
+"totalMarkets": null,
 "closeTime": "2029-11-07T15:00:00Z",
 "url": "https://kalshi.com/markets/senatenc"
 },
@@ -1129,6 +1218,7 @@
 "kalshi:SENATEKS-28-D",
 "kalshi:SENATEKS-28-R"
 ],
+"totalMarkets": null,
 "closeTime": "2029-11-07T15:00:00Z",
 "url": "https://kalshi.com/markets/senateks"
 },
@@ -1141,6 +1231,7 @@
 "marketIds": [
 "kalshi:SENATEGA-28-D"
 ],
+"totalMarkets": null,
 "closeTime": "2029-11-07T15:00:00Z",
 "url": "https://kalshi.com/markets/senatega"
 },
@@ -1153,6 +1244,7 @@
 "marketIds": [
 "kalshi:SENATEFL-28-R"
 ],
+"totalMarkets": null,
 "closeTime": "2029-11-07T15:00:00Z",
 "url": "https://kalshi.com/markets/senatefl"
 },
@@ -1171,6 +1263,7 @@
 "poly:559702",
 "poly:559703"
 ],
+"totalMarkets": null,
 "closeTime": "2028-11-08T04:59:00Z",
 "url": "https://polymarket.com/event/democratic-presidential-nominee-2028"
 },
@@ -1187,6 +1280,7 @@
 "poly:2589813",
 "poly:2589814"
 ],
+"totalMarkets": 5,
 "closeTime": "2026-10-29T03:59:00Z",
 "url": "https://polymarket.com/event/fed-decision-in-october-20260617190323537"
 },
@@ -1209,6 +1303,7 @@
 "poly:5114482",
 "poly:5114486"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-09T16:00:00Z",
 "url": "https://polymarket.com/event/elon-musk-of-tweets-october-2-october-9-2026"
 },
@@ -1225,6 +1320,7 @@
 "poly:5350602",
 "poly:5350608"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-14T20:00:00Z",
 "url": "https://polymarket.com/event/mlb-cle-cws-2026-10-07"
 },
@@ -1241,6 +1337,7 @@
 "poly:5337593",
 "poly:5337595"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-07T22:00:00Z",
 "url": "https://polymarket.com/event/lol-hrts-g2nord-2026-10-07"
 },
@@ -1254,6 +1351,7 @@
 "poly:601819",
 "poly:601826"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-05T03:59:00Z",
 "url": "https://polymarket.com/event/brazil-presidential-election"
 },
@@ -1275,6 +1373,7 @@
 "poly:5170744",
 "poly:5170745"
 ],
+"totalMarkets": null,
 "closeTime": "2026-11-01T04:00:00Z",
 "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-in-october-2026"
 },
@@ -1287,6 +1386,7 @@
 "marketIds": [
 "poly:560317"
 ],
+"totalMarkets": null,
 "closeTime": "2027-07-01T03:59:00Z",
 "url": "https://polymarket.com/event/putin-out-before-2027"
 },
@@ -1301,6 +1401,7 @@
 "poly:5381316",
 "poly:5381318"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-07T15:00:00Z",
 "url": "https://polymarket.com/event/dota2-yes-bbl-2026-10-07"
 },
@@ -1317,6 +1418,7 @@
 "poly:5337875",
 "poly:5337878"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-07T22:00:00Z",
 "url": "https://polymarket.com/event/lol-khk-use1-2026-10-07"
 },
@@ -1330,6 +1432,7 @@
 "poly:5406366",
 "poly:5406367"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-08T00:00:00Z",
 "url": "https://polymarket.com/event/dota2-ch1-bbl-2026-10-07"
 },
@@ -1344,6 +1447,7 @@
 "poly:3128888",
 "poly:4906127"
 ],
+"totalMarkets": null,
 "closeTime": "2027-01-01T04:59:00Z",
 "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-byptptpt-20260713152715080"
 },
@@ -1357,6 +1461,7 @@
 "poly:562802",
 "poly:562803"
 ],
+"totalMarkets": null,
 "closeTime": "2026-11-04T04:59:00Z",
 "url": "https://polymarket.com/event/which-party-will-win-the-house-in-2026"
 },
@@ -1370,6 +1475,7 @@
 "poly:2772179",
 "poly:2772194"
 ],
+"totalMarkets": null,
 "closeTime": "2027-06-20T03:59:00Z",
 "url": "https://polymarket.com/event/uefa-champions-league-2027-champion-20260701202025549"
 },
@@ -1387,6 +1493,7 @@
 "poly:679028",
 "poly:679034"
 ],
+"totalMarkets": null,
 "closeTime": "2027-04-19T03:59:00Z",
 "url": "https://polymarket.com/event/next-french-presidential-election"
 },
@@ -1406,6 +1513,7 @@
 "poly:5179265",
 "poly:5179270"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-08T16:00:00Z",
 "url": "https://polymarket.com/event/bitcoin-above-on-october-8-2026"
 },
@@ -1422,6 +1530,7 @@
 "poly:608551",
 "poly:608565"
 ],
+"totalMarkets": null,
 "closeTime": "2027-01-01T04:59:00Z",
 "url": "https://polymarket.com/event/ballon-dor-winner-2026"
 },
@@ -1437,6 +1546,7 @@
 "poly:562830",
 "poly:562831"
 ],
+"totalMarkets": null,
 "closeTime": "2026-11-04T04:59:00Z",
 "url": "https://polymarket.com/event/balance-of-power-2026-midterms"
 },
@@ -1447,8 +1557,79 @@
 "category": "Politics",
 "mutuallyExclusive": true,
 "marketIds": [
-"poly:637002"
+"poly:637002",
+"poly:637003",
+"poly:637004",
+"poly:637005",
+"poly:637006",
+"poly:637007",
+"poly:637008",
+"poly:637009",
+"poly:637010",
+"poly:637011",
+"poly:637012",
+"poly:637013",
+"poly:637014",
+"poly:637015",
+"poly:637016",
+"poly:637017",
+"poly:637018",
+"poly:637019",
+"poly:637020",
+"poly:637021",
+"poly:637022",
+"poly:637023",
+"poly:637024",
+"poly:637025",
+"poly:637026",
+"poly:637027",
+"poly:637028",
+"poly:637029",
+"poly:637030",
+"poly:637031",
+"poly:637032",
+"poly:637033",
+"poly:637034",
+"poly:637035",
+"poly:637036",
+"poly:637037",
+"poly:637038",
+"poly:637039",
+"poly:637040",
+"poly:637041",
+"poly:637042",
+"poly:637043",
+"poly:637044",
+"poly:637045",
+"poly:637046",
+"poly:637047",
+"poly:637048",
+"poly:637049",
+"poly:637050",
+"poly:637051",
+"poly:637052",
+"poly:637053",
+"poly:637054",
+"poly:637055",
+"poly:637056",
+"poly:637057",
+"poly:637058",
+"poly:637059",
+"poly:637060",
+"poly:637061",
+"poly:637062",
+"poly:637063",
+"poly:637064",
+"poly:637065",
+"poly:637066",
+"poly:637067",
+"poly:637068",
+"poly:637069",
+"poly:637070",
+"poly:637071",
+"poly:637072"
 ],
+"totalMarkets": 71,
 "closeTime": "2027-04-01T03:59:00Z",
 "url": "https://polymarket.com/event/nobel-peace-prize-winner-2026-139"
 },
@@ -1459,11 +1640,136 @@
 "category": "Politics",
 "mutuallyExclusive": true,
 "marketIds": [
+"poly:561229",
+"poly:561230",
+"poly:561231",
+"poly:561232",
+"poly:561233",
 "poly:561234",
+"poly:561235",
+"poly:561236",
+"poly:561237",
+"poly:561238",
+"poly:561239",
 "poly:561240",
+"poly:561241",
+"poly:561242",
+"poly:561243",
+"poly:561244",
+"poly:561245",
 "poly:561246",
-"poly:561247"
+"poly:561247",
+"poly:561248",
+"poly:561249",
+"poly:561250",
+"poly:561251",
+"poly:561252",
+"poly:561253",
+"poly:561254",
+"poly:561255",
+"poly:561256",
+"poly:561257",
+"poly:561258",
+"poly:561259",
+"poly:561260",
+"poly:561261",
+"poly:561262",
+"poly:561263",
+"poly:561264",
+"poly:561265",
+"poly:561266",
+"poly:561267",
+"poly:561268",
+"poly:561269",
+"poly:561270",
+"poly:561271",
+"poly:561272",
+"poly:561273",
+"poly:561274",
+"poly:561275",
+"poly:561276",
+"poly:561277",
+"poly:561278",
+"poly:561279",
+"poly:561280",
+"poly:561281",
+"poly:561282",
+"poly:561283",
+"poly:561284",
+"poly:561285",
+"poly:561286",
+"poly:561287",
+"poly:561288",
+"poly:561289",
+"poly:561290",
+"poly:561291",
+"poly:561292",
+"poly:561293",
+"poly:561294",
+"poly:561295",
+"poly:561296",
+"poly:561297",
+"poly:561298",
+"poly:561299",
+"poly:561300",
+"poly:561301",
+"poly:561302",
+"poly:561303",
+"poly:561304",
+"poly:561305",
+"poly:561306",
+"poly:561307",
+"poly:561308",
+"poly:561309",
+"poly:561310",
+"poly:561311",
+"poly:561312",
+"poly:561313",
+"poly:561314",
+"poly:561315",
+"poly:561316",
+"poly:561317",
+"poly:561318",
+"poly:561319",
+"poly:561320",
+"poly:561321",
+"poly:561322",
+"poly:561323",
+"poly:561324",
+"poly:561325",
+"poly:561326",
+"poly:561327",
+"poly:561328",
+"poly:561329",
+"poly:561330",
+"poly:561331",
+"poly:561332",
+"poly:561333",
+"poly:561334",
+"poly:561335",
+"poly:561336",
+"poly:561337",
+"poly:561338",
+"poly:561339",
+"poly:561340",
+"poly:561341",
+"poly:561342",
+"poly:561343",
+"poly:561344",
+"poly:561345",
+"poly:561346",
+"poly:561347",
+"poly:561348",
+"poly:561349",
+"poly:561350",
+"poly:561351",
+"poly:561352",
+"poly:561353",
+"poly:561354",
+"poly:561355",
+"poly:561357"
 ],
+"totalMarkets": 128,
 "closeTime": "2028-11-08T04:59:00Z",
 "url": "https://polymarket.com/event/presidential-election-winner-2028"
 },
@@ -1477,6 +1783,7 @@
 "poly:5337795",
 "poly:5337796"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-07T22:00:00Z",
 "url": "https://polymarket.com/event/lol-anb-rs-2026-10-07"
 },
@@ -1493,6 +1800,7 @@
 "poly:682712",
 "poly:682722"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-28T03:59:00Z",
 "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election"
 },
@@ -1508,6 +1816,7 @@
 "poly:5130978",
 "poly:5234660"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-31T23:59:00Z",
 "url": "https://polymarket.com/event/us-iran-ceasefire-continues-throughptptpt"
 },
@@ -1520,6 +1829,7 @@
 "marketIds": [
 "poly:665374"
 ],
+"totalMarkets": null,
 "closeTime": "2027-01-01T04:59:00Z",
 "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027"
 },
@@ -1534,6 +1844,7 @@
 "poly:5171469",
 "poly:5171470"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-07T23:50:00Z",
 "url": "https://polymarket.com/event/cs2-k271-mzp-2026-10-07"
 },
@@ -1548,6 +1859,7 @@
 "poly:5311917",
 "poly:5311923"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-12T04:00:00Z",
 "url": "https://polymarket.com/event/what-price-will-ethereum-hit-october-5-11-2026"
 },
@@ -1560,6 +1872,7 @@
 "marketIds": [
 "poly:5239514"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-05T16:00:00Z",
 "url": "https://polymarket.com/event/bitcoin-up-or-down-on-october-5-2026"
 },
@@ -1572,6 +1885,7 @@
 "marketIds": [
 "poly:5380293"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-14T09:00:00Z",
 "url": "https://polymarket.com/event/atp-cadenas-giunta-2026-10-07"
 },
@@ -1585,6 +1899,7 @@
 "poly:703257",
 "poly:5180509"
 ],
+"totalMarkets": null,
 "closeTime": "2027-01-01T04:59:00Z",
 "url": "https://polymarket.com/event/will-the-us-confirm-that-aliens-exist-before-2027"
 },
@@ -1598,6 +1913,7 @@
 "poly:561982",
 "poly:561991"
 ],
+"totalMarkets": null,
 "closeTime": "2028-11-08T04:59:00Z",
 "url": "https://polymarket.com/event/republican-presidential-nominee-2028"
 },
@@ -1610,6 +1926,7 @@
 "marketIds": [
 "poly:5340154"
 ],
+"totalMarkets": null,
 "closeTime": "2027-01-01T04:59:00Z",
 "url": "https://polymarket.com/event/plague-pandemic-in-2026"
 },
@@ -1624,6 +1941,7 @@
 "poly:3865962",
 "poly:701496"
 ],
+"totalMarkets": null,
 "closeTime": "2027-01-01T05:00:00Z",
 "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-before-2027"
 },
@@ -1638,6 +1956,7 @@
 "poly:5396126",
 "poly:5396127"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-08T04:00:00Z",
 "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-on-october-7-2026"
 },
@@ -1650,6 +1969,7 @@
 "marketIds": [
 "poly:1447964"
 ],
+"totalMarkets": null,
 "closeTime": "2027-01-18T04:59:00Z",
 "url": "https://polymarket.com/event/pro-football-nfc-east-champion"
 },
@@ -1663,6 +1983,7 @@
 "poly:4440800",
 "poly:4440803"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-08T02:00:00Z",
 "url": "https://polymarket.com/event/nhl-edm-ana-2026-10-07"
 },
@@ -1676,6 +1997,7 @@
 "poly:5311871",
 "poly:5311874"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-12T04:00:00Z",
 "url": "https://polymarket.com/event/what-price-will-bitcoin-hit-october-5-11-2026"
 },
@@ -1689,6 +2011,7 @@
 "poly:5170773",
 "poly:5170789"
 ],
+"totalMarkets": null,
 "closeTime": "2026-11-01T04:00:00Z",
 "url": "https://polymarket.com/event/what-price-will-ethereum-hit-in-october-2026"
 },
@@ -1701,6 +2024,7 @@
 "marketIds": [
 "poly:2243308"
 ],
+"totalMarkets": null,
 "closeTime": "2027-07-01T03:59:00Z",
 "url": "https://polymarket.com/event/nba-2027-champion"
 },
@@ -1714,6 +2038,7 @@
 "poly:5313802",
 "poly:5313803"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-07T12:00:00Z",
 "url": "https://polymarket.com/event/highest-temperature-in-madrid-on-october-7-2026"
 },
@@ -1727,6 +2052,7 @@
 "poly:2695678",
 "poly:2695687"
 ],
+"totalMarkets": null,
 "closeTime": "2028-04-01T03:59:00Z",
 "url": "https://polymarket.com/event/next-prime-minister-of-spain-20260625005215443"
 },
@@ -1740,6 +2066,7 @@
 "poly:5313756",
 "poly:5313757"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-07T12:00:00Z",
 "url": "https://polymarket.com/event/highest-temperature-in-hong-kong-on-october-7-2026"
 },
@@ -1752,6 +2079,7 @@
 "marketIds": [
 "poly:5167182"
 ],
+"totalMarkets": null,
 "closeTime": "2026-11-01T03:59:00Z",
 "url": "https://polymarket.com/event/saudi-arabia-military-action-against-yemen-on-october-2026"
 },
@@ -1765,6 +2093,7 @@
 "poly:5175505",
 "poly:5361542"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-15T00:00:00Z",
 "url": "https://polymarket.com/event/mlb-tb-nyy-2026-10-07"
 },
@@ -1778,6 +2107,7 @@
 "poly:3951230",
 "poly:4061704"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-09T00:15:00Z",
 "url": "https://polymarket.com/event/nfl-tb-dal-2026-10-09"
 },
@@ -1791,6 +2121,7 @@
 "poly:5203714",
 "poly:5394831"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-14T22:00:00Z",
 "url": "https://polymarket.com/event/mlb-lad-atl-2026-10-07"
 },
@@ -1803,6 +2134,7 @@
 "marketIds": [
 "poly:5393314"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-14T19:30:00Z",
 "url": "https://polymarket.com/event/atp-hardt-alves-2026-10-07"
 },
@@ -1815,6 +2147,7 @@
 "marketIds": [
 "poly:5313667"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-07T12:00:00Z",
 "url": "https://polymarket.com/event/highest-temperature-in-paris-on-october-7-2026"
 },
@@ -1827,6 +2160,7 @@
 "marketIds": [
 "poly:5320325"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-14T02:00:00Z",
 "url": "https://polymarket.com/event/atp-hurkacz-duckwor-2026-10-06"
 },
@@ -1840,6 +2174,7 @@
 "poly:4824600",
 "poly:4824602"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-25T23:59:00Z",
 "url": "https://polymarket.com/event/serbia-parliamentary-election-winner-2026"
 },
@@ -1852,6 +2187,7 @@
 "marketIds": [
 "poly:1469746"
 ],
+"totalMarkets": null,
 "closeTime": "2026-12-31T17:00:00Z",
 "url": "https://polymarket.com/event/iran-leader-end-of-2026"
 },
@@ -1864,6 +2200,7 @@
 "marketIds": [
 "poly:5207023"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-09T16:00:00Z",
 "url": "https://polymarket.com/event/bitcoin-above-on-october-9-2026"
 },
@@ -1876,6 +2213,7 @@
 "marketIds": [
 "poly:3399459"
 ],
+"totalMarkets": null,
 "closeTime": "2026-12-31T20:29:00Z",
 "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963"
 },
@@ -1888,6 +2226,7 @@
 "marketIds": [
 "poly:1235562"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-31T23:55:00Z",
 "url": "https://polymarket.com/event/mlb-world-series-champion-2026"
 },
@@ -1901,6 +2240,7 @@
 "poly:630963",
 "poly:630964"
 ],
+"totalMarkets": null,
 "closeTime": "2026-11-04T04:59:00Z",
 "url": "https://polymarket.com/event/texas-senate-election-winner"
 },
@@ -1913,6 +2253,7 @@
 "marketIds": [
 "poly:920403"
 ],
+"totalMarkets": null,
 "closeTime": "2028-01-01T05:00:00Z",
 "url": "https://polymarket.com/event/variational-fdv-above-one-day-after-launch"
 },
@@ -1925,6 +2266,7 @@
 "marketIds": [
 "poly:5395102"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-14T17:00:00Z",
 "url": "https://polymarket.com/event/itf-kuliko1-abbagn1-2026-10-07"
 },
@@ -1937,6 +2279,7 @@
 "marketIds": [
 "poly:5180779"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-14T15:30:00Z",
 "url": "https://polymarket.com/event/cricwcl-eng-wes-2026-10-07"
 },
@@ -1949,6 +2292,7 @@
 "marketIds": [
 "poly:5369827"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-08T03:00:00Z",
 "url": "https://polymarket.com/event/cs2-isg-meiano-2026-10-07"
 },
@@ -1962,6 +2306,7 @@
 "poly:629030",
 "poly:629040"
 ],
+"totalMarkets": null,
 "closeTime": "2026-06-03T03:59:00Z",
 "url": "https://polymarket.com/event/los-angeles-mayoral-election-117"
 },
@@ -1974,6 +2319,7 @@
 "marketIds": [
 "poly:5180945"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-14T11:30:00Z",
 "url": "https://polymarket.com/event/cricwcl-aus-ban-2026-10-07"
 },
@@ -1987,6 +2333,7 @@
 "poly:2696747",
 "poly:3491459"
 ],
+"totalMarkets": null,
 "closeTime": "2027-01-01T04:59:00Z",
 "url": "https://polymarket.com/event/us-iran-final-nuclear-deal-by-20260621201254412"
 },
@@ -1999,6 +2346,7 @@
 "marketIds": [
 "poly:2467356"
 ],
+"totalMarkets": null,
 "closeTime": "2027-01-01T05:00:00Z",
 "url": "https://polymarket.com/event/what-price-will-ethereum-hit-before-2027"
 },
@@ -2012,6 +2360,7 @@
 "poly:4911459",
 "poly:4911461"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-07T22:30:00Z",
 "url": "https://polymarket.com/event/bra-int-cor1-2026-10-07"
 },
@@ -2024,6 +2373,7 @@
 "marketIds": [
 "poly:5324410"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-08T01:10:00Z",
 "url": "https://polymarket.com/event/cs2-sng2-saw2-2026-10-07"
 },
@@ -2036,6 +2386,7 @@
 "marketIds": [
 "poly:5094241"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-07T23:00:00Z",
 "url": "https://polymarket.com/event/cfb-jaxst-kenest-2026-10-07"
 },
@@ -2048,6 +2399,7 @@
 "marketIds": [
 "poly:5176668"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-07T18:45:00Z",
 "url": "https://polymarket.com/event/euroleague-paris-lyonvill-2026-10-07"
 },
@@ -2060,6 +2412,7 @@
 "marketIds": [
 "poly:5164765"
 ],
+"totalMarkets": null,
 "closeTime": "2026-11-01T03:59:00Z",
 "url": "https://polymarket.com/event/israel-accuses-iranproxies-of-plane-stabbing-incident-by-oct-31"
 },
@@ -2072,6 +2425,7 @@
 "marketIds": [
 "poly:5175507"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-15T02:00:00Z",
 "url": "https://polymarket.com/event/mlb-mil-sd-2026-10-07"
 },
@@ -2084,6 +2438,7 @@
 "marketIds": [
 "poly:4440794"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-07T23:30:00Z",
 "url": "https://polymarket.com/event/nhl-pit-wsh-2026-10-07"
 },
@@ -2096,6 +2451,7 @@
 "marketIds": [
 "poly:5305649"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-08T15:00:00Z",
 "url": "https://polymarket.com/event/val-100t1-g21-2026-10-08"
 },
@@ -2108,6 +2464,7 @@
 "marketIds": [
 "poly:5081860"
 ],
+"totalMarkets": null,
 "closeTime": "2027-01-01T04:59:00Z",
 "url": "https://polymarket.com/event/kharg-island-no-longer-under-iranian-control-by-march-31"
 },
@@ -2120,6 +2477,7 @@
 "marketIds": [
 "poly:5381784"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-07T23:35:00Z",
 "url": "https://polymarket.com/event/cs2-noirve-ff-2026-10-07"
 },
@@ -2132,6 +2490,7 @@
 "marketIds": [
 "poly:1294368"
 ],
+"totalMarkets": null,
 "closeTime": "2027-01-01T04:59:00Z",
 "url": "https://polymarket.com/event/what-will-gold-gc-hit-by-end-of-december"
 },
@@ -2144,6 +2503,7 @@
 "marketIds": [
 "poly:1193650"
 ],
+"totalMarkets": null,
 "closeTime": "2027-01-01T04:59:00Z",
 "url": "https://polymarket.com/event/will-the-2026-midterm-elections-happen-as-scheduled"
 },
@@ -2156,6 +2516,7 @@
 "marketIds": [
 "poly:5392202"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-08T03:00:00Z",
 "url": "https://polymarket.com/event/cs2-bhe-pcy-2026-10-07"
 },
@@ -2168,6 +2529,7 @@
 "marketIds": [
 "poly:5171510"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-08T02:00:00Z",
 "url": "https://polymarket.com/event/nba-gsw-por-2026-10-07"
 },
@@ -2180,6 +2542,7 @@
 "marketIds": [
 "poly:4412200"
 ],
+"totalMarkets": null,
 "closeTime": "2028-01-01T04:59:00Z",
 "url": "https://polymarket.com/event/openai-announces-another-millennium-prize-solution-by"
 },
@@ -2192,6 +2555,7 @@
 "marketIds": [
 "poly:4911446"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-07T22:30:00Z",
 "url": "https://polymarket.com/event/bra-cre-gre-2026-10-07"
 },
@@ -2204,6 +2568,7 @@
 "marketIds": [
 "poly:3215009"
 ],
+"totalMarkets": null,
 "closeTime": "2026-12-10T04:59:00Z",
 "url": "https://polymarket.com/event/fed-decision-in-december-20260729232808632"
 },
@@ -2216,6 +2581,7 @@
 "marketIds": [
 "poly:1194643"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-26T03:59:00Z",
 "url": "https://polymarket.com/event/bulgaria-presidential-election"
 },
@@ -2228,6 +2594,7 @@
 "marketIds": [
 "poly:3399450"
 ],
+"totalMarkets": null,
 "closeTime": "2027-07-01T03:59:00Z",
 "url": "https://polymarket.com/event/iran-leadership-change-by"
 },
@@ -2240,6 +2607,7 @@
 "marketIds": [
 "poly:5167480"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-07T23:00:00Z",
 "url": "https://polymarket.com/event/nba-min-ind-2026-10-07"
 },
@@ -2252,6 +2620,7 @@
 "marketIds": [
 "poly:4970404"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-09T18:30:00Z",
 "url": "https://polymarket.com/event/bun-dor-wer-2026-10-09"
 },
@@ -2264,6 +2633,7 @@
 "marketIds": [
 "poly:5163200"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-14T15:00:00Z",
 "url": "https://polymarket.com/event/crint-usa-nam-2026-10-07"
 },
@@ -2276,6 +2646,7 @@
 "marketIds": [
 "poly:5378879"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-15T03:00:00Z",
 "url": "https://polymarket.com/event/wta-muchova-bartunk-2026-10-07"
 },
@@ -2288,6 +2659,7 @@
 "marketIds": [
 "poly:2374271"
 ],
+"totalMarkets": null,
 "closeTime": "2027-07-01T03:59:00Z",
 "url": "https://polymarket.com/event/will-ukraine-recapture-crimean-territory-by-june-30-2026"
 },
@@ -2300,6 +2672,7 @@
 "marketIds": [
 "poly:630805"
 ],
+"totalMarkets": null,
 "closeTime": "2026-11-04T04:59:00Z",
 "url": "https://polymarket.com/event/michigan-senate-election-winner"
 },
@@ -2312,6 +2685,7 @@
 "marketIds": [
 "poly:1388704"
 ],
+"totalMarkets": null,
 "closeTime": "2027-07-01T03:59:00Z",
 "url": "https://polymarket.com/event/will-samuel-alito-announce-his-retirement-by"
 },
@@ -2324,6 +2698,7 @@
 "marketIds": [
 "poly:4424722"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-31T20:59:00Z",
 "url": "https://polymarket.com/event/will-iran-target-an-arab-country-by-20260909"
 },
@@ -2336,6 +2711,7 @@
 "marketIds": [
 "poly:5369960"
 ],
+"totalMarkets": null,
 "closeTime": "2027-01-01T04:59:00Z",
 "url": "https://polymarket.com/event/russia-pneumonic-plague-spreads-abroad"
 },
@@ -2348,6 +2724,7 @@
 "marketIds": [
 "poly:5065315"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-11T16:30:00Z",
 "url": "https://polymarket.com/event/lal-bet-osa-2026-10-11"
 },
@@ -2360,6 +2737,7 @@
 "marketIds": [
 "poly:5167474"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-08T00:00:00Z",
 "url": "https://polymarket.com/event/nba-mil-okc-2026-10-07"
 },
@@ -2372,6 +2750,7 @@
 "marketIds": [
 "poly:2176270"
 ],
+"totalMarkets": null,
 "closeTime": "2027-01-01T04:59:00Z",
 "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-december-31"
 },
@@ -2384,6 +2763,7 @@
 "marketIds": [
 "poly:1284017"
 ],
+"totalMarkets": null,
 "closeTime": "2026-11-04T04:59:00Z",
 "url": "https://polymarket.com/event/nc-04-house-election-winner"
 },
@@ -2396,6 +2776,7 @@
 "marketIds": [
 "poly:5259079"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-12T09:00:00Z",
 "url": "https://polymarket.com/event/atp-shelbay-sanchis-2026-10-05"
 },
@@ -2408,6 +2789,7 @@
 "marketIds": [
 "poly:5320349"
 ],
+"totalMarkets": null,
 "closeTime": "2026-10-14T02:00:00Z",
 "url": "https://polymarket.com/event/atp-vallejo-royer-2026-10-06"
 },
@@ -2420,6 +2802,7 @@
 "marketIds": [
 "poly:5179176"
 ],
+"totalMarkets": null,
 "closeTime": "2029-01-01T04:59:00Z",
 "url": "https://polymarket.com/event/louisiana-enacts-data-center-moratorium-by-20260929"
 },
@@ -2466,6 +2849,7 @@
 "poly:560889",
 "poly:560890"
 ],
+"totalMarkets": 35,
 "closeTime": "2025-10-10T00:00:00Z",
 "url": "https://polymarket.com/event/nobel-peace-prize-winner-2025"
 },
@@ -2488,6 +2872,7 @@
 "kalshi:KXFED-26OCT-T5.00",
 "kalshi:KXFED-26OCT-T5.25"
 ],
+"totalMarkets": 11,
 "closeTime": "2026-10-28T17:55:00Z",
 "url": "https://kalshi.com/markets/kxfed"
 },
@@ -2504,7 +2889,59 @@
 "poly:2252245",
 "poly:2252246"
 ],
+"totalMarkets": 5,
 "closeTime": "2026-09-16T00:00:00Z",
 "url": "https://polymarket.com/event/fed-decision-in-september-762"
+},
+{
+"id": "kalshi:KXNOBELPEACE-26",
+"venue": "kalshi",
+"title": "2026 Nobel Peace Prize winner",
+"category": "Politics",
+"mutuallyExclusive": false,
+"marketIds": [
+"kalshi:KXNOBELPEACE-26-DJT",
+"kalshi:KXNOBELPEACE-26-FRA",
+"kalshi:KXNOBELPEACE-26-NAR",
+"kalshi:KXNOBELPEACE-26-VOL",
+"kalshi:KXNOBELPEACE-26-EUR",
+"kalshi:KXNOBELPEACE-26-ELO",
+"kalshi:KXNOBELPEACE-26-DOC",
+"kalshi:KXNOBELPEACE-26-ICJ",
+"kalshi:KXNOBELPEACE-26-CE",
+"kalshi:KXNOBELPEACE-26-SUD",
+"kalshi:KXNOBELPEACE-26-MIN",
+"kalshi:KXNOBELPEACE-26-DAR",
+"kalshi:KXNOBELPEACE-26-SAM",
+"kalshi:KXNOBELPEACE-27-YNAV",
+"kalshi:KXNOBELPEACE-27-MKUL",
+"kalshi:KXNOBELPEACE-27-STC",
+"kalshi:KXNOBELPEACE-27-CPJ",
+"kalshi:KXNOBELPEACE-27-ICC",
+"kalshi:KXNOBELPEACE-27-PLEO",
+"kalshi:KXNOBELPEACE-27-UNRWA",
+"kalshi:KXNOBELPEACE-27-SSHA",
+"kalshi:KXNOBELPEACE-26-MAR",
+"kalshi:KXNOBELPEACE-26-SAR",
+"kalshi:KXNOBELPEACE-26-TAM",
+"kalshi:KXNOBELPEACE-26-VNAK",
+"kalshi:KXNOBELPEACE-26-ISS",
+"kalshi:KXNOBELPEACE-26-CHOW",
+"kalshi:KXNOBELPEACE-26-PCFF",
+"kalshi:KXNOBELPEACE-26-IAJ",
+"kalshi:KXNOBELPEACE-26-WTO",
+"kalshi:KXNOBELPEACE-26-IPRA",
+"kalshi:KXNOBELPEACE-26-MMEY",
+"kalshi:KXNOBELPEACE-26-SGSV",
+"kalshi:KXNOBELPEACE-26-YAD",
+"kalshi:KXNOBELPEACE-26-RSF",
+"kalshi:KXNOBELPEACE-26-ICRC",
+"kalshi:KXNOBELPEACE-26-CONC",
+"kalshi:KXNOBELPEACE-26-GRET",
+"kalshi:KXNOBELPEACE-26-CSKR"
+],
+"totalMarkets": 39,
+"closeTime": "2027-01-01T15:00:00Z",
+"url": "https://kalshi.com/markets/kxnobelpeace"
 }
 ]

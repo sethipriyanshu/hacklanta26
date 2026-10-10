@@ -112,6 +112,8 @@ async def fetch_trades(m: Market, *, limit: int = 200, start_ts: int | None = No
         batch = nz.poly_trades(m.id, rows)
         out.extend(batch)
         offset += len(rows)
+        if limit > 1000:
+            await asyncio.sleep(0.8)  # be polite on long pulls
         if start_ts and batch and batch[-1].ts < start_ts:
             break
         if len(rows) < 100:
@@ -186,6 +188,9 @@ async def poll_forever(store: MarketStore, interval: int) -> None:
     while True:
         try:
             await refresh_markets(store)
+            from app.services import signals as sv
+
+            sv.recompute(store)
         except Exception as e:  # never let the poller die
             log.exception("poll failed: %s", e)
         await asyncio.sleep(interval)

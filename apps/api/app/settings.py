@@ -15,6 +15,7 @@ class Settings(BaseSettings):
     anthropic_api_key: str = ""
     gemini_api_key: str = ""
     llm_provider: str = "anthropic"  # anthropic | gemini
+    llm_model: str = ""  # empty = provider default
     llm_daily_token_cap: int = 200_000
     poll_interval_seconds: int = 45
     cors_origins: list[str] = ["http://localhost:3000"]

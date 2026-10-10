@@ -123,15 +123,100 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
-    "/signals/ping": {
+    "/signals": {
         parameters: {
             query?: never;
             header?: never;
             path?: never;
             cookie?: never;
         };
-        /** Ping */
-        get: operations["ping_signals_ping_get"];
+        /** List Signals */
+        get: operations["list_signals_signals_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/signals/pairs": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** List Pairs */
+        get: operations["list_pairs_signals_pairs_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/signals/pairs/results": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Pair Results */
+        get: operations["pair_results_signals_pairs_results_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/signals/{market_id}": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Market Signals */
+        get: operations["market_signals_signals__market_id__get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/signals/{market_id}/timeline": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Market Timeline */
+        get: operations["market_timeline_signals__market_id__timeline_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/signals/{market_id}/wallets": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Wallets */
+        get: operations["wallets_signals__market_id__wallets_get"];
         put?: never;
         post?: never;
         delete?: never;
@@ -235,6 +320,45 @@ export interface components {
             price: number;
             /** Size */
             size: number;
+        };
+        /** Event */
+        Event: {
+            /** Id */
+            id: string;
+            /**
+             * Venue
+             * @enum {string}
+             */
+            venue: "kalshi" | "polymarket";
+            /** Title */
+            title: string;
+            /**
+             * Category
+             * @enum {string}
+             */
+            category: "Politics" | "Economics" | "Sports" | "Crypto" | "Tech" | "Other";
+            /**
+             * Mutuallyexclusive
+             * @default false
+             */
+            mutuallyExclusive: boolean;
+            /** Marketids */
+            marketIds?: string[];
+            /** Totalmarkets */
+            totalMarkets?: number | null;
+            /** Closetime */
+            closeTime?: string | null;
+            /**
+             * Url
+             * @default
+             */
+            url: string;
+        };
+        /** EventResponse */
+        EventResponse: {
+            event: components["schemas"]["Event"] | null;
+            /** Markets */
+            markets: components["schemas"]["Market"][];
         };
         /** HTTPValidationError */
         HTTPValidationError: {
@@ -347,10 +471,97 @@ export interface components {
                 [key: string]: unknown;
             };
         };
+        /** MarketRow */
+        MarketRow: {
+            /** Id */
+            id: string;
+            /**
+             * Venue
+             * @enum {string}
+             */
+            venue: "kalshi" | "polymarket";
+            /** Ticker */
+            ticker: string;
+            /** Title */
+            title: string;
+            /** Subtitle */
+            subtitle?: string | null;
+            /** Eventid */
+            eventId: string;
+            /** Eventtitle */
+            eventTitle: string;
+            /**
+             * Category
+             * @enum {string}
+             */
+            category: "Politics" | "Economics" | "Sports" | "Crypto" | "Tech" | "Other";
+            /** Outcomes */
+            outcomes?: string[];
+            /** Yesprice */
+            yesPrice: number;
+            /** Yesbid */
+            yesBid?: number | null;
+            /** Yesask */
+            yesAsk?: number | null;
+            /** Lastprice */
+            lastPrice?: number | null;
+            /** Spread */
+            spread?: number | null;
+            /** Change24H */
+            change24h?: number | null;
+            /**
+             * Volume
+             * @default 0
+             */
+            volume: number;
+            /**
+             * Volume24H
+             * @default 0
+             */
+            volume24h: number;
+            /** Openinterest */
+            openInterest?: number | null;
+            /** Liquidity */
+            liquidity?: number | null;
+            /** Closetime */
+            closeTime?: string | null;
+            /**
+             * Rulestext
+             * @default
+             */
+            rulesText: string;
+            /** Url */
+            url: string;
+            /**
+             * Status
+             * @default open
+             */
+            status: string;
+            /**
+             * Mutuallyexclusive
+             * @default false
+             */
+            mutuallyExclusive: boolean;
+            /** Meta */
+            meta?: {
+                [key: string]: unknown;
+            };
+            /** Spark */
+            spark?: number[];
+            /** Flags */
+            flags?: {
+                [key: string]: unknown;
+            }[];
+            /**
+             * Maxscore
+             * @default 0
+             */
+            maxScore: number;
+        };
         /** MarketsResponse */
         MarketsResponse: {
             /** Markets */
-            markets: components["schemas"]["Market"][];
+            markets: components["schemas"]["MarketRow"][];
             snapshot: components["schemas"]["Snapshot"];
         };
         /** NewsResponse */
@@ -428,6 +639,39 @@ export interface components {
              */
             source: string;
         };
+        /** Signal */
+        Signal: {
+            /** Marketid */
+            marketId: string;
+            /**
+             * Type
+             * @enum {string}
+             */
+            type: "anomaly" | "gap" | "inconsistency" | "newsLag";
+            /** Score */
+            score: number;
+            /** Subscores */
+            subScores?: {
+                [key: string]: number | null;
+            };
+            /** Weights */
+            weights?: {
+                [key: string]: number;
+            };
+            /** Explanation */
+            explanation: string;
+            /**
+             * Detectedat
+             * Format: date-time
+             */
+            detectedAt: string;
+            /** Asof */
+            asOf?: number | null;
+            /** Details */
+            details?: {
+                [key: string]: unknown;
+            };
+        };
         /** Snapshot */
         Snapshot: {
             /**
@@ -488,6 +732,70 @@ export interface components {
             input?: unknown;
             /** Context */
             ctx?: Record<string, never>;
+        };
+        /** VenuePair */
+        VenuePair: {
+            /** Id */
+            id: string;
+            /** Kalshiid */
+            kalshiId: string;
+            /** Polyids */
+            polyIds: string[];
+            /**
+             * Match
+             * @enum {string}
+             */
+            match: "same" | "different" | "partial";
+            /** Reason */
+            reason: string;
+            /** Title */
+            title: string;
+            /**
+             * Checkedby
+             * @default curated
+             * @enum {string}
+             */
+            checkedBy: "llm" | "curated";
+        };
+        /** WalletPanel */
+        WalletPanel: {
+            /** Marketid */
+            marketId: string;
+            /** Windowstart */
+            windowStart: number;
+            /** Windowend */
+            windowEnd: number;
+            /** Totalbuysize */
+            totalBuySize: number;
+            /** Freshshare */
+            freshShare: number;
+            /** Wallets */
+            wallets: components["schemas"]["WalletStat"][];
+        };
+        /** WalletStat */
+        WalletStat: {
+            /** Wallet */
+            wallet: string;
+            /** Label */
+            label?: string | null;
+            /** Buysize */
+            buySize: number;
+            /** Trades */
+            trades: number;
+            /** Firstseen */
+            firstSeen?: number | null;
+            /** Priortrades */
+            priorTrades?: number | null;
+            /**
+             * Fresh
+             * @default false
+             */
+            fresh: boolean;
+            /**
+             * Share
+             * @default 0
+             */
+            share: number;
         };
     };
     responses: never;
@@ -581,9 +889,7 @@ export interface operations {
                     [name: string]: unknown;
                 };
                 content: {
-                    "application/json": {
-                        [key: string]: unknown;
-                    };
+                    "application/json": components["schemas"]["EventResponse"];
                 };
             };
             /** @description Validation Error */
@@ -723,7 +1029,60 @@ export interface operations {
             };
         };
     };
-    ping_signals_ping_get: {
+    list_signals_signals_get: {
+        parameters: {
+            query?: {
+                type?: string | null;
+                min_score?: number;
+                scenario?: boolean;
+            };
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["Signal"][];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    list_pairs_signals_pairs_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["VenuePair"][];
+                };
+            };
+        };
+    };
+    pair_results_signals_pairs_results_get: {
         parameters: {
             query?: never;
             header?: never;
@@ -739,8 +1098,110 @@ export interface operations {
                 };
                 content: {
                     "application/json": {
-                        [key: string]: string;
+                        [key: string]: unknown;
                     };
+                };
+            };
+        };
+    };
+    market_signals_signals__market_id__get: {
+        parameters: {
+            query?: {
+                at?: number | null;
+            };
+            header?: never;
+            path: {
+                market_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["Signal"][];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    market_timeline_signals__market_id__timeline_get: {
+        parameters: {
+            query?: {
+                res?: string;
+            };
+            header?: never;
+            path: {
+                market_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: number;
+                    }[];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    wallets_signals__market_id__wallets_get: {
+        parameters: {
+            query?: {
+                start?: number | null;
+                end?: number | null;
+            };
+            header?: never;
+            path: {
+                market_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["WalletPanel"];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
                 };
             };
         };

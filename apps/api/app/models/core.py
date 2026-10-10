@@ -52,6 +52,7 @@ class Event(Model):
     category: Category
     mutually_exclusive: bool = False
     market_ids: list[str] = Field(default_factory=list)
+    total_markets: int | None = None  # count at the venue; None = unknown
     close_time: datetime | None = None
     url: str = ""
 
@@ -102,8 +103,14 @@ class Snapshot(Model):
     venues: dict[str, int] = Field(default_factory=dict)
 
 
+class MarketRow(Market):
+    spark: list[float] = Field(default_factory=list)
+    flags: list[dict[str, Any]] = Field(default_factory=list)  # [{type, score}]
+    max_score: float = 0.0
+
+
 class MarketsResponse(Model):
-    markets: list[Market]
+    markets: list[MarketRow]
     snapshot: Snapshot
 
 

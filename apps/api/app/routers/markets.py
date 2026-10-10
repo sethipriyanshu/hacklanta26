@@ -2,7 +2,8 @@ from __future__ import annotations
 
 from fastapi import APIRouter, HTTPException, Query
 
-from app.models import Category, Event, HistoryResponse, Market, MarketsResponse, NewsResponse, OrderBook, TradesResponse
+from app.models import Category, Event, HistoryResponse, Market, MarketRow, MarketsResponse, Model, NewsResponse, OrderBook, TradesResponse
+from app.services import signals as sv
 from app.services import market_data as md
 from app.settings import get_settings
 from app.store import store
@@ -37,7 +38,11 @@ async def list_markets(
         ql = q.lower()
         rows = [m for m in rows if ql in m.title.lower() or ql in m.event_title.lower() or ql in m.ticker.lower()]
     rows.sort(key=lambda m: -m.volume_24h)
-    return MarketsResponse(markets=rows[:limit], snapshot=store.snapshot())
+    out: list[MarketRow] = []
+    for m in rows[:limit]:
+        flags = [{"type": s.type, "score": s.score} for s in sorted(sv.signals.by_market.get(m.id, []), key=lambda s: -s.score) if s.score >= 40 and "scenario" not in s.details]
+        out.append(MarketRow(**m.model_dump(by_alias=True), spark=sv.sparkline(store, m.id), flags=flags, max_score=sv.max_score(m.id)))
+    return MarketsResponse(markets=out, snapshot=store.snapshot())
 
 
 @router.get("/{market_id}", response_model=Market)
@@ -45,12 +50,17 @@ async def get_market(market_id: str) -> Market:
     return _get(market_id)
 
 
-@router.get("/{market_id}/event")
-async def get_event(market_id: str) -> dict[str, object]:
+class EventResponse(Model):
+    event: Event | None
+    markets: list[Market]
+
+
+@router.get("/{market_id}/event", response_model=EventResponse)
+async def get_event(market_id: str) -> EventResponse:
     m = _get(market_id)
     ev: Event | None = store.events.get(m.event_id)
     siblings = [store.markets[i] for i in (ev.market_ids if ev else []) if i in store.markets]
-    return {"event": ev, "markets": sorted(siblings, key=lambda x: -x.yes_price)}
+    return EventResponse(event=ev, markets=sorted(siblings, key=lambda x: -x.yes_price))
 
 
 @router.get("/{market_id}/history", response_model=HistoryResponse)

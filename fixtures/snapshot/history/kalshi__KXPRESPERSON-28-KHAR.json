@@ -1,0 +1,656 @@
+[
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790802000,
+"price": 0.0365,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790805600,
+"price": 0.0365,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790809200,
+"price": 0.037,
+"volume": 5000.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790812800,
+"price": 0.0365,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790816400,
+"price": 0.037,
+"volume": 202.56
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790823600,
+"price": 0.0365,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790827200,
+"price": 0.0365,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790830800,
+"price": 0.037,
+"volume": 25.32
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790834400,
+"price": 0.037,
+"volume": 506.4
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790838000,
+"price": 0.0365,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790841600,
+"price": 0.0365,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790848800,
+"price": 0.0365,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790856000,
+"price": 0.0365,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790859600,
+"price": 0.0365,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790863200,
+"price": 0.039,
+"volume": 36482.85
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790866800,
+"price": 0.04,
+"volume": 14742.56
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790870400,
+"price": 0.04,
+"volume": 234.25
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790874000,
+"price": 0.0385,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790877600,
+"price": 0.0385,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790881200,
+"price": 0.0385,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790888400,
+"price": 0.04,
+"volume": 35.55
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790892000,
+"price": 0.041,
+"volume": 21674.76
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790895600,
+"price": 0.04,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790899200,
+"price": 0.037,
+"volume": 195.25
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790902800,
+"price": 0.042,
+"volume": 7036.07
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790910000,
+"price": 0.038,
+"volume": 22.28
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790913600,
+"price": 0.043,
+"volume": 257.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790917200,
+"price": 0.04,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790931600,
+"price": 0.04,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790946000,
+"price": 0.0385,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790949600,
+"price": 0.0385,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790953200,
+"price": 0.043,
+"volume": 1743.54
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790960400,
+"price": 0.044,
+"volume": 28149.91
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790971200,
+"price": 0.039,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790974800,
+"price": 0.039,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790978400,
+"price": 0.044,
+"volume": 532.47
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790982000,
+"price": 0.044,
+"volume": 21.3
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790985600,
+"price": 0.044,
+"volume": 335.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790992800,
+"price": 0.044,
+"volume": 1065.08
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1790996400,
+"price": 0.044,
+"volume": 1000.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791000000,
+"price": 0.042,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791003600,
+"price": 0.044,
+"volume": 42.49
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791007200,
+"price": 0.042,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791018000,
+"price": 0.042,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791021600,
+"price": 0.039,
+"volume": 65.07
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791025200,
+"price": 0.044,
+"volume": 307.19
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791028800,
+"price": 0.039,
+"volume": 25.32
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791032400,
+"price": 0.0395,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791036000,
+"price": 0.0395,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791039600,
+"price": 0.0395,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791043200,
+"price": 0.0395,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791046800,
+"price": 0.0395,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791050400,
+"price": 0.0395,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791054000,
+"price": 0.0395,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791057600,
+"price": 0.039,
+"volume": 1158.84
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791061200,
+"price": 0.0405,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791064800,
+"price": 0.0405,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791068400,
+"price": 0.044,
+"volume": 393.51
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791075600,
+"price": 0.039,
+"volume": 103.77
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791097200,
+"price": 0.043,
+"volume": 4.14
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791100800,
+"price": 0.044,
+"volume": 220.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791111600,
+"price": 0.038,
+"volume": 603.88
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791118800,
+"price": 0.0405,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791122400,
+"price": 0.042,
+"volume": 5.57
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791129600,
+"price": 0.0405,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791140400,
+"price": 0.042,
+"volume": 446.26
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791144000,
+"price": 0.0405,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791147600,
+"price": 0.042,
+"volume": 22.31
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791151200,
+"price": 0.042,
+"volume": 44.62
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791154800,
+"price": 0.045,
+"volume": 2005.18
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791158400,
+"price": 0.0425,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791162000,
+"price": 0.045,
+"volume": 520.79
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791165600,
+"price": 0.0425,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791169200,
+"price": 0.0425,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791212400,
+"price": 0.038,
+"volume": 2444.24
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791216000,
+"price": 0.044,
+"volume": 128.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791219600,
+"price": 0.0415,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791230400,
+"price": 0.0415,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791234000,
+"price": 0.0415,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791237600,
+"price": 0.0415,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791241200,
+"price": 0.044,
+"volume": 141.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791244800,
+"price": 0.0425,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791248400,
+"price": 0.044,
+"volume": 21.3
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791252000,
+"price": 0.044,
+"volume": 2.13
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791255600,
+"price": 0.041,
+"volume": 99.73
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791259200,
+"price": 0.042,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791262800,
+"price": 0.042,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791266400,
+"price": 0.044,
+"volume": 93.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791277200,
+"price": 0.043,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791280800,
+"price": 0.042,
+"volume": 0.4
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791288000,
+"price": 0.043,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791291600,
+"price": 0.0425,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791316800,
+"price": 0.044,
+"volume": 21.23
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791320400,
+"price": 0.042,
+"volume": 10.4
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791324000,
+"price": 0.043,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791331200,
+"price": 0.043,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791342000,
+"price": 0.043,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791345600,
+"price": 0.044,
+"volume": 3.19
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791352800,
+"price": 0.043,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791356400,
+"price": 0.0425,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791363600,
+"price": 0.0425,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791367200,
+"price": 0.044,
+"volume": 532.47
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791370800,
+"price": 0.044,
+"volume": 532.54
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791374400,
+"price": 0.043,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791381600,
+"price": 0.043,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791388800,
+"price": 0.043,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791392400,
+"price": 0.042,
+"volume": 92.93
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791396000,
+"price": 0.043,
+"volume": 0.0
+},
+{
+"marketId": "kalshi:KXPRESPERSON-28-KHAR",
+"ts": 1791399600,
+"price": 0.043,
+"volume": 0.0
+}
+]

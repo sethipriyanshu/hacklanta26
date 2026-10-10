@@ -125,6 +125,7 @@ def kalshi_event(ev: dict[str, Any]) -> tuple[Event, list[Market]]:
         category=cat,
         mutually_exclusive=bool(ev.get("mutually_exclusive")),
         market_ids=[m.id for m in markets],
+        total_markets=len(markets),
         close_time=max((m.close_time for m in markets if m.close_time), default=None),
         url=url,
     )
@@ -225,6 +226,7 @@ def poly_event(ev: dict[str, Any]) -> tuple[Event, list[Market]]:
         category=cat,
         mutually_exclusive=bool(ev.get("negRisk")),
         market_ids=[m.id for m in markets],
+        total_markets=len(markets),
         close_time=ts_of(ev.get("endDate")),
         url=url,
     )
@@ -273,4 +275,13 @@ def bucket_volume(points: list[PricePoint], trades: list[Trade], bucket_seconds:
     vol: dict[int, float] = {}
     for t in trades:
         vol[t.ts // bucket_seconds] = vol.get(t.ts // bucket_seconds, 0.0) + t.size
-    return [p.model_copy(update={"volume": p.volume if p.volume is not None else round(vol.get(p.ts // bucket_seconds, 0.0), 2)}) for p in points]
+    oldest = min((t.ts for t in trades), default=None)
+    out: list[PricePoint] = []
+    for p in points:
+        if p.volume is not None:
+            out.append(p)
+        elif oldest is None or p.ts < (oldest // bucket_seconds) * bucket_seconds:
+            out.append(p)  # volume unknown here, not zero
+        else:
+            out.append(p.model_copy(update={"volume": round(vol.get(p.ts // bucket_seconds, 0.0), 2)}))
+    return out

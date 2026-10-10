@@ -1,0 +1,114 @@
+[
+ {
+  "id": "pair:KXFED-26OCT-T4.00",
+  "kalshiId": "kalshi:KXFED-26OCT-T4.00",
+  "polyIds": [
+   "poly:2589813",
+   "poly:2589814"
+  ],
+  "match": "partial",
+  "reason": "Curated by hand; rules not yet machine-checked.",
+  "title": "Fed funds upper bound above 4.00% after the Oct 2026 meeting",
+  "checkedBy": "curated"
+ },
+ {
+  "id": "pair:KXPRESPERSON-28-MRUB",
+  "kalshiId": "kalshi:KXPRESPERSON-28-MRUB",
+  "polyIds": [
+   "poly:561234"
+  ],
+  "match": "same",
+  "reason": "Curated by hand; rules not yet machine-checked.",
+  "title": "Marco Rubio wins the 2028 presidential election",
+  "checkedBy": "curated"
+ },
+ {
+  "id": "pair:KXPRESPERSON-28-JVAN",
+  "kalshiId": "kalshi:KXPRESPERSON-28-JVAN",
+  "polyIds": [
+   "poly:561229"
+  ],
+  "match": "same",
+  "reason": "Curated by hand; rules not yet machine-checked.",
+  "title": "JD Vance wins the 2028 presidential election",
+  "checkedBy": "curated"
+ },
+ {
+  "id": "pair:KXPRESPERSON-28-GNEWS",
+  "kalshiId": "kalshi:KXPRESPERSON-28-GNEWS",
+  "polyIds": [
+   "poly:561230"
+  ],
+  "match": "same",
+  "reason": "Curated by hand; rules not yet machine-checked.",
+  "title": "Gavin Newsom wins the 2028 presidential election",
+  "checkedBy": "curated"
+ },
+ {
+  "id": "pair:KXPRESPERSON-28-AOCA",
+  "kalshiId": "kalshi:KXPRESPERSON-28-AOCA",
+  "polyIds": [
+   "poly:561231"
+  ],
+  "match": "same",
+  "reason": "Curated by hand; rules not yet machine-checked.",
+  "title": "AOC wins the 2028 presidential election",
+  "checkedBy": "curated"
+ },
+ {
+  "id": "pair:KXPRESPERSON-28-JOSS",
+  "kalshiId": "kalshi:KXPRESPERSON-28-JOSS",
+  "polyIds": [
+   "poly:561261"
+  ],
+  "match": "same",
+  "reason": "Curated by hand; rules not yet machine-checked.",
+  "title": "Jon Ossoff wins the 2028 presidential election",
+  "checkedBy": "curated"
+ },
+ {
+  "id": "pair:KXPRESPERSON-28-DTRU",
+  "kalshiId": "kalshi:KXPRESPERSON-28-DTRU",
+  "polyIds": [
+   "poly:561243",
+   "poly:561244"
+  ],
+  "match": "partial",
+  "reason": "Curated by hand; rules not yet machine-checked.",
+  "title": "Donald Trump wins the 2028 presidential election",
+  "checkedBy": "curated"
+ },
+ {
+  "id": "pair:KXNOBELPEACE-26-DJT",
+  "kalshiId": "kalshi:KXNOBELPEACE-26-DJT",
+  "polyIds": [
+   "poly:637002"
+  ],
+  "match": "same",
+  "reason": "Curated by hand; rules not yet machine-checked.",
+  "title": "Donald Trump wins the 2026 Nobel Peace Prize",
+  "checkedBy": "curated"
+ },
+ {
+  "id": "pair:KXNOBELPEACE-26-SUD",
+  "kalshiId": "kalshi:KXNOBELPEACE-26-SUD",
+  "polyIds": [
+   "poly:637022"
+  ],
+  "match": "same",
+  "reason": "Curated by hand; rules not yet machine-checked.",
+  "title": "Sudan's Emergency Response Rooms win the 2026 Nobel Peace Prize",
+  "checkedBy": "curated"
+ },
+ {
+  "id": "pair:KXNOBELPEACE-27-YNAV",
+  "kalshiId": "kalshi:KXNOBELPEACE-27-YNAV",
+  "polyIds": [
+   "poly:637004"
+  ],
+  "match": "same",
+  "reason": "Curated by hand; rules not yet machine-checked.",
+  "title": "Yulia Navalnaya wins the 2026 Nobel Peace Prize",
+  "checkedBy": "curated"
+ }
+]

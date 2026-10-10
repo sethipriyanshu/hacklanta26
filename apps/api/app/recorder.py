@@ -15,7 +15,10 @@ import time
 from app import normalize as nz
 from app.clients import kalshi, polymarket
 from app.clients.http import close
-from app.scenarios import KALSHI_COMPANIONS, SCENARIOS
+from app.scenarios import COMPANION_EVENTS, CURATED_PAIRS, KALSHI_COMPANIONS, SCENARIOS
+from app.engines import matching
+from app.engines.wallets import build_panel
+from app.models.signals import VenuePair
 from app.services import market_data as md
 from app.settings import FIXTURES_DIR
 from app.store import MarketStore
@@ -87,7 +90,7 @@ async def record_scenarios(store: MarketStore) -> None:
         if sc.window_start and sc.window_end:
             s, e = int(sc.window_start.timestamp()), int(sc.window_end.timestamp())
             pts = await md.fetch_history(m, start_ts=s, end_ts=e, minutes=1)
-            tr = await md.fetch_trades(m, limit=1500, start_ts=s, end_ts=e)
+            tr = await md.fetch_trades(m, limit=6000, start_ts=s, end_ts=e)
             if m.venue == "polymarket":
                 pts = nz.bucket_volume(pts, tr, 60)
             store.history_1m[m.id] = pts
@@ -133,6 +136,81 @@ async def record_scenarios(store: MarketStore) -> None:
     store.save(SNAPSHOT)
 
 
+async def record_companions(store: MarketStore) -> None:
+    """Fully record the events behind curated pairs, replacing any trimmed copies, plus hourly history for their top markets."""
+    store.load(SNAPSHOT)
+    now = int(time.time())
+    for ev_id in COMPANION_EVENTS:
+        venue, key = ev_id.split(":", 1)
+        try:
+            if venue == "poly":
+                e, ms = nz.poly_event(await polymarket.gamma_event(key))
+            else:
+                e, ms = nz.kalshi_event((await kalshi.event(key))["event"])
+        except Exception as ex:
+            log.warning("companion event %s failed: %s", ev_id, ex)
+            continue
+        store.upsert_markets([e], ms)
+        for m in sorted(ms, key=lambda x: -x.volume)[:10]:
+            if m.id not in store.history:
+                try:
+                    store.history[m.id] = await md.fetch_history(m, start_ts=now - 7 * 86400, end_ts=now, minutes=60)
+                except Exception as ex:
+                    log.warning("companion history %s failed: %s", m.id, ex)
+        log.info("companion %s: %d markets", ev_id, len(ms))
+    store.save(SNAPSHOT)
+
+
+async def record_pairs(store: MarketStore) -> None:
+    """Resolve curated pairs to market ids, then run the LLM rule check once per pair (cached by the wrapper)."""
+    store.load(SNAPSHOT)
+    pairs: list[VenuePair] = []
+    for ticker, poly_event, needles, title in CURATED_PAIRS:
+        kid = f"kalshi:{ticker}"
+        if kid not in store.markets:
+            log.warning("pair skipped, missing %s", kid)
+            continue
+        ev = store.events.get(poly_event)
+        polys = [store.markets[i] for i in (ev.market_ids if ev else []) if i in store.markets and any(n.lower() in (store.markets[i].subtitle or store.markets[i].title).lower() for n in needles)]
+        if not polys:
+            log.warning("pair skipped, no polymarket match for %s in %s", ticker, poly_event)
+            continue
+        pairs.append(VenuePair(id=f"pair:{ticker}", kalshi_id=kid, poly_ids=[p.id for p in polys], match="partial" if len(polys) > 1 else "same", reason="Curated by hand; rules not yet machine-checked.", title=title, checked_by="curated"))
+    pairs = await matching.verify_pairs(pairs, store.markets)
+    matching.save_pairs(pairs)
+    for p in pairs:
+        log.info("pair %s -> %s [%s/%s] %s", p.kalshi_id, p.poly_ids, p.match, p.checked_by, p.reason[:80])
+
+
+async def record_wallets(store: MarketStore) -> None:
+    """Wallet freshness for the pre-headline window of scenario 2: first-seen time and prior trade count per top buyer."""
+    store.load(SNAPSHOT)
+    for sc in SCENARIOS:
+        if not (sc.market_id and sc.headline and sc.market_id in store.trades):
+            continue
+        m = store.markets[sc.market_id]
+        if m.venue != "polymarket":
+            continue
+        end = int(sc.headline.at.timestamp())
+        panel = build_panel(m.id, store.trades[m.id], start=end - 36 * 3600, end=end, top=15)
+        meta: dict[str, dict[str, int | None]] = dict(store.wallet_meta.get(m.id, {}))
+        for w in panel.wallets:
+            if w.wallet in meta:
+                continue
+            try:
+                rows = await polymarket.activity(w.wallet, limit=500)
+                ts = sorted(int(r.get("timestamp") or 0) for r in rows if r.get("timestamp"))
+                prior = sum(1 for r in rows if r.get("type") == "TRADE" and int(r.get("timestamp") or 0) < end - 36 * 3600)
+                capped = len(rows) >= 500  # feed truncated: first-seen and prior counts are unknown, not small
+                meta[w.wallet] = {"firstSeen": None if capped else (ts[0] if ts else None), "priorTrades": None if capped else prior, "activityCount": len(rows)}
+                await asyncio.sleep(1.2)  # data-api rate limit
+                log.info("wallet %s…: first seen %s, prior trades %s", w.wallet[:8], ts[0] if ts else None, meta[w.wallet]["priorTrades"])
+            except Exception as ex:
+                log.warning("wallet %s failed: %s", w.wallet[:8], ex)
+        store.wallet_meta[m.id] = meta
+    store.save(SNAPSHOT)
+
+
 async def main(cmd: str) -> None:
     store = MarketStore()
     try:
@@ -140,6 +218,12 @@ async def main(cmd: str) -> None:
             await record_snapshot(store)
         if cmd in ("scenarios", "all"):
             await record_scenarios(store)
+        if cmd in ("companions", "all"):
+            await record_companions(store)
+        if cmd in ("pairs", "all"):
+            await record_pairs(store)
+        if cmd in ("wallets", "all"):
+            await record_wallets(store)
     finally:
         await close()
 

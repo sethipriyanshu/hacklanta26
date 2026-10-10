@@ -8,6 +8,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from app.clients.http import close as close_http
 from app.routers import desk, learn, markets, scenarios, signals, sim
 from app.services import market_data as md
+from app.services import signals as sv
 from app.settings import FIXTURES_DIR, get_settings
 from app.store import store
 
@@ -20,6 +21,8 @@ settings = get_settings()
 async def lifespan(app: FastAPI):
     store.load(FIXTURES_DIR / "snapshot")
     store.mode = "replay"
+    sv.load_pairs()
+    sv.recompute(store)
     task: asyncio.Task[None] | None = None
     if not settings.demo_mode:
         task = asyncio.create_task(md.poll_forever(store, settings.poll_interval_seconds))

@@ -1,6 +1,56 @@
 [
 {
 "marketId": "poly:2589812",
+"ts": 1791406711,
+"side": "no",
+"price": 0.83,
+"size": 3.5,
+"wallet": "0xa44ddc8bcdda0428d567823014776997cf4580bb",
+"walletLabel": null,
+"outcome": "Yes"
+},
+{
+"marketId": "poly:2589812",
+"ts": 1791406619,
+"side": "yes",
+"price": 0.84,
+"size": 3.5,
+"wallet": "0xa44ddc8bcdda0428d567823014776997cf4580bb",
+"walletLabel": null,
+"outcome": "Yes"
+},
+{
+"marketId": "poly:2589812",
+"ts": 1791406588,
+"side": "no",
+"price": 0.83,
+"size": 3.5,
+"wallet": "0xa44ddc8bcdda0428d567823014776997cf4580bb",
+"walletLabel": null,
+"outcome": "Yes"
+},
+{
+"marketId": "poly:2589812",
+"ts": 1791406549,
+"side": "yes",
+"price": 0.84,
+"size": 3.5,
+"wallet": "0xa44ddc8bcdda0428d567823014776997cf4580bb",
+"walletLabel": null,
+"outcome": "Yes"
+},
+{
+"marketId": "poly:2589812",
+"ts": 1791406466,
+"side": "no",
+"price": 0.83,
+"size": 6.99,
+"wallet": "0xa44ddc8bcdda0428d567823014776997cf4580bb",
+"walletLabel": null,
+"outcome": "Yes"
+},
+{
+"marketId": "poly:2589812",
 "ts": 1791405990,
 "side": "yes",
 "price": 0.8399999829,
@@ -1947,56 +1997,6 @@
 "size": 12.048193,
 "wallet": "0x7ec94cd664a3fbcee6404ba6b9b60a8cf7a8d57c",
 "walletLabel": "Wealthy-Wisdom",
-"outcome": "Yes"
-},
-{
-"marketId": "poly:2589812",
-"ts": 1791304581,
-"side": "yes",
-"price": 0.8299998465,
-"size": 2.409639,
-"wallet": "0x296693128006a7aec4c3a37d9d9ba27c54199f82",
-"walletLabel": null,
-"outcome": "Yes"
-},
-{
-"marketId": "poly:2589812",
-"ts": 1791304578,
-"side": "no",
-"price": 0.82,
-"size": 99.99,
-"wallet": "0x1c62ec94ae4175d2355670075214f144e8c1ca89",
-"walletLabel": "Jaded-Lace-Widget",
-"outcome": "Yes"
-},
-{
-"marketId": "poly:2589812",
-"ts": 1791303869,
-"side": "yes",
-"price": 0.8299998465,
-"size": 4.819278,
-"wallet": "0xd140a1b39faa01e17928584a7b2590468daa810d",
-"walletLabel": "Used-Bandolier",
-"outcome": "Yes"
-},
-{
-"marketId": "poly:2589812",
-"ts": 1791303198,
-"side": "yes",
-"price": 0.83,
-"size": 3000.0,
-"wallet": "0x05374492e37f036fb751d708fe487aeca60b5b0f",
-"walletLabel": "Witty-Tripod",
-"outcome": "No"
-},
-{
-"marketId": "poly:2589812",
-"ts": 1791303158,
-"side": "yes",
-"price": 0.8299999613,
-"size": 14.457832,
-"wallet": "0xa45845cf825617c3f61f31c9388d7409dd81b8f2",
-"walletLabel": "Imaginary-Blank-Canvas",
 "outcome": "Yes"
 }
 ]

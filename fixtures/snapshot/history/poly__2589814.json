@@ -1,333 +1,327 @@
 [
 {
 "marketId": "poly:2589814",
-"ts": 1790802024,
-"price": 0.0055,
-"volume": 0.0
-},
-{
-"marketId": "poly:2589814",
 "ts": 1790805617,
 "price": 0.0055,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790809220,
 "price": 0.0055,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790812824,
 "price": 0.0055,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790816420,
 "price": 0.0055,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790820021,
 "price": 0.0055,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790823635,
 "price": 0.0055,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790827236,
 "price": 0.0055,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790830819,
 "price": 0.0055,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790834423,
 "price": 0.0055,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790838019,
 "price": 0.0055,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790841636,
 "price": 0.0055,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790848821,
 "price": 0.0055,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790852421,
 "price": 0.0055,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790856023,
 "price": 0.0055,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790859619,
 "price": 0.0055,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790863222,
 "price": 0.0055,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790866828,
 "price": 0.0055,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790870427,
 "price": 0.0055,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790874020,
 "price": 0.0055,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790877624,
 "price": 0.0055,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790881222,
 "price": 0.0055,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790884823,
 "price": 0.0055,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790888426,
 "price": 0.0055,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790892023,
 "price": 0.0055,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790895622,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790899222,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790902816,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790906419,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790910022,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790913615,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790917224,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790920822,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790924415,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790928022,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790931622,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790935220,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790938821,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790942422,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790946019,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790949624,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790953229,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790956829,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790960437,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790964041,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790967620,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790971221,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790974836,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790978421,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790982027,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790985626,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790989221,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790992834,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1790996423,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
 "ts": 1791000021,
 "price": 0.0045,
-"volume": 0.0
+"volume": null
 },
 {
 "marketId": "poly:2589814",
@@ -1009,7 +1003,13 @@
 },
 {
 "marketId": "poly:2589814",
-"ts": 1791406283,
+"ts": 1791406842,
+"price": 0.0035,
+"volume": 0.0
+},
+{
+"marketId": "poly:2589814",
+"ts": 1791406997,
 "price": 0.0035,
 "volume": 0.0
 }

@@ -73,3 +73,20 @@ SCENARIOS: list[Scenario] = [
 KALSHI_COMPANIONS: dict[int, list[tuple[str, str]]] = {
     5: [("KXFED", "KXFED-26SEP-T3.75"), ("KXFED", "KXFED-26SEP-T4.00")],
 }
+
+# Events recorded in full (not just their top markets) so cross-venue pairs have both sides.
+COMPANION_EVENTS: list[str] = ["poly:31552", "kalshi:KXPRESPERSON-28", "poly:60182", "kalshi:KXNOBELPEACE-26", "poly:606422", "kalshi:KXFED-26OCT"]
+
+# Hand-curated cross-venue pairs: (kalshi ticker, polymarket event id, polymarket outcome substring(s)).
+CURATED_PAIRS: list[tuple[str, str, list[str], str]] = [
+    ("KXFED-26OCT-T4.00", "poly:606422", ["25 bps increase", "50+ bps increase"], "Fed funds upper bound above 4.00% after the Oct 2026 meeting"),
+    ("KXPRESPERSON-28-MRUB", "poly:31552", ["Marco Rubio"], "Marco Rubio wins the 2028 presidential election"),
+    ("KXPRESPERSON-28-JVAN", "poly:31552", ["JD Vance", "J.D. Vance"], "JD Vance wins the 2028 presidential election"),
+    ("KXPRESPERSON-28-GNEWS", "poly:31552", ["Gavin Newsom"], "Gavin Newsom wins the 2028 presidential election"),
+    ("KXPRESPERSON-28-AOCA", "poly:31552", ["Alexandria Ocasio-Cortez"], "AOC wins the 2028 presidential election"),
+    ("KXPRESPERSON-28-JOSS", "poly:31552", ["Jon Ossoff"], "Jon Ossoff wins the 2028 presidential election"),
+    ("KXPRESPERSON-28-DTRU", "poly:31552", ["Donald Trump"], "Donald Trump wins the 2028 presidential election"),
+    ("KXNOBELPEACE-26-DJT", "poly:60182", ["Donald Trump"], "Donald Trump wins the 2026 Nobel Peace Prize"),
+    ("KXNOBELPEACE-26-SUD", "poly:60182", ["Sudan"], "Sudan's Emergency Response Rooms win the 2026 Nobel Peace Prize"),
+    ("KXNOBELPEACE-27-YNAV", "poly:60182", ["Navalnaya"], "Yulia Navalnaya wins the 2026 Nobel Peace Prize"),
+]
