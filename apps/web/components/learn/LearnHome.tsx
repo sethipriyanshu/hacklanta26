@@ -51,7 +51,7 @@ export function LearnHome({ concepts, rounds }: { concepts: Concept[]; rounds: G
             <li>· Pumps that fade on no news</li>
           </ul>
           <Button onClick={() => setPlaying(true)} disabled={rounds.length === 0} className="mt-auto bg-anomaly text-bg hover:bg-anomaly/90">
-            Start a round · {rounds.length} charts sets
+            Start a round · {rounds.length} rounds
           </Button>
         </div>
       </Panel>
