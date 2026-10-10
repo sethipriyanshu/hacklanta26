@@ -242,17 +242,91 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
-    "/sim/ping": {
+    "/sim/personas": {
         parameters: {
             query?: never;
             header?: never;
             path?: never;
             cookie?: never;
         };
-        /** Ping */
-        get: operations["ping_sim_ping_get"];
+        /** List Personas */
+        get: operations["list_personas_sim_personas_get"];
         put?: never;
         post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/sim/presets": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /**
+         * Presets
+         * @description Scenario presets the UI can load with one click.
+         */
+        get: operations["presets_sim_presets_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/sim/runs/{name}": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Get Run */
+        get: operations["get_run_sim_runs__name__get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/sim/run": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /** Run Sim */
+        post: operations["run_sim_sim_run_post"];
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/sim/stream": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        get?: never;
+        put?: never;
+        /**
+         * Stream Sim
+         * @description Server-sent events: meta first, then ticks in small batches so the swarm animates, then done.
+         */
+        post: operations["stream_sim_sim_stream_post"];
         delete?: never;
         options?: never;
         head?: never;
@@ -314,6 +388,26 @@ export interface paths {
 export type webhooks = Record<string, never>;
 export interface components {
     schemas: {
+        /** AgentState */
+        AgentState: {
+            /** I */
+            i: number;
+            /** Personaid */
+            personaId: string;
+            /** Belief */
+            belief: number;
+            /**
+             * Stance
+             * @enum {string}
+             */
+            stance: "yes" | "no" | "flat";
+            /** Seen */
+            seen: boolean;
+            /** Bankroll */
+            bankroll: number;
+            /** Spent */
+            spent: number;
+        };
         /** BookLevel */
         BookLevel: {
             /** Price */
@@ -582,6 +676,38 @@ export interface components {
             /** Asks */
             asks?: components["schemas"]["BookLevel"][];
         };
+        /** Persona */
+        Persona: {
+            /** Id */
+            id: string;
+            /** Label */
+            label: string;
+            /** Job */
+            job: string;
+            /**
+             * Ageband
+             * @enum {string}
+             */
+            ageBand: "18-29" | "30-44" | "45-64" | "65+";
+            /**
+             * Incomeband
+             * @enum {string}
+             */
+            incomeBand: "low" | "mid" | "high";
+            /**
+             * Lean
+             * @enum {string}
+             */
+            lean: "left" | "center" | "right";
+            /** Riskappetite */
+            riskAppetite: number;
+            /** Infospeed */
+            infoSpeed: number;
+            /** Mediadiet */
+            mediaDiet: string;
+            /** Bankroll */
+            bankroll: number;
+        };
         /** PricePoint */
         PricePoint: {
             /** Marketid */
@@ -592,6 +718,31 @@ export interface components {
             price: number;
             /** Volume */
             volume?: number | null;
+        };
+        /** Reaction */
+        Reaction: {
+            /** Personaid */
+            personaId: string;
+            /**
+             * Beliefshift
+             * @description -1..1: change in probability the YES outcome happens, after reading the headline
+             */
+            beliefShift: number;
+            /**
+             * Confidence
+             * @description 0..1
+             */
+            confidence: number;
+            /**
+             * Delayminutes
+             * @description typical minutes before this group acts on the news
+             */
+            delayMinutes: number;
+            /**
+             * Reason
+             * @description one line, first person plural, under 20 words
+             */
+            reason: string;
         };
         /** Scenario */
         Scenario: {
@@ -672,6 +823,83 @@ export interface components {
                 [key: string]: unknown;
             };
         };
+        /** SimRequest */
+        SimRequest: {
+            /** Marketid */
+            marketId: string;
+            /** Headline */
+            headline: string;
+            /** Headlineat */
+            headlineAt?: number | null;
+            swarm?: components["schemas"]["SwarmConfig"];
+            /**
+             * Seed
+             * @default 42
+             */
+            seed: number;
+            /**
+             * Backtest
+             * @default true
+             */
+            backtest: boolean;
+            /**
+             * Preminutes
+             * @default 180
+             */
+            preMinutes: number;
+            /**
+             * Postminutes
+             * @default 360
+             */
+            postMinutes: number;
+            /**
+             * Tickminutes
+             * @default 2
+             */
+            tickMinutes: number;
+        };
+        /** SimRun */
+        SimRun: {
+            /** Id */
+            id: string;
+            /** Seed */
+            seed: number;
+            /** Marketid */
+            marketId: string;
+            /** Headline */
+            headline: string;
+            /** Headlineat */
+            headlineAt: number;
+            config: components["schemas"]["SwarmConfig"];
+            /** Liquidity */
+            liquidity: number;
+            /**
+             * Reactionssource
+             * @enum {string}
+             */
+            reactionsSource: "llm" | "authored" | "heuristic";
+            /** Personas */
+            personas: components["schemas"]["Persona"][];
+            /** Reactions */
+            reactions: components["schemas"]["Reaction"][];
+            /** Agents */
+            agents: components["schemas"]["AgentState"][];
+            /** Ticks */
+            ticks: components["schemas"]["Tick"][];
+            /** Maecents */
+            maeCents?: number | null;
+            /** Maepostcents */
+            maePostCents?: number | null;
+            /**
+             * Realpoints
+             * @default 0
+             */
+            realPoints: number;
+            /** Meta */
+            meta?: {
+                [key: string]: unknown;
+            };
+        };
         /** Snapshot */
         Snapshot: {
             /**
@@ -690,6 +918,60 @@ export interface components {
             venues?: {
                 [key: string]: number;
             };
+        };
+        /** SwarmConfig */
+        SwarmConfig: {
+            /**
+             * Agemix
+             * @default 0.5
+             */
+            ageMix: number;
+            /**
+             * Income
+             * @default 0.5
+             */
+            income: number;
+            /**
+             * Lean
+             * @default 0.5
+             */
+            lean: number;
+            /**
+             * Risk
+             * @default 0.5
+             */
+            risk: number;
+            /**
+             * Infospeed
+             * @default 0.5
+             */
+            infoSpeed: number;
+            /**
+             * Size
+             * @default 1000
+             */
+            size: number;
+            /** Liquidity */
+            liquidity?: number | null;
+        };
+        /** Tick */
+        Tick: {
+            /** T */
+            t: number;
+            /** Price */
+            price: number;
+            /** Real */
+            real?: number | null;
+            /** Seen */
+            seen: number;
+            /** Yes */
+            yes: number;
+            /** No */
+            no: number;
+            /** Volume */
+            volume: number;
+            /** Stances */
+            stances: string;
         };
         /** Trade */
         Trade: {
@@ -1228,7 +1510,27 @@ export interface operations {
             };
         };
     };
-    ping_sim_ping_get: {
+    list_personas_sim_personas_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["Persona"][];
+                };
+            };
+        };
+    };
+    presets_sim_presets_get: {
         parameters: {
             query?: never;
             header?: never;
@@ -1244,8 +1546,105 @@ export interface operations {
                 };
                 content: {
                     "application/json": {
-                        [key: string]: string;
-                    };
+                        [key: string]: unknown;
+                    }[];
+                };
+            };
+        };
+    };
+    get_run_sim_runs__name__get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                name: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["SimRun"];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    run_sim_sim_run_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["SimRequest"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["SimRun"];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    stream_sim_sim_stream_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["SimRequest"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": unknown;
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
                 };
             };
         };
