@@ -1,0 +1,96 @@
+/* Trust Me Bro design tokens — the only place a hex value may live.
+   Components use Tailwind classes bound to these variables (bg-panel, text-fg-2, text-yes, …). */
+
+:root,
+[data-theme="dark"] {
+  color-scheme: dark;
+  --tmb-bg: #0b0d10;
+  --tmb-panel: #12151a;
+  --tmb-raised: #1a1e25;
+  --tmb-line: #242a33;
+  --tmb-fg: #e8eaed;
+  --tmb-fg-2: #9aa3ae;
+  --tmb-fg-3: #5f6b78;
+  --tmb-yes: #3dd68c;
+  --tmb-no: #ff5c6c;
+  --tmb-anomaly: #ffb547;
+  --tmb-mispricing: #5b8cff;
+  --tmb-quant: #5b8cff;
+  --tmb-contrarian: #c77dff;
+  --tmb-riskmgr: #3dd68c;
+  --tmb-grid: rgba(255, 255, 255, 0.035);
+}
+
+[data-theme="light"] {
+  color-scheme: light;
+  --tmb-bg: #f4f5f7;
+  --tmb-panel: #ffffff;
+  --tmb-raised: #eceef2;
+  --tmb-line: #d9dde3;
+  --tmb-fg: #121519;
+  --tmb-fg-2: #4b5563;
+  --tmb-fg-3: #8a94a0;
+  --tmb-yes: #16a364;
+  --tmb-no: #e03e4f;
+  --tmb-anomaly: #d98a00;
+  --tmb-mispricing: #2f6bff;
+  --tmb-quant: #2f6bff;
+  --tmb-contrarian: #9b4dff;
+  --tmb-riskmgr: #16a364;
+  --tmb-grid: rgba(0, 0, 0, 0.05);
+}
+
+[data-theme="classic"] {
+  color-scheme: dark;
+  --tmb-bg: #000000;
+  --tmb-panel: #070500;
+  --tmb-raised: #110d00;
+  --tmb-line: #3a2c00;
+  --tmb-fg: #ffb000;
+  --tmb-fg-2: #c98b00;
+  --tmb-fg-3: #7a5600;
+  --tmb-yes: #ffd166;
+  --tmb-no: #ff6a3d;
+  --tmb-anomaly: #ffb000;
+  --tmb-mispricing: #ffe08a;
+  --tmb-quant: #ffe08a;
+  --tmb-contrarian: #ff9f1c;
+  --tmb-riskmgr: #ffd166;
+  --tmb-grid: rgba(255, 176, 0, 0.06);
+}
+
+/* shadcn/ui variable bridge — primitives inherit the active theme automatically. */
+:root {
+  --background: var(--tmb-bg);
+  --foreground: var(--tmb-fg);
+  --card: var(--tmb-panel);
+  --card-foreground: var(--tmb-fg);
+  --popover: var(--tmb-raised);
+  --popover-foreground: var(--tmb-fg);
+  --primary: var(--tmb-fg);
+  --primary-foreground: var(--tmb-bg);
+  --secondary: var(--tmb-raised);
+  --secondary-foreground: var(--tmb-fg);
+  --muted: var(--tmb-raised);
+  --muted-foreground: var(--tmb-fg-2);
+  --accent: var(--tmb-raised);
+  --accent-foreground: var(--tmb-fg);
+  --destructive: var(--tmb-no);
+  --border: var(--tmb-line);
+  --input: var(--tmb-line);
+  --ring: var(--tmb-mispricing);
+  --chart-1: var(--tmb-yes);
+  --chart-2: var(--tmb-no);
+  --chart-3: var(--tmb-anomaly);
+  --chart-4: var(--tmb-mispricing);
+  --chart-5: var(--tmb-contrarian);
+  --radius: 10px;
+  --sidebar: var(--tmb-panel);
+  --sidebar-foreground: var(--tmb-fg);
+  --sidebar-primary: var(--tmb-fg);
+  --sidebar-primary-foreground: var(--tmb-bg);
+  --sidebar-accent: var(--tmb-raised);
+  --sidebar-accent-foreground: var(--tmb-fg);
+  --sidebar-border: var(--tmb-line);
+  --sidebar-ring: var(--tmb-mispricing);
+}
