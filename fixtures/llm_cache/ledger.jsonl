@@ -450,3 +450,5 @@
 {"day": "2026-10-11", "ts": 1791694304, "provider": "azure", "model": "gpt-4.1-mini", "tag": "summary:kalshi:KXATPMATCH-26OCT10SHEGEA-GEA", "input": 517, "output": 149, "seconds": 3.34}
 {"day": "2026-10-11", "ts": 1791694306, "provider": "azure", "model": "gpt-4.1-mini", "tag": "summary:kalshi:KXNCAAF-27-UCLA", "input": 514, "output": 125, "seconds": 1.96}
 {"day": "2026-10-11", "ts": 1791694310, "provider": "azure", "model": "gpt-4.1-mini", "tag": "summary:kalshi:KXNCAAF-27-UCLA", "input": 514, "output": 143, "seconds": 6.13}
+{"day": "2026-10-11", "ts": 1791723247, "provider": "azure", "model": "gpt-4.1-mini", "tag": "swarm-v3:a6449dc96cee", "input": 1509, "output": 869, "seconds": 7.62}
+{"day": "2026-10-11", "ts": 1791723250, "provider": "azure", "model": "gpt-4.1-mini", "tag": "sim-summary", "input": 768, "output": 108, "seconds": 1.34}

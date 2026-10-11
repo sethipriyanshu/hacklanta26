@@ -111,6 +111,8 @@ export interface DataStats {
   bytes?: number;
   compressionRatio?: number;
   firstTick?: string | null;
+  lastTick?: string | null;
+  readOnly?: boolean;
   lastWrite?: { at?: string; markets?: number; ticks?: number; seconds?: number };
 }
 export const getDataStats = () => tryApi<DataStats>("/data/stats", { timeoutMs: 15000 });

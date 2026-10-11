@@ -1,0 +1,155 @@
+{
+ "tag": "swarm-v3:a6449dc96cee",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You model how a prediction market reprices after a headline. Work in this order. 1) analysis: in 2-3 sentences, say who the news helps or hurts, stated strictly in terms of the YES outcome of THIS contract (read 'YES means' carefully; for a team's 'wins' contract, news good for the opponent is bad for YES). If the headline names a person, place or thing, first establish which side it belongs to (which team a player plays for, whose home city a venue is). If you cannot tell which side the news affects, set direction to 'none' rather than guess. 2) direction: 'up' if YES is now more likely, 'down' if less likely, 'none' if the news does not matter. It must match your analysis. 3) move_points: how many percentage points a sharp, unbiased analyst would move the probability of YES, as a positive number. Be decisive: news that materially changes the outcome moves it a lot; trivia moves it little. 4) For each persona: bias_points, how far that group's view sits from the informed estimate after absorbing the news, from genuine bias only (team loyalty, partisanship, wishful thinking), between -8 and +8. Slowness is modelled separately by delay_minutes, so do not encode it as bias. Also give confidence, delay_minutes and a one-line first-person-plural reason.",
+ "user": "Contract: Will Alabama win the College Football Playoff National Championship?\nEvent: College Football National Championship Winner\nYES means: Will Alabama win the College Football Playoff National Championship?\nResolution rules: If Alabama wins the College Football Playoff National Championship Game, then the market resolves to Yes.\n\nKalshi is not affiliated,  associated,  authorized, endorsed by, or in any way officially connected with the NCAA. All trademarks, logos, and brand names are the property of their respective owners.\nCurrent YES price (the market's probability before the news): 0.07\n\nHeadline: alabama loist to georgia\n\nPersonas:\n- retired-teacher: retired public school teacher; age 65+; income low; leans left; media: evening cable news, local paper\n- retired-exec: retired regional bank executive; age 65+; income high; leans right; media: WSJ, Fox Business, broker notes\n- nurse: ICU nurse working nights; age 30-44; income mid; leans center; media: push alerts between shifts, Reddit\n- crypto-trader: full-time crypto and prediction-market trader; age 18-29; income mid; leans center; media: X, Telegram alpha groups, terminal feeds\n- macro-pm: analyst at a macro hedge fund; age 30-44; income high; leans center; media: Bloomberg terminal, Fed statements as they drop\n- college-student: undergraduate, part-time barista; age 18-29; income low; leans left; media: TikTok, group chats, Discord\n- small-biz: owns two restaurants; age 45-64; income high; leans right; media: talk radio, trade association emails\n- software-eng: senior engineer at a SaaS company; age 30-44; income high; leans center; media: Hacker News, X, newsletters\n- union-electrician: journeyman electrician; age 45-64; income mid; leans left; media: local TV, Facebook\n- political-junkie: congressional staffer; age 18-29; income low; leans left; media: Politico, X, Slack back-channels\n- realtor: residential real estate agent; age 45-64; income mid; leans right; media: CNBC in the office, mortgage-rate alerts\n- grad-econ: PhD student in economics; age 18-29; income low; leans center; media: FOMC statements, FRED, EconTwitter\n- farmer: runs a family grain farm; age 45-64; income mid; leans right; media: AM radio, co-op newsletters, futures prices\n- gig-driver: rideshare and delivery driver; age 30-44; income low; leans center; media: YouTube, podcasts while driving\n- sports-bettor: sales rep who bets most weekends; age 30-44; income mid; leans right; media: sportsbook apps, Barstool, X\n- physician: family medicine doctor; age 45-64; income high; leans center; media: NYT morning briefing, NPR\n- vc-associate: associate at a venture fund; age 18-29; income high; leans center; media: X, Substacks, founder group chats\n- school-admin: assistant principal; age 30-44; income mid; leans left; media: morning news shows, email digests\n- retired-military: retired army officer, defense contractor; age 45-64; income high; leans right; media: cable news, defense trade press\n- quant-dev: builds trading bots at a prop shop; age 30-44; income high; leans center; media: raw feeds, APIs, nothing human\n\nReturn the analysis, direction, move_points, reason, and one reaction per persona id.",
+ "output": {
+  "analysis": "The news that Alabama lost to Georgia clearly hurts Alabama's chances of winning the College Football Playoff National Championship, making the YES outcome less likely. Since 'YES' means Alabama wins the championship, any loss in a critical game, especially to a strong opponent like Georgia, significantly reduces their probability of winning the title.",
+  "direction": "down",
+  "move_points": 20.0,
+  "reason": "Alabama's loss to Georgia greatly reduces their chances of winning the championship, causing a significant drop in YES probability.",
+  "reactions": [
+   {
+    "persona_id": "retired-teacher",
+    "bias_points": -1.0,
+    "confidence": 0.7,
+    "delay_minutes": 10,
+    "reason": "We tend to favor the opposing team to Alabama but understand the impact of such a loss."
+   },
+   {
+    "persona_id": "retired-exec",
+    "bias_points": -2.0,
+    "confidence": 0.85,
+    "delay_minutes": 5,
+    "reason": "We follow financial and sports news closely and quickly recognize the implications of Alabama's loss."
+   },
+   {
+    "persona_id": "nurse",
+    "bias_points": 0.0,
+    "confidence": 0.8,
+    "delay_minutes": 15,
+    "reason": "We understand sports well and fairly adjust our view upon hearing this news."
+   },
+   {
+    "persona_id": "crypto-trader",
+    "bias_points": 0.0,
+    "confidence": 0.9,
+    "delay_minutes": 1,
+    "reason": "We quickly update probabilities with new information in the markets."
+   },
+   {
+    "persona_id": "macro-pm",
+    "bias_points": 0.0,
+    "confidence": 0.9,
+    "delay_minutes": 2,
+    "reason": "We are confident in absorbing new information rapidly and efficiently."
+   },
+   {
+    "persona_id": "college-student",
+    "bias_points": 2.0,
+    "confidence": 0.6,
+    "delay_minutes": 20,
+    "reason": "We have some loyalty to Alabama and might be reluctant to fully accept bad news at once."
+   },
+   {
+    "persona_id": "small-biz",
+    "bias_points": -1.0,
+    "confidence": 0.7,
+    "delay_minutes": 10,
+    "reason": "We react to news with some bias but understand market realities."
+   },
+   {
+    "persona_id": "software-eng",
+    "bias_points": 0.0,
+    "confidence": 0.85,
+    "delay_minutes": 3,
+    "reason": "We update our views logically based on evidence."
+   },
+   {
+    "persona_id": "union-electrician",
+    "bias_points": -1.0,
+    "confidence": 0.7,
+    "delay_minutes": 12,
+    "reason": "We slightly favor the opponent and adjust our beliefs accordingly."
+   },
+   {
+    "persona_id": "political-junkie",
+    "bias_points": -1.0,
+    "confidence": 0.75,
+    "delay_minutes": 8,
+    "reason": "We critically assess sports news and its implications quickly."
+   },
+   {
+    "persona_id": "realtor",
+    "bias_points": -2.0,
+    "confidence": 0.8,
+    "delay_minutes": 7,
+    "reason": "We tend to be skeptical of Alabama and update probabilities more pessimistically."
+   },
+   {
+    "persona_id": "grad-econ",
+    "bias_points": 0.0,
+    "confidence": 0.9,
+    "delay_minutes": 5,
+    "reason": "We analyze data and update beliefs based on likelihood efficiently."
+   },
+   {
+    "persona_id": "farmer",
+    "bias_points": -1.0,
+    "confidence": 0.75,
+    "delay_minutes": 15,
+    "reason": "We respect strong opponents and accept changes in team fortunes."
+   },
+   {
+    "persona_id": "gig-driver",
+    "bias_points": 0.0,
+    "confidence": 0.65,
+    "delay_minutes": 10,
+    "reason": "We cautiously adjust beliefs with some delay due to multitasking."
+   },
+   {
+    "persona_id": "sports-bettor",
+    "bias_points": -2.0,
+    "confidence": 0.95,
+    "delay_minutes": 2,
+    "reason": "We react aggressively to major game outcomes that impact betting odds."
+   },
+   {
+    "persona_id": "physician",
+    "bias_points": 0.0,
+    "confidence": 0.85,
+    "delay_minutes": 8,
+    "reason": "We update beliefs logically with reliable information."
+   },
+   {
+    "persona_id": "vc-associate",
+    "bias_points": 0.0,
+    "confidence": 0.85,
+    "delay_minutes": 3,
+    "reason": "We incorporate new data into our outlook swiftly."
+   },
+   {
+    "persona_id": "school-admin",
+    "bias_points": 1.0,
+    "confidence": 0.65,
+    "delay_minutes": 12,
+    "reason": "We have some emotional attachment that tempers our assessment."
+   },
+   {
+    "persona_id": "retired-military",
+    "bias_points": -1.0,
+    "confidence": 0.8,
+    "delay_minutes": 7,
+    "reason": "We approach analysis strategically and value accurate assessments."
+   },
+   {
+    "persona_id": "quant-dev",
+    "bias_points": 0.0,
+    "confidence": 0.95,
+    "delay_minutes": 1,
+    "reason": "We programmatically update probabilities without bias."
+   }
+  ]
+ }
+}

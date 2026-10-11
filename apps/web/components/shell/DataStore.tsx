@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import { Database } from "lucide-react";
 import { Tooltip, TooltipContent, TooltipTrigger } from "@/components/ui/tooltip";
 import { getDataStats, type DataStats } from "@/lib/api";
+import { etTime } from "@/lib/format";
 
 const n = (x?: number) => (x ?? 0).toLocaleString();
 const mb = (b?: number) => (b ? `${(b / 1_048_576).toFixed(0)} MB` : "");
@@ -38,7 +39,13 @@ export function DataStore() {
         <span className="num">
           <span className="text-fg">{n(s.ticks)}</span> price ticks
         </span>
-        {s.compressionRatio ? (
+        {s.lastTick ? (
+          <>
+            <span aria-hidden className="text-fg-3">·</span>
+            <span className="num">Last poll {etTime(s.lastTick)}</span>
+          </>
+        ) : null}
+        {s.compressionRatio && s.compressionRatio > 1 ? (
           <>
             <span aria-hidden className="text-fg-3">·</span>
             <span className="num">{s.compressionRatio}× compressed</span>

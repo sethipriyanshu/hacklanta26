@@ -97,6 +97,7 @@ class Tiger:
     def __init__(self) -> None:
         self.pool: Any = None
         self.ready = False
+        self.read_only = False  # the service refuses writes (e.g. over its storage limit); reads still work
         self.error: str | None = None
         self._lock = asyncio.Lock()
         self._meta: dict[str, int] = {}  # market id -> hash of its stored metadata
@@ -117,11 +118,16 @@ class Tiger:
         import asyncpg
 
         try:
-            self.pool = await asyncpg.create_pool(get_settings().tiger_database_url, min_size=1, max_size=4, command_timeout=120)
+            if self.pool is None:
+                self.pool = await asyncpg.create_pool(get_settings().tiger_database_url, min_size=1, max_size=4, command_timeout=120)
             async with self.pool.acquire() as c:
+                if await c.fetchval("SHOW default_transaction_read_only") == "on":
+                    self.ready, self.read_only, self.error = True, True, "read-only: the service is not accepting writes"
+                    log.warning("tiger: connected read-only; writes paused")
+                    return
                 for stmt in SCHEMA:
                     await c.execute(stmt)
-            self.ready, self.error = True, None
+            self.ready, self.read_only, self.error = True, False, None
             log.info("tiger: connected, schema ready")
         except Exception as e:  # noqa: BLE001 — the app runs without the database
             self.error = f"{type(e).__name__}: {e}"
@@ -140,8 +146,10 @@ class Tiger:
 
     async def sync(self, store: MarketStore) -> None:
         async with self._lock:
+            if self.read_only:
+                self.ready = False  # check again whether writes are allowed
             await self.connect()
-            if not self.ready:
+            if not self.ready or self.read_only:
                 return
             t0 = time.monotonic()
             try:
@@ -225,7 +233,7 @@ class Tiger:
         if self._stats and time.monotonic() - self._stats[0] < STATS_TTL:
             return self._stats[1]
         await self.connect()
-        out: dict[str, Any] = {"enabled": True, "connected": self.ready, "error": self.error, "lastWrite": self.last_write, "writtenThisSession": self.written}
+        out: dict[str, Any] = {"enabled": True, "connected": self.ready, "readOnly": self.read_only, "error": self.error, "lastWrite": self.last_write, "writtenThisSession": self.written}
         if self.ready:
             try:
                 async with self.pool.acquire() as c:
@@ -240,6 +248,7 @@ class Tiger:
                     if comp and comp["after"]:
                         out["compressionRatio"] = round(comp["before"] / comp["after"], 1)
                     out["firstTick"] = await c.fetchval("SELECT min(ts) FROM market_ticks")
+                    out["lastTick"] = await c.fetchval("SELECT max(ts) FROM market_ticks")
             except Exception as e:  # noqa: BLE001
                 out["error"] = f"{type(e).__name__}: {e}"
         self._stats = (time.monotonic(), out)

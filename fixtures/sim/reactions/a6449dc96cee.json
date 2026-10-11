@@ -1,0 +1,152 @@
+{
+ "source": "llm",
+ "headline": "alabama loist to georgia",
+ "marketId": "kalshi:KXNCAAF-27-ALA",
+ "fairProbability": 0.01,
+ "fairReason": "Alabama's loss to Georgia greatly reduces their chances of winning the championship, causing a significant drop in YES probability.",
+ "analysis": "The news that Alabama lost to Georgia clearly hurts Alabama's chances of winning the College Football Playoff National Championship, making the YES outcome less likely. Since 'YES' means Alabama wins the championship, any loss in a critical game, especially to a strong opponent like Georgia, significantly reduces their probability of winning the title.",
+ "direction": "down",
+ "movePoints": 20.0,
+ "reactions": [
+  {
+   "personaId": "retired-teacher",
+   "probability": 0.01,
+   "confidence": 0.7,
+   "delayMinutes": 10,
+   "reason": "We tend to favor the opposing team to Alabama but understand the impact of such a loss."
+  },
+  {
+   "personaId": "retired-exec",
+   "probability": 0.01,
+   "confidence": 0.85,
+   "delayMinutes": 5,
+   "reason": "We follow financial and sports news closely and quickly recognize the implications of Alabama's loss."
+  },
+  {
+   "personaId": "nurse",
+   "probability": 0.01,
+   "confidence": 0.8,
+   "delayMinutes": 15,
+   "reason": "We understand sports well and fairly adjust our view upon hearing this news."
+  },
+  {
+   "personaId": "crypto-trader",
+   "probability": 0.01,
+   "confidence": 0.9,
+   "delayMinutes": 1,
+   "reason": "We quickly update probabilities with new information in the markets."
+  },
+  {
+   "personaId": "macro-pm",
+   "probability": 0.01,
+   "confidence": 0.9,
+   "delayMinutes": 2,
+   "reason": "We are confident in absorbing new information rapidly and efficiently."
+  },
+  {
+   "personaId": "college-student",
+   "probability": 0.03,
+   "confidence": 0.6,
+   "delayMinutes": 20,
+   "reason": "We have some loyalty to Alabama and might be reluctant to fully accept bad news at once."
+  },
+  {
+   "personaId": "small-biz",
+   "probability": 0.01,
+   "confidence": 0.7,
+   "delayMinutes": 10,
+   "reason": "We react to news with some bias but understand market realities."
+  },
+  {
+   "personaId": "software-eng",
+   "probability": 0.01,
+   "confidence": 0.85,
+   "delayMinutes": 3,
+   "reason": "We update our views logically based on evidence."
+  },
+  {
+   "personaId": "union-electrician",
+   "probability": 0.01,
+   "confidence": 0.7,
+   "delayMinutes": 12,
+   "reason": "We slightly favor the opponent and adjust our beliefs accordingly."
+  },
+  {
+   "personaId": "political-junkie",
+   "probability": 0.01,
+   "confidence": 0.75,
+   "delayMinutes": 8,
+   "reason": "We critically assess sports news and its implications quickly."
+  },
+  {
+   "personaId": "realtor",
+   "probability": 0.01,
+   "confidence": 0.8,
+   "delayMinutes": 7,
+   "reason": "We tend to be skeptical of Alabama and update probabilities more pessimistically."
+  },
+  {
+   "personaId": "grad-econ",
+   "probability": 0.01,
+   "confidence": 0.9,
+   "delayMinutes": 5,
+   "reason": "We analyze data and update beliefs based on likelihood efficiently."
+  },
+  {
+   "personaId": "farmer",
+   "probability": 0.01,
+   "confidence": 0.75,
+   "delayMinutes": 15,
+   "reason": "We respect strong opponents and accept changes in team fortunes."
+  },
+  {
+   "personaId": "gig-driver",
+   "probability": 0.01,
+   "confidence": 0.65,
+   "delayMinutes": 10,
+   "reason": "We cautiously adjust beliefs with some delay due to multitasking."
+  },
+  {
+   "personaId": "sports-bettor",
+   "probability": 0.01,
+   "confidence": 0.95,
+   "delayMinutes": 2,
+   "reason": "We react aggressively to major game outcomes that impact betting odds."
+  },
+  {
+   "personaId": "physician",
+   "probability": 0.01,
+   "confidence": 0.85,
+   "delayMinutes": 8,
+   "reason": "We update beliefs logically with reliable information."
+  },
+  {
+   "personaId": "vc-associate",
+   "probability": 0.01,
+   "confidence": 0.85,
+   "delayMinutes": 3,
+   "reason": "We incorporate new data into our outlook swiftly."
+  },
+  {
+   "personaId": "school-admin",
+   "probability": 0.02,
+   "confidence": 0.65,
+   "delayMinutes": 12,
+   "reason": "We have some emotional attachment that tempers our assessment."
+  },
+  {
+   "personaId": "retired-military",
+   "probability": 0.01,
+   "confidence": 0.8,
+   "delayMinutes": 7,
+   "reason": "We approach analysis strategically and value accurate assessments."
+  },
+  {
+   "personaId": "quant-dev",
+   "probability": 0.01,
+   "confidence": 0.95,
+   "delayMinutes": 1,
+   "reason": "We programmatically update probabilities without bias."
+  }
+ ]
+}
