@@ -1,0 +1,17 @@
+{
+ "tag": "summary:kalshi:KXNCAAF-27-ND",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Will Notre Dame win the College Football Playoff National Championship?\nEvent: College Football National Championship Winner \u2014 Notre Dame\nCategory: Sports  Venue: kalshi\nYES price: 0.14 (~14%)\n24h change: 2 points   24h volume: $530K\nResolution rules: If Notre Dame wins the College Football Playoff National Championship Game, then the market resolves to Yes.\n\nKalshi is not affiliated,  associated,  authorized, endorsed by, or in any way officially connected with the NCAA. All trademarks, logos, and brand names are the property of their respective owners.\nSignals: gap 14 \u2014 Kalshi prices YES at 14.0\u00a2, Polymarket at 28.5\u00a2 \u2014 a 14.5\u00a2 gap. Crossing both spreads and paying fees costs about 6.0\u00a2, l; inconsistency 0 \u2014 The 52 outcomes' mid prices sum to 115.0%. Buying every YES costs 142.0\u00a2 and selling every YES fetches 88.0\u00a2, so no set \n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Notre Dame win the College Football National Championship?",
+  "summary": "This market lets you bet on whether Notre Dame will win the College Football National Championship. A YES share costs 14 cents. Since a YES share pays $1 if Notre Dame wins and $0 if not, this price means the market thinks there is about a 14% chance Notre Dame will win. You can think of the price as the market's guess at the chance of this event happening.",
+  "whats_notable": "The YES price is much lower here than on another market, showing a big difference in estimates for Notre Dame's chances.",
+  "concepts": [
+   "implied-probability",
+   "liquidity",
+   "anomaly-patterns"
+  ]
+ }
+}

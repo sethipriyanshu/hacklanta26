@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXPRESNOMD-28-BS",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Will Bernie Sanders be the Democratic Presidential nominee in 2028?\nEvent: 2028 Democratic presidential nominee \u2014 Bernie Sanders\nCategory: Politics  Venue: kalshi\nYES price: 0.00 (~0%)\n24h change: 0 points   24h volume: $249K\nResolution rules: If Bernie Sanders wins and accepts the nomination for the Presidency for the Democratic party in 2028, then the market resolves to Yes.\nSignals: gap 2 \u2014 Kalshi 0.4\u00a2 vs Polymarket 2.5\u00a2: the 2.1\u00a2 gap is eaten by spreads and fees (1.9\u00a2). No edge.; inconsistency 1 \u2014 The 48 outcomes' mid prices sum to 93.7%. Buying every YES costs 99.6\u00a2 and selling every YES fetches 87.7\u00a2, so no set tr; anomaly 1 \u2014 Volume in the last hour was 0.0\u00d7 its trailing hourly average, nothing unusual. Price moved -0.1 points in the hour, in l\nRecent headlines: Top Dem\u2019s 2028 Plans Hit a Snag Close to Home | Kamala Harris faces pushback over 2028 presidential bid as husband, Democratic donors express doubts: Rep | Florida polls show Republicans lead Democrats in governor and Senate races, but contests remain close\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "What is the chance Bernie Sanders will be the Democratic presidential nominee in 2028?",
+  "summary": "This market lets people bet on whether Bernie Sanders will be the Democratic nominee for President in 2028. A YES share costs about 0 cents, meaning the market thinks it's very unlikely he will be the nominee. If you buy a YES share and Bernie Sanders becomes the nominee, the share will be worth $1. If not, it will be worth nothing. The low price here shows the market\u2019s current estimate of the chance is close to zero.",
+  "whats_notable": "The price for YES is basically zero, showing almost no market belief that Bernie Sanders will be the nominee in 2028.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

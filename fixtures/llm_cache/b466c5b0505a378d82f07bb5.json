@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXPGATOUR-BAC26-XSCH",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Baycurrent Classic: Xander Schauffele wins\nEvent: Baycurrent Classic Winner \u2014 Xander Schauffele\nCategory: Sports  Venue: kalshi\nYES price: 0.05 (~5%)\n24h change: 2 points   24h volume: $223K\nResolution rules: If Xander Schauffele wins the Baycurrent Classic, then the market resolves to Yes.\n\nIf a golfer forfeits, withdraws, or does not participate prior to teeing off, their contracts will resolve as follows:\nTournament Winner and End of Round Leader markets will resolve to No\nFinishing Position, Make the Cut, Head-to-Head, and 3-Ball markets will resolve to Fair Market Value\n\nSignals: gap 30 \u2014 Kalshi 5.1\u00a2 vs Polymarket 50.0\u00a2: the 44.9\u00a2 gap is eaten by spreads and fees (52.6\u00a2). No edge.; inconsistency 0 \u2014 The 72 outcomes' mid prices sum to 106.2%. Buying every YES costs 122.0\u00a2 and selling every YES fetches 90.4\u00a2, so no set \n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Xander Schauffele win the Baycurrent Classic golf tournament?",
+  "summary": "This market asks if Xander Schauffele will be the winner of the Baycurrent Classic golf tournament. A YES share costs about 5 cents for 1 dollar if he wins, meaning the market thinks there's roughly a 5% chance of this happening. If the event does happen, each YES share pays out $1; if not, it pays nothing. This helps people understand how likely the market thinks his win is.",
+  "whats_notable": "The market price for Xander Schauffele's win is much lower here (5 cents) than on another platform (50 cents), largely due to fees and how trades work.",
+  "concepts": [
+   "implied-probability",
+   "spread-vig"
+  ]
+ }
+}

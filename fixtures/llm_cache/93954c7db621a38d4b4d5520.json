@@ -1,0 +1,17 @@
+{
+ "tag": "summary:kalshi:KXPGATOUR-BAC26-SJAE",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Baycurrent Classic: Stephan Jaeger wins\nEvent: Baycurrent Classic Winner \u2014 Stephan Jaeger\nCategory: Sports  Venue: kalshi\nYES price: 0.24 (~24%)\n24h change: 19 points   24h volume: $191K\nResolution rules: If Stephan Jaeger wins the Baycurrent Classic, then the market resolves to Yes.\n\nIf a golfer forfeits, withdraws, or does not participate prior to teeing off, their contracts will resolve as follows:\nTournament Winner and End of Round Leader markets will resolve to No\nFinishing Position, Make the Cut, Head-to-Head, and 3-Ball markets will resolve to Fair Market Value\n\nSignals: gap 5 \u2014 Kalshi 24.0\u00a2 vs Polymarket 19.0\u00a2: the 5.0\u00a2 gap is eaten by spreads and fees (6.7\u00a2). No edge.; inconsistency 0 \u2014 The 72 outcomes' mid prices sum to 106.2%. Buying every YES costs 122.0\u00a2 and selling every YES fetches 90.4\u00a2, so no set \n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Stephan Jaeger win the Baycurrent Classic golf tournament?",
+  "summary": "This market asks if golfer Stephan Jaeger will win the Baycurrent Classic. Buying a YES share means you get $1 if he wins, and $0 if he doesn't. The current YES price is 24 cents, which suggests the market thinks there's about a 24% chance he will win. This prediction comes from many traders, reflecting what they believe based on available information.",
+  "whats_notable": "The price here is slightly higher than on another platform, but fees and spreads make arbitrage unlikely.",
+  "concepts": [
+   "implied-probability",
+   "spread-vig",
+   "liquidity"
+  ]
+ }
+}

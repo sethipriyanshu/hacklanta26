@@ -1,0 +1,17 @@
+{
+ "tag": "summary:kalshi:KXNFLGAME-26OCT11HOUTEN-HOU",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Houston wins\nEvent: HOU Texans vs TEN Titans \u2014 Houston\nCategory: Sports  Venue: kalshi\nYES price: 0.74 (~74%)\n24h change: -2 points   24h volume: $302K\nResolution rules: If Houston wins the HOU Texans vs TEN Titans Pro Football game originally scheduled for Oct 11, 2026, then the market resolves to Yes.\n\nThe following market refers to the team who wins the HOU Texans vs TEN Titans Pro Football game originally scheduled for Oct 11, 2026. If the game ends in a tie, the market will resolve to $0.50 for each team. If the game is postponed but begins within 48 hours from its originally scheduled start time, the market will remain open and resolve based on the officia\nSignals: gap 1 \u2014 Kalshi 74.5\u00a2 vs Polymarket 75.5\u00a2: the 1.0\u00a2 gap is eaten by spreads and fees (3.5\u00a2). No edge.; inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 99.0%. Buying every YES costs 100.0\u00a2 and selling every YES fetches 98.0\u00a2, so no set tr\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will the Houston Texans win their game against the Tennessee Titans?",
+  "summary": "This market is about whether the Houston Texans will win their football game against the Tennessee Titans on October 11, 2026. If you buy a YES share here, it will pay $1 if Houston wins and $0 if they don't. The current price of 74 cents means that the market estimates about a 74% chance that Houston will win. This market lets people bet on the outcome using real money, reflecting collective opinions on the game's result.",
+  "whats_notable": "If the game ends in a tie, this market will pay $0.50 for YES shares, splitting the value evenly between the two teams.",
+  "concepts": [
+   "implied-probability",
+   "spread-vig",
+   "liquidity"
+  ]
+ }
+}

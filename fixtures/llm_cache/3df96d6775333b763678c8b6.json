@@ -1,0 +1,17 @@
+{
+ "tag": "summary:kalshi:KXEPLGAME-26OCT11LFCMCI-MCI",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Manchester City wins\nEvent: Liverpool vs Manchester City \u2014 Manchester City\nCategory: Sports  Venue: kalshi\nYES price: 0.42 (~42%)\n24h change: 0 points   24h volume: $196K\nResolution rules: If Manchester City wins the Liverpool vs Manchester City professional EPL soccer game originally scheduled for Oct 11, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.\n\nThe following market refers to the Liverpool vs Manchester City professional EPL soccer game originally scheduled for Oct 11, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties). If the game ends in a tie, the market called \"Tie\" \nSignals: anomaly 61 \u2014 Volume in the last hour ran 13.1\u00d7 its trailing hourly average \u2014 far outside normal. Price moved +0.0 points in the hour,; inconsistency 0 \u2014 The 3 outcomes' mid prices sum to 99.5%. Buying every YES costs 101.0\u00a2 and selling every YES fetches 98.0\u00a2, so no set tr\nRecent headlines: Why Liverpool against Manchester City will be one the weirdest games in Premier League history | Liverpool vs Man City preview: Response to judgment, atmosphere and predicted line-ups | Liverpool vs Manchester City \u2013 Match preview and team news\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Manchester City win the soccer game against Liverpool on October 11, 2026?",
+  "summary": "This market asks if Manchester City will win a specific soccer match against Liverpool on October 11, 2026. If you buy a YES share for 42 cents, you get $1 if Manchester City wins and $0 if they don't. The 42 cent price means the market thinks there's about a 42% chance Manchester City will win. This price comes from many people trading based on what they believe will happen in the game.",
+  "whats_notable": "Trading volume recently spiked to over 13 times the usual amount in the last hour, but the price did not change.",
+  "concepts": [
+   "implied-probability",
+   "liquidity",
+   "anomaly-patterns"
+  ]
+ }
+}

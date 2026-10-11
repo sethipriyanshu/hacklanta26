@@ -1,0 +1,17 @@
+{
+ "tag": "summary:kalshi:KXNFLTOTAL-26OCT11PHIJAC-43",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Full Game: over 42.5 points scored?\nEvent: PHI Eagles vs JAC Jaguars: Total Points \u2014 Over 42.5 points\nCategory: Sports  Venue: kalshi\nYES price: 0.47 (~47%)\n24h change: -2 points   24h volume: $278K\nResolution rules: If PHI Eagles and JAC Jaguars collectively score more than 42.5 points in the PHI Eagles vs JAC Jaguars Pro Football game originally scheduled for Oct 11, 2026, then the market resolves to Yes.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.\nSignals: anomaly 2 \u2014 Volume in the last hour was 2.6\u00d7 its trailing hourly average, nothing unusual. Price moved +0.0 points in the hour, in l\nRecent headlines: Eagles vs. Jaguars: Listen Live to the NFL Game in London | Eagles vs. Jaguars livestream: How to watch NFL for free | Eagles vs. Jaguars in London: Kickoff time, international game history, injury updates\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will the Eagles vs Jaguars game have more than 42.5 total points scored?",
+  "summary": "This market asks if the total points scored by both teams in the game will be over 42.5. A YES share costs about 47 cents. Since a YES share pays $1 if the event happens and $0 if it doesn't, the 47 cent price means the market thinks there's about a 47% chance the total points go over 42.5. This helps people guess how likely an outcome is based on others' opinions and bets.",
+  "whats_notable": "The volume in the last hour was 2.6 times its usual amount, but the price didn't change much.",
+  "concepts": [
+   "implied-probability",
+   "liquidity",
+   "anomaly-patterns"
+  ]
+ }
+}

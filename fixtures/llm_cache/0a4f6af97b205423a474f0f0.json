@@ -1,0 +1,16 @@
+{
+ "tag": "summary:poly:2772194",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Will Shakhtar Donetsk win the 2026-27 UEFA Champions League Championship?\nEvent: UEFA Champions League: 2027 Champion \u2014 Shakhtar Donetsk\nCategory: Sports  Venue: polymarket\nYES price: 0.00 (~0%)\n24h change: 0 points   24h volume: $423K\nResolution rules: This market will resolve according to the team that wins the 2026-27 UEFA Champions League Championship.\n\nIf at any point it becomes impossible for a listed team to win the 2026-27 UEFA Champions League Championship per the rules of UEFA Champions League (e.g., they are eliminated in the playoffs), the corresponding market will resolve to \"No\".\n\nIf the 2026-27 UEFA Champions League season is cancelled, postponed after June 19, 2027, 11:59 PM ET or there is otherwise no winner declared within tha\nSignals: anomaly 0 \u2014 Price moved +0.0 points in the hour, in line with its usual 0.0-point hourly swings.; inconsistency 0 \u2014 The 42 outcomes' mid prices sum to 402.7%. Buying every YES costs 708.2\u00a2 and selling every YES fetches 97.2\u00a2, so no set \n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Shakhtar Donetsk win the 2026-27 UEFA Champions League?",
+  "summary": "This market asks if Shakhtar Donetsk will be the Champion of the 2026-27 UEFA Champions League. Buying a YES share means you get $1 if Shakhtar Donetsk wins, and $0 if they don't. The price of a YES share is 0 cents, which means the market thinks there is almost a 0% chance that Shakhtar Donetsk will win. This market helps people guess the chances of different teams winning the championship.",
+  "whats_notable": "The YES price is exactly zero, showing the market believes Shakhtar Donetsk has nearly no chance to win.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

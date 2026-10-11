@@ -1,0 +1,17 @@
+{
+ "tag": "summary:kalshi:KXNFLGAME-26OCT11LVNE-LV",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Las Vegas wins\nEvent: LV Raiders vs NE Patriots \u2014 Las Vegas\nCategory: Sports  Venue: kalshi\nYES price: 0.38 (~38%)\n24h change: 0 points   24h volume: $651K\nResolution rules: If Las Vegas wins the LV Raiders vs NE Patriots Pro Football game originally scheduled for Oct 11, 2026, then the market resolves to Yes.\n\nThe following market refers to the team who wins the LV Raiders vs NE Patriots Pro Football game originally scheduled for Oct 11, 2026. If the game ends in a tie, the market will resolve to $0.50 for each team. If the game is postponed but begins within 48 hours from its originally scheduled start time, the market will remain open and resolve based on the off\nSignals: anomaly 36 \u2014 Volume in the last hour ran 2.8\u00d7 its trailing hourly average, somewhat elevated. Price moved +0.0 points in the hour, in; gap 1 \u2014 Kalshi 37.5\u00a2 vs Polymarket 36.5\u00a2: the 1.0\u00a2 gap is eaten by spreads and fees (3.5\u00a2). No edge.; inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 100.0%. Buying every YES costs 101.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\nRecent headlines: Patriots hit by another injury blow as Mack Hollins lands on IR ahead of Raiders game | Raiders vs. Patriots: where to watch, kickoff time, and more for NFL Week 5 | Patriots Sign 27-Start Veteran CB Amid Injury Crisis Before Raiders Game\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will the Las Vegas Raiders win their game against the New England Patriots on October 11, 2026?",
+  "summary": "This market asks if the Las Vegas Raiders will win their football game against the New England Patriots on October 11, 2026. A YES share costs about 38 cents. This price means the market estimates there is roughly a 38% chance the Raiders will win. If the Raiders win, a YES share pays $1; if they don't, it pays $0. If the game ties, each share pays about 50 cents.",
+  "whats_notable": "Trading volume in the last hour was about 2.8 times higher than usual, but the price did not change.",
+  "concepts": [
+   "implied-probability",
+   "liquidity",
+   "anomaly-patterns"
+  ]
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "tag": "summary:kalshi:KXNBAGAME-26OCT10SASPHX-PHX",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Phoenix wins\nEvent: San Antonio vs Phoenix \u2014 Phoenix\nCategory: Sports  Venue: kalshi\nYES price: 0.92 (~92%)\n24h change: 55 points   24h volume: $772K\nResolution rules: If Phoenix wins the San Antonio vs Phoenix Pro Basketball game originally scheduled for Oct 10, 2026, then the market resolves to Yes.\n\nIf the game is postponed but begins within 48 hours of its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is cancelled or not started within 48 hours of its originally scheduled start, all markets will resolve to a fair price.\n\nKalshi is not affiliated, associated, authorized, endorsed by,\nSignals: anomaly 30 \u2014 Volume in the last hour ran 514.3\u00d7 its trailing hourly average \u2014 far outside normal. Price moved +14.0 points in an hour; inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 100.0%. Buying every YES costs 103.0\u00a2 and selling every YES fetches 97.0\u00a2, so no set t\nRecent headlines: Watch San Antonio Spurs vs. Phoenix Suns | San Antonio Spurs @ Phoenix Suns: Live game updates, stats, play-by-play | ESPN\u2122+ Free+ \ud835\ude86\ud835\ude70\ud835\ude83\ud835\ude72\ud835\ude77 San Antonio Spurs vs Phoenix Suns \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 \uff33\uff54\uff52\uff45\uff41\uff4d \uff26\uff52\uff45\uff45 \uff2f\uff2e \uff34\uff56 \uff23\uff48\uff41\uff4e\uff4e\uff45\uff4c! 10 October 2026\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Phoenix win the basketball game against San Antonio on October 10, 2026?",
+  "summary": "This market lets you buy a YES share if you think Phoenix will win the basketball game. A YES share is like a ticket that pays $1 if Phoenix wins and $0 if they don't. Right now, a YES share costs about 92 cents, which means the market thinks there is roughly a 92% chance Phoenix will win. You can watch the game live and see how the market changes with new information.",
+  "whats_notable": "The trading volume spiked extremely high in the last hour, much more than usual, causing the price to jump quickly.",
+  "concepts": [
+   "implied-probability",
+   "liquidity",
+   "anomaly-patterns"
+  ]
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "tag": "summary:poly:4906127",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: US announces end of Iranian blockade by October 15, 2026?\nEvent: US announces end of Iranian blockade by...? \u2014 October 15\nCategory: Politics  Venue: polymarket\nYES price: 0.04 (~4%)\n24h change: -2 points   24h volume: $195K\nResolution rules: On July 13, 2026, Trump announced the United States would reinstate its naval blockade of Iran, targeting Iranian ships and customers.\n\nThis market will resolve to \u201cYes\u201d if the United States government, or an authorized representative of the United States government, publicly and officially announces the end, termination, lifting, or suspension of the United States\u2019 naval blockade on Iranian ships and ships of Iranian customers, between market creation and the specified date, 11:59 PM ET. Otherw\nSignals: anomaly 0 \u2014 Price moved +0.0 points in the hour, in line with its usual 0.4-point hourly swings.\nRecent headlines: When Will the US Announce the End of the Iranian Blockade? | U.S.-Iran negotiations set to begin Monday, Trump says after calling off strikes | US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will the US officially announce ending the blockade of Iran by October 15, 2026?",
+  "summary": "This market asks if the US government will officially declare it is ending its naval blockade on Iran before October 15, 2026. A YES share in this market costs about 4 cents. Because a YES share pays $1 if this happens and $0 if it doesn\u2019t, the price of 4 cents means the market thinks there is about a 4% chance of this announcement happening by that date. This is a way people can express their opinions on political events by buying or selling YES or NO shares.",
+  "whats_notable": "The price is quite low at 4 cents, indicating most traders think the blockade will likely continue past that date.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

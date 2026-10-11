@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXPRESNOMD-28-JBP",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Will J.B. Pritzker be the Democratic Presidential nominee in 2028?\nEvent: 2028 Democratic presidential nominee \u2014 J.B. Pritzker\nCategory: Politics  Venue: kalshi\nYES price: 0.02 (~2%)\n24h change: 0 points   24h volume: $203K\nResolution rules: If J.B. Pritzker wins and accepts the nomination for the Presidency for the Democratic party in 2028, then the market resolves to Yes.\nSignals: inconsistency 1 \u2014 The 48 outcomes' mid prices sum to 93.5%. Buying every YES costs 99.6\u00a2 and selling every YES fetches 87.5\u00a2, so no set tr; gap 0 \u2014 Kalshi 2.4\u00a2 vs Polymarket 2.1\u00a2: the 0.3\u00a2 gap is eaten by spreads and fees (2.6\u00a2). No edge.\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will J.B. Pritzker be the Democratic nominee for President in 2028?",
+  "summary": "This market asks if J.B. Pritzker will be the Democratic candidate for President in 2028. Buying one YES share means you get $1 if he becomes the nominee and $0 if he does not. The current price of 2 cents suggests the market estimates about a 2% chance that he will be the nominee. In other words, people think it is unlikely but still possible.",
+  "whats_notable": "The total probabilities of similar outcomes add up to less than 100%, showing a small inconsistency in the market.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

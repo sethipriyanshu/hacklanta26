@@ -1,0 +1,17 @@
+{
+ "tag": "summary:poly:562803",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Will the Republican Party control the House after the 2026 Midterm elections?\nEvent: Which party will win the House in 2026? \u2014 Republican Party\nCategory: Politics  Venue: polymarket\nYES price: 0.10 (~10%)\n24h change: 0 points   24h volume: $234K\nResolution rules: This market will resolve according to the party that wins control of the United States House of Representatives in the 2026 United States midterm election.\n\nA party wins control of the United States House of Representatives if it wins a majority of the chamber\u2019s voting seats. If no party wins a majority of voting seats, the chamber will be deemed controlled by the party with which the first elected Speaker of the House of the Congress that convenes after the 2026 midterm election is affiliated.\n\nSignals: gap 30 \u2014 Kalshi prices YES at 39.5\u00a2, Polymarket at 9.5\u00a2 \u2014 a 30.0\u00a2 gap. Crossing both spreads and paying fees costs about 3.5\u00a2, le; anomaly 5 \u2014 Volume in the last hour was 2.0\u00d7 its trailing hourly average, nothing unusual. Price moved +0.0 points in the hour, in l; gap 1 \u2014 Kalshi 10.5\u00a2 vs Polymarket 9.5\u00a2: the 1.0\u00a2 gap is eaten by spreads and fees (2.5\u00a2). No edge.\nRecent headlines: Midterm Elections: Who Is Winning the Race for Congress? Latest Data | Tillis: \u2018Almost statistically impossible\u2019 for Republicans to win House in midterms | Democrats\u2019 advantage is clear with less than a month to go in the midterm elections\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will the Republican Party have more than half the seats in the U.S. House of Representatives after the 2026 elections?",
+  "summary": "This market lets people buy a YES share if they think the Republican Party will control the House after the 2026 elections. A YES share costs 10 cents now. Since a YES share pays 1 dollar if Republicans win control and 0 if they don\u2019t, the 10 cent price means the market thinks there is about a 10% chance that Republicans will control the House. That\u2019s a way to see how people expect the election to go.",
+  "whats_notable": "The YES price on another site is about 39 cents, showing big disagreement between markets.",
+  "concepts": [
+   "implied-probability",
+   "spread-vig",
+   "cross-venue-arbitrage"
+  ]
+ }
+}

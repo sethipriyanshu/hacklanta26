@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXNFLSPREAD-26OCT11PHIJAC-JAC8",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: JAC Jaguars wins by over 7.5 points?\nEvent: PHI Eagles vs JAC Jaguars: Spread \u2014 JAC Jaguars wins by over 7.5 points\nCategory: Sports  Venue: kalshi\nYES price: 0.51 (~51%)\n24h change: 0 points   24h volume: $345K\nResolution rules: If JAC Jaguars wins by more than 7.5 points in the PHI Eagles vs JAC Jaguars Pro Football game originally scheduled for Oct 11, 2026, then the market resolves to Yes.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will the JAC Jaguars win by more than 7.5 points in the football game against the PHI Eagles?",
+  "summary": "This market asks if the JAC Jaguars will win the game by more than 7.5 points. A YES share here costs about 51 cents, which means the market thinks there's roughly a 51% chance this will happen. If the Jaguars do win by that margin, each YES share pays $1; if not, it pays nothing.",
+  "whats_notable": "The trading volume in the last 24 hours is about $345,000, showing moderate interest in this question.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

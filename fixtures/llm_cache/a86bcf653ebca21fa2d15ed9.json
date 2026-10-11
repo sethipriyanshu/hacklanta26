@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXNFLFFPTSLADDER-26OCT11DETARI-ARIMHARRISON18",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Marvin Harrison Jr. fantasy scalar ladder\nEvent: Detroit vs Arizona: Fantasy Ladder \u2014 Marvin Harrison Jr.\nCategory: Sports  Venue: kalshi\nYES price: 0.01 (~1%)\n24h change: 1 points   24h volume: $189K\nResolution rules: If Each Yes contract pays $0.01 per PPR fantasy point scored by Marvin Harrison Jr. during the Detroit vs Arizona Pro Football game originally scheduled for Oct 11, 2026 rounded to the nearest cent with half cents rounded up and limited to $0.00\u2013$1.00. Each No contract pays $1.00 minus the Yes payout. Then the market resolves to Yes.\n\nThis market uses Sleeper's weekly standard Points Per Reception (PPR) fantasy-point total for Marvin Harrison Jr. during the Detroit vs Arizona Pro Football game o\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "How many fantasy points will Marvin Harrison Jr. score in the Detroit vs Arizona game?",
+  "summary": "This market asks about the number of fantasy football points Marvin Harrison Jr. will score in a specific game. You can buy a YES share, which pays based on how many points he scores, from 0 cents (if he scores 0 points) up to 100 cents (if he scores 100 or more points). Right now, YES shares cost about 1 cent, which suggests the market expects him to score very few points. This kind of market lets people trade based on their beliefs about player performance.",
+  "whats_notable": "YES shares are priced very low, close to 1 cent, indicating low expected fantasy points from Marvin Harrison Jr. in this game.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

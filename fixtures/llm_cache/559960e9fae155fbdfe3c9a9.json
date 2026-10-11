@@ -1,0 +1,17 @@
+{
+ "tag": "summary:kalshi:KXNCAAF-27-ND",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Will Notre Dame win the College Football Playoff National Championship?\nEvent: College Football National Championship Winner \u2014 Notre Dame\nCategory: Sports  Venue: kalshi\nYES price: 0.14 (~14%)\n24h change: 2 points   24h volume: $532K\nResolution rules: If Notre Dame wins the College Football Playoff National Championship Game, then the market resolves to Yes.\n\nKalshi is not affiliated,  associated,  authorized, endorsed by, or in any way officially connected with the NCAA. All trademarks, logos, and brand names are the property of their respective owners.\nSignals: gap 15 \u2014 Kalshi prices YES at 14.0\u00a2, Polymarket at 29.0\u00a2 \u2014 a 15.0\u00a2 gap. Crossing both spreads and paying fees costs about 6.5\u00a2, l; anomaly 0 \u2014 Volume in the last hour was 0.3\u00d7 its trailing hourly average, nothing unusual. Price moved +0.0 points in the hour, in l; inconsistency 0 \u2014 The 52 outcomes' mid prices sum to 113.5%. Buying every YES costs 141.0\u00a2 and selling every YES fetches 86.0\u00a2, so no set \nRecent headlines: 50 years later, the legacy of Pitt\u2019s 1976 football national championship endures | Once a national title favorite, Oregon has become college football's biggest disappointment | College Football Playoff expansion: Fate of 24-team model coming sooner than fans realize\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Notre Dame win the College Football Playoff National Championship?",
+  "summary": "This market lets you buy a YES share if you believe Notre Dame will win the national football championship. A YES share costs about 14 cents now. Since a YES share pays $1 if Notre Dame wins and $0 if they don\u2019t, people think there is roughly a 14% chance they will win. This price shows what the group currently expects about Notre Dame\u2019s chances.",
+  "whats_notable": "The price on this market is quite a bit lower than on another platform, showing a 15 cent difference in estimated chances.",
+  "concepts": [
+   "implied-probability",
+   "spread-vig",
+   "liquidity"
+  ]
+ }
+}

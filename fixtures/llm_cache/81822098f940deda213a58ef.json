@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXNBAGAME-26OCT10SASPHX-PHX",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Phoenix wins\nEvent: San Antonio vs Phoenix \u2014 Phoenix\nCategory: Sports  Venue: kalshi\nYES price: 0.82 (~82%)\n24h change: 46 points   24h volume: $713K\nResolution rules: If Phoenix wins the San Antonio vs Phoenix Pro Basketball game originally scheduled for Oct 10, 2026, then the market resolves to Yes.\n\nIf the game is postponed but begins within 48 hours of its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is cancelled or not started within 48 hours of its originally scheduled start, all markets will resolve to a fair price.\n\nKalshi is not affiliated, associated, authorized, endorsed by,\nSignals: inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 100.0%. Buying every YES costs 101.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Phoenix win the basketball game against San Antonio?",
+  "summary": "This market lets you bet on whether Phoenix will win the basketball game against San Antonio. Buying a YES share means you will get $1 if Phoenix wins, and $0 if they don't. Right now, a YES share costs about 82 cents, which means the market thinks there is roughly an 82% chance Phoenix will win. The market also saw a big price change and high trading volume recently, showing active interest in this game.",
+  "whats_notable": "The price moved up a lot in the last 24 hours and many shares were traded, indicating strong interest.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

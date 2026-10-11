@@ -1,0 +1,16 @@
+{
+ "tag": "summary:poly:561229",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Will JD Vance win the 2028 US Presidential Election?\nEvent: Presidential Election Winner 2028 \u2014 JD Vance\nCategory: Politics  Venue: polymarket\nYES price: 0.17 (~17%)\n24h change: -2 points   24h volume: $215K\nResolution rules: The 2028 US Presidential Election is scheduled to take place on November 7, 2028.\n\nThis market will resolve to the person who wins the 2028 US Presidential Election.\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same candidate. If all three sources haven\u2019t called the race for the same candidate by the inauguration date (January 20, 2029) this market will resolve based on who is inaugurated.\nSignals: gap 3 \u2014 Kalshi 19.5\u00a2 vs Polymarket 16.9\u00a2: the 2.6\u00a2 gap is eaten by spreads and fees (3.1\u00a2). No edge.; inconsistency 0 \u2014 The 128 outcomes' mid prices sum to 87.2%. Buying every YES costs 7489.9\u00a2 and selling every YES fetches 84.5\u00a2, so no set\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will JD Vance win the US Presidential Election in 2028?",
+  "summary": "This market asks if JD Vance will be the winner of the 2028 US Presidential Election. A YES share costs about 17 cents, meaning people currently think there's roughly a 17% chance JD Vance will win. When the event happens, these shares pay $1 if he wins and $0 if he doesn't. The market price gives a sense of how likely this outcome is viewed by participants.",
+  "whats_notable": "The price recently dropped by 2 cents, and trading volume over the last day was $215,000.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

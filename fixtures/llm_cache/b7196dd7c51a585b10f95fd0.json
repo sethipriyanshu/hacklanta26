@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXNFLGAME-26OCT11PHIJAC-JAC",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Jacksonville wins\nEvent: PHI Eagles vs JAC Jaguars \u2014 Jacksonville\nCategory: Sports  Venue: kalshi\nYES price: 0.77 (~77%)\n24h change: 0 points   24h volume: $205K\nResolution rules: If Jacksonville wins the PHI Eagles vs JAC Jaguars Pro Football game originally scheduled for Oct 11, 2026, then the market resolves to Yes.\n\nThe following market refers to the team who wins the PHI Eagles vs JAC Jaguars Pro Football game originally scheduled for Oct 11, 2026. If the game ends in a tie, the market will resolve to $0.50 for each team. If the game is postponed but begins within 48 hours from its originally scheduled start time, the market will remain open and resolve based on the \nSignals: inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 100.0%. Buying every YES costs 101.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will the Jacksonville Jaguars win the football game against the Philadelphia Eagles?",
+  "summary": "This market lets you buy a YES share if you think Jacksonville will win the game. A YES share pays $1 if Jacksonville wins and $0 if they don't. The current price is 77 cents, which means the market thinks there is about a 77% chance Jacksonville will win. Because the game could end in a tie, the market pays half a dollar to both sides if that happens.",
+  "whats_notable": "The market includes a special rule to pay 50 cents each if the game ties, which is less common in prediction markets.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "tag": "summary:kalshi:KXPGATOUR-BAC26-KMIT",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Baycurrent Classic: Keith Mitchell wins\nEvent: Baycurrent Classic Winner \u2014 Keith Mitchell\nCategory: Sports  Venue: kalshi\nYES price: 0.23 (~23%)\n24h change: 21 points   24h volume: $232K\nResolution rules: If Keith Mitchell wins the Baycurrent Classic, then the market resolves to Yes.\n\nIf a golfer forfeits, withdraws, or does not participate prior to teeing off, their contracts will resolve as follows:\nTournament Winner and End of Round Leader markets will resolve to No\nFinishing Position, Make the Cut, Head-to-Head, and 3-Ball markets will resolve to Fair Market Value\n\nSignals: gap 3 \u2014 Kalshi 22.5\u00a2 vs Polymarket 19.1\u00a2: the 3.4\u00a2 gap is eaten by spreads and fees (10.2\u00a2). No edge.; inconsistency 0 \u2014 The 72 outcomes' mid prices sum to 106.2%. Buying every YES costs 122.0\u00a2 and selling every YES fetches 90.4\u00a2, so no set \n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Keith Mitchell win the Baycurrent Classic golf tournament?",
+  "summary": "This market lets you bet on whether Keith Mitchell will win the Baycurrent Classic golf tournament. A YES share costs about 23 cents. Because a YES share pays $1 if Keith Mitchell wins, and $0 if he doesn't, this price means the market thinks there's about a 23% chance he will win. The price recently went up by 21 points, meaning the chance increased. Lots of money, $232,000, changed hands in the last day, showing many people were active.",
+  "whats_notable": "The price on this market at Kalshi is slightly higher than another platform, but fees and spreads remove any easy profit opportunity.",
+  "concepts": [
+   "implied-probability",
+   "liquidity",
+   "spread-vig"
+  ]
+ }
+}

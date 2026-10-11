@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXNHLGAME-26OCT10LAVGK-LA",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Los Angeles wins\nEvent: Los Angeles vs Vegas \u2014 Los Angeles\nCategory: Sports  Venue: kalshi\nYES price: 0.47 (~47%)\n24h change: 6 points   24h volume: $292K\nResolution rules: If Los Angeles wins the Los Angeles vs Vegas NHL game originally scheduled for Oct 10, 2026, then the market resolves to Yes.\n\nIf the game is postponed but begins within 48 hours of its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is cancelled or not started within 48 hours of its originally scheduled start, all markets will resolve to a fair price.\nSignals: inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 100.0%. Buying every YES costs 101.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Los Angeles win the NHL game against Vegas on October 10, 2026?",
+  "summary": "This market asks if Los Angeles will win their NHL game against Vegas on October 10, 2026. A YES share costs 47 cents, which means the market thinks there's about a 47% chance Los Angeles will win. If Los Angeles wins, the YES share pays $1; if they don't, it pays $0. The market volume shows many people have traded shares worth $292,000 in the last day, indicating strong interest.",
+  "whats_notable": "The market prices are well balanced, showing no signs of unusual activity or inconsistencies.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

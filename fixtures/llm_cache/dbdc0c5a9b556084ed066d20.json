@@ -1,0 +1,17 @@
+{
+ "tag": "summary:kalshi:KXT20MATCH-26OCT102115SAUHKG-HKG",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Hong Kong wins\nEvent: Hong Kong vs Saudi Arabia \u2014 Hong Kong\nCategory: Sports  Venue: kalshi\nYES price: 0.17 (~17%)\n24h change: -52 points   24h volume: $245K\nResolution rules: If Hong Kong wins the Hong Kong vs Saudi Arabia men's professional T20 World Cup Asia Sub-Regional Qualifier B cricket match originally scheduled for Oct 10, 2026 at 9:15 PM EDT, then the market resolves to Yes.\n\nIf the Hong Kong vs Saudi Arabia men's professional T20 World Cup Asia Sub-Regional Qualifier B cricket match originally scheduled for Oct 10, 2026 at 9:15 PM EDT ends in a tie, draw, no result (NR), abandonment, or cancellation, and no official winner is declared, all markets will reso\nSignals: anomaly 30 \u2014 Volume in the last hour ran 42.9\u00d7 its trailing hourly average \u2014 far outside normal. Price moved +6.0 points in the hour,; inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 96.5%. Buying every YES costs 101.0\u00a2 and selling every YES fetches 92.0\u00a2, so no set tr\nRecent headlines: Hong Kong, China vs Saudi Arabia | \u2018Weird one\u2019: Rejuvenated Renshaw\u2019s admission after epic knock rescues Aussies | 7th Match, ICC Men's T20 World Cup Sub Regional Asia Qualifier B at Kuala Lumpur, Oct 11 2026\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Hong Kong win its cricket match against Saudi Arabia?",
+  "summary": "This market lets you buy a YES share that pays 1 dollar if Hong Kong wins the cricket match and 0 dollars if it doesn't. The current price is about 17 cents, which suggests the market estimates a 17% chance that Hong Kong will win. This price can change as new information or bets come in before the match. The match is part of a cricket tournament and will happen on October 10, 2026.",
+  "whats_notable": "There was a sudden large increase in trading volume recently, much higher than usual, causing the price to rise by 6 points in one hour.",
+  "concepts": [
+   "implied-probability",
+   "liquidity",
+   "anomaly-patterns"
+  ]
+ }
+}

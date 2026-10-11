@@ -1,0 +1,17 @@
+{
+ "tag": "summary:kalshi:KXNFLGAME-26OCT11PHIJAC-PHI",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Philadelphia wins\nEvent: PHI Eagles vs JAC Jaguars \u2014 Philadelphia\nCategory: Sports  Venue: kalshi\nYES price: 0.23 (~23%)\n24h change: 0 points   24h volume: $1.3M\nResolution rules: If Philadelphia wins the PHI Eagles vs JAC Jaguars Pro Football game originally scheduled for Oct 11, 2026, then the market resolves to Yes.\n\nThe following market refers to the team who wins the PHI Eagles vs JAC Jaguars Pro Football game originally scheduled for Oct 11, 2026. If the game ends in a tie, the market will resolve to $0.50 for each team. If the game is postponed but begins within 48 hours from its originally scheduled start time, the market will remain open and resolve based on the \nSignals: anomaly 21 \u2014 Volume in the last hour ran 6.4\u00d7 its trailing hourly average, somewhat elevated. Price moved +0.0 points in the hour, in; inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 100.0%. Buying every YES costs 101.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will the Philadelphia Eagles win their game against the Jacksonville Jaguars on October 11, 2026?",
+  "summary": "This market is a bet on whether the Philadelphia Eagles will win their football game against the Jacksonville Jaguars. A YES share means you get $1 if Philadelphia wins and $0 if they don't. The current price is 0.23 dollars, which means the market thinks there is about a 23% chance Philadelphia will win. If the game ends in a tie, each side pays out 50 cents per share.",
+  "whats_notable": "The trading volume in the last hour was much higher than usual, but the price didn't change.",
+  "concepts": [
+   "implied-probability",
+   "liquidity",
+   "anomaly-patterns"
+  ]
+ }
+}

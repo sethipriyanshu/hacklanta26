@@ -1,0 +1,16 @@
+{
+ "tag": "summary:poly:682705",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Will Benjamin Netanyahu be the next Prime Minister of Israel?\nEvent: Prime Minister of Israel after the next election? \u2014 Benjamin Netanyahu\nCategory: Politics  Venue: polymarket\nYES price: 0.34 (~34%)\n24h change: -1 points   24h volume: $192K\nResolution rules: Legislative elections are schedule to be held in Israel on October 27, 2026. \n\nThis market will resolve to the next individual who is officially appointed and sworn in as Prime Minister of Israel following the 2026 parliamentary election. If an election is called early, this market will immediately resolve to the individual who is officially appointed and sworn in after that election.\n\nTo count for resolution, the individual must be formally sworn in. Any interim or caretaker Prime Minister will\nSignals: gap 30 \u2014 Kalshi prices YES at 1.0\u00a2, Polymarket at 34.5\u00a2 \u2014 a 33.5\u00a2 gap. Crossing both spreads and paying fees costs about 3.0\u00a2, le; gap 30 \u2014 Kalshi prices YES at 1.0\u00a2, Polymarket at 34.5\u00a2 \u2014 a 33.5\u00a2 gap. Crossing both spreads and paying fees costs about 3.0\u00a2, le; gap 30 \u2014 Kalshi prices YES at 2.5\u00a2, Polymarket at 34.5\u00a2 \u2014 a 32.0\u00a2 gap. Crossing both spreads and paying fees costs about 3.5\u00a2, le\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Benjamin Netanyahu be Israel's Prime Minister after the next election?",
+  "summary": "This market asks if Benjamin Netanyahu will be the Prime Minister of Israel after the next election, set for October 27, 2026. A YES share here costs about 34 cents, which means the market thinks there is roughly a 34% chance he will become Prime Minister. If you own one YES share, it will pay $1 if he is Prime Minister after the election, and $0 if not.",
+  "whats_notable": "The price for YES shares is very different across platforms, showing a big difference in how this event is being valued.",
+  "concepts": [
+   "implied-probability",
+   "cross-venue-arbitrage"
+  ]
+ }
+}

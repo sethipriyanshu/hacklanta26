@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXITFWMATCH-26OCT10SANMEA-MEA",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Sofia Meabe wins\nEvent: Sanchez vs Meabe \u2014 Sofia Meabe\nCategory: Sports  Venue: kalshi\nYES price: 0.21 (~21%)\n24h change: 22 points   24h volume: $710K\nResolution rules: If Sofia Meabe wins the Sanchez vs Meabe professional tennis match in the 2026 W15 Cipolletti Quarterfinal after a ball has been played, then the market resolves to Yes.\n\nThe following market refers to the Sanchez vs Meabe professional tennis match in the 2026 W15 Cipolletti Quarterfinal after a ball has been played. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), all markets will\nSignals: anomaly 0 \u2014 The move followed a matching headline, which explains it.; inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 100.0%. Buying every YES costs 103.0\u00a2 and selling every YES fetches 97.0\u00a2, so no set t\nRecent headlines: October 10, 2026: Sanchez vs Meabe Prediction Market | H2H Sofia Meabe Vs Ana Sofia Sanchez stats, prediction, head 2 head, and draw | H2H Luciana Moyano Vs Sofia Meabe stats, prediction, head 2 head, and draw\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Sofia Meabe win the tennis match against Sanchez?",
+  "summary": "This market asks if Sofia Meabe will win the next tennis match against Sanchez. A YES share costs about 21 cents now. Since a YES share pays $1 if she wins and $0 if she doesn\u2019t, the price suggests people think there is about a 21% chance she will win. This means she is considered less likely to win than not in this match. The price can change as new information comes in, like how the players are performing.",
+  "whats_notable": "The price recently jumped up by 22 cents, likely after news related to the match.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

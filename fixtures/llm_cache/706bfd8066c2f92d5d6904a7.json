@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXNFLGAME-26OCT11CHIGB-CHI",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Chicago wins\nEvent: CHI Bears vs GB Packers \u2014 Chicago\nCategory: Sports  Venue: kalshi\nYES price: 0.53 (~53%)\n24h change: 0 points   24h volume: $218K\nResolution rules: If Chicago wins the CHI Bears vs GB Packers Pro Football game originally scheduled for Oct 11, 2026, then the market resolves to Yes.\n\nThe following market refers to the team who wins the CHI Bears vs GB Packers Pro Football game originally scheduled for Oct 11, 2026. If the game ends in a tie, the market will resolve to $0.50 for each team. If the game is postponed but begins within 48 hours from its originally scheduled start time, the market will remain open and resolve based on the official \nSignals: anomaly 18 \u2014 Volume in the last hour was 2.3\u00d7 its trailing hourly average, nothing unusual. Price moved +0.0 points in the hour, in l; gap 0 \u2014 Kalshi 52.5\u00a2 vs Polymarket 52.5\u00a2: the 0.0\u00a2 gap is eaten by spreads and fees (3.5\u00a2). No edge.; inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 100.0%. Buying every YES costs 101.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\nRecent headlines: How to watch Bears vs. Packers: TV channel and streaming options for October 11 | Green Bay Packers roster, jersey numbers for Week 5 game vs Chicago Bears | Green Bay Packers vs. Chicago Bears prediction, pick for NFL Week 5 on Sunday 10/11/26\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will the Chicago Bears win the football game against the Green Bay Packers on October 11, 2026?",
+  "summary": "This market lets you buy a YES share if you think Chicago Bears will win this specific game. A YES share pays $1 if Chicago wins and $0 if they don't. The current price is 53 cents, meaning the market estimates about a 53% chance that Chicago will win. This helps people see what others think about the game's outcome.",
+  "whats_notable": "Trading volume is steady, and the price is stable around 53 cents, showing no recent big changes.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

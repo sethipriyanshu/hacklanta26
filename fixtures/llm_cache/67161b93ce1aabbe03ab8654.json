@@ -1,0 +1,16 @@
+{
+ "tag": "summary:poly:5234660",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: US x Iran ceasefire continues through October 12?\nEvent: US-Iran ceasefire continues through...? \u2014 October 12\nCategory: Politics  Venue: polymarket\nYES price: 0.96 (~96%)\n24h change: 1 points   24h volume: $297K\nResolution rules: This market will resolve to \u201cNo\u201d if the United States takes a qualifying military action against Iran by the specified date, 11:59 PM Iran Standard Time. Otherwise this market will resolve to \u201cYes.\u201d\n\nA qualifying military action refers to an air strike or a surface-to-surface missile strike, initiated by the United States, that directly impacts Iran. An air strike includes bombs, air-to-surface missiles, and air-launched drones. A surface-to-surface missile strike includes one-way attack drones \n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will the ceasefire between the US and Iran continue through October 12?",
+  "summary": "This market asks if the ceasefire between the US and Iran will last without a US military strike until October 12. If you buy a YES share, you get $1 if it does, and $0 if it doesn't. The current price is 96 cents, meaning the market thinks there is about a 96% chance the ceasefire will hold. This helps people understand and bet on political events.",
+  "whats_notable": "The price is very high at 96%, showing strong confidence that the ceasefire will last through October 12.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

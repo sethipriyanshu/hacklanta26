@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXNFLTOTAL-26OCT11PHIJAC-43",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Full Game: over 42.5 points scored?\nEvent: PHI Eagles vs JAC Jaguars: Total Points \u2014 Over 42.5 points\nCategory: Sports  Venue: kalshi\nYES price: 0.47 (~47%)\n24h change: -2 points   24h volume: $277K\nResolution rules: If PHI Eagles and JAC Jaguars collectively score more than 42.5 points in the PHI Eagles vs JAC Jaguars Pro Football game originally scheduled for Oct 11, 2026, then the market resolves to Yes.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will the total points scored by the PHI Eagles and JAC Jaguars be more than 42.5 in their game?",
+  "summary": "This market is about guessing if the combined points scored by two football teams will be over 42.5 points. A YES share costs 47 cents, meaning the market thinks there's about a 47% chance this will happen. If you buy a YES share and the total points are more than 42.5, that share pays $1. Otherwise, it pays $0.",
+  "whats_notable": "The price has dropped 2 cents in the last 24 hours with $277,000 traded, showing active interest.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

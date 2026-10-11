@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXWTAMATCH-26OCT10SORKAS-KAS",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Daria Kasatkina wins\nEvent: Sorribes Tormo vs Kasatkina \u2014 Daria Kasatkina\nCategory: Sports  Venue: kalshi\nYES price: 0.49 (~49%)\n24h change: 49 points   24h volume: $518K\nResolution rules: If Daria Kasatkina wins the Sorribes Tormo vs Kasatkina professional tennis match in the 2026 WTA Wuhan Qualification Final after a ball has been played, then the market resolves to Yes.\n\nThe following market refers to the Sorribes Tormo vs Kasatkina professional tennis match in the 2026 WTA Wuhan Qualification Final after a ball has been played. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the m\nSignals: inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 100.0%. Buying every YES costs 102.0\u00a2 and selling every YES fetches 98.0\u00a2, so no set t\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Daria Kasatkina win her tennis match against Sorribes Tormo?",
+  "summary": "This market asks if Daria Kasatkina will win a specific tennis match. A YES share means you get $1 if she wins and $0 if she doesn't. The current price is about 49 cents, which suggests the market thinks there is roughly a 49% chance she'll win. This price changes as people buy and sell shares based on new information or opinions.",
+  "whats_notable": "The price changed by 49 points in the last 24 hours, and there was a lot of trading volume ($518K), showing high interest.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

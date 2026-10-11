@@ -1,0 +1,17 @@
+{
+ "tag": "summary:kalshi:KXT20MATCH-26OCT102115SAUHKG-SAU",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Saudi Arabia wins\nEvent: Hong Kong vs Saudi Arabia \u2014 Saudi Arabia\nCategory: Sports  Venue: kalshi\nYES price: 0.80 (~80%)\n24h change: 24 points   24h volume: $277K\nResolution rules: If Saudi Arabia wins the Hong Kong vs Saudi Arabia men's professional T20 World Cup Asia Sub-Regional Qualifier B cricket match originally scheduled for Oct 10, 2026 at 9:15 PM EDT, then the market resolves to Yes.\n\nIf the Hong Kong vs Saudi Arabia men's professional T20 World Cup Asia Sub-Regional Qualifier B cricket match originally scheduled for Oct 10, 2026 at 9:15 PM EDT ends in a tie, draw, no result (NR), abandonment, or cancellation, and no official winner is declared, all markets will r\nSignals: anomaly 30 \u2014 Volume in the last hour ran 45.2\u00d7 its trailing hourly average \u2014 far outside normal. Price moved -2.0 points in the hour,; inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 96.5%. Buying every YES costs 101.0\u00a2 and selling every YES fetches 92.0\u00a2, so no set tr\nRecent headlines: Hong Kong, China vs Saudi Arabia | \u2018Weird one\u2019: Rejuvenated Renshaw\u2019s admission after epic knock rescues Aussies | 7th Match, ICC Men's T20 World Cup Sub Regional Asia Qualifier B at Kuala Lumpur, Oct 11 2026\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Saudi Arabia win the cricket match against Hong Kong?",
+  "summary": "This market asks if Saudi Arabia will win the upcoming cricket match against Hong Kong. A YES share currently costs about 80 cents. This means many people think Saudi Arabia has about an 80% chance to win. If Saudi Arabia wins, a YES share pays $1. If they don't, it pays nothing.",
+  "whats_notable": "Trading volume in the last hour was very high, about 45 times normal, and the price moved down slightly during that time.",
+  "concepts": [
+   "implied-probability",
+   "liquidity",
+   "anomaly-patterns"
+  ]
+ }
+}

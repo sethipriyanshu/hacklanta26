@@ -1,0 +1,17 @@
+{
+ "tag": "summary:kalshi:KXLIGAMXGAME-26OCT10AMEMON-MON",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Monterrey wins\nEvent: America vs Monterrey \u2014 Monterrey\nCategory: Sports  Venue: kalshi\nYES price: 0.18 (~18%)\n24h change: -6 points   24h volume: $1.2M\nResolution rules: If Monterrey wins the America vs Monterrey professional Liga MX soccer game originally scheduled for Oct 10, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.\n\nThe following market refers to the America vs Monterrey professional Liga MX soccer game originally scheduled for Oct 10, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties). If the game ends in a tie, the market called \"Tie\" resolves to Ye\nSignals: anomaly 30 \u2014 Volume in the last hour ran 120.5\u00d7 its trailing hourly average \u2014 far outside normal. Price moved +0.0 points in the hour; inconsistency 0 \u2014 The 3 outcomes' mid prices sum to 100.5%. Buying every YES costs 102.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\nRecent headlines: Am\u00e9rica vs Monterrey line-ups and TV details for Apertura 2026 matchday 11 | Club Am\u00e9rica vs Monterrey live online: score, stats, goals & updates | Liga MX Apertura 2026 | Club Am\u00e9rica vs. Monterrey CF Lineups, Live Stream, How & Where to Watch Liga MX on TV\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Monterrey win the soccer game against America on October 10, 2026?",
+  "summary": "This market lets you buy a YES share that pays $1 if Monterrey wins the soccer match against America after regular time, and $0 if they don't. The current price is about 18 cents, meaning the market thinks there's roughly an 18% chance Monterrey will win. The contract only cares about the result after 90 minutes plus stoppage time, not extra time or penalties.",
+  "whats_notable": "A lot more trading happened in the last hour than usual, but the price didn't change.",
+  "concepts": [
+   "implied-probability",
+   "liquidity",
+   "anomaly-patterns"
+  ]
+ }
+}

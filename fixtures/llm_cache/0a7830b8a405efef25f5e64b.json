@@ -1,0 +1,17 @@
+{
+ "tag": "summary:kalshi:KXNFLGAME-26OCT11SFSEA-SF",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: San Francisco wins\nEvent: SF 49ers vs SEA Seahawks \u2014 San Francisco\nCategory: Sports  Venue: kalshi\nYES price: 0.39 (~39%)\n24h change: 0 points   24h volume: $764K\nResolution rules: If San Francisco wins the SF 49ers vs SEA Seahawks Pro Football game originally scheduled for Oct 11, 2026, then the market resolves to Yes.\n\nThe following market refers to the team who wins the SF 49ers vs SEA Seahawks Pro Football game originally scheduled for Oct 11, 2026. If the game ends in a tie, the market will resolve to $0.50 for each team. If the game is postponed but begins within 48 hours from its originally scheduled start time, the market will remain open and resolve based on the o\nSignals: anomaly 22 \u2014 Volume in the last hour ran 2.9\u00d7 its trailing hourly average, somewhat elevated. Price moved +0.0 points in the hour, in; gap 0 \u2014 Kalshi 38.5\u00a2 vs Polymarket 38.5\u00a2: the 0.0\u00a2 gap is eaten by spreads and fees (3.5\u00a2). No edge.; inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 100.0%. Buying every YES costs 101.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\nRecent headlines: NFL Week 5 picks & props: Seahawks host 49ers in battle of NFC powerhouses | Seahawks show Super Bowl formula with 'complete' performance vs. 49ers | Seahawks vs. 49ers odds, picks, predictions: Best bets for NFL divisional round game\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will the San Francisco 49ers win the game against the Seattle Seahawks on October 11, 2026?",
+  "summary": "This market asks if the San Francisco 49ers will win their football game against the Seattle Seahawks. A YES share pays $1 if San Francisco wins and $0 if they do not. The current price of 39 cents means the market thinks there's about a 39% chance San Francisco will win. This market helps people guess the outcome of the game based on how they trade YES shares.",
+  "whats_notable": "Trading volume in the last hour was nearly three times higher than usual, showing more activity than normal.",
+  "concepts": [
+   "implied-probability",
+   "liquidity",
+   "anomaly-patterns"
+  ]
+ }
+}

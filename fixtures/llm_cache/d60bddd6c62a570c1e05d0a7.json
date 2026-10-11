@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXNFLFFPTSLADDER-26OCT11DETARI-ARIMHARRISON18",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Marvin Harrison Jr. fantasy scalar ladder\nEvent: Detroit vs Arizona: Fantasy Ladder \u2014 Marvin Harrison Jr.\nCategory: Sports  Venue: kalshi\nYES price: 0.01 (~1%)\n24h change: 1 points   24h volume: $189K\nResolution rules: If Each Yes contract pays $0.01 per PPR fantasy point scored by Marvin Harrison Jr. during the Detroit vs Arizona Pro Football game originally scheduled for Oct 11, 2026 rounded to the nearest cent with half cents rounded up and limited to $0.00\u2013$1.00. Each No contract pays $1.00 minus the Yes payout. Then the market resolves to Yes.\n\nThis market uses Sleeper's weekly standard Points Per Reception (PPR) fantasy-point total for Marvin Harrison Jr. during the Detroit vs Arizona Pro Football game o\nSignals: anomaly 100 \u2014 189,095 contracts traded in the last hour after days of near-zero activity. Price moved -6.5 points in an hour, against \nRecent headlines: Nottingham Forest squad ladder: James McAtee a cut above, lack of chances for Chris Wood - The Athletic | Man City squad ladder: Erling Haaland misses out on top spot and Phil Foden\u2019s slow start | Arsenal squad ladder: Martin Odegaard out in front; big chance for Viktor Gyokeres?\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "How many fantasy points will Marvin Harrison Jr. score in the Detroit vs Arizona game?",
+  "summary": "This market lets you bet on how many fantasy points Marvin Harrison Jr. will score in a specific football game. A YES share here pays 1 cent for every fantasy point he scores, up to $1.00. The current price of 1 cent means the market expects around 1 fantasy point scored. Essentially, the price shows what traders think about his likely performance in that game.",
+  "whats_notable": "A huge number of contracts were traded in one hour after very little trading before, causing a sharp price drop.",
+  "concepts": [
+   "liquidity",
+   "anomaly-patterns"
+  ]
+ }
+}

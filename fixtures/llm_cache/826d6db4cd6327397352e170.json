@@ -1,0 +1,15 @@
+{
+ "tag": "summary:kalshi:KXLALIGAGAME-26OCT10RVCATH-ATH",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Bilbao wins\nEvent: Vallecano vs Bilbao \u2014 Bilbao\nCategory: Sports  Venue: kalshi\nYES price: 0.34 (~34%)\n24h change: -3 points   24h volume: $316K\nResolution rules: If Bilbao wins the Vallecano vs Bilbao professional La Liga soccer game originally scheduled for Oct 10, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.\n\nThe following market refers to the Vallecano vs Bilbao professional La Liga soccer game originally scheduled for Oct 10, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties). If the game ends in a tie, the market called \"Tie\" resolves to Yes. If\nSignals: inconsistency 9 \u2014 The 3 outcomes' mid prices sum to 93.5%. Buying every YES costs 97.0\u00a2 and selling every YES fetches 90.0\u00a2, so no set tra; anomaly 0 \u2014 Volume in the last hour was 0.4\u00d7 its trailing hourly average, nothing unusual. Price moved +0.0 points in the hour, in l\nRecent headlines: When paper planes stopped football: Rayo Vallecano vs Athletic abandoned after protests | Rayo Vallecano vs Athletic Club: Spanish La Liga stats & head-to-head | Rayo Vallecano fans protest against club president and force suspension of La Liga game\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Bilbao win the soccer game against Vallecano on October 10, 2026?",
+  "summary": "This market lets you buy a \"YES\" share that pays $1 if Bilbao wins the Vallecano vs Bilbao soccer game. Right now, each YES share costs 34 cents, which means traders think there's about a 34% chance Bilbao will win. If Bilbao doesn't win in 90 minutes plus extra stoppage time, the YES shares pay nothing. This is a way to see what people expect to happen in this soccer match.",
+  "whats_notable": "The total prices for all possible outcomes add up to less than $1, showing some pricing inconsistency.",
+  "concepts": [
+   "implied-probability"
+  ]
+ }
+}

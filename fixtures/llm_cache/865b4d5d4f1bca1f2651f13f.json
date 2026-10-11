@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXNFLSPREAD-26OCT11HOUTEN-HOU8",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: HOU Texans wins by over 7.5 points?\nEvent: HOU Texans vs TEN Titans: Spread \u2014 HOU Texans wins by over 7.5 points\nCategory: Sports  Venue: kalshi\nYES price: 0.46 (~46%)\n24h change: -2 points   24h volume: $744K\nResolution rules: If HOU Texans wins by more than 7.5 points in the HOU Texans vs TEN Titans Pro Football game originally scheduled for Oct 11, 2026, then the market resolves to Yes.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will the Houston Texans win their game against the Tennessee Titans by more than 7.5 points?",
+  "summary": "This market asks if the Houston Texans will win their football game against the Tennessee Titans by more than 7.5 points. Buying a YES share means you get $1 if this happens and $0 if it doesn\u2019t. The current price of 46 cents means the market thinks there is about a 46% chance this happens. People trade these shares to share their opinion or information about the outcome.",
+  "whats_notable": "The price dropped 2 points in the last 24 hours, showing changing opinions.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

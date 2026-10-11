@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXNHLGAME-26OCT10ANACGY-ANA",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Anaheim wins\nEvent: Anaheim vs Calgary \u2014 Anaheim\nCategory: Sports  Venue: kalshi\nYES price: 0.90 (~90%)\n24h change: 36 points   24h volume: $555K\nResolution rules: If Anaheim wins the Anaheim vs Calgary NHL game originally scheduled for Oct 10, 2026, then the market resolves to Yes.\n\nIf the game is postponed but begins within 48 hours of its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is cancelled or not started within 48 hours of its originally scheduled start, all markets will resolve to a fair price.\nSignals: inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 100.5%. Buying every YES costs 102.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Anaheim win the hockey game against Calgary?",
+  "summary": "This market is about guessing if Anaheim will win their hockey game against Calgary on October 10, 2026. A YES share here costs 90 cents, meaning the market thinks there is about a 90% chance Anaheim will win. If Anaheim wins, each YES share pays $1, but if they don't, it pays nothing. The market volume over the past day was $555,000, showing many people are interested in this outcome.",
+  "whats_notable": "The total prices for YES shares add up nicely to about 100%, showing consistent market odds with no odd patterns.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

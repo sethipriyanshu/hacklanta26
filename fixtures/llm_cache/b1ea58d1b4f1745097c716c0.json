@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXBALANCEPOWERCOMBO-27FEB-RR",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Will House Control be Republican AND Senate Control be Republican for Feb 2027?\nEvent: 2026 Midterms: Congress Balance of Power? \u2014 Republicans sweep\nCategory: Politics  Venue: kalshi\nYES price: 0.10 (~10%)\n24h change: 0 points   24h volume: $246K\nResolution rules: If ALL of the following occur: House Control: Republican, Senate Control: Republican, then the market resolves to Yes.\n\nThis is a combination market requiring ALL specified outcomes to occur for the contract to pay out. If ANY single component resolves to No or becomes impossible, the entire contract immediately resolves to No. Each component is resolved according to its corresponding Kalshi ruleset: House Control uses CONTROL, Senate Control uses CONTROL. Each CONTROL component may resolve on a\nSignals: anomaly 12 \u2014 Volume in the last hour was 1.4\u00d7 its trailing hourly average, nothing unusual. Price moved -1.0 points in an hour, again; gap 2 \u2014 Kalshi 10.5\u00a2 vs Polymarket 8.5\u00a2: the 2.0\u00a2 gap is eaten by spreads and fees (2.5\u00a2). No edge.; inconsistency 0 \u2014 The 4 outcomes' mid prices sum to 100.4%. Buying every YES costs 101.9\u00a2 and selling every YES fetches 98.8\u00a2, so no set t\nRecent headlines: What\u2019s still within Trump\u2019s power even if the Democrats sweep the U.S. midterms | 2026 Congress Control Odds: House & Senate Midterm Markets | How could the Senate race in Texas impact the balance of power in Congress?\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Republicans control both the House and Senate after the 2026 midterm elections?",
+  "summary": "This market lets you buy a YES share that will pay $1 if Republicans control both the House and the Senate after the 2026 midterms. The YES share price is about 10 cents, which means the market thinks there's roughly a 10% chance of that happening. Traders use these prices to express what they believe will happen. If either the House or Senate is not Republican, the YES share pays $0.",
+  "whats_notable": "The price is low at 10 cents, showing the market thinks a Republican sweep is unlikely right now.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

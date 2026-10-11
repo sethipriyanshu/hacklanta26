@@ -1,0 +1,17 @@
+{
+ "tag": "summary:kalshi:KXLIGAMXGAME-26OCT10AMEMON-TIE",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Tie is the result\nEvent: America vs Monterrey \u2014 Tie\nCategory: Sports  Venue: kalshi\nYES price: 0.51 (~51%)\n24h change: 24 points   24h volume: $480K\nResolution rules: If Tie is the result of the America vs Monterrey professional Liga MX soccer game originally scheduled for Oct 10, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.\n\nThe following market refers to the America vs Monterrey professional Liga MX soccer game originally scheduled for Oct 10, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties). If the game ends in a tie, the market called \"Tie\" resolves\nSignals: anomaly 30 \u2014 Volume in the last hour ran 76.9\u00d7 its trailing hourly average \u2014 far outside normal. Price moved +0.0 points in the hour,; inconsistency 0 \u2014 The 3 outcomes' mid prices sum to 100.5%. Buying every YES costs 102.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\nRecent headlines: Am\u00e9rica vs Monterrey line-ups and TV details for Apertura 2026 matchday 11 | Club Am\u00e9rica vs Monterrey live online: score, stats, goals & updates | Liga MX Apertura 2026 | Club Am\u00e9rica vs. Monterrey CF Lineups, Live Stream, How & Where to Watch Liga MX on TV\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will the America vs Monterrey soccer game end in a tie after regular time?",
+  "summary": "This market asks if the soccer game between America and Monterrey will be a tie after the regular 90 minutes plus stoppage time. Buying a YES share means you get $1 if the game ends in a tie and $0 if it doesn't. The YES price is 0.51 dollars or 51 cents, so the market thinks there's about a 51% chance of a tie. This market is a way to see what people think will happen in the game just before it starts.",
+  "whats_notable": "The trading volume in the last hour was almost 77 times higher than usual, which is very unusual but the YES price stayed the same.",
+  "concepts": [
+   "implied-probability",
+   "liquidity",
+   "anomaly-patterns"
+  ]
+ }
+}

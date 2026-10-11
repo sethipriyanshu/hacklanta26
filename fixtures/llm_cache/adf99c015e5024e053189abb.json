@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXLIGAMXGAME-26OCT10AMEMON-AME",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: America wins\nEvent: America vs Monterrey \u2014 America\nCategory: Sports  Venue: kalshi\nYES price: 0.48 (~48%)\n24h change: -4 points   24h volume: $1.2M\nResolution rules: If America wins the America vs Monterrey professional Liga MX soccer game originally scheduled for Oct 10, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.\n\nThe following market refers to the America vs Monterrey professional Liga MX soccer game originally scheduled for Oct 10, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties). If the game ends in a tie, the market called \"Tie\" resolves to Yes.\nSignals: inconsistency 0 \u2014 The 3 outcomes' mid prices sum to 100.5%. Buying every YES costs 102.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will America win the soccer game against Monterrey on October 10, 2026?",
+  "summary": "This market lets you buy a YES share that pays $1 if America wins the game against Monterrey after regular time. Right now, the YES share costs about 48 cents, which means the market estimates a 48% chance that America will win. If America does not win, the share pays nothing. This market is a way to see and respond to how likely people think America will win this particular soccer match.",
+  "whats_notable": "The prices of all three outcomes (win, lose, tie) add up to about 100.5%, showing the market is balanced with no unusual pricing.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

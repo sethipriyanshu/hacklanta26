@@ -1,0 +1,17 @@
+{
+ "tag": "summary:kalshi:KXNHLGAME-26OCT10ANACGY-ANA",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Anaheim wins\nEvent: Anaheim vs Calgary \u2014 Anaheim\nCategory: Sports  Venue: kalshi\nYES price: 0.99 (~99%)\n24h change: 46 points   24h volume: $584K\nResolution rules: If Anaheim wins the Anaheim vs Calgary NHL game originally scheduled for Oct 10, 2026, then the market resolves to Yes.\n\nIf the game is postponed but begins within 48 hours of its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is cancelled or not started within 48 hours of its originally scheduled start, all markets will resolve to a fair price.\nSignals: anomaly 30 \u2014 Volume in the last hour ran 155.3\u00d7 its trailing hourly average \u2014 far outside normal. Price moved +16.0 points in an hour; inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 100.0%. Buying every YES costs 101.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\nRecent headlines: Ducks\u2019 Cutter Gauthier leaves game with upper-body injury | Ducks' Cutter Gauthier exits vs. Flames with upper-body injury | Ver Anaheim Ducks vs. Calgary Flames\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Anaheim win the NHL game against Calgary on October 10, 2026?",
+  "summary": "This market asks if Anaheim will win their hockey game against Calgary. A YES share costs 99 cents, meaning people think there is about a 99% chance Anaheim will win. If Anaheim wins, each YES share pays $1; if not, it pays nothing. Because many people bought YES shares recently, the price moved up quickly.",
+  "whats_notable": "There was a big jump in trading activity in just one hour, much higher than usual.",
+  "concepts": [
+   "implied-probability",
+   "anomaly-patterns",
+   "liquidity"
+  ]
+ }
+}

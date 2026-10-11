@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXMLSGAME-26OCT10LAFCVAN-LAFC",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Los Angeles F wins\nEvent: Los Angeles F vs Vancouver \u2014 Los Angeles F\nCategory: Sports  Venue: kalshi\nYES price: 0.01 (~1%)\n24h change: -40 points   24h volume: $784K\nResolution rules: If Los Angeles F wins the Los Angeles F vs Vancouver professional MLS soccer game originally scheduled for Oct 10, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.\n\nThe following market refers to the Los Angeles F vs Vancouver professional MLS soccer game originally scheduled for Oct 10, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties). If the game ends in a tie, the market called \"Tie\" resolv\nSignals: inconsistency 0 \u2014 The 3 outcomes' mid prices sum to 100.5%. Buying every YES costs 102.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Los Angeles F win the soccer game against Vancouver on October 10, 2026?",
+  "summary": "This market lets people buy or sell a \"YES\" share that pays $1 if Los Angeles F wins the game and $0 otherwise. The current price for a \"YES\" share is about 1 cent, which means the market thinks Los Angeles F has roughly a 1% chance of winning. This low percentage suggests that most people expect Los Angeles F will not win this match.",
+  "whats_notable": "The price dropped sharply by 40 cents in the last 24 hours, and there has been a lot of trading with $784,000 volume, showing strong activity in this market.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

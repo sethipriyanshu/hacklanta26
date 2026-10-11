@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXNFLESCALATORRSHYDS-26OCT11CLENYJ-CLEQJUDKINS10",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Quinshon Judkins Rushing Yards Escalator\nEvent: Cleveland vs New York J: Rushing Yards Escalator \u2014 Quinshon Judkins\nCategory: Sports  Venue: kalshi\nYES price: 0.06 (~6%)\n24h change: 0 points   24h volume: $211K\nResolution rules: If Each Yes contract pays per rushing yards by Quinshon Judkins in the Cleveland vs New York J Pro Football game originally scheduled for Oct 11, 2026. Each 10 rushing yards increase the payout by the following schedule: 0\u20139 yards, $0.0000; 10\u201319, $0.0001; 20\u201329, $0.0010; 30\u201339, $0.0033; 40\u201349, $0.0080; 50\u201359, $0.0156; 60\u201369, $0.0270; 70\u201379, $0.0428; 80\u201389, $0.0640; 90\u201399, $0.0911; 100\u2013109, $0.1250; 110\u2013119, $0.1663; 120\u2013129, $0.2160; 130\u2013139, $0.2746; 140\u2013149, $0.3430; 150\u2013159, $0.4218; 160\u2013169\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "How many rushing yards will Quinshon Judkins have in the Cleveland vs New York J football game?",
+  "summary": "This market lets you buy a YES share which pays money depending on how many rushing yards Quinshon Judkins gets. A YES share costs about 6 cents now. This means the market currently estimates a fairly low chance for Judkins to reach higher rushing yards. The payout increases with more yards, so the price shows what traders think is likely. It helps people guess the player's performance in the game.",
+  "whats_notable": "The payout increases smoothly based on each 10 yards, not just a single yes/no outcome.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

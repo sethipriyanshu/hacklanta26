@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXT20MATCH-26OCT102115SAUHKG-SAU",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Saudi Arabia wins\nEvent: Hong Kong vs Saudi Arabia \u2014 Saudi Arabia\nCategory: Sports  Venue: kalshi\nYES price: 0.57 (~57%)\n24h change: 2 points   24h volume: $223K\nResolution rules: If Saudi Arabia wins the Hong Kong vs Saudi Arabia men's professional T20 World Cup Asia Sub-Regional Qualifier B cricket match originally scheduled for Oct 10, 2026 at 9:15 PM EDT, then the market resolves to Yes.\n\nIf the Hong Kong vs Saudi Arabia men's professional T20 World Cup Asia Sub-Regional Qualifier B cricket match originally scheduled for Oct 10, 2026 at 9:15 PM EDT ends in a tie, draw, no result (NR), abandonment, or cancellation, and no official winner is declared, all markets will r\nSignals: inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 99.5%. Buying every YES costs 106.0\u00a2 and selling every YES fetches 93.0\u00a2, so no set tr\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Saudi Arabia win their cricket match against Hong Kong?",
+  "summary": "This market asks if Saudi Arabia will win their cricket match against Hong Kong. A YES share costs about 57 cents. This means traders think there's roughly a 57% chance Saudi Arabia will win. If Saudi Arabia does win, a YES share pays $1. If they don't, it pays nothing.",
+  "whats_notable": "The prices for yes and no shares don't add perfectly to $1, suggesting small inconsistencies in the market.",
+  "concepts": [
+   "implied-probability",
+   "spread-vig"
+  ]
+ }
+}

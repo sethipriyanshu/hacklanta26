@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXMLSGAME-26OCT10LAFCVAN-VAN",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Vancouver wins\nEvent: Los Angeles F vs Vancouver \u2014 Vancouver\nCategory: Sports  Venue: kalshi\nYES price: 0.01 (~1%)\n24h change: -36 points   24h volume: $712K\nResolution rules: If Vancouver wins the Los Angeles F vs Vancouver professional MLS soccer game originally scheduled for Oct 10, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.\n\nThe following market refers to the Los Angeles F vs Vancouver professional MLS soccer game originally scheduled for Oct 10, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties). If the game ends in a tie, the market called \"Tie\" resolves t\nSignals: inconsistency 0 \u2014 The 3 outcomes' mid prices sum to 100.5%. Buying every YES costs 102.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Vancouver win the soccer game against Los Angeles F on October 10, 2026?",
+  "summary": "This market lets you buy a \"YES\" share that pays $1 if Vancouver wins the game and $0 if they don't. Right now, the price of a \"YES\" share is about 1 cent, meaning the market thinks there's roughly a 1% chance Vancouver will win. The game is a professional soccer match in the MLS league. People have traded $712,000 worth of these shares in the last 24 hours, which shows there is interest in this prediction.",
+  "whats_notable": "The price dropped by 36 points in the last 24 hours, showing a big shift in how likely people think Vancouver can win.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

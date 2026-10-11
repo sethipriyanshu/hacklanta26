@@ -1,0 +1,15 @@
+{
+ "tag": "summary:kalshi:KXEPLGAME-26OCT11LFCMCI-MCI",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Manchester City wins\nEvent: Liverpool vs Manchester City \u2014 Manchester City\nCategory: Sports  Venue: kalshi\nYES price: 0.42 (~42%)\n24h change: 0 points   24h volume: $196K\nResolution rules: If Manchester City wins the Liverpool vs Manchester City professional EPL soccer game originally scheduled for Oct 11, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.\n\nThe following market refers to the Liverpool vs Manchester City professional EPL soccer game originally scheduled for Oct 11, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties). If the game ends in a tie, the market called \"Tie\" \nSignals: inconsistency 0 \u2014 The 3 outcomes' mid prices sum to 99.5%. Buying every YES costs 101.0\u00a2 and selling every YES fetches 98.0\u00a2, so no set tr\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Manchester City win the Liverpool vs Manchester City soccer game?",
+  "summary": "This market is about whether Manchester City will win a soccer game against Liverpool. A YES share means you get $1 if Manchester City wins, and $0 if they don't. The current price is 42 cents, which means people think there is about a 42% chance Manchester City will win. This helps show what the market thinks about the match's outcome.",
+  "whats_notable": "The prices for all outcomes add up to about 100%, showing the market is balanced with no free betting chances.",
+  "concepts": [
+   "implied-probability"
+  ]
+ }
+}

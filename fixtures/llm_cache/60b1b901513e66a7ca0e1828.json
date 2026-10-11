@@ -1,0 +1,17 @@
+{
+ "tag": "summary:kalshi:KXWTAMATCH-26OCT10FREITO-FRE",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Magdalena Frech wins\nEvent: Frech vs Ito \u2014 Magdalena Frech\nCategory: Sports  Venue: kalshi\nYES price: 0.24 (~24%)\n24h change: 24 points   24h volume: $224K\nResolution rules: If Magdalena Frech wins the Frech vs Ito professional tennis match in the 2026 WTA Wuhan Qualification Final after a ball has been played, then the market resolves to Yes.\n\nThe following market refers to the Frech vs Ito professional tennis match in the 2026 WTA Wuhan Qualification Final after a ball has been played. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), the market will \nSignals: gap 3 \u2014 Kalshi 24.5\u00a2 vs Polymarket 21.5\u00a2: the 3.0\u00a2 gap is eaten by spreads and fees (3.5\u00a2). No edge.; inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 100.0%. Buying every YES costs 101.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Magdalena Frech win her tennis match against Ito in the 2026 WTA Wuhan Qualification Final?",
+  "summary": "This market sells shares that pay $1 if Magdalena Frech wins her tennis match against Ito, and $0 if she does not. Currently, one YES share costs 24 cents, which means the market thinks there is about a 24% chance Frech will win. The market updated a lot in the last 24 hours, with $224,000 worth of shares traded. The prediction is based on the match happening as scheduled and starting with a ball being played.",
+  "whats_notable": "The price for Frech winning is about 3 cents higher on Kalshi compared to another market, but fees mean there is no guaranteed profit from this difference.",
+  "concepts": [
+   "implied-probability",
+   "spread-vig",
+   "liquidity"
+  ]
+ }
+}

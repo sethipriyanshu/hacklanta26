@@ -1,0 +1,152 @@
+{
+ "source": "llm",
+ "headline": "alabama lost to georgia",
+ "marketId": "kalshi:KXNCAAF-27-ALA",
+ "fairProbability": 0.01,
+ "fairReason": "Alabama's loss to Georgia significantly reduces its chances of winning the national championship.",
+ "analysis": "The news that Alabama lost to Georgia directly hurts Alabama's chances of winning the College Football Playoff National Championship, making the YES outcome (Alabama winning) less likely. Since this is a critical setback, it strongly decreases the probability that Alabama will ultimately win the championship.",
+ "direction": "down",
+ "movePoints": 30.0,
+ "reactions": [
+  {
+   "personaId": "retired-teacher",
+   "probability": 0.01,
+   "confidence": 0.6,
+   "delayMinutes": 20,
+   "reason": "We tend to believe our team more, but the loss is clear and impactful."
+  },
+  {
+   "personaId": "retired-exec",
+   "probability": 0.01,
+   "confidence": 0.8,
+   "delayMinutes": 10,
+   "reason": "We focus on the facts and adjust quickly to major game outcomes."
+  },
+  {
+   "personaId": "nurse",
+   "probability": 0.01,
+   "confidence": 0.7,
+   "delayMinutes": 15,
+   "reason": "We react reasonably but still hope for surprises in playoffs."
+  },
+  {
+   "personaId": "crypto-trader",
+   "probability": 0.01,
+   "confidence": 0.9,
+   "delayMinutes": 2,
+   "reason": "We incorporate new info swiftly and without emotion."
+  },
+  {
+   "personaId": "macro-pm",
+   "probability": 0.01,
+   "confidence": 0.95,
+   "delayMinutes": 1,
+   "reason": "We process impactful info instantly for market advantage."
+  },
+  {
+   "personaId": "college-student",
+   "probability": 0.01,
+   "confidence": 0.5,
+   "delayMinutes": 30,
+   "reason": "We emotionally hold onto hope despite the bad outcome."
+  },
+  {
+   "personaId": "small-biz",
+   "probability": 0.01,
+   "confidence": 0.7,
+   "delayMinutes": 15,
+   "reason": "We stick to facts and adjust forecasts moderately fast."
+  },
+  {
+   "personaId": "software-eng",
+   "probability": 0.01,
+   "confidence": 0.9,
+   "delayMinutes": 5,
+   "reason": "We quickly update probability models as new data arrives."
+  },
+  {
+   "personaId": "union-electrician",
+   "probability": 0.01,
+   "confidence": 0.6,
+   "delayMinutes": 20,
+   "reason": "We know our team but accept tough losses slowly."
+  },
+  {
+   "personaId": "political-junkie",
+   "probability": 0.01,
+   "confidence": 0.7,
+   "delayMinutes": 10,
+   "reason": "We filter through narratives and bias our optimism."
+  },
+  {
+   "personaId": "realtor",
+   "probability": 0.01,
+   "confidence": 0.75,
+   "delayMinutes": 15,
+   "reason": "We approach news pragmatically and update rapidly."
+  },
+  {
+   "personaId": "grad-econ",
+   "probability": 0.01,
+   "confidence": 0.95,
+   "delayMinutes": 5,
+   "reason": "We analyze data analytically and revise probabilities fast."
+  },
+  {
+   "personaId": "farmer",
+   "probability": 0.01,
+   "confidence": 0.7,
+   "delayMinutes": 20,
+   "reason": "We respect outcomes and factor new info steadily."
+  },
+  {
+   "personaId": "gig-driver",
+   "probability": 0.01,
+   "confidence": 0.6,
+   "delayMinutes": 25,
+   "reason": "We follow scores but bias slightly towards hope."
+  },
+  {
+   "personaId": "sports-bettor",
+   "probability": 0.01,
+   "confidence": 0.9,
+   "delayMinutes": 1,
+   "reason": "We feel losses sharply but adapt betting choices quickly."
+  },
+  {
+   "personaId": "physician",
+   "probability": 0.01,
+   "confidence": 0.85,
+   "delayMinutes": 10,
+   "reason": "We balance emotion and logic updating belief efficiently."
+  },
+  {
+   "personaId": "vc-associate",
+   "probability": 0.01,
+   "confidence": 0.8,
+   "delayMinutes": 5,
+   "reason": "We analyze info quickly with neutral perspective."
+  },
+  {
+   "personaId": "school-admin",
+   "probability": 0.01,
+   "confidence": 0.7,
+   "delayMinutes": 15,
+   "reason": "We balance allegiance and reality updating views with care."
+  },
+  {
+   "personaId": "retired-military",
+   "probability": 0.01,
+   "confidence": 0.9,
+   "delayMinutes": 5,
+   "reason": "We value facts and are disciplined in reassessments."
+  },
+  {
+   "personaId": "quant-dev",
+   "probability": 0.01,
+   "confidence": 1.0,
+   "delayMinutes": 0,
+   "reason": "We update models instantly based on latest data."
+  }
+ ]
+}

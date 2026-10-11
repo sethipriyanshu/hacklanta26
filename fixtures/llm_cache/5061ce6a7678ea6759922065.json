@@ -1,0 +1,17 @@
+{
+ "tag": "summary:kalshi:KXATPMATCH-26OCT10SHEGEA-SHE",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Ben Shelton wins\nEvent: Shelton vs Gea \u2014 Ben Shelton\nCategory: Sports  Venue: kalshi\nYES price: 0.78 (~78%)\n24h change: 4 points   24h volume: $349K\nResolution rules: If Ben Shelton wins the Shelton vs Gea professional tennis match in the 2026 ATP Shanghai Round Of 32 after a ball has been played, then the market resolves to Yes.\n\nThe following market refers to the Shelton vs Gea professional tennis match in the 2026 ATP Shanghai Round Of 32 after a ball has been played. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), the market will resolve to\nSignals: gap 20 \u2014 Kalshi prices YES at 77.5\u00a2, Polymarket at 58.0\u00a2 \u2014 a 19.5\u00a2 gap. Crossing both spreads and paying fees costs about 5.0\u00a2, l; inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 100.0%. Buying every YES costs 101.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Ben Shelton win his tennis match against Gea in the 2026 ATP Shanghai tournament?",
+  "summary": "This market lets you guess if Ben Shelton will win his tennis match against Gea. Buying a YES share means you will get $1 if Ben Shelton wins, and $0 if he loses. Since the YES share costs 78 cents, the market thinks there is about a 78% chance that Ben Shelton will win the match. This helps people see what others expect for the game's outcome.",
+  "whats_notable": "The market price here (78%) is quite a bit higher than another platform's price (58%), showing different views or information.",
+  "concepts": [
+   "implied-probability",
+   "spread-vig",
+   "liquidity"
+  ]
+ }
+}

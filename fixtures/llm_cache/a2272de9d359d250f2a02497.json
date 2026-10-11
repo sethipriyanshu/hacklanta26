@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXNBAGAME-26OCT10SASPHX-SAS",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: San Antonio wins\nEvent: San Antonio vs Phoenix \u2014 San Antonio\nCategory: Sports  Venue: kalshi\nYES price: 0.17 (~17%)\n24h change: -46 points   24h volume: $744K\nResolution rules: If San Antonio wins the San Antonio vs Phoenix Pro Basketball game originally scheduled for Oct 10, 2026, then the market resolves to Yes.\n\nIf the game is postponed but begins within 48 hours of its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is cancelled or not started within 48 hours of its originally scheduled start, all markets will resolve to a fair price.\n\nKalshi is not affiliated, associated, authorized, endorsed\nSignals: gap 30 \u2014 Kalshi 17.5\u00a2 vs Polymarket 50.0\u00a2: the 32.5\u00a2 gap is eaten by spreads and fees (53.0\u00a2). No edge.; gap 2 \u2014 Kalshi 17.5\u00a2 vs Polymarket 16.0\u00a2: the 1.5\u00a2 gap is eaten by spreads and fees (3.0\u00a2). No edge.; inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 100.0%. Buying every YES costs 101.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will San Antonio win the game against Phoenix?",
+  "summary": "This market lets you buy a YES share if you think San Antonio will win the basketball game against Phoenix. A YES share pays $1 if San Antonio wins, and $0 if they lose. The current price is 0.17 dollars, or 17 cents, which means the market estimates a 17% chance that San Antonio will win. You can think of the price as the crowd's guess of how likely it is that San Antonio will win.",
+  "whats_notable": "The price for San Antonio to win is quite low at 17%, which means San Antonio is seen as unlikely to win in this match.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

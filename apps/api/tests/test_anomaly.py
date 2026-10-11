@@ -63,3 +63,22 @@ def test_resample_minute_points_to_hourly():
     pts = [PricePoint(market_id="m", ts=i * 60, price=0.5 + i * 0.001, volume=1.0) for i in range(180)]
     bars = resample_hourly(pts)
     assert len(bars) == 3 and bars[0].volume == 60 and bars[-1].close == pts[-1].price
+
+
+def test_volume_without_a_move_is_not_flagged():
+    r = anomaly_score(series(100, spike_at=99, spike_move=0.0))
+    assert r.sub_scores["zVol"] == 1.0 and r.score <= 35 and r.details.get("noMove")
+
+
+def test_tiny_move_has_no_news_timing():
+    pts = series(100, spike_at=90, spike_move=0.002, spike_vol=10.0)
+    after = [Headline(id="h", title="x", source="s", url="u", published_at=datetime.fromtimestamp(92 * H, timezone.utc))]
+    r = anomaly_score(pts, headlines=after)
+    assert r.sub_scores["tNews"] is None and r.score < 40
+
+
+def test_move_that_followed_news_is_not_flagged():
+    pts = series(100, spike_at=99)
+    before = [Headline(id="h", title="x", source="s", url="u", published_at=datetime.fromtimestamp(98 * H, timezone.utc))]
+    r = anomaly_score(pts, headlines=before)
+    assert r.score <= 35 and r.details.get("explainedByNews")

@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXNFLGAME-26OCT11LVNE-LV",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Las Vegas wins\nEvent: LV Raiders vs NE Patriots \u2014 Las Vegas\nCategory: Sports  Venue: kalshi\nYES price: 0.38 (~38%)\n24h change: 0 points   24h volume: $651K\nResolution rules: If Las Vegas wins the LV Raiders vs NE Patriots Pro Football game originally scheduled for Oct 11, 2026, then the market resolves to Yes.\n\nThe following market refers to the team who wins the LV Raiders vs NE Patriots Pro Football game originally scheduled for Oct 11, 2026. If the game ends in a tie, the market will resolve to $0.50 for each team. If the game is postponed but begins within 48 hours from its originally scheduled start time, the market will remain open and resolve based on the off\nSignals: gap 1 \u2014 Kalshi 37.5\u00a2 vs Polymarket 36.5\u00a2: the 1.0\u00a2 gap is eaten by spreads and fees (3.5\u00a2). No edge.; inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 100.0%. Buying every YES costs 101.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will the Las Vegas Raiders win the game against the New England Patriots on October 11, 2026?",
+  "summary": "This market asks if the Las Vegas Raiders will win their football game against the New England Patriots on October 11, 2026. A YES share costs 38 cents (or $0.38). This price means the market estimates about a 38% chance that Las Vegas will win. If Las Vegas wins, each YES share pays $1; if they lose or tie, it pays $0 or $0.50 respectively.",
+  "whats_notable": "The total volume traded in the last 24 hours is quite high at $651,000, showing good interest.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

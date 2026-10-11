@@ -1,0 +1,17 @@
+{
+ "tag": "summary:kalshi:KXNCAAF-27-UCLA",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Will UCLA win the College Football Playoff National Championship?\nEvent: College Football National Championship Winner \u2014 UCLA\nCategory: Sports  Venue: kalshi\nYES price: 0.01 (~1%)\n24h change: 0 points   24h volume: $192K\nResolution rules: If UCLA wins the 2026 College Football Playoff National Championship Game, then the market resolves to Yes.\n\nKalshi is not affiliated,  associated,  authorized, endorsed by, or in any way officially connected with the NCAA. All trademarks, logos, and brand names are the property of their respective owners.\nSignals: gap 0 \u2014 Kalshi 0.5\u00a2 vs Polymarket 1.1\u00a2: the 0.6\u00a2 gap is eaten by spreads and fees (3.0\u00a2). No edge.; inconsistency 0 \u2014 The 52 outcomes' mid prices sum to 113.5%. Buying every YES costs 141.0\u00a2 and selling every YES fetches 86.0\u00a2, so no set \n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will UCLA win the 2026 College Football National Championship?",
+  "summary": "This market lets you guess if UCLA will win the College Football National Championship in 2026. A YES share here costs about 1 cent, which means the market thinks there is roughly a 1% chance UCLA will win. If UCLA does win, each YES share pays $1; if not, it pays $0. This helps you understand how likely people think UCLA's win is based on the price.",
+  "whats_notable": "The price is very low, showing very little chance of UCLA winning according to the market.",
+  "concepts": [
+   "implied-probability",
+   "spread-vig",
+   "liquidity"
+  ]
+ }
+}

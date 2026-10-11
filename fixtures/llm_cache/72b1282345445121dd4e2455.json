@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXNCAAFGAME-26OCT10HAWASU-ASU",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Arizona St. wins\nEvent: Hawai'i vs Arizona St. \u2014 Arizona St.\nCategory: Sports  Venue: kalshi\nYES price: 0.96 (~96%)\n24h change: 4 points   24h volume: $617K\nResolution rules: If Arizona St. wins the Hawai'i vs Arizona St. college football game originally scheduled for Oct 10, 2026, then the market resolves to Yes.\n\nIf the game is postponed but begins within 48 hours of its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is cancelled or not started within 48 hours of its originally scheduled start, the market will resolve to a fair price.\n\nKalshi is not affiliated, associated, authorized, endorse\nSignals: inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 100.5%. Buying every YES costs 102.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Arizona State win the football game against Hawai'i?",
+  "summary": "This market asks if Arizona State will win their college football game against Hawai'i. A YES share costs about 96 cents, meaning the market thinks there's roughly a 96% chance Arizona State will win. If Arizona State wins, YES shares pay $1 each; if they lose or it's canceled, YES shares pay $0. This gives a simple way to see how likely the game outcome is believed to be by people trading.",
+  "whats_notable": "The prices for YES shares are very close to $1, showing strong confidence that Arizona State will win.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

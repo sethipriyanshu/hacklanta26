@@ -1,0 +1,17 @@
+{
+ "tag": "summary:kalshi:KXNBAGAME-26OCT10SASPHX-SAS",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: San Antonio wins\nEvent: San Antonio vs Phoenix \u2014 San Antonio\nCategory: Sports  Venue: kalshi\nYES price: 0.09 (~9%)\n24h change: -55 points   24h volume: $848K\nResolution rules: If San Antonio wins the San Antonio vs Phoenix Pro Basketball game originally scheduled for Oct 10, 2026, then the market resolves to Yes.\n\nIf the game is postponed but begins within 48 hours of its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is cancelled or not started within 48 hours of its originally scheduled start, all markets will resolve to a fair price.\n\nKalshi is not affiliated, associated, authorized, endorsed\nSignals: anomaly 30 \u2014 Volume in the last hour ran 177.1\u00d7 its trailing hourly average \u2014 far outside normal. Price moved -13.0 points in an hour; gap 30 \u2014 Kalshi 8.5\u00a2 vs Polymarket 50.0\u00a2: the 41.5\u00a2 gap is eaten by spreads and fees (53.0\u00a2). No edge.; gap 6 \u2014 Kalshi 8.5\u00a2 vs Polymarket 14.0\u00a2: the 5.5\u00a2 gap is eaten by spreads and fees (4.0\u00a2). No edge.\nRecent headlines: Watch San Antonio Spurs vs. Phoenix Suns | San Antonio Spurs @ Phoenix Suns: Live game updates, stats, play-by-play | ESPN\u2122+ Free+ \ud835\ude86\ud835\ude70\ud835\ude83\ud835\ude72\ud835\ude77 San Antonio Spurs vs Phoenix Suns \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 \uff33\uff54\uff52\uff45\uff41\uff4d \uff26\uff52\uff45\uff45 \uff2f\uff2e \uff34\uff56 \uff23\uff48\uff41\uff4e\uff4e\uff45\uff4c! 10 October 2026\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will San Antonio win their basketball game against Phoenix?",
+  "summary": "This market lets you buy a YES share that pays $1 if San Antonio wins the basketball game and $0 if they lose. The current price of the YES share is about 9 cents, which means the market estimates about a 9% chance San Antonio will win. This price changed a lot recently and there has been a lot of trading activity.",
+  "whats_notable": "The trading volume in the last hour was extremely high, about 177 times the usual rate, and the price dropped significantly by 13 points in that time.",
+  "concepts": [
+   "implied-probability",
+   "liquidity",
+   "anomaly-patterns"
+  ]
+ }
+}

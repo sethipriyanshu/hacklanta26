@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXNCAAFTOTAL-26OCT10BSUFRES-68",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Full Game: Over 67.5 points scored\nEvent: Boise St. vs Fresno St.: Total Points \u2014 Over 67.5 points\nCategory: Sports  Venue: kalshi\nYES price: 0.61 (~61%)\n24h change: 61 points   24h volume: $221K\nResolution rules: If the teams collectively score more than 67.5 points in the Boise St. vs Fresno St. college football game originally scheduled for Oct 10, 2026, then the market resolves to Yes.\n\nIf the game is postponed but begins within 48 hours of its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is not started within 48 hours, the market will resolve to a fair price.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or \n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Boise State and Fresno State score more than 67.5 points combined in their football game?",
+  "summary": "This market lets you predict if the total points scored by Boise State and Fresno State will be over 67.5. A YES share means you earn $1 if the total points are more than 67.5, and $0 if not. The YES share price is currently 0.61, which means the market thinks there is about a 61% chance the combined points will be more than 67.5.",
+  "whats_notable": "The YES price changed by 61 points in the last 24 hours, which is a big move.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

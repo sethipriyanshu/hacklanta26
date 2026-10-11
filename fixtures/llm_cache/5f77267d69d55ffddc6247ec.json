@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXPGATOUR-BAC26-JTHO",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Baycurrent Classic: Justin Thomas wins\nEvent: Baycurrent Classic Winner \u2014 Justin Thomas\nCategory: Sports  Venue: kalshi\nYES price: 0.00 (~0%)\n24h change: -16 points   24h volume: $224K\nResolution rules: If Justin Thomas wins the Baycurrent Classic, then the market resolves to Yes.\n\nIf a golfer forfeits, withdraws, or does not participate prior to teeing off, their contracts will resolve as follows:\nTournament Winner and End of Round Leader markets will resolve to No\nFinishing Position, Make the Cut, Head-to-Head, and 3-Ball markets will resolve to Fair Market Value\n\nSignals: gap 30 \u2014 Kalshi 0.1\u00a2 vs Polymarket 50.0\u00a2: the 49.9\u00a2 gap is eaten by spreads and fees (51.6\u00a2). No edge.; inconsistency 0 \u2014 The 72 outcomes' mid prices sum to 106.2%. Buying every YES costs 122.0\u00a2 and selling every YES fetches 90.4\u00a2, so no set \n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Justin Thomas win the Baycurrent Classic golf tournament?",
+  "summary": "This market asks if Justin Thomas will win the Baycurrent Classic golf tournament. A YES share pays $1 if he wins and $0 if he doesn\u2019t. The current price is $0.00, which means the market thinks there is almost no chance he will win. This price reflects what traders believe about his chances based on the information they have.",
+  "whats_notable": "The YES price is extremely low at 0%, indicating very little belief he will win.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

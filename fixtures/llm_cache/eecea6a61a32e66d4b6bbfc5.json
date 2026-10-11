@@ -1,0 +1,16 @@
+{
+ "tag": "summary:poly:5485352",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Wuhan Tennis Open, Qualification: Yulia Putintseva vs Ashlyn Krueger\nEvent: Wuhan Tennis Open, Qualification: Yulia Putintseva vs Ashlyn Krueger\nCategory: Sports  Venue: polymarket\nYES price: 1.00 (~100%)\n24h change: 0 points   24h volume: $206K\nResolution rules: This market refers to the tennis match between Yulia Putintseva and Ashlyn Krueger in the Wuhan Tennis Open, Qualification, originally scheduled for October 10, 2026 at 10:00PM ET.\n\nThis market will resolve to 'Yulia Putintseva' if Yulia Putintseva advances against Ashlyn Krueger.\n\nThis market will resolve to 'Ashlyn Krueger' if Ashlyn Krueger advances against Yulia Putintseva.\n\nIf the match is canceled (not played at all), ends in a tie, or a winner has not been determined by October 24, 2026, \n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Yulia Putintseva win the qualification match against Ashlyn Krueger at the Wuhan Tennis Open?",
+  "summary": "This market is about whether Yulia Putintseva will win her tennis match against Ashlyn Krueger. Buying a YES share means you get $1 if Yulia wins and $0 if she doesn't. The YES price is 1.00, which means the market thinks there is almost a 100% chance she will win. This is common when one player is very likely to win.",
+  "whats_notable": "The YES price is exactly 1.00, suggesting near certainty about Yulia Putintseva winning.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

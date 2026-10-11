@@ -1,0 +1,17 @@
+{
+ "tag": "summary:kalshi:KXPGATOUR-BAC26-JBRI",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Baycurrent Classic: Jacob Bridgeman wins\nEvent: Baycurrent Classic Winner \u2014 Jacob Bridgeman\nCategory: Sports  Venue: kalshi\nYES price: 0.03 (~3%)\n24h change: -25 points   24h volume: $307K\nResolution rules: If Jacob Bridgeman wins the Baycurrent Classic, then the market resolves to Yes.\n\nIf a golfer forfeits, withdraws, or does not participate prior to teeing off, their contracts will resolve as follows:\nTournament Winner and End of Round Leader markets will resolve to No\nFinishing Position, Make the Cut, Head-to-Head, and 3-Ball markets will resolve to Fair Market Value\n\nSignals: gap 0 \u2014 Kalshi 2.6\u00a2 vs Polymarket 3.1\u00a2: the 0.5\u00a2 gap is eaten by spreads and fees (4.0\u00a2). No edge.; inconsistency 0 \u2014 The 72 outcomes' mid prices sum to 106.2%. Buying every YES costs 122.0\u00a2 and selling every YES fetches 90.4\u00a2, so no set \n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Jacob Bridgeman win the Baycurrent Classic golf tournament?",
+  "summary": "This market lets you buy a YES share if you think Jacob Bridgeman will win the Baycurrent Classic. Each YES share pays $1 if he wins and $0 if not. The current price is about 3 cents, meaning the market estimates roughly a 3% chance he will win. People use these markets to guess the outcome of events by buying shares that pay out only if that outcome happens.",
+  "whats_notable": "The price dropped by 25 points in the last 24 hours, indicating some recent change in belief about his chances.",
+  "concepts": [
+   "implied-probability",
+   "spread-vig",
+   "liquidity"
+  ]
+ }
+}

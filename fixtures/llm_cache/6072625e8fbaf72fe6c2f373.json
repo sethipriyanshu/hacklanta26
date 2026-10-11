@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXT20MATCH-26OCT102115SAUHKG-HKG",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Hong Kong wins\nEvent: Hong Kong vs Saudi Arabia \u2014 Hong Kong\nCategory: Sports  Venue: kalshi\nYES price: 0.42 (~42%)\n24h change: -26 points   24h volume: $205K\nResolution rules: If Hong Kong wins the Hong Kong vs Saudi Arabia men's professional T20 World Cup Asia Sub-Regional Qualifier B cricket match originally scheduled for Oct 10, 2026 at 9:15 PM EDT, then the market resolves to Yes.\n\nIf the Hong Kong vs Saudi Arabia men's professional T20 World Cup Asia Sub-Regional Qualifier B cricket match originally scheduled for Oct 10, 2026 at 9:15 PM EDT ends in a tie, draw, no result (NR), abandonment, or cancellation, and no official winner is declared, all markets will reso\nSignals: inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 99.5%. Buying every YES costs 106.0\u00a2 and selling every YES fetches 93.0\u00a2, so no set tr\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Hong Kong win their cricket match against Saudi Arabia?",
+  "summary": "This market asks if Hong Kong will win a specific cricket match against Saudi Arabia. A YES share here pays $1 if Hong Kong wins and $0 if they do not. The current price is about 42 cents, which means the market thinks there is roughly a 42% chance Hong Kong will win. The price has dropped by 26 points in the last day, showing changing opinions. Many people are trading in this market with about $205,000 in volume over the past 24 hours.",
+  "whats_notable": "The total of the YES prices for all possible outcomes is slightly less than 100%, which is normal but good to notice.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

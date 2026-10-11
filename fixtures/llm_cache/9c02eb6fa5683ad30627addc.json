@@ -1,0 +1,15 @@
+{
+ "tag": "summary:kalshi:KXLIGAMXGAME-26OCT10AMEMON-MON",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Monterrey wins\nEvent: America vs Monterrey \u2014 Monterrey\nCategory: Sports  Venue: kalshi\nYES price: 0.20 (~20%)\n24h change: -4 points   24h volume: $1.1M\nResolution rules: If Monterrey wins the America vs Monterrey professional Liga MX soccer game originally scheduled for Oct 10, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.\n\nThe following market refers to the America vs Monterrey professional Liga MX soccer game originally scheduled for Oct 10, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties). If the game ends in a tie, the market called \"Tie\" resolves to Ye\nSignals: inconsistency 0 \u2014 The 3 outcomes' mid prices sum to 100.5%. Buying every YES costs 102.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Monterrey win the soccer game against America on Oct 10, 2026?",
+  "summary": "This market is about whether Monterrey will win a soccer game against America on October 10, 2026. You can buy a \"YES\" share for about 20 cents. If Monterrey does win, each \"YES\" share pays $1. If they don't, it pays nothing. So the 20-cent price means the market thinks there is about a 20% chance Monterrey will win.",
+  "whats_notable": "The total prices for all possible outcomes add up closely to 100.5%, showing a consistent market.",
+  "concepts": [
+   "implied-probability"
+  ]
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "tag": "summary:kalshi:KXNHLGAME-26OCT10LAVGK-VGK",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Vegas wins\nEvent: Los Angeles vs Vegas \u2014 Vegas\nCategory: Sports  Venue: kalshi\nYES price: 0.51 (~51%)\n24h change: -10 points   24h volume: $561K\nResolution rules: If Vegas wins the Los Angeles vs Vegas NHL game originally scheduled for Oct 10, 2026, then the market resolves to Yes.\n\nIf the game is postponed but begins within 48 hours of its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is cancelled or not started within 48 hours of its originally scheduled start, all markets will resolve to a fair price.\nSignals: anomaly 30 \u2014 Volume in the last hour ran 92.9\u00d7 its trailing hourly average \u2014 far outside normal. Price moved -1.0 points in the hour,; inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 99.5%. Buying every YES costs 101.0\u00a2 and selling every YES fetches 98.0\u00a2, so no set tr\nRecent headlines: Los Angeles Kings at Vegas Golden Knights - NHL Game Summary - Oct 10, 2026 | Los Angeles Kings vs. Vegas Golden Knights | The Golden Knights can capitalize on a lost Kings team on Saturday\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Vegas win the hockey game against Los Angeles on October 10, 2026?",
+  "summary": "This market lets you buy a \"YES share\" that pays $1 if Vegas wins and $0 if they don\u2019t. The current price is about 51 cents. That means most people think there is about a 51% chance Vegas will win. You can think of the price as the crowd\u2019s prediction of the chance of a Vegas win.",
+  "whats_notable": "In the last hour, a lot more shares were traded than usual\u2014almost 93 times more\u2014causing the price to drop by 1 cent.",
+  "concepts": [
+   "implied-probability",
+   "liquidity",
+   "anomaly-patterns"
+  ]
+ }
+}

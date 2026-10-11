@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXMLSGAME-26OCT10LAFCVAN-TIE",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Tie is the result\nEvent: Los Angeles F vs Vancouver \u2014 Tie\nCategory: Sports  Venue: kalshi\nYES price: 0.99 (~99%)\n24h change: 74 points   24h volume: $392K\nResolution rules: If Tie is the result of the Los Angeles F vs Vancouver professional MLS soccer game originally scheduled for Oct 10, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.\n\nThe following market refers to the Los Angeles F vs Vancouver professional MLS soccer game originally scheduled for Oct 10, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties). If the game ends in a tie, the market called \"Tie\" reso\nSignals: inconsistency 0 \u2014 The 3 outcomes' mid prices sum to 100.5%. Buying every YES costs 102.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will the Los Angeles F vs Vancouver soccer game end in a tie after regular time?",
+  "summary": "This market asks if the soccer game between Los Angeles F and Vancouver will end in a tie after the normal 90 minutes plus added stoppage time. Buying a YES share means if the game ends in a tie, you get $1; if not, you get $0. The YES price is 0.99, which means the market thinks there is about a 99% chance the game will end in a tie. This is unusually high for a soccer game, where ties are less common.",
+  "whats_notable": "The YES share price is very high at 0.99, suggesting the market believes a tie is almost certain, which is unusual for this type of match.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

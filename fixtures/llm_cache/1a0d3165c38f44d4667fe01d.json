@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXNFLNEXTTEAM-26MHARRISON-IND",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Marvin Harrison Jr.'s next team before Nov 12, 2026: Indianapolis\nEvent: Marvin Harrison Jr. Next Team \u2014 Indianapolis\nCategory: Sports  Venue: kalshi\nYES price: 0.01 (~1%)\n24h change: 0 points   24h volume: $139K\nResolution rules: If Marvin Harrison Jr.'s \nnext team is the Indianapolis Pro Football team\n before Nov 12, 2026, then the market resolves to Yes.\n\nIf Marvin Harrison Jr. officially retires before Nov 12, 2026 or is not signed to any team on Nov 12, 2026, \"Retires / No Team\" resolves to Yes. \nIf Marvin Harrison Jr. remains on the team they were on upon issuance on Nov 12, 2026, then the market for that team will resolve Yes.\nIf Marvin Harrison Jr. is a free agent, whether restricted or unrestricted, for any perio\nSignals: inconsistency 6 \u2014 The 33 outcomes' mid prices sum to 125.5%. Buying every YES costs 149.0\u00a2 and selling every YES fetches 102.0\u00a2, so no set\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Marvin Harrison Jr. be on the Indianapolis football team before November 12, 2026?",
+  "summary": "This market lets people buy a 'YES' share if they think Marvin Harrison Jr. will be on the Indianapolis football team before November 12, 2026. A 'YES' share pays $1 if the event happens and $0 if it doesn't. The current price is about 1 cent, which means the market estimates about a 1% chance Marvin Harrison Jr. will be on that team by then. People trade these shares to express their guesses on future events.",
+  "whats_notable": "The combined prices of all possible outcomes sum to more than 100%, showing some inconsistency in the market pricing.",
+  "concepts": [
+   "implied-probability",
+   "anomaly-patterns"
+  ]
+ }
+}

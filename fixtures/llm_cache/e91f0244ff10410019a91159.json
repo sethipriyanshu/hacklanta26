@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXWTAMATCH-26OCT10FREITO-ITO",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Aoi Ito wins\nEvent: Frech vs Ito \u2014 Aoi Ito\nCategory: Sports  Venue: kalshi\nYES price: 0.76 (~76%)\n24h change: 76 points   24h volume: $309K\nResolution rules: If Aoi Ito wins the Frech vs Ito professional tennis match in the 2026 WTA Wuhan Qualification Final after a ball has been played, then the market resolves to Yes.\n\nThe following market refers to the Frech vs Ito professional tennis match in the 2026 WTA Wuhan Qualification Final after a ball has been played. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), the market will resolve \nSignals: anomaly 0 \u2014 The move followed a matching headline, which explains it.; inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 100.0%. Buying every YES costs 101.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\nRecent headlines: Magdalena Frech vs Aoi Ito - Match WTA - Dongfeng Voyah Wuhan Open 1970 - qualifying-final | PREDICTION, PREVIEW, H2H: Sonmez, Tararudee, Frech and Bondar to play on Sunday \u2013 Wuhan Open | WUHAN RESULTS. Zeynep Sonmez, Lanlana Tararudee, Magdalena Frech, Anna Bondar win on Saturday\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Aoi Ito win the tennis match against Magdalena Frech?",
+  "summary": "This market is about whether Aoi Ito will win her tennis match against Magdalena Frech. If you buy a YES share, you will get $1 if Ito wins, and $0 if she does not. Right now, a YES share costs about 76 cents, which means the market thinks there is roughly a 76% chance Ito will win. This price shows what traders collectively believe about her chances in this match.",
+  "whats_notable": "The YES share price moved sharply in the last 24 hours following news about the match.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

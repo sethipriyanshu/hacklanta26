@@ -1,0 +1,17 @@
+{
+ "tag": "summary:poly:562802",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Will the Democratic Party control the House after the 2026 Midterm elections?\nEvent: Which party will win the House in 2026? \u2014 Democratic Party\nCategory: Politics  Venue: polymarket\nYES price: 0.91 (~91%)\n24h change: 0 points   24h volume: $316K\nResolution rules: This market will resolve according to the party that wins control of the United States House of Representatives in the 2026 United States midterm election.\n\nA party wins control of the United States House of Representatives if it wins a majority of the chamber\u2019s voting seats. If no party wins a majority of voting seats, the chamber will be deemed controlled by the party with which the first elected Speaker of the House of the Congress that convenes after the 2026 midterm election is affiliated.\n\nSignals: gap 30 \u2014 Kalshi prices YES at 60.5\u00a2, Polymarket at 90.5\u00a2 \u2014 a 30.0\u00a2 gap. Crossing both spreads and paying fees costs about 3.5\u00a2, l; anomaly 24 \u2014 Price moved -1.0 points in an hour, against a typical hourly move of 0.0 points.; gap 0 \u2014 Kalshi 90.1\u00a2 vs Polymarket 90.5\u00a2: the 0.4\u00a2 gap is eaten by spreads and fees (2.1\u00a2). No edge.\nRecent headlines: Midterm Elections: Who Is Winning the Race for Congress? Latest Data | Tillis: \u2018Almost statistically impossible\u2019 for Republicans to win House in midterms | Democrats\u2019 advantage is clear with less than a month to go in the midterm elections\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will the Democratic Party control the U.S. House of Representatives after the 2026 midterm elections?",
+  "summary": "This market lets people buy a 'YES' share if they think the Democratic Party will control the House of Representatives after the 2026 elections. A 'YES' share costs about 91 cents. Because a 'YES' share pays 1 dollar if the Democrats win, and 0 dollars if they don't, this price means the market thinks there's about a 91% chance Democrats will win. This is a way for many people to express their opinions about this political outcome using money-based bets.",
+  "whats_notable": "There is a significant price difference between two trading platforms, with one pricing the chance at about 91% and another at about 60%, which is unusual.",
+  "concepts": [
+   "implied-probability",
+   "liquidity",
+   "anomaly-patterns"
+  ]
+ }
+}

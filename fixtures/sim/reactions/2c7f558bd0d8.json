@@ -1,0 +1,152 @@
+{
+ "source": "llm",
+ "headline": "alabama goes undefeated in regular season",
+ "marketId": "kalshi:KXNCAAF-27-ALA",
+ "fairProbability": 0.23,
+ "fairReason": "Alabama's undefeated regular season significantly improves their chances of winning the championship.",
+ "analysis": "The news that Alabama has gone undefeated in the regular season strongly supports their likelihood of winning the College Football Playoff National Championship, which means the YES outcome becomes more probable. An undefeated regular season signals a dominant team and increases their chances of winning the title game if they reach it.",
+ "direction": "up",
+ "movePoints": 15.0,
+ "reactions": [
+  {
+   "personaId": "retired-teacher",
+   "probability": 0.26,
+   "confidence": 0.7,
+   "delayMinutes": 15,
+   "reason": "We think Alabama always has a good shot and are encouraged by the undefeated record."
+  },
+  {
+   "personaId": "retired-exec",
+   "probability": 0.24,
+   "confidence": 0.8,
+   "delayMinutes": 10,
+   "reason": "We are cautiously optimistic given Alabama's strong season showing."
+  },
+  {
+   "personaId": "nurse",
+   "probability": 0.23,
+   "confidence": 0.6,
+   "delayMinutes": 20,
+   "reason": "We absorb the news fairly neutrally before updating."
+  },
+  {
+   "personaId": "crypto-trader",
+   "probability": 0.22,
+   "confidence": 0.9,
+   "delayMinutes": 5,
+   "reason": "We are skeptical and wait for more data despite the undefeated season."
+  },
+  {
+   "personaId": "macro-pm",
+   "probability": 0.23,
+   "confidence": 0.85,
+   "delayMinutes": 5,
+   "reason": "We adjust our outlook based on objective performance indicators."
+  },
+  {
+   "personaId": "college-student",
+   "probability": 0.27,
+   "confidence": 0.5,
+   "delayMinutes": 30,
+   "reason": "We favor Alabama enthusiastically as fans and get excited by the undefeated season."
+  },
+  {
+   "personaId": "small-biz",
+   "probability": 0.25,
+   "confidence": 0.7,
+   "delayMinutes": 20,
+   "reason": "We lean pro-Alabama given their track record and recent results."
+  },
+  {
+   "personaId": "software-eng",
+   "probability": 0.22,
+   "confidence": 0.8,
+   "delayMinutes": 10,
+   "reason": "We remain analytical and cautious despite positive news."
+  },
+  {
+   "personaId": "union-electrician",
+   "probability": 0.26,
+   "confidence": 0.6,
+   "delayMinutes": 25,
+   "reason": "We cheer for Alabama and let the undefeated record boost our confidence."
+  },
+  {
+   "personaId": "political-junkie",
+   "probability": 0.23,
+   "confidence": 0.65,
+   "delayMinutes": 15,
+   "reason": "We process the facts objectively despite partisan tendencies."
+  },
+  {
+   "personaId": "realtor",
+   "probability": 0.24,
+   "confidence": 0.7,
+   "delayMinutes": 15,
+   "reason": "We moderately favor Alabama as a strong candidate."
+  },
+  {
+   "personaId": "grad-econ",
+   "probability": 0.21,
+   "confidence": 0.9,
+   "delayMinutes": 5,
+   "reason": "We remain skeptical since undefeated does not guarantee title win."
+  },
+  {
+   "personaId": "farmer",
+   "probability": 0.25,
+   "confidence": 0.75,
+   "delayMinutes": 15,
+   "reason": "We support Alabama, especially given their dominating season."
+  },
+  {
+   "personaId": "gig-driver",
+   "probability": 0.23,
+   "confidence": 0.6,
+   "delayMinutes": 30,
+   "reason": "We are neutral initially and update slowly."
+  },
+  {
+   "personaId": "sports-bettor",
+   "probability": 0.21,
+   "confidence": 0.85,
+   "delayMinutes": 5,
+   "reason": "We suspect odds may already reflect undefeated season, limiting move."
+  },
+  {
+   "personaId": "physician",
+   "probability": 0.23,
+   "confidence": 0.8,
+   "delayMinutes": 10,
+   "reason": "We appreciate the significance of an undefeated season objectively."
+  },
+  {
+   "personaId": "vc-associate",
+   "probability": 0.22,
+   "confidence": 0.75,
+   "delayMinutes": 10,
+   "reason": "We stay data-driven and cautious in our response."
+  },
+  {
+   "personaId": "school-admin",
+   "probability": 0.26,
+   "confidence": 0.7,
+   "delayMinutes": 15,
+   "reason": "We favor Alabama and let pride influence our optimism."
+  },
+  {
+   "personaId": "retired-military",
+   "probability": 0.24,
+   "confidence": 0.75,
+   "delayMinutes": 10,
+   "reason": "We respect Alabama's discipline and are cautiously supportive."
+  },
+  {
+   "personaId": "quant-dev",
+   "probability": 0.21,
+   "confidence": 0.9,
+   "delayMinutes": 5,
+   "reason": "We note some overreaction likely and temper expectations accordingly."
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "tag": "summary:kalshi:KXNCAAFTOTAL-26OCT10BSUFRES-62",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Full Game: Over 61.5 points scored\nEvent: Boise St. vs Fresno St.: Total Points \u2014 Over 61.5 points\nCategory: Sports  Venue: kalshi\nYES price: 0.83 (~83%)\n24h change: 84 points   24h volume: $232K\nResolution rules: If the teams collectively score more than 61.5 points in the Boise St. vs Fresno St. college football game originally scheduled for Oct 10, 2026, then the market resolves to Yes.\n\nIf the game is postponed but begins within 48 hours of its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is not started within 48 hours, the market will resolve to a fair price.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or \nSignals: anomaly 30 \u2014 Volume in the last hour ran 40.8\u00d7 its trailing hourly average \u2014 far outside normal. Price moved +24.0 points in an hour,\nRecent headlines: How the Public Is Betting #23 Boise State vs. Fresno State in College Football Week 6 | Boise State vs Fresno State Prediction, Odds, Picks Tonight: College Football Week 6 | October 10, 2026: Boise State vs Fresno State: Second Quarter Total Points College Football Prediction Market\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Boise State and Fresno State score more than 61.5 points together in their football game?",
+  "summary": "This market asks if the total points scored by Boise State and Fresno State in their football game will be over 61.5. A YES share costs 0.83 dollars, which means the market thinks there is about an 83% chance that the combined score will be over 61.5 points. So, if you buy a YES share and the game ends with more than 61.5 points, you get $1. If not, you get nothing.",
+  "whats_notable": "Trading volume spiked a lot in the last hour, with the price increasing quickly. This shows a sudden rise in interest or new information.",
+  "concepts": [
+   "implied-probability",
+   "liquidity",
+   "anomaly-patterns"
+  ]
+ }
+}

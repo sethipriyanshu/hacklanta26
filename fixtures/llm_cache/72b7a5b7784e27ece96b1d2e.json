@@ -1,0 +1,17 @@
+{
+ "tag": "summary:kalshi:KXPGATOUR-BAC26-KMIT",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Baycurrent Classic: Keith Mitchell wins\nEvent: Baycurrent Classic Winner \u2014 Keith Mitchell\nCategory: Sports  Venue: kalshi\nYES price: 0.14 (~14%)\n24h change: 12 points   24h volume: $236K\nResolution rules: If Keith Mitchell wins the Baycurrent Classic, then the market resolves to Yes.\n\nIf a golfer forfeits, withdraws, or does not participate prior to teeing off, their contracts will resolve as follows:\nTournament Winner and End of Round Leader markets will resolve to No\nFinishing Position, Make the Cut, Head-to-Head, and 3-Ball markets will resolve to Fair Market Value\n\nSignals: anomaly 81 \u2014 Volume in the last hour ran 16.2\u00d7 its trailing hourly average \u2014 far outside normal. Price moved +23.2 points in an hour,; gap 3 \u2014 Kalshi 14.5\u00a2 vs Polymarket 17.1\u00a2: the 2.6\u00a2 gap is eaten by spreads and fees (7.1\u00a2). No edge.; inconsistency 0 \u2014 The 72 outcomes' mid prices sum to 100.9%. Buying every YES costs 114.1\u00a2 and selling every YES fetches 87.7\u00a2, so no set \nRecent headlines: Baycurrent Classic Full Prize Money Payout 2026: What Will The Winner Earn? | Baycurrent Classic 2026 prize money: Full payout from $8 million purse | 2026 Baycurrent Classic Saturday TV coverage: How to watch Round 4\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Keith Mitchell win the Baycurrent Classic golf tournament?",
+  "summary": "This market asks if golfer Keith Mitchell will win the Baycurrent Classic tournament. A YES share costs about 14 cents, meaning the market thinks there's roughly a 14% chance he will win. If he does win, a YES share pays $1; if not, it pays $0. This market is active, with $236,000 traded in the last day, showing people are interested in predicting golf outcomes.",
+  "whats_notable": "Trading volume in the last hour was unusually high, more than 16 times the usual, causing the price to jump significantly.",
+  "concepts": [
+   "implied-probability",
+   "liquidity",
+   "anomaly-patterns"
+  ]
+ }
+}

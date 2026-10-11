@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXITFWMATCH-26OCT10SANMEA-MEA",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Sofia Meabe wins\nEvent: Sanchez vs Meabe \u2014 Sofia Meabe\nCategory: Sports  Venue: kalshi\nYES price: 0.21 (~21%)\n24h change: 21 points   24h volume: $708K\nResolution rules: If Sofia Meabe wins the Sanchez vs Meabe professional tennis match in the 2026 W15 Cipolletti Quarterfinal after a ball has been played, then the market resolves to Yes.\n\nThe following market refers to the Sanchez vs Meabe professional tennis match in the 2026 W15 Cipolletti Quarterfinal after a ball has been played. If the match does not occur (signaled by a ball being played) due to a player injury, walkover, forfeiture, or any other cancellation (all before the match starts), all markets will\nSignals: inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 99.5%. Buying every YES costs 102.0\u00a2 and selling every YES fetches 97.0\u00a2, so no set tr\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Sofia Meabe win her tennis match against Sanchez?",
+  "summary": "This market lets you buy a YES share that pays $1 if Sofia Meabe wins her tennis match against Sanchez, and pays $0 if she does not win. The current price of this YES share is 21 cents, which means the market thinks there's about a 21% chance Sofia Meabe will win. This helps people understand how likely the market thinks her victory is.",
+  "whats_notable": "The prices for the two possible outcomes don't add up exactly to 100%, which could mean small market inefficiencies.",
+  "concepts": [
+   "implied-probability",
+   "spread-vig"
+  ]
+ }
+}

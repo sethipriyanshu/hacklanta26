@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:CONTROLH-2026-R",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Will Republicans win the House in 2026?\nEvent: Which party will win the U.S. House? \u2014 Republican Party\nCategory: Politics  Venue: kalshi\nYES price: 0.10 (~10%)\n24h change: 0 points   24h volume: $951K\nResolution rules: If the Republican Party has won control of the House in 2026, then the market resolves to Yes.\n\nThis market may be determined early based on a consensus of media calls projecting control of the U.S. House. See full rules for details. Otherwise, victory will be determined by the party identification of the Speaker of the House on February 1, 2027.\nSignals: anomaly 14 \u2014 Volume in the last hour was 0.3\u00d7 its trailing hourly average, nothing unusual. Price moved +0.0 points in the hour, in l; gap 1 \u2014 Kalshi 10.5\u00a2 vs Polymarket 9.5\u00a2: the 1.0\u00a2 gap is eaten by spreads and fees (2.5\u00a2). No edge.; inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 100.6%. Buying every YES costs 101.2\u00a2 and selling every YES fetches 100.0\u00a2, so no set \nRecent headlines: FLIPR 2026 midterm election forecast | Midterms 2026: Congress Polls and More | Who will win the 2026 midterm elections? Polls and predictions\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will the Republican Party win control of the U.S. House of Representatives in 2026?",
+  "summary": "This market asks if Republicans will win the U.S. House in 2026. A YES share means you get $1 if Republicans win, and $0 if they don't. The current price is 10 cents, which means the market estimates about a 10% chance Republicans will win. This prediction reflects traders' views on the election outcome.",
+  "whats_notable": "The price and trading volume are stable, with no big changes recently.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

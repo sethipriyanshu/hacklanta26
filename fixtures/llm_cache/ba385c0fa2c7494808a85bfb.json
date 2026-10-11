@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXNFLGAME-26OCT11PHIJAC-JAC",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Jacksonville wins\nEvent: PHI Eagles vs JAC Jaguars \u2014 Jacksonville\nCategory: Sports  Venue: kalshi\nYES price: 0.77 (~77%)\n24h change: 0 points   24h volume: $213K\nResolution rules: If Jacksonville wins the PHI Eagles vs JAC Jaguars Pro Football game originally scheduled for Oct 11, 2026, then the market resolves to Yes.\n\nThe following market refers to the team who wins the PHI Eagles vs JAC Jaguars Pro Football game originally scheduled for Oct 11, 2026. If the game ends in a tie, the market will resolve to $0.50 for each team. If the game is postponed but begins within 48 hours from its originally scheduled start time, the market will remain open and resolve based on the \nSignals: anomaly 4 \u2014 Volume in the last hour was 2.6\u00d7 its trailing hourly average, nothing unusual. Price moved +0.0 points in the hour, in l; inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 100.0%. Buying every YES costs 101.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\nRecent headlines: Eagles vs. Jaguars: Listen Live to the NFL Game in London | Eagles vs. Jaguars livestream: How to watch NFL for free | Eagles vs. Jaguars in London: Kickoff time, international game history, injury updates\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "What is the chance that the Jacksonville Jaguars win their football game against the Philadelphia Eagles?",
+  "summary": "This market lets you bet on whether the Jacksonville Jaguars will win their football game. Buying a YES share costs about 77 cents now. This means the market thinks there is roughly a 77% chance that Jacksonville will win. If they do win, a YES share will pay you $1, otherwise it pays $0.",
+  "whats_notable": "The market price has stayed steady recently, suggesting stable expectations.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

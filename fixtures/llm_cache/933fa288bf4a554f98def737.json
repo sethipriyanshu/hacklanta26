@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXNFLGAME-26OCT11CLENYJ-CLE",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Cleveland wins\nEvent: CLE Browns vs NY Jets \u2014 Cleveland\nCategory: Sports  Venue: kalshi\nYES price: 0.43 (~43%)\n24h change: -2 points   24h volume: $194K\nResolution rules: If Cleveland wins the CLE Browns vs NY Jets Pro Football game originally scheduled for Oct 11, 2026, then the market resolves to Yes.\n\nThe following market refers to the team who wins the CLE Browns vs NY Jets Pro Football game originally scheduled for Oct 11, 2026. If the game ends in a tie, the market will resolve to $0.50 for each team. If the game is postponed but begins within 48 hours from its originally scheduled start time, the market will remain open and resolve based on the official fi\nSignals: gap 0 \u2014 Kalshi 43.5\u00a2 vs Polymarket 43.5\u00a2: the 0.0\u00a2 gap is eaten by spreads and fees (3.5\u00a2). No edge.; inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 100.0%. Buying every YES costs 101.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will the Cleveland Browns win their game against the New York Jets on October 11, 2026?",
+  "summary": "This market is about whether the Cleveland Browns will win their football game against the New York Jets. If you buy a YES share, it will pay $1 if Cleveland wins and $0 if they don\u2019t. Right now, the YES share costs 43 cents, which means the market thinks there is about a 43% chance Cleveland will win. This helps people understand how likely the outcome is according to traders.",
+  "whats_notable": "The market price for CLE winning is exactly the same across two platforms, showing agreement in predictions.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

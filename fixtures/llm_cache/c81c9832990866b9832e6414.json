@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXBALANCEPOWERCOMBO-27FEB-RD",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Will House Control be Republican AND Senate Control be Democratic for Feb 2027?\nEvent: 2026 Midterms: Congress Balance of Power? \u2014 R-House, D-Senate\nCategory: Politics  Venue: kalshi\nYES price: 0.01 (~1%)\n24h change: 0 points   24h volume: $245K\nResolution rules: If ALL of the following occur: House Control: Republican, Senate Control: Democratic, then the market resolves to Yes.\n\nThis is a combination market requiring ALL specified outcomes to occur for the contract to pay out. If ANY single component resolves to No or becomes impossible, the entire contract immediately resolves to No. Each component is resolved according to its corresponding Kalshi ruleset: House Control uses CONTROL, Senate Control uses CONTROL. Each CONTROL component may resolve on a\nSignals: anomaly 0 \u2014 Volume in the last hour was 0.5\u00d7 its trailing hourly average, nothing unusual. Price moved -0.1 points in the hour, in l; inconsistency 0 \u2014 The 4 outcomes' mid prices sum to 100.4%. Buying every YES costs 101.9\u00a2 and selling every YES fetches 98.8\u00a2, so no set t\nRecent headlines: What\u2019s still within Trump\u2019s power even if the Democrats sweep the U.S. midterms | 2026 Congress Control Odds: House & Senate Midterm Markets | How could the Senate race in Texas impact the balance of power in Congress?\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Republicans control the House and Democrats control the Senate after the 2026 U.S. midterm elections?",
+  "summary": "This market lets you predict if two things will happen together: Republicans winning the House and Democrats winning the Senate in 2026. A YES share pays $1 if both happen, and $0 if they don't. The current price is about 1 cent, meaning the market thinks there's roughly a 1% chance this will happen. This price reflects people's combined guesses about the election outcome.",
+  "whats_notable": "The price is very low, showing almost nobody expects both parties to control different chambers as specified.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

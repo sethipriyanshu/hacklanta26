@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXNFLGAME-26OCT11HOUTEN-HOU",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Houston wins\nEvent: HOU Texans vs TEN Titans \u2014 Houston\nCategory: Sports  Venue: kalshi\nYES price: 0.74 (~74%)\n24h change: -2 points   24h volume: $303K\nResolution rules: If Houston wins the HOU Texans vs TEN Titans Pro Football game originally scheduled for Oct 11, 2026, then the market resolves to Yes.\n\nThe following market refers to the team who wins the HOU Texans vs TEN Titans Pro Football game originally scheduled for Oct 11, 2026. If the game ends in a tie, the market will resolve to $0.50 for each team. If the game is postponed but begins within 48 hours from its originally scheduled start time, the market will remain open and resolve based on the officia\nSignals: anomaly 2 \u2014 Volume in the last hour was 2.1\u00d7 its trailing hourly average, nothing unusual. Price moved +0.0 points in the hour, in l; gap 1 \u2014 Kalshi 74.5\u00a2 vs Polymarket 75.5\u00a2: the 1.0\u00a2 gap is eaten by spreads and fees (3.5\u00a2). No edge.; inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 99.0%. Buying every YES costs 100.0\u00a2 and selling every YES fetches 98.0\u00a2, so no set tr\nRecent headlines: Houston Texans @ Tennessee Titans: Live game updates, stats, play-by-play | Tennessee Titans vs. Houston Texans - October 11, 2026 | Houston Texans at Tennessee Titans prediction, pick for NFL Week 5 on Sunday 10/11/26\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will the Houston Texans win their football game against the Tennessee Titans on October 11, 2026?",
+  "summary": "This market lets you predict if the Houston Texans will win their game against the Tennessee Titans. Buying a YES share means you earn $1 if Houston wins, and $0 if they don't. The YES share price is 74 cents, which suggests the market thinks there's about a 74% chance Houston will win. This price changes as people buy and sell shares based on new information.",
+  "whats_notable": "The trading volume in the last hour was more than twice the usual amount, showing a lot of recent interest.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

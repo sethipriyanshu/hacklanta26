@@ -1,0 +1,17 @@
+{
+ "tag": "summary:kalshi:KXNCAAFGAME-26OCT10HAWASU-ASU",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Arizona St. wins\nEvent: Hawai'i vs Arizona St. \u2014 Arizona St.\nCategory: Sports  Venue: kalshi\nYES price: 0.96 (~96%)\n24h change: 4 points   24h volume: $620K\nResolution rules: If Arizona St. wins the Hawai'i vs Arizona St. college football game originally scheduled for Oct 10, 2026, then the market resolves to Yes.\n\nIf the game is postponed but begins within 48 hours of its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is cancelled or not started within 48 hours of its originally scheduled start, the market will resolve to a fair price.\n\nKalshi is not affiliated, associated, authorized, endorse\nSignals: anomaly 30 \u2014 Volume in the last hour ran 510.8\u00d7 its trailing hourly average \u2014 far outside normal. Price moved +3.0 points in an hour,; inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 101.0%. Buying every YES costs 102.0\u00a2 and selling every YES fetches 100.0\u00a2, so no set \nRecent headlines: Hawaii vs. Arizona State - Live Score - October 10, 2026 | Hawai\u2019i Rainbow Warriors Set to Face Arizona State Sun Devils on October 10, 2026 | Arizona State vs Hawaii Prediction Football Picks Today 10/10/26 | Sports Chat Place\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Arizona State win the football game against Hawai'i?",
+  "summary": "This market is a way to guess if Arizona State will win their football game against Hawai'i. Buying a YES share means you get $1 if Arizona State wins, and $0 if they don't. The price of a YES share is currently 96 cents, which means people think there's about a 96% chance Arizona State will win. This high price shows the market is quite confident in Arizona State's victory.",
+  "whats_notable": "In the last hour, trading activity and price increased much more than usual, suggesting a sudden burst of interest.",
+  "concepts": [
+   "implied-probability",
+   "liquidity",
+   "anomaly-patterns"
+  ]
+ }
+}

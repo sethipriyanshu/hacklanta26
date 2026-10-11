@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXLALIGAGAME-26OCT10RVCATH-ATH",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Bilbao wins\nEvent: Vallecano vs Bilbao \u2014 Bilbao\nCategory: Sports  Venue: kalshi\nYES price: 0.34 (~34%)\n24h change: -2 points   24h volume: $317K\nResolution rules: If Bilbao wins the Vallecano vs Bilbao professional La Liga soccer game originally scheduled for Oct 10, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.\n\nThe following market refers to the Vallecano vs Bilbao professional La Liga soccer game originally scheduled for Oct 10, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties). If the game ends in a tie, the market called \"Tie\" resolves to Yes. If\nSignals: inconsistency 6 \u2014 The 3 outcomes' mid prices sum to 94.0%. Buying every YES costs 98.0\u00a2 and selling every YES fetches 90.0\u00a2, so no set tra\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Bilbao win the Vallecano vs Bilbao soccer game on Oct 10, 2026?",
+  "summary": "This market lets you buy a YES share that pays $1 if Bilbao wins the game, or $0 if they don't. The current price is 0.34 dollars, which means the market estimates a 34% chance that Bilbao will win. This is like a group guess based on what people think about the game. If you want to see if Bilbao will win, you can watch this market.",
+  "whats_notable": "The total probabilities for all outcomes add up to less than 100%, which shows some inconsistency in prices.",
+  "concepts": [
+   "implied-probability",
+   "spread-vig"
+  ]
+ }
+}

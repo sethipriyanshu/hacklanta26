@@ -1,0 +1,17 @@
+{
+ "tag": "summary:kalshi:KXPGATOUR-BAC26-JBRI",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Baycurrent Classic: Jacob Bridgeman wins\nEvent: Baycurrent Classic Winner \u2014 Jacob Bridgeman\nCategory: Sports  Venue: kalshi\nYES price: 0.03 (~3%)\n24h change: -29 points   24h volume: $319K\nResolution rules: If Jacob Bridgeman wins the Baycurrent Classic, then the market resolves to Yes.\n\nIf a golfer forfeits, withdraws, or does not participate prior to teeing off, their contracts will resolve as follows:\nTournament Winner and End of Round Leader markets will resolve to No\nFinishing Position, Make the Cut, Head-to-Head, and 3-Ball markets will resolve to Fair Market Value\n\nSignals: anomaly 84 \u2014 Volume in the last hour ran 5.3\u00d7 its trailing hourly average \u2014 far outside normal. Price moved -12.0 points in an hour, ; gap 0 \u2014 Kalshi 2.9\u00a2 vs Polymarket 3.1\u00a2: the 0.2\u00a2 gap is eaten by spreads and fees (4.5\u00a2). No edge.; inconsistency 0 \u2014 The 72 outcomes' mid prices sum to 100.9%. Buying every YES costs 114.1\u00a2 and selling every YES fetches 87.7\u00a2, so no set \nRecent headlines: Baycurrent Classic Full Prize Money Payout 2026: What Will The Winner Earn? | Baycurrent Classic 2026 prize money: Full payout from $8 million purse | 2026 Baycurrent Classic Saturday TV coverage: How to watch Round 4\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "What are the chances that Jacob Bridgeman will win the Baycurrent Classic golf tournament?",
+  "summary": "This market asks if Jacob Bridgeman will win a golf event called the Baycurrent Classic. A YES share here costs about 3 cents on the dollar. This means the market thinks there is roughly a 3% chance he will win. If he does win, each YES share pays $1, and if not, they pay nothing. The market price helps people understand how likely winning seems right now.",
+  "whats_notable": "Trading volume spiked a lot in the last hour, and the price dropped sharply by 12 points during that time.",
+  "concepts": [
+   "implied-probability",
+   "liquidity",
+   "anomaly-patterns"
+  ]
+ }
+}

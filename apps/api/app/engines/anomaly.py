@@ -17,6 +17,11 @@ HOUR = 3600
 WEIGHTS = {"zVol": 0.35, "zMove": 0.30, "cWallet": 0.20, "tNews": 0.15}
 Z_SATURATION = 4.0  # a 4-sigma event scores 1.0
 MIN_BARS = 24  # at least a day of hourly history before scoring
+# An anomaly is about price action. Without a real move (2 sigma in the last hour, or a notable move ahead of news),
+# heavy trading is liquidity or rebalancing; and a move that followed matching news is the news. Both stay under the flag line.
+MOVE_EVIDENCE = 0.5
+NOTABLE_MOVE = 0.03  # a pre-news move must be at least 3 points and 3x the typical hourly move
+EXPLAINED_CAP = 35.0
 
 
 @dataclass
@@ -99,7 +104,11 @@ def news_subscore(bars: list[Hourly], headlines: list[Headline] | None, *, lookb
     moves = [(abs(recent[i].close - recent[i - 1].close), recent[i].ts) for i in range(1, len(recent))]
     if not moves:
         return None, {}
-    _, move_ts = max(moves)
+    size, move_ts = max(moves)
+    older = bars[-168 - lookback_hours : -lookback_hours]
+    typical = sum(abs(older[i].close - older[i - 1].close) for i in range(1, len(older))) / max(1, len(older) - 1)
+    if size < max(NOTABLE_MOVE, 3 * typical):
+        return None, {"verdict": "no notable move"}  # nothing to time against the news
     times = sorted(int(h.published_at.timestamp()) for h in headlines)
     before = [t for t in times if move_ts - 6 * HOUR <= t <= move_ts]
     if before:
@@ -167,9 +176,19 @@ def anomaly_score(points: list[PricePoint], *, until: int | None = None, wallet_
     score, weights = combine(subs)
     details: dict[str, object] = {**d1, **d2, **d3, "bars": len(bars), "asOf": bars[-1].ts if bars else None}
     text = explain(subs, details)
+    moved = (z_move or 0) >= MOVE_EVIDENCE or (t_news or 0) > 0
     if bars and (bars[-1].close >= 0.97 or bars[-1].close <= 0.03) and (z_move or 0) > 0.5:
         details["likelyResolution"] = True
         text += " The price landed at an extreme, which usually means the contract is settling after the event resolved rather than anyone trading ahead of it."
+        score = min(score, EXPLAINED_CAP)
+    elif not moved and score > EXPLAINED_CAP:
+        details["noMove"] = True
+        text += " Without a real price move, heavy trading is usually liquidity or rebalancing, not information, so this is not flagged."
+        score = EXPLAINED_CAP
+    elif t_news == 0 and score > EXPLAINED_CAP:
+        details["explainedByNews"] = True
+        text += " Since the news came first, this is not flagged."
+        score = EXPLAINED_CAP
     return AnomalyResult(score=score, sub_scores=subs, weights=weights, explanation=text, details=details)
 
 
