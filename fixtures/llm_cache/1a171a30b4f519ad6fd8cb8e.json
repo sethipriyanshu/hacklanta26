@@ -1,0 +1,153 @@
+{
+ "tag": "swarm:54cc5399ff28",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You model how a prediction market reprices after a headline. First give the fair probability that the contract resolves YES as a sharp, well-informed, unbiased analyst would now see it. Be decisive: news that materially changes the outcome should move the probability a lot, news that changes nothing should leave it near the current price. Then, for each persona, give the probability THAT group puts on YES once it has heard and absorbed the news. Slowness is modelled separately by the delay, so do not anchor slow groups to the old price: everyone who has heard lands near the fair value, and only a genuine bias (team loyalty, partisanship, wishful thinking) moves a group a few points away. Also give each group's confidence, how many minutes until it typically acts, and a one-line first-person-plural reason. Read the contract carefully: YES means exactly what the contract says.",
+ "user": "Contract: Alabama wins\nEvent: Georgia vs Alabama\nYES means: Alabama\nResolution rules: If Alabama wins the Georgia vs Alabama college football game originally scheduled for Oct 10, 2026, then the market resolves to Yes.\n\nIf the game is postponed but begins within 48 hours of its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is cancelled or not started within 48 hours of its originally scheduled start, the market will resolve to a fair price.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the NCAA. All trademarks, logos, and brand names are the prope\nCurrent YES price (the market's probability before the news): 0.55\n\nHeadline: Both Alabama quarterbacks are injured and will not play against Georgia\n\nPersonas:\n- retired-teacher: retired public school teacher; age 65+; income low; leans left; media: evening cable news, local paper\n- retired-exec: retired regional bank executive; age 65+; income high; leans right; media: WSJ, Fox Business, broker notes\n- nurse: ICU nurse working nights; age 30-44; income mid; leans center; media: push alerts between shifts, Reddit\n- crypto-trader: full-time crypto and prediction-market trader; age 18-29; income mid; leans center; media: X, Telegram alpha groups, terminal feeds\n- macro-pm: analyst at a macro hedge fund; age 30-44; income high; leans center; media: Bloomberg terminal, Fed statements as they drop\n- college-student: undergraduate, part-time barista; age 18-29; income low; leans left; media: TikTok, group chats, Discord\n- small-biz: owns two restaurants; age 45-64; income high; leans right; media: talk radio, trade association emails\n- software-eng: senior engineer at a SaaS company; age 30-44; income high; leans center; media: Hacker News, X, newsletters\n- union-electrician: journeyman electrician; age 45-64; income mid; leans left; media: local TV, Facebook\n- political-junkie: congressional staffer; age 18-29; income low; leans left; media: Politico, X, Slack back-channels\n- realtor: residential real estate agent; age 45-64; income mid; leans right; media: CNBC in the office, mortgage-rate alerts\n- grad-econ: PhD student in economics; age 18-29; income low; leans center; media: FOMC statements, FRED, EconTwitter\n- farmer: runs a family grain farm; age 45-64; income mid; leans right; media: AM radio, co-op newsletters, futures prices\n- gig-driver: rideshare and delivery driver; age 30-44; income low; leans center; media: YouTube, podcasts while driving\n- sports-bettor: sales rep who bets most weekends; age 30-44; income mid; leans right; media: sportsbook apps, Barstool, X\n- physician: family medicine doctor; age 45-64; income high; leans center; media: NYT morning briefing, NPR\n- vc-associate: associate at a venture fund; age 18-29; income high; leans center; media: X, Substacks, founder group chats\n- school-admin: assistant principal; age 30-44; income mid; leans left; media: morning news shows, email digests\n- retired-military: retired army officer, defense contractor; age 45-64; income high; leans right; media: cable news, defense trade press\n- quant-dev: builds trading bots at a prop shop; age 30-44; income high; leans center; media: raw feeds, APIs, nothing human\n\nReturn the fair probability, its reason, and one reaction per persona id.",
+ "output": {
+  "fair_probability": 0.37,
+  "fair_reason": "Losing both Alabama quarterbacks significantly reduces their odds to win against Georgia, dropping probability from 0.55 to about 0.37.",
+  "reactions": [
+   {
+    "persona_id": "retired-teacher",
+    "probability": 0.34,
+    "confidence": 0.7,
+    "delay_minutes": 30,
+    "reason": "We trust expert sports reports showing Alabama weakened with QB injuries."
+   },
+   {
+    "persona_id": "retired-exec",
+    "probability": 0.37,
+    "confidence": 0.8,
+    "delay_minutes": 15,
+    "reason": "We adjust odds based on the material negative impact of QB injuries."
+   },
+   {
+    "persona_id": "nurse",
+    "probability": 0.38,
+    "confidence": 0.6,
+    "delay_minutes": 20,
+    "reason": "We factor injury severity when assessing Alabama\u2019s chances fairly."
+   },
+   {
+    "persona_id": "crypto-trader",
+    "probability": 0.37,
+    "confidence": 0.95,
+    "delay_minutes": 1,
+    "reason": "We update instantly to injury news as a key predictive signal."
+   },
+   {
+    "persona_id": "macro-pm",
+    "probability": 0.37,
+    "confidence": 0.9,
+    "delay_minutes": 5,
+    "reason": "We incorporate relevant impactful information promptly and objectively."
+   },
+   {
+    "persona_id": "college-student",
+    "probability": 0.35,
+    "confidence": 0.5,
+    "delay_minutes": 10,
+    "reason": "We quickly lower our expectations for Alabama given the bad QB news."
+   },
+   {
+    "persona_id": "small-biz",
+    "probability": 0.39,
+    "confidence": 0.65,
+    "delay_minutes": 25,
+    "reason": "We listen to credible sources and adjust probability down on injuries."
+   },
+   {
+    "persona_id": "software-eng",
+    "probability": 0.37,
+    "confidence": 0.8,
+    "delay_minutes": 10,
+    "reason": "We analyze new inputs like QB injuries to refine our views."
+   },
+   {
+    "persona_id": "union-electrician",
+    "probability": 0.36,
+    "confidence": 0.7,
+    "delay_minutes": 30,
+    "reason": "We adjust our outlook based on the significant handicap to Alabama."
+   },
+   {
+    "persona_id": "political-junkie",
+    "probability": 0.35,
+    "confidence": 0.6,
+    "delay_minutes": 10,
+    "reason": "We accept expert assessments noting Alabama\u2019s disadvantage with QB injuries."
+   },
+   {
+    "persona_id": "realtor",
+    "probability": 0.38,
+    "confidence": 0.7,
+    "delay_minutes": 20,
+    "reason": "We shift expectations reflecting a weaker Alabama lineup due to injuries."
+   },
+   {
+    "persona_id": "grad-econ",
+    "probability": 0.37,
+    "confidence": 0.85,
+    "delay_minutes": 5,
+    "reason": "We update our probability estimate immediately based on the injury news."
+   },
+   {
+    "persona_id": "farmer",
+    "probability": 0.36,
+    "confidence": 0.6,
+    "delay_minutes": 30,
+    "reason": "We lower Alabama\u2019s winning chance owing to key player injuries."
+   },
+   {
+    "persona_id": "gig-driver",
+    "probability": 0.35,
+    "confidence": 0.5,
+    "delay_minutes": 15,
+    "reason": "We rely on credible news and adjust our view down from 0.55."
+   },
+   {
+    "persona_id": "sports-bettor",
+    "probability": 0.33,
+    "confidence": 0.9,
+    "delay_minutes": 5,
+    "reason": "We cut Alabama\u2019s odds sharply due to losing both QBs before the game."
+   },
+   {
+    "persona_id": "physician",
+    "probability": 0.37,
+    "confidence": 0.75,
+    "delay_minutes": 20,
+    "reason": "We regard injury reports seriously and adjust the chance fairly."
+   },
+   {
+    "persona_id": "vc-associate",
+    "probability": 0.37,
+    "confidence": 0.8,
+    "delay_minutes": 10,
+    "reason": "We incorporate the injury news quickly into our probability model."
+   },
+   {
+    "persona_id": "school-admin",
+    "probability": 0.35,
+    "confidence": 0.6,
+    "delay_minutes": 15,
+    "reason": "We factor in injuries lowering Alabama\u2019s chances against Georgia."
+   },
+   {
+    "persona_id": "retired-military",
+    "probability": 0.38,
+    "confidence": 0.75,
+    "delay_minutes": 20,
+    "reason": "We adjust our estimates for significant personnel losses impacting performance."
+   },
+   {
+    "persona_id": "quant-dev",
+    "probability": 0.37,
+    "confidence": 0.95,
+    "delay_minutes": 1,
+    "reason": "We rapidly digest new info and recalibrate the model accordingly."
+   }
+  ]
+ }
+}

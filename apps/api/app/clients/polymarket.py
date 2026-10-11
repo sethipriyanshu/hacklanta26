@@ -16,6 +16,14 @@ async def gamma_events(*, limit: int = 100, offset: int = 0, closed: bool = Fals
     return await get_json(f"{GAMMA}/events", {"limit": limit, "offset": offset, "closed": str(closed).lower(), "order": order, "ascending": "false"})
 
 
+async def gamma_events_keyset(*, limit: int = 100, cursor: str | None = None, closed: bool = False) -> dict[str, Any]:
+    """Cursor-paged events: {"events": [...], "next_cursor": str | None}. Unlike offset paging it reaches every event."""
+    params: dict[str, Any] = {"limit": limit, "closed": str(closed).lower()}
+    if cursor:
+        params["after_cursor"] = cursor
+    return await get_json(f"{GAMMA}/events/keyset", params)
+
+
 async def gamma_event(event_id: str) -> dict[str, Any]:
     return await get_json(f"{GAMMA}/events/{event_id}")
 

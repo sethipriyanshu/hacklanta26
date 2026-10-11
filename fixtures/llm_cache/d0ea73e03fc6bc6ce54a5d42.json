@@ -1,0 +1,11 @@
+{
+ "tag": "pair:KXPRESPERSON-28-MRUB",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You compare prediction-market contracts from two venues and decide whether they resolve on the same event. Judge only resolution rules: dates, thresholds, sources, bracket structure. Be terse.",
+ "user": "[Kalshi] Who will win the next presidential election?\nRules: If Marco Rubio is the next person inaugurated as President for the term beginning in 2029, then the market resolves to Yes.\n\n[Polymarket 1] Will Marco Rubio win the 2028 US Presidential Election?\nRules: The 2028 US Presidential Election is scheduled to take place on November 7, 2028.\n\nThis market will resolve to the person who wins the 2028 US Presidential Election.\n\nThe resolution source for this market is the Associated Press, Fox News, and NBC. This market will resolve once all three sources call the race for the same candidate. If all three sources haven\u2019t called the race for the same candidate by the inauguration date (January 20, 2029) this market will resolve based on who is inaugurated.\n\nDo these resolve on the same outcome?",
+ "output": {
+  "match": "partial",
+  "reason": "Kalshi resolves based on inauguration only; Polymarket resolves on election call or inauguration, thus Polymarket spans Kalshi's rules."
+ }
+}

@@ -49,4 +49,4 @@ class VenuePair(Model):
     match: Literal["same", "different", "partial"]
     reason: str
     title: str
-    checked_by: Literal["llm", "curated"] = "curated"
+    checked_by: Literal["llm", "curated", "auto"] = "curated"

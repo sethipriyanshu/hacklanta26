@@ -1,0 +1,151 @@
+{
+ "tag": "swarm:a94a8fe5ccb1",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You simulate how different groups of ordinary people and professionals react to a news headline about a prediction-market contract. For each persona, estimate how much the headline changes their belief that the contract resolves YES (belief_shift in -1..1), their confidence, how many minutes until that group typically acts, and a one-line first-person-plural reason. Be realistic about information speed and media habits.",
+ "user": "Contract: Will the Fed increase interest rates by 25 bps after the September 2026 meeting?\nEvent: Fed Decision in September?\nResolution rules: The FED interest rates are defined in this market by the upper bound of the target federal funds range. The decisions on the target federal funds range are made by the Federal Open Market Committee (FOMC) meetings.\n\nThis market will resolve to the amount of basis points the upper bound of the target federal funds rate is changed by versus the level it was prior to the Federal Reserve's September 2026 meeting.\n\nIf the target federal funds rate is changed to a level not expressed in the displayed options, the change will be rounded up to the nearest 25 and will resolve to the relevant bracket. (\nCurrent YES price: 1.00\n\nHeadline: test\n\nPersonas:\n- retired-teacher: retired public school teacher; age 65+; income low; leans left; media: evening cable news, local paper\n- retired-exec: retired regional bank executive; age 65+; income high; leans right; media: WSJ, Fox Business, broker notes\n- nurse: ICU nurse working nights; age 30-44; income mid; leans center; media: push alerts between shifts, Reddit\n- crypto-trader: full-time crypto and prediction-market trader; age 18-29; income mid; leans center; media: X, Telegram alpha groups, terminal feeds\n- macro-pm: analyst at a macro hedge fund; age 30-44; income high; leans center; media: Bloomberg terminal, Fed statements as they drop\n- college-student: undergraduate, part-time barista; age 18-29; income low; leans left; media: TikTok, group chats, Discord\n- small-biz: owns two restaurants; age 45-64; income high; leans right; media: talk radio, trade association emails\n- software-eng: senior engineer at a SaaS company; age 30-44; income high; leans center; media: Hacker News, X, newsletters\n- union-electrician: journeyman electrician; age 45-64; income mid; leans left; media: local TV, Facebook\n- political-junkie: congressional staffer; age 18-29; income low; leans left; media: Politico, X, Slack back-channels\n- realtor: residential real estate agent; age 45-64; income mid; leans right; media: CNBC in the office, mortgage-rate alerts\n- grad-econ: PhD student in economics; age 18-29; income low; leans center; media: FOMC statements, FRED, EconTwitter\n- farmer: runs a family grain farm; age 45-64; income mid; leans right; media: AM radio, co-op newsletters, futures prices\n- gig-driver: rideshare and delivery driver; age 30-44; income low; leans center; media: YouTube, podcasts while driving\n- sports-bettor: sales rep who bets most weekends; age 30-44; income mid; leans right; media: sportsbook apps, Barstool, X\n- physician: family medicine doctor; age 45-64; income high; leans center; media: NYT morning briefing, NPR\n- vc-associate: associate at a venture fund; age 18-29; income high; leans center; media: X, Substacks, founder group chats\n- school-admin: assistant principal; age 30-44; income mid; leans left; media: morning news shows, email digests\n- retired-military: retired army officer, defense contractor; age 45-64; income high; leans right; media: cable news, defense trade press\n- quant-dev: builds trading bots at a prop shop; age 30-44; income high; leans center; media: raw feeds, APIs, nothing human\n\nReturn one reaction per persona id.",
+ "output": {
+  "reactions": [
+   {
+    "persona_id": "retired-teacher",
+    "belief_shift": 0.0,
+    "confidence": 0.1,
+    "delay_minutes": 120,
+    "reason": "Headline 'test' gives us no info to update Fed hike chances."
+   },
+   {
+    "persona_id": "retired-exec",
+    "belief_shift": 0.0,
+    "confidence": 0.1,
+    "delay_minutes": 90,
+    "reason": "No meaningful info from 'test' to affect rate hike expectations."
+   },
+   {
+    "persona_id": "nurse",
+    "belief_shift": 0.0,
+    "confidence": 0.05,
+    "delay_minutes": 180,
+    "reason": "We get no clues from 'test' headline about Fed decisions."
+   },
+   {
+    "persona_id": "crypto-trader",
+    "belief_shift": 0.0,
+    "confidence": 0.01,
+    "delay_minutes": 1,
+    "reason": "Headline is just 'test', no update to Fed rate predictions here."
+   },
+   {
+    "persona_id": "macro-pm",
+    "belief_shift": 0.0,
+    "confidence": 0.05,
+    "delay_minutes": 1,
+    "reason": "No info from 'test' headline to adjust our model or positions."
+   },
+   {
+    "persona_id": "college-student",
+    "belief_shift": 0.0,
+    "confidence": 0.01,
+    "delay_minutes": 240,
+    "reason": "No news in 'test' headline to change our thoughts on Fed rates."
+   },
+   {
+    "persona_id": "small-biz",
+    "belief_shift": 0.0,
+    "confidence": 0.1,
+    "delay_minutes": 60,
+    "reason": "'test' headline doesn't inform us about interest rates."
+   },
+   {
+    "persona_id": "software-eng",
+    "belief_shift": 0.0,
+    "confidence": 0.05,
+    "delay_minutes": 30,
+    "reason": "This 'test' headline has no info to affect Fed raise odds."
+   },
+   {
+    "persona_id": "union-electrician",
+    "belief_shift": 0.0,
+    "confidence": 0.1,
+    "delay_minutes": 120,
+    "reason": "No update from 'test' for interest rate expectations."
+   },
+   {
+    "persona_id": "political-junkie",
+    "belief_shift": 0.0,
+    "confidence": 0.01,
+    "delay_minutes": 10,
+    "reason": "Headline 'test' offers no fresh info about Fed actions."
+   },
+   {
+    "persona_id": "realtor",
+    "belief_shift": 0.0,
+    "confidence": 0.1,
+    "delay_minutes": 45,
+    "reason": "No useful info on interest rates in the 'test' headline."
+   },
+   {
+    "persona_id": "grad-econ",
+    "belief_shift": 0.0,
+    "confidence": 0.01,
+    "delay_minutes": 5,
+    "reason": "No data in 'test' to influence Fed rate hike probabilities."
+   },
+   {
+    "persona_id": "farmer",
+    "belief_shift": 0.0,
+    "confidence": 0.1,
+    "delay_minutes": 90,
+    "reason": "Nothing in 'test' headline signals Fed's rate move."
+   },
+   {
+    "persona_id": "gig-driver",
+    "belief_shift": 0.0,
+    "confidence": 0.01,
+    "delay_minutes": 240,
+    "reason": "Headline 'test' doesn\u2019t give us info on Fed decisions."
+   },
+   {
+    "persona_id": "sports-bettor",
+    "belief_shift": 0.0,
+    "confidence": 0.01,
+    "delay_minutes": 15,
+    "reason": "No info in 'test' to change betting odds on Fed moves."
+   },
+   {
+    "persona_id": "physician",
+    "belief_shift": 0.0,
+    "confidence": 0.01,
+    "delay_minutes": 60,
+    "reason": "No relevant data in 'test' about Fed interest rates."
+   },
+   {
+    "persona_id": "vc-associate",
+    "belief_shift": 0.0,
+    "confidence": 0.01,
+    "delay_minutes": 10,
+    "reason": "No investment clues from 'test' headline on Fed hikes."
+   },
+   {
+    "persona_id": "school-admin",
+    "belief_shift": 0.0,
+    "confidence": 0.1,
+    "delay_minutes": 120,
+    "reason": "'test' headline holds no info on Fed decisions for us."
+   },
+   {
+    "persona_id": "retired-military",
+    "belief_shift": 0.0,
+    "confidence": 0.1,
+    "delay_minutes": 90,
+    "reason": "No actionable intel from 'test' on interest rates."
+   },
+   {
+    "persona_id": "quant-dev",
+    "belief_shift": 0.0,
+    "confidence": 0.05,
+    "delay_minutes": 1,
+    "reason": "'test' headline has zero data for our algorithms."
+   }
+  ]
+ }
+}

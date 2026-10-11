@@ -1,0 +1,155 @@
+{
+ "tag": "swarm-v3:9bc691cdfbf3",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You model how a prediction market reprices after a headline. Work in this order. 1) analysis: in 2-3 sentences, say who the news helps or hurts, stated strictly in terms of the YES outcome of THIS contract (read 'YES means' carefully; for a team's 'wins' contract, news good for the opponent is bad for YES). If the headline names a person, place or thing, first establish which side it belongs to (which team a player plays for, whose home city a venue is). If you cannot tell which side the news affects, set direction to 'none' rather than guess. 2) direction: 'up' if YES is now more likely, 'down' if less likely, 'none' if the news does not matter. It must match your analysis. 3) move_points: how many percentage points a sharp, unbiased analyst would move the probability of YES, as a positive number. Be decisive: news that materially changes the outcome moves it a lot; trivia moves it little. 4) For each persona: bias_points, how far that group's view sits from the informed estimate after absorbing the news, from genuine bias only (team loyalty, partisanship, wishful thinking), between -8 and +8. Slowness is modelled separately by delay_minutes, so do not encode it as bias. Also give confidence, delay_minutes and a one-line first-person-plural reason.",
+ "user": "Contract: Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?\nEvent: Brazil Presidential Election\nYES means: Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?\nResolution rules: A presidential election is scheduled to take place in Brazil on October 4, 2026.\n\nThis market will resolve according to the listed candidate that wins this election.\n\nThis market includes any potential second round. If the result of this election isn't known by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Brazilian government, specifically the Superior Electoral\nCurrent YES price (the market's probability before the news): 0.55\n\nHeadline: Bolsonaro leads new poll by 8 points\n\nPersonas:\n- retired-teacher: retired public school teacher; age 65+; income low; leans left; media: evening cable news, local paper\n- retired-exec: retired regional bank executive; age 65+; income high; leans right; media: WSJ, Fox Business, broker notes\n- nurse: ICU nurse working nights; age 30-44; income mid; leans center; media: push alerts between shifts, Reddit\n- crypto-trader: full-time crypto and prediction-market trader; age 18-29; income mid; leans center; media: X, Telegram alpha groups, terminal feeds\n- macro-pm: analyst at a macro hedge fund; age 30-44; income high; leans center; media: Bloomberg terminal, Fed statements as they drop\n- college-student: undergraduate, part-time barista; age 18-29; income low; leans left; media: TikTok, group chats, Discord\n- small-biz: owns two restaurants; age 45-64; income high; leans right; media: talk radio, trade association emails\n- software-eng: senior engineer at a SaaS company; age 30-44; income high; leans center; media: Hacker News, X, newsletters\n- union-electrician: journeyman electrician; age 45-64; income mid; leans left; media: local TV, Facebook\n- political-junkie: congressional staffer; age 18-29; income low; leans left; media: Politico, X, Slack back-channels\n- realtor: residential real estate agent; age 45-64; income mid; leans right; media: CNBC in the office, mortgage-rate alerts\n- grad-econ: PhD student in economics; age 18-29; income low; leans center; media: FOMC statements, FRED, EconTwitter\n- farmer: runs a family grain farm; age 45-64; income mid; leans right; media: AM radio, co-op newsletters, futures prices\n- gig-driver: rideshare and delivery driver; age 30-44; income low; leans center; media: YouTube, podcasts while driving\n- sports-bettor: sales rep who bets most weekends; age 30-44; income mid; leans right; media: sportsbook apps, Barstool, X\n- physician: family medicine doctor; age 45-64; income high; leans center; media: NYT morning briefing, NPR\n- vc-associate: associate at a venture fund; age 18-29; income high; leans center; media: X, Substacks, founder group chats\n- school-admin: assistant principal; age 30-44; income mid; leans left; media: morning news shows, email digests\n- retired-military: retired army officer, defense contractor; age 45-64; income high; leans right; media: cable news, defense trade press\n- quant-dev: builds trading bots at a prop shop; age 30-44; income high; leans center; media: raw feeds, APIs, nothing human\n\nReturn the analysis, direction, move_points, reason, and one reaction per persona id.",
+ "output": {
+  "analysis": "The headline states that Bolsonaro leads a new poll by 8 points. Since the YES outcome means Fl\u00e1vio Bolsonaro wins the 2026 Brazilian presidential election, this poll lead directly supports the YES side by indicating he is currently favored. Poll leads typically increase the probability that he wins this election.",
+  "direction": "up",
+  "move_points": 7.0,
+  "reason": "An 8-point poll lead signals a significant boost in Bolsonaro's chances of winning, justifying an upward move.",
+  "reactions": [
+   {
+    "persona_id": "retired-teacher",
+    "bias_points": -2.0,
+    "confidence": 0.7,
+    "delay_minutes": 15,
+    "reason": "We are skeptical of Bolsonaro gaining support given past controversies."
+   },
+   {
+    "persona_id": "retired-exec",
+    "bias_points": 3.0,
+    "confidence": 0.8,
+    "delay_minutes": 10,
+    "reason": "We favor Bolsonaro and trust these poll results reflect his strength."
+   },
+   {
+    "persona_id": "nurse",
+    "bias_points": 0.0,
+    "confidence": 0.6,
+    "delay_minutes": 20,
+    "reason": "We stay neutral and trust the poll data as is for now."
+   },
+   {
+    "persona_id": "crypto-trader",
+    "bias_points": 0.0,
+    "confidence": 0.9,
+    "delay_minutes": 5,
+    "reason": "We rely on fresh poll data for quick market adjustments."
+   },
+   {
+    "persona_id": "macro-pm",
+    "bias_points": 0.0,
+    "confidence": 0.95,
+    "delay_minutes": 2,
+    "reason": "We quickly incorporate new economic-political data objectively."
+   },
+   {
+    "persona_id": "college-student",
+    "bias_points": -3.0,
+    "confidence": 0.5,
+    "delay_minutes": 30,
+    "reason": "We distrust Bolsonaro and doubt poll reliability."
+   },
+   {
+    "persona_id": "small-biz",
+    "bias_points": 2.0,
+    "confidence": 0.7,
+    "delay_minutes": 15,
+    "reason": "We lean right and see this as positive news."
+   },
+   {
+    "persona_id": "software-eng",
+    "bias_points": 0.0,
+    "confidence": 0.7,
+    "delay_minutes": 10,
+    "reason": "We remain data-focused and unbiased."
+   },
+   {
+    "persona_id": "union-electrician",
+    "bias_points": -4.0,
+    "confidence": 0.6,
+    "delay_minutes": 20,
+    "reason": "We oppose Bolsonaro and discount positive polls for him."
+   },
+   {
+    "persona_id": "political-junkie",
+    "bias_points": -3.0,
+    "confidence": 0.7,
+    "delay_minutes": 10,
+    "reason": "We view Bolsonaro unfavorably and doubt poll accuracy."
+   },
+   {
+    "persona_id": "realtor",
+    "bias_points": 2.0,
+    "confidence": 0.6,
+    "delay_minutes": 15,
+    "reason": "We favor Bolsonaro and rate this higher."
+   },
+   {
+    "persona_id": "grad-econ",
+    "bias_points": 0.0,
+    "confidence": 0.95,
+    "delay_minutes": 5,
+    "reason": "We incorporate new poll data rationally and quickly."
+   },
+   {
+    "persona_id": "farmer",
+    "bias_points": 1.0,
+    "confidence": 0.8,
+    "delay_minutes": 10,
+    "reason": "We lean right but cautiously accept poll impact."
+   },
+   {
+    "persona_id": "gig-driver",
+    "bias_points": 0.0,
+    "confidence": 0.5,
+    "delay_minutes": 25,
+    "reason": "We wait to confirm poll trends before adjusting views."
+   },
+   {
+    "persona_id": "sports-bettor",
+    "bias_points": 1.0,
+    "confidence": 0.9,
+    "delay_minutes": 5,
+    "reason": "We respond fast to poll data affecting bets."
+   },
+   {
+    "persona_id": "physician",
+    "bias_points": 0.0,
+    "confidence": 0.7,
+    "delay_minutes": 15,
+    "reason": "We treat poll data as informative but remain moderate."
+   },
+   {
+    "persona_id": "vc-associate",
+    "bias_points": 0.0,
+    "confidence": 0.8,
+    "delay_minutes": 10,
+    "reason": "We quickly update beliefs based on credible data."
+   },
+   {
+    "persona_id": "school-admin",
+    "bias_points": -2.0,
+    "confidence": 0.6,
+    "delay_minutes": 20,
+    "reason": "We lean left and suspect poll optimism for Bolsonaro."
+   },
+   {
+    "persona_id": "retired-military",
+    "bias_points": 3.0,
+    "confidence": 0.8,
+    "delay_minutes": 10,
+    "reason": "We support Bolsonaro and interpret this positively."
+   },
+   {
+    "persona_id": "quant-dev",
+    "bias_points": 0.0,
+    "confidence": 0.95,
+    "delay_minutes": 1,
+    "reason": "We instantly incorporate such clear data into models."
+   }
+  ]
+ }
+}

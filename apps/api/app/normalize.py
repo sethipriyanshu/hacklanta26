@@ -18,6 +18,8 @@ KALSHI_CATEGORY: dict[str, Category] = {
 }
 CRYPTO_RE = re.compile(r"\b(bitcoin|btc|ethereum|eth|solana|sol|crypto|dogecoin|xrp)\b", re.I)
 TECH_RE = re.compile(r"\b(openai|agi|nvidia|apple|tesla|spacex|ai model|gpt|iphone|starship)\b", re.I)
+# Polymarket game slugs look like "nfl-tb-dal-2026-10-09": a league prefix then teams then an ISO date.
+POLY_GAME_RE = re.compile(r"^(nfl|nba|nhl|mlb|cfb|ncaaf|atp|wta|epl|ucl|uel|laliga|seriea|bundesliga|ligue1|mls|wnba|cbb|ncaab)-.+-\d{4}-\d{2}-\d{2}", re.I)
 ECON_RE = re.compile(r"\b(fed|fomc|cpi|inflation|gdp|jobs report|unemployment|rate cut|rate hike|tariff|recession)\b", re.I)
 POLY_TAG_CATEGORY: list[tuple[re.Pattern[str], Category]] = [
     (re.compile(r"^(sports|esports|nfl|nba|mlb|nhl|soccer|ufc|tennis|golf|games|counter strike|league of legends)", re.I), "Sports"),
@@ -115,7 +117,8 @@ def kalshi_event(ev: dict[str, Any]) -> tuple[Event, list[Market]]:
                 url=url,
                 status=m.get("status", "open"),
                 mutually_exclusive=bool(ev.get("mutually_exclusive")),
-                meta={"series": series, "eventTicker": ev["event_ticker"], "result": m.get("result") or None},
+                # occurrence_datetime is the scheduled time of the underlying event (kickoff for a game).
+                meta={"series": series, "eventTicker": ev["event_ticker"], "result": m.get("result") or None, "occursAt": int(_occ.timestamp()) if (_occ := ts_of(m.get("occurrence_datetime"))) else None},
             )
         )
     event = Event(
@@ -177,6 +180,17 @@ def _jlist(s: Any) -> list[Any]:
         return []
 
 
+POLY_LEAGUE_PREFIX = {"nfl": "NFL", "cfb": "CFB", "ncaaf": "CFB", "nba": "NBA", "wnba": "WNBA", "cbb": "CBB", "ncaab": "CBB", "mlb": "MLB", "nhl": "NHL",
+                      "epl": "Soccer", "ucl": "Soccer", "uel": "Soccer", "laliga": "Soccer", "seriea": "Soccer", "bundesliga": "Soccer", "ligue1": "Soccer", "mls": "Soccer",
+                      "atp": "Tennis", "wta": "Tennis", "ufc": "UFC", "cs2": "Esports", "lol": "Esports", "dota2": "Esports", "val": "Esports"}
+
+
+def poly_league(ev: dict[str, Any]) -> str | None:
+    """League from the event slug prefix (e.g. "cfb-tul-army-2026-10-10" is CFB)."""
+    head = (ev.get("slug") or "").split("-", 1)[0].lower()
+    return POLY_LEAGUE_PREFIX.get(head)
+
+
 def poly_event(ev: dict[str, Any]) -> tuple[Event, list[Market]]:
     cat = categorize_poly(ev.get("tags") or [], ev.get("title", ""))
     url = f"https://polymarket.com/event/{ev.get('slug', '')}"
@@ -216,7 +230,22 @@ def poly_event(ev: dict[str, Any]) -> tuple[Event, list[Market]]:
                 url=url,
                 status="closed" if m.get("closed") else "open",
                 mutually_exclusive=bool(ev.get("negRisk")),
-                meta={"conditionId": m["conditionId"], "tokens": tokens, "eventSlug": ev.get("slug"), "resolved": bool(m.get("closed")), "resolvedYes": (prices[0] == 1.0) if m.get("closed") and prices else None},
+                meta={
+                    "conditionId": m["conditionId"],
+                    "tokens": tokens,
+                    "eventSlug": ev.get("slug"),
+                    "resolved": bool(m.get("closed")) or m.get("umaResolutionStatus") == "resolved",
+                    "resolvedYes": (prices[0] == 1.0) if m.get("closed") and prices else None,
+                    "acceptingOrders": bool(m.get("acceptingOrders", True)),
+                    "gameStartTime": int(_gst.timestamp()) if (_gst := ts_of(m.get("gameStartTime")) or ts_of(ev.get("startTime"))) else None,
+                    # Polymarket's own game state, authoritative when present: live, ended, score, period.
+                    "gameLive": ev.get("live"),
+                    "gameEnded": ev.get("ended"),
+                    "score": ev.get("score") or None,
+                    "period": ev.get("period") or None,
+                    "league": poly_league(ev),
+                    "game": bool(POLY_GAME_RE.match(m.get("slug", ""))),
+                },
             )
         )
     event = Event(

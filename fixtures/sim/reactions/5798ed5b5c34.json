@@ -1,0 +1,152 @@
+{
+ "source": "llm",
+ "headline": "game moved to athens",
+ "marketId": "kalshi:KXNCAAFGAME-26OCT10UGAALA-ALA",
+ "fairProbability": 0.495,
+ "fairReason": "Moving the game to Georgia's home field reduces Alabama's chance of winning due to home-field advantage.",
+ "analysis": "The game being moved to Athens means it will be played at Georgia's home venue, which gives them a home-field advantage. This hurts the likelihood that Alabama will win (the YES outcome of this contract). Therefore, the YES probability should go down.",
+ "direction": "down",
+ "movePoints": 5.0,
+ "reactions": [
+  {
+   "personaId": "retired-teacher",
+   "probability": 0.515,
+   "confidence": 0.7,
+   "delayMinutes": 30,
+   "reason": "We tend to support Alabama more and discount home advantage slightly."
+  },
+  {
+   "personaId": "retired-exec",
+   "probability": 0.485,
+   "confidence": 0.9,
+   "delayMinutes": 15,
+   "reason": "We recognize the disadvantage for Alabama, adjusting prices quickly and accurately."
+  },
+  {
+   "personaId": "nurse",
+   "probability": 0.505,
+   "confidence": 0.6,
+   "delayMinutes": 45,
+   "reason": "We give a bit of benefit to Alabama but acknowledge the news is negative."
+  },
+  {
+   "personaId": "crypto-trader",
+   "probability": 0.495,
+   "confidence": 0.95,
+   "delayMinutes": 2,
+   "reason": "We quickly price in the home-field change without bias."
+  },
+  {
+   "personaId": "macro-pm",
+   "probability": 0.485,
+   "confidence": 0.95,
+   "delayMinutes": 5,
+   "reason": "We assimilate news fast and understand the impact on Alabama's odds."
+  },
+  {
+   "personaId": "college-student",
+   "probability": 0.525,
+   "confidence": 0.5,
+   "delayMinutes": 60,
+   "reason": "We root for Alabama and may overvalue their chances despite the venue change."
+  },
+  {
+   "personaId": "small-biz",
+   "probability": 0.475,
+   "confidence": 0.8,
+   "delayMinutes": 20,
+   "reason": "We realistically view Alabama's chances as lower due to game relocation."
+  },
+  {
+   "personaId": "software-eng",
+   "probability": 0.495,
+   "confidence": 0.9,
+   "delayMinutes": 10,
+   "reason": "We objectively assess the venue change and adjust accordingly."
+  },
+  {
+   "personaId": "union-electrician",
+   "probability": 0.515,
+   "confidence": 0.7,
+   "delayMinutes": 30,
+   "reason": "We slightly favor Alabama regardless, discounting home advantage."
+  },
+  {
+   "personaId": "political-junkie",
+   "probability": 0.505,
+   "confidence": 0.6,
+   "delayMinutes": 45,
+   "reason": "We tend to be optimistic for Alabama but acknowledge negative news."
+  },
+  {
+   "personaId": "realtor",
+   "probability": 0.485,
+   "confidence": 0.85,
+   "delayMinutes": 15,
+   "reason": "We efficiently price the disadvantage Alabama faces with game moved."
+  },
+  {
+   "personaId": "grad-econ",
+   "probability": 0.495,
+   "confidence": 0.95,
+   "delayMinutes": 5,
+   "reason": "We accurately measure the impact of venue shift on game outcome."
+  },
+  {
+   "personaId": "farmer",
+   "probability": 0.485,
+   "confidence": 0.8,
+   "delayMinutes": 20,
+   "reason": "We adjust Alabama's odds down given the new disadvantage."
+  },
+  {
+   "personaId": "gig-driver",
+   "probability": 0.505,
+   "confidence": 0.65,
+   "delayMinutes": 40,
+   "reason": "We give some bias towards Alabama hopeful but accept the likely impact."
+  },
+  {
+   "personaId": "sports-bettor",
+   "probability": 0.475,
+   "confidence": 0.9,
+   "delayMinutes": 10,
+   "reason": "We realistically adjust Alabama's odds downward based on venue change."
+  },
+  {
+   "personaId": "physician",
+   "probability": 0.495,
+   "confidence": 0.9,
+   "delayMinutes": 15,
+   "reason": "We update our views rationally and quickly."
+  },
+  {
+   "personaId": "vc-associate",
+   "probability": 0.495,
+   "confidence": 0.9,
+   "delayMinutes": 10,
+   "reason": "We respond fast and without bias to the new location info."
+  },
+  {
+   "personaId": "school-admin",
+   "probability": 0.515,
+   "confidence": 0.6,
+   "delayMinutes": 35,
+   "reason": "We tend to be optimistic about Alabama, slight delay reacting."
+  },
+  {
+   "personaId": "retired-military",
+   "probability": 0.485,
+   "confidence": 0.85,
+   "delayMinutes": 15,
+   "reason": "We analytically recognize the disadvantage for Alabama."
+  },
+  {
+   "personaId": "quant-dev",
+   "probability": 0.495,
+   "confidence": 0.98,
+   "delayMinutes": 1,
+   "reason": "We immediately price news with no bias."
+  }
+ ]
+}

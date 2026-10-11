@@ -4,7 +4,7 @@ import type { Market, Signal } from "@/lib/api";
 import { cents } from "@/lib/format";
 
 export function CrossVenueCard({ signal, markets }: { signal: Signal | undefined; markets: Record<string, Market> }) {
-  if (!signal) return <p className="px-3 py-4 text-[12px] text-fg-3">No confirmed twin on the other venue yet. Pairs are matched by title, then an LLM compares resolution rules.</p>;
+  if (!signal) return <p className="px-3 py-4 type-meta text-fg-3">No confirmed twin on the other venue yet. Pairs are matched by title, then an LLM compares resolution rules.</p>;
   const d = signal.details as { kalshiId: string; polyIds: string[]; kalshiPrice: number; polyPrice: number; match: string; flagged: boolean };
   const k = markets[d.kalshiId];
   const polys = d.polyIds.map((i) => markets[i]).filter(Boolean);
@@ -20,8 +20,8 @@ export function CrossVenueCard({ signal, markets }: { signal: Signal | undefined
         </div>
         <Side label="Polymarket" price={d.polyPrice} href={polys[0] ? `/scanner/${encodeURIComponent(polys[0].id)}` : undefined} title={polys.map((p) => p.subtitle ?? p.title).join(" + ")} color="var(--tmb-mispricing)" />
       </div>
-      <p className="mt-3 text-[12px] leading-relaxed text-fg-2">{signal.explanation}</p>
-      <p className="num mt-2 text-[10px] tracking-wider text-fg-3 uppercase">
+      <p className="mt-3 type-meta leading-relaxed text-fg-2">{signal.explanation}</p>
+      <p className="num mt-2 type-small text-fg-3">
         rules match: <span style={{ color: d.match === "same" ? "var(--tmb-yes)" : d.match === "partial" ? "var(--tmb-anomaly)" : "var(--tmb-no)" }}>{d.match}</span>
       </p>
     </div>
@@ -35,7 +35,7 @@ function Side({ label, price, href, title, color }: { label: string; price: numb
         {label}
       </p>
       <p className="num text-[22px] leading-tight text-fg">{cents(price)}</p>
-      <p className="truncate text-[11px] text-fg-3" title={title}>
+      <p className="truncate type-small text-fg-3" title={title}>
         {title}
       </p>
     </div>

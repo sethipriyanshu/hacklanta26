@@ -105,12 +105,14 @@ class Snapshot(Model):
 
 class MarketRow(Market):
     spark: list[float] = Field(default_factory=list)
-    flags: list[dict[str, Any]] = Field(default_factory=list)  # [{type, score}]
+    flags: list[dict[str, Any]] = Field(default_factory=list)  # [{type, score, explanation}]
     max_score: float = 0.0
+    live: bool = False  # an event in progress right now (e.g. a game that has started and is still trading)
 
 
 class MarketsResponse(Model):
     markets: list[MarketRow]
+    total: int = 0  # rows matching the filters, before offset/limit
     snapshot: Snapshot
 
 

@@ -1,0 +1,152 @@
+{
+ "source": "llm",
+ "headline": "test",
+ "marketId": "kalshi:KXNCAAFGAME-26OCT10STANND-ND",
+ "fairProbability": 0.995,
+ "fairReason": "Headline contains no relevant information to change Notre Dame's win probability.",
+ "analysis": "The headline 'test' does not provide any new information that can affect the likelihood of Notre Dame winning the game against Stanford. Therefore, it neither helps nor hurts Notre Dame's chances of winning, leaving the probability unchanged.",
+ "direction": "none",
+ "movePoints": 0.0,
+ "reactions": [
+  {
+   "personaId": "retired-teacher",
+   "probability": 0.99,
+   "confidence": 0.5,
+   "delayMinutes": 15,
+   "reason": "We wait for clear news to adjust our views."
+  },
+  {
+   "personaId": "retired-exec",
+   "probability": 0.99,
+   "confidence": 0.6,
+   "delayMinutes": 20,
+   "reason": "No useful info here, so we hold our probability steady."
+  },
+  {
+   "personaId": "nurse",
+   "probability": 0.99,
+   "confidence": 0.5,
+   "delayMinutes": 10,
+   "reason": "No material update; we keep opinions as is."
+  },
+  {
+   "personaId": "crypto-trader",
+   "probability": 0.99,
+   "confidence": 0.7,
+   "delayMinutes": 1,
+   "reason": "No data to trade on from this vague headline."
+  },
+  {
+   "personaId": "macro-pm",
+   "probability": 0.99,
+   "confidence": 0.8,
+   "delayMinutes": 5,
+   "reason": "Without meaningful news, we don't move the market."
+  },
+  {
+   "personaId": "college-student",
+   "probability": 0.99,
+   "confidence": 0.4,
+   "delayMinutes": 30,
+   "reason": "This doesn't change anything for us."
+  },
+  {
+   "personaId": "small-biz",
+   "probability": 0.99,
+   "confidence": 0.5,
+   "delayMinutes": 25,
+   "reason": "No relevant information, no change in outlook."
+  },
+  {
+   "personaId": "software-eng",
+   "probability": 0.99,
+   "confidence": 0.6,
+   "delayMinutes": 10,
+   "reason": "Lacking context, we maintain current probability."
+  },
+  {
+   "personaId": "union-electrician",
+   "probability": 0.99,
+   "confidence": 0.5,
+   "delayMinutes": 20,
+   "reason": "We need actual news before updating bets."
+  },
+  {
+   "personaId": "political-junkie",
+   "probability": 0.99,
+   "confidence": 0.6,
+   "delayMinutes": 5,
+   "reason": "No impact from this meaningless headline."
+  },
+  {
+   "personaId": "realtor",
+   "probability": 0.99,
+   "confidence": 0.5,
+   "delayMinutes": 30,
+   "reason": "This doesn't affect our view on the game."
+  },
+  {
+   "personaId": "grad-econ",
+   "probability": 0.99,
+   "confidence": 0.7,
+   "delayMinutes": 5,
+   "reason": "Headline provides no new info to change odds."
+  },
+  {
+   "personaId": "farmer",
+   "probability": 0.99,
+   "confidence": 0.5,
+   "delayMinutes": 25,
+   "reason": "No meaningful news; we hold our position."
+  },
+  {
+   "personaId": "gig-driver",
+   "probability": 0.99,
+   "confidence": 0.4,
+   "delayMinutes": 15,
+   "reason": "Not enough info to adjust the chance."
+  },
+  {
+   "personaId": "sports-bettor",
+   "probability": 0.99,
+   "confidence": 0.7,
+   "delayMinutes": 5,
+   "reason": "No cause to change bets on this vague news."
+  },
+  {
+   "personaId": "physician",
+   "probability": 0.99,
+   "confidence": 0.6,
+   "delayMinutes": 10,
+   "reason": "No relevant update; we stay steady."
+  },
+  {
+   "personaId": "vc-associate",
+   "probability": 0.99,
+   "confidence": 0.7,
+   "delayMinutes": 5,
+   "reason": "Headline doesn't alter our expected outcome."
+  },
+  {
+   "personaId": "school-admin",
+   "probability": 0.99,
+   "confidence": 0.5,
+   "delayMinutes": 20,
+   "reason": "No substantive news, so no change expected."
+  },
+  {
+   "personaId": "retired-military",
+   "probability": 0.99,
+   "confidence": 0.6,
+   "delayMinutes": 10,
+   "reason": "No information here that shifts our view."
+  },
+  {
+   "personaId": "quant-dev",
+   "probability": 0.99,
+   "confidence": 0.8,
+   "delayMinutes": 2,
+   "reason": "No signal detected to change forecasting models."
+  }
+ ]
+}

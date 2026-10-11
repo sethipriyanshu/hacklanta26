@@ -24,7 +24,7 @@ export function SpotGame({ rounds, onExit }: { rounds: GameRound[]; onExit: () =
           {score}
           <span className="text-fg-3">/{rounds.length}</span>
         </p>
-        <p className="max-w-md text-[13px] text-fg-2">{score === rounds.length ? "Flawless. You read volume, timing and wallet concentration like a desk analyst." : score >= rounds.length / 2 ? "Solid. The ones you missed are the ones that fool real traders too." : "Those charts are designed to fool you; now you know the tells."}</p>
+        <p className="max-w-md type-body text-fg-2">{score === rounds.length ? "Flawless. You read volume, timing and wallet concentration like a desk analyst." : score >= rounds.length / 2 ? "Solid. The ones you missed are the ones that fool real traders too." : "Those charts are designed to fool you; now you know the tells."}</p>
         <div className="mt-2 flex gap-2">
           <Button onClick={() => { setI(0); setPick(null); setScore(0); }} variant="outline">
             <RotateCcw /> Play again
@@ -44,7 +44,7 @@ export function SpotGame({ rounds, onExit }: { rounds: GameRound[]; onExit: () =
           <p className="text-[15px] text-fg">Four anonymized charts. One of them is not an honest market. Which?</p>
         </div>
         <div className="flex items-center gap-3">
-          <span className="num text-[12px] text-fg-3">
+          <span className="num type-meta text-fg-3">
             score <span className="text-fg">{score}</span>
           </span>
           <Button variant="ghost" size="sm" onClick={onExit}>
@@ -63,12 +63,12 @@ export function SpotGame({ rounds, onExit }: { rounds: GameRound[]; onExit: () =
               disabled={revealed}
               onClick={() => { setPick(idx); if (idx === round.answer) setScore((s) => s + 1); }}
               whileHover={!revealed ? { scale: 1.01 } : undefined}
-              className={cn("relative flex min-h-0 flex-col overflow-hidden rounded-lg border bg-panel text-left transition-colors", !revealed && "border-line hover:border-fg-3", revealed && isAnswer && "border-anomaly", revealed && !isAnswer && pick === idx && "border-no", revealed && !isAnswer && pick !== idx && "border-line opacity-60")}
+              className={cn("relative flex min-h-0 flex-col overflow-hidden rounded-md border bg-panel text-left transition-colors", !revealed && "border-line hover:border-fg-3", revealed && isAnswer && "border-anomaly", revealed && !isAnswer && pick === idx && "border-no", revealed && !isAnswer && pick !== idx && "border-line opacity-60")}
             >
               <div className="flex items-center justify-between px-3 pt-2.5">
-                <span className="num text-[11px] text-fg-3">CHART {String.fromCharCode(65 + idx)}</span>
+                <span className="num type-small text-fg-3">CHART {String.fromCharCode(65 + idx)}</span>
                 {revealed && (
-                  <span className={cn("num flex items-center gap-1 text-[10px] tracking-wider", isAnswer ? "text-anomaly" : "text-fg-3")}>
+                  <span className={cn("num flex items-center gap-1 type-small", isAnswer ? "text-anomaly" : "text-fg-3")}>
                     {isAnswer ? <><Check className="size-3" /> {c.label.toUpperCase()}</> : c.label.toUpperCase()}
                     {c.kind === "synthetic" && <span className="rounded-sm border border-line px-1 text-fg-3">SYNTHETIC</span>}
                   </span>
@@ -83,10 +83,10 @@ export function SpotGame({ rounds, onExit }: { rounds: GameRound[]; onExit: () =
       </div>
       <AnimatePresence>
         {revealed && (
-          <motion.div initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} className={cn("mt-3 flex items-start gap-3 rounded-lg border p-3", pick === round.answer ? "border-yes/40 bg-yes/10" : "border-no/40 bg-no/10")}>
-            <span className={cn("num shrink-0 rounded-full px-2 py-0.5 text-[10px] tracking-wider text-bg", pick === round.answer ? "bg-yes" : "bg-no")}>{pick === round.answer ? "CORRECT" : `IT WAS ${String.fromCharCode(65 + round.answer)}`}</span>
-            <p className="flex-1 text-[13px] leading-relaxed text-fg">{round.explanation}</p>
-            <Link href={`/learn/${round.concept}`} className="shrink-0 text-[12px] text-mispricing hover:underline">
+          <motion.div initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} className={cn("mt-3 flex items-start gap-3 rounded-md border p-3", pick === round.answer ? "border-yes/40 bg-yes/10" : "border-no/40 bg-no/10")}>
+            <span className={cn("num shrink-0 rounded-full px-2 py-0.5 type-small text-bg", pick === round.answer ? "bg-yes" : "bg-no")}>{pick === round.answer ? "Correct" : `It was ${String.fromCharCode(65 + round.answer)}`}</span>
+            <p className="flex-1 type-body leading-relaxed text-fg">{round.explanation}</p>
+            <Link href={`/learn/${round.concept}`} className="shrink-0 type-meta text-mispricing hover:underline">
               Read the concept →
             </Link>
             <Button size="sm" onClick={() => { setI((x) => x + 1); setPick(null); }}>

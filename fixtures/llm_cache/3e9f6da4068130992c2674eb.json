@@ -1,0 +1,151 @@
+{
+ "tag": "swarm:49f6d99d8e3a",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You simulate how different groups of ordinary people and professionals react to a news headline about a prediction-market contract. For each persona, estimate how much the headline changes their belief that the contract resolves YES (belief_shift in -1..1), their confidence, how many minutes until that group typically acts, and a one-line first-person-plural reason. Be realistic about information speed and media habits.",
+ "user": "Contract: Georgia vs. Alabama: O/U 51.5\nEvent: Georgia vs. Alabama\nResolution rules: In the upcoming college football game, scheduled for October 10 at 7:30 PM ET:\n\nThis market will resolve to \"Over\" if Georgia and Alabama combine to score 52 or more points in this game.\n\nIf the combined total is less than 52, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50.\nCurrent YES price: 0.48\n\nHeadline: hurricane in alabama\n\nPersonas:\n- retired-teacher: retired public school teacher; age 65+; income low; leans left; media: evening cable news, local paper\n- retired-exec: retired regional bank executive; age 65+; income high; leans right; media: WSJ, Fox Business, broker notes\n- nurse: ICU nurse working nights; age 30-44; income mid; leans center; media: push alerts between shifts, Reddit\n- crypto-trader: full-time crypto and prediction-market trader; age 18-29; income mid; leans center; media: X, Telegram alpha groups, terminal feeds\n- macro-pm: analyst at a macro hedge fund; age 30-44; income high; leans center; media: Bloomberg terminal, Fed statements as they drop\n- college-student: undergraduate, part-time barista; age 18-29; income low; leans left; media: TikTok, group chats, Discord\n- small-biz: owns two restaurants; age 45-64; income high; leans right; media: talk radio, trade association emails\n- software-eng: senior engineer at a SaaS company; age 30-44; income high; leans center; media: Hacker News, X, newsletters\n- union-electrician: journeyman electrician; age 45-64; income mid; leans left; media: local TV, Facebook\n- political-junkie: congressional staffer; age 18-29; income low; leans left; media: Politico, X, Slack back-channels\n- realtor: residential real estate agent; age 45-64; income mid; leans right; media: CNBC in the office, mortgage-rate alerts\n- grad-econ: PhD student in economics; age 18-29; income low; leans center; media: FOMC statements, FRED, EconTwitter\n- farmer: runs a family grain farm; age 45-64; income mid; leans right; media: AM radio, co-op newsletters, futures prices\n- gig-driver: rideshare and delivery driver; age 30-44; income low; leans center; media: YouTube, podcasts while driving\n- sports-bettor: sales rep who bets most weekends; age 30-44; income mid; leans right; media: sportsbook apps, Barstool, X\n- physician: family medicine doctor; age 45-64; income high; leans center; media: NYT morning briefing, NPR\n- vc-associate: associate at a venture fund; age 18-29; income high; leans center; media: X, Substacks, founder group chats\n- school-admin: assistant principal; age 30-44; income mid; leans left; media: morning news shows, email digests\n- retired-military: retired army officer, defense contractor; age 45-64; income high; leans right; media: cable news, defense trade press\n- quant-dev: builds trading bots at a prop shop; age 30-44; income high; leans center; media: raw feeds, APIs, nothing human\n\nReturn one reaction per persona id.",
+ "output": {
+  "reactions": [
+   {
+    "persona_id": "retired-teacher",
+    "belief_shift": -0.2,
+    "confidence": 0.7,
+    "delay_minutes": 120,
+    "reason": "We expect weather will affect game attendance and scoring pace."
+   },
+   {
+    "persona_id": "retired-exec",
+    "belief_shift": -0.15,
+    "confidence": 0.75,
+    "delay_minutes": 60,
+    "reason": "Hurricane may disrupt Alabama's performance and scoring output."
+   },
+   {
+    "persona_id": "nurse",
+    "belief_shift": -0.1,
+    "confidence": 0.6,
+    "delay_minutes": 30,
+    "reason": "A hurricane might delay or affect game play and scoring."
+   },
+   {
+    "persona_id": "crypto-trader",
+    "belief_shift": -0.25,
+    "confidence": 0.8,
+    "delay_minutes": 5,
+    "reason": "Weather risks greatly lower combined points, so price adjusts quickly."
+   },
+   {
+    "persona_id": "macro-pm",
+    "belief_shift": -0.15,
+    "confidence": 0.7,
+    "delay_minutes": 10,
+    "reason": "External shocks like hurricanes impact expected outcomes and markets."
+   },
+   {
+    "persona_id": "college-student",
+    "belief_shift": -0.1,
+    "confidence": 0.5,
+    "delay_minutes": 15,
+    "reason": "Storm in Alabama probably means less total points scored."
+   },
+   {
+    "persona_id": "small-biz",
+    "belief_shift": -0.1,
+    "confidence": 0.6,
+    "delay_minutes": 45,
+    "reason": "Severe weather could reduce customer turnout and game scoring."
+   },
+   {
+    "persona_id": "software-eng",
+    "belief_shift": -0.15,
+    "confidence": 0.7,
+    "delay_minutes": 15,
+    "reason": "Hurricane risk affects game timing and scoring totals."
+   },
+   {
+    "persona_id": "union-electrician",
+    "belief_shift": -0.1,
+    "confidence": 0.6,
+    "delay_minutes": 60,
+    "reason": "Weather may disrupt the game and total combined points."
+   },
+   {
+    "persona_id": "political-junkie",
+    "belief_shift": -0.1,
+    "confidence": 0.5,
+    "delay_minutes": 20,
+    "reason": "Hurricane in Alabama may delay or lower scoring in the game."
+   },
+   {
+    "persona_id": "realtor",
+    "belief_shift": -0.1,
+    "confidence": 0.6,
+    "delay_minutes": 30,
+    "reason": "Storm impacts Alabama, likely reducing the total points scored."
+   },
+   {
+    "persona_id": "grad-econ",
+    "belief_shift": -0.15,
+    "confidence": 0.75,
+    "delay_minutes": 10,
+    "reason": "Increased weather risk lowers expected combined points downward."
+   },
+   {
+    "persona_id": "farmer",
+    "belief_shift": -0.1,
+    "confidence": 0.6,
+    "delay_minutes": 90,
+    "reason": "Storm disruption leads to caution on game total points outcome."
+   },
+   {
+    "persona_id": "gig-driver",
+    "belief_shift": -0.05,
+    "confidence": 0.5,
+    "delay_minutes": 60,
+    "reason": "Probably less scoring or delays due to Alabama hurricane."
+   },
+   {
+    "persona_id": "sports-bettor",
+    "belief_shift": -0.25,
+    "confidence": 0.85,
+    "delay_minutes": 5,
+    "reason": "Storm hits Alabama, so we expect lower points and adjust bets fast."
+   },
+   {
+    "persona_id": "physician",
+    "belief_shift": -0.1,
+    "confidence": 0.7,
+    "delay_minutes": 30,
+    "reason": "Severe weather likely limits scoring via game disruptions."
+   },
+   {
+    "persona_id": "vc-associate",
+    "belief_shift": -0.15,
+    "confidence": 0.7,
+    "delay_minutes": 10,
+    "reason": "Natural disasters impact event outcomes and market pricing swiftly."
+   },
+   {
+    "persona_id": "school-admin",
+    "belief_shift": -0.1,
+    "confidence": 0.6,
+    "delay_minutes": 45,
+    "reason": "Weather delays or pauses likely lead to fewer game points."
+   },
+   {
+    "persona_id": "retired-military",
+    "belief_shift": -0.15,
+    "confidence": 0.75,
+    "delay_minutes": 60,
+    "reason": "Hurricane reduces Alabama's offensive potential in the game."
+   },
+   {
+    "persona_id": "quant-dev",
+    "belief_shift": -0.2,
+    "confidence": 0.85,
+    "delay_minutes": 3,
+    "reason": "We quickly update models to price in hurricane disruptions."
+   }
+  ]
+ }
+}

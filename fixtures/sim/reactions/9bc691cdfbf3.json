@@ -1,0 +1,152 @@
+{
+ "source": "llm",
+ "headline": "Bolsonaro leads new poll by 8 points",
+ "marketId": "demo:poly:601826",
+ "fairProbability": 0.615,
+ "fairReason": "An 8-point poll lead signals a significant boost in Bolsonaro's chances of winning, justifying an upward move.",
+ "analysis": "The headline states that Bolsonaro leads a new poll by 8 points. Since the YES outcome means Fl\u00e1vio Bolsonaro wins the 2026 Brazilian presidential election, this poll lead directly supports the YES side by indicating he is currently favored. Poll leads typically increase the probability that he wins this election.",
+ "direction": "up",
+ "movePoints": 7.0,
+ "reactions": [
+  {
+   "personaId": "retired-teacher",
+   "probability": 0.595,
+   "confidence": 0.7,
+   "delayMinutes": 15,
+   "reason": "We are skeptical of Bolsonaro gaining support given past controversies."
+  },
+  {
+   "personaId": "retired-exec",
+   "probability": 0.645,
+   "confidence": 0.8,
+   "delayMinutes": 10,
+   "reason": "We favor Bolsonaro and trust these poll results reflect his strength."
+  },
+  {
+   "personaId": "nurse",
+   "probability": 0.615,
+   "confidence": 0.6,
+   "delayMinutes": 20,
+   "reason": "We stay neutral and trust the poll data as is for now."
+  },
+  {
+   "personaId": "crypto-trader",
+   "probability": 0.615,
+   "confidence": 0.9,
+   "delayMinutes": 5,
+   "reason": "We rely on fresh poll data for quick market adjustments."
+  },
+  {
+   "personaId": "macro-pm",
+   "probability": 0.615,
+   "confidence": 0.95,
+   "delayMinutes": 2,
+   "reason": "We quickly incorporate new economic-political data objectively."
+  },
+  {
+   "personaId": "college-student",
+   "probability": 0.585,
+   "confidence": 0.5,
+   "delayMinutes": 30,
+   "reason": "We distrust Bolsonaro and doubt poll reliability."
+  },
+  {
+   "personaId": "small-biz",
+   "probability": 0.635,
+   "confidence": 0.7,
+   "delayMinutes": 15,
+   "reason": "We lean right and see this as positive news."
+  },
+  {
+   "personaId": "software-eng",
+   "probability": 0.615,
+   "confidence": 0.7,
+   "delayMinutes": 10,
+   "reason": "We remain data-focused and unbiased."
+  },
+  {
+   "personaId": "union-electrician",
+   "probability": 0.575,
+   "confidence": 0.6,
+   "delayMinutes": 20,
+   "reason": "We oppose Bolsonaro and discount positive polls for him."
+  },
+  {
+   "personaId": "political-junkie",
+   "probability": 0.585,
+   "confidence": 0.7,
+   "delayMinutes": 10,
+   "reason": "We view Bolsonaro unfavorably and doubt poll accuracy."
+  },
+  {
+   "personaId": "realtor",
+   "probability": 0.635,
+   "confidence": 0.6,
+   "delayMinutes": 15,
+   "reason": "We favor Bolsonaro and rate this higher."
+  },
+  {
+   "personaId": "grad-econ",
+   "probability": 0.615,
+   "confidence": 0.95,
+   "delayMinutes": 5,
+   "reason": "We incorporate new poll data rationally and quickly."
+  },
+  {
+   "personaId": "farmer",
+   "probability": 0.625,
+   "confidence": 0.8,
+   "delayMinutes": 10,
+   "reason": "We lean right but cautiously accept poll impact."
+  },
+  {
+   "personaId": "gig-driver",
+   "probability": 0.615,
+   "confidence": 0.5,
+   "delayMinutes": 25,
+   "reason": "We wait to confirm poll trends before adjusting views."
+  },
+  {
+   "personaId": "sports-bettor",
+   "probability": 0.625,
+   "confidence": 0.9,
+   "delayMinutes": 5,
+   "reason": "We respond fast to poll data affecting bets."
+  },
+  {
+   "personaId": "physician",
+   "probability": 0.615,
+   "confidence": 0.7,
+   "delayMinutes": 15,
+   "reason": "We treat poll data as informative but remain moderate."
+  },
+  {
+   "personaId": "vc-associate",
+   "probability": 0.615,
+   "confidence": 0.8,
+   "delayMinutes": 10,
+   "reason": "We quickly update beliefs based on credible data."
+  },
+  {
+   "personaId": "school-admin",
+   "probability": 0.595,
+   "confidence": 0.6,
+   "delayMinutes": 20,
+   "reason": "We lean left and suspect poll optimism for Bolsonaro."
+  },
+  {
+   "personaId": "retired-military",
+   "probability": 0.645,
+   "confidence": 0.8,
+   "delayMinutes": 10,
+   "reason": "We support Bolsonaro and interpret this positively."
+  },
+  {
+   "personaId": "quant-dev",
+   "probability": 0.615,
+   "confidence": 0.95,
+   "delayMinutes": 1,
+   "reason": "We instantly incorporate such clear data into models."
+  }
+ ]
+}

@@ -1,0 +1,151 @@
+{
+ "tag": "swarm:0920d4dd59aa",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You simulate how different groups of ordinary people and professionals react to a news headline about a prediction-market contract. For each persona, estimate how much the headline changes their belief that the contract resolves YES (belief_shift in -1..1), their confidence, how many minutes until that group typically acts, and a one-line first-person-plural reason. Be realistic about information speed and media habits.",
+ "user": "Contract: Alabama wins\nEvent: Georgia vs Alabama\nResolution rules: If Alabama wins the Georgia vs Alabama college football game originally scheduled for Oct 10, 2026, then the market resolves to Yes.\n\nIf the game is postponed but begins within 48 hours of its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is cancelled or not started within 48 hours of its originally scheduled start, the market will resolve to a fair price.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the NCAA. All trademarks, logos, and brand names are the prope\nCurrent YES price: 0.55\n\nHeadline: alabama quartback got injured. keelon cannot play.\n\nPersonas:\n- retired-teacher: retired public school teacher; age 65+; income low; leans left; media: evening cable news, local paper\n- retired-exec: retired regional bank executive; age 65+; income high; leans right; media: WSJ, Fox Business, broker notes\n- nurse: ICU nurse working nights; age 30-44; income mid; leans center; media: push alerts between shifts, Reddit\n- crypto-trader: full-time crypto and prediction-market trader; age 18-29; income mid; leans center; media: X, Telegram alpha groups, terminal feeds\n- macro-pm: analyst at a macro hedge fund; age 30-44; income high; leans center; media: Bloomberg terminal, Fed statements as they drop\n- college-student: undergraduate, part-time barista; age 18-29; income low; leans left; media: TikTok, group chats, Discord\n- small-biz: owns two restaurants; age 45-64; income high; leans right; media: talk radio, trade association emails\n- software-eng: senior engineer at a SaaS company; age 30-44; income high; leans center; media: Hacker News, X, newsletters\n- union-electrician: journeyman electrician; age 45-64; income mid; leans left; media: local TV, Facebook\n- political-junkie: congressional staffer; age 18-29; income low; leans left; media: Politico, X, Slack back-channels\n- realtor: residential real estate agent; age 45-64; income mid; leans right; media: CNBC in the office, mortgage-rate alerts\n- grad-econ: PhD student in economics; age 18-29; income low; leans center; media: FOMC statements, FRED, EconTwitter\n- farmer: runs a family grain farm; age 45-64; income mid; leans right; media: AM radio, co-op newsletters, futures prices\n- gig-driver: rideshare and delivery driver; age 30-44; income low; leans center; media: YouTube, podcasts while driving\n- sports-bettor: sales rep who bets most weekends; age 30-44; income mid; leans right; media: sportsbook apps, Barstool, X\n- physician: family medicine doctor; age 45-64; income high; leans center; media: NYT morning briefing, NPR\n- vc-associate: associate at a venture fund; age 18-29; income high; leans center; media: X, Substacks, founder group chats\n- school-admin: assistant principal; age 30-44; income mid; leans left; media: morning news shows, email digests\n- retired-military: retired army officer, defense contractor; age 45-64; income high; leans right; media: cable news, defense trade press\n- quant-dev: builds trading bots at a prop shop; age 30-44; income high; leans center; media: raw feeds, APIs, nothing human\n\nReturn one reaction per persona id.",
+ "output": {
+  "reactions": [
+   {
+    "persona_id": "retired-teacher",
+    "belief_shift": -0.2,
+    "confidence": 0.7,
+    "delay_minutes": 60,
+    "reason": "We know the quarterback greatly affects the game's outcome."
+   },
+   {
+    "persona_id": "retired-exec",
+    "belief_shift": -0.25,
+    "confidence": 0.8,
+    "delay_minutes": 45,
+    "reason": "An injury like this sets back Alabama's chances significantly."
+   },
+   {
+    "persona_id": "nurse",
+    "belief_shift": -0.15,
+    "confidence": 0.65,
+    "delay_minutes": 30,
+    "reason": "Injuries change team dynamics and result odds quickly."
+   },
+   {
+    "persona_id": "crypto-trader",
+    "belief_shift": -0.3,
+    "confidence": 0.9,
+    "delay_minutes": 5,
+    "reason": "Key player injury sharply drops Alabama's winning probability."
+   },
+   {
+    "persona_id": "macro-pm",
+    "belief_shift": -0.1,
+    "confidence": 0.5,
+    "delay_minutes": 10,
+    "reason": "Sports injury news is mildly relevant to market odds."
+   },
+   {
+    "persona_id": "college-student",
+    "belief_shift": -0.2,
+    "confidence": 0.6,
+    "delay_minutes": 20,
+    "reason": "Quarterback injuries impact game results a lot."
+   },
+   {
+    "persona_id": "small-biz",
+    "belief_shift": -0.2,
+    "confidence": 0.7,
+    "delay_minutes": 40,
+    "reason": "Injury reduces Alabama's chances, could affect local business buzz."
+   },
+   {
+    "persona_id": "software-eng",
+    "belief_shift": -0.2,
+    "confidence": 0.75,
+    "delay_minutes": 15,
+    "reason": "Team strength shifts when key player goes down."
+   },
+   {
+    "persona_id": "union-electrician",
+    "belief_shift": -0.15,
+    "confidence": 0.65,
+    "delay_minutes": 60,
+    "reason": "Quarterback injury lowers Alabama's winning odds."
+   },
+   {
+    "persona_id": "political-junkie",
+    "belief_shift": -0.1,
+    "confidence": 0.5,
+    "delay_minutes": 30,
+    "reason": "Not our usual focus, but injury news can affect odds."
+   },
+   {
+    "persona_id": "realtor",
+    "belief_shift": -0.15,
+    "confidence": 0.6,
+    "delay_minutes": 30,
+    "reason": "Sports news like this can shift local sentiment modestly."
+   },
+   {
+    "persona_id": "grad-econ",
+    "belief_shift": -0.22,
+    "confidence": 0.85,
+    "delay_minutes": 10,
+    "reason": "Injury should decrease winning probability significantly."
+   },
+   {
+    "persona_id": "farmer",
+    "belief_shift": -0.1,
+    "confidence": 0.55,
+    "delay_minutes": 45,
+    "reason": "Sports injury impacts are less critical but noted locally."
+   },
+   {
+    "persona_id": "gig-driver",
+    "belief_shift": -0.15,
+    "confidence": 0.6,
+    "delay_minutes": 20,
+    "reason": "Such news changes game excitement and betting odds."
+   },
+   {
+    "persona_id": "sports-bettor",
+    "belief_shift": -0.35,
+    "confidence": 0.95,
+    "delay_minutes": 2,
+    "reason": "Key QB injury drastically reduces Alabama win chances now."
+   },
+   {
+    "persona_id": "physician",
+    "belief_shift": -0.1,
+    "confidence": 0.6,
+    "delay_minutes": 30,
+    "reason": "Injuries are important but we focus elsewhere mostly."
+   },
+   {
+    "persona_id": "vc-associate",
+    "belief_shift": -0.1,
+    "confidence": 0.5,
+    "delay_minutes": 15,
+    "reason": "Sports injury news is minor but acknowledged quickly."
+   },
+   {
+    "persona_id": "school-admin",
+    "belief_shift": -0.15,
+    "confidence": 0.7,
+    "delay_minutes": 40,
+    "reason": "Injuries alter team outcomes, affecting school sports talk."
+   },
+   {
+    "persona_id": "retired-military",
+    "belief_shift": -0.2,
+    "confidence": 0.75,
+    "delay_minutes": 30,
+    "reason": "Key personnel loss might shift team's odds substantially."
+   },
+   {
+    "persona_id": "quant-dev",
+    "belief_shift": -0.3,
+    "confidence": 0.9,
+    "delay_minutes": 3,
+    "reason": "Injury means model must update Alabama winning probability low."
+   }
+  ]
+ }
+}

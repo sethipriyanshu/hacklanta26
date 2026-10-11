@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXLALIGAGAME-26OCT10RMAVIL-RMA",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Real Madrid wins\nEvent: Real Madrid vs Villarreal \u2014 Real Madrid\nCategory: Sports  Venue: kalshi\nYES price: 0.99 (~99%)\n24h change: 26 points   24h volume: $6.1M\nResolution rules: If Real Madrid wins the Real Madrid vs Villarreal professional La Liga soccer game originally scheduled for Oct 10, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties), then the market resolves to Yes.\n\nThe following market refers to the Real Madrid vs Villarreal professional La Liga soccer game originally scheduled for Oct 10, 2026 after 90 minutes plus stoppage time (does not include extra time or penalties). If the game ends in a tie, the market called \"Tie\" re\nSignals: inconsistency 0 \u2014 The 3 outcomes' mid prices sum to 100.5%. Buying every YES costs 102.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Real Madrid win the soccer game against Villarreal on October 10, 2026?",
+  "summary": "This market lets you buy a YES share if you think Real Madrid will win the game. One YES share pays $1 if Real Madrid wins, and $0 if they don't. Right now, the YES share costs about 99 cents, so the market thinks there's about a 99% chance Real Madrid will win. This is a popular way to see what people expect in sports games.",
+  "whats_notable": "The price is very high at 99 cents, showing strong confidence in Real Madrid winning.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

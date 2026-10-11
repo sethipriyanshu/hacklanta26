@@ -1,0 +1,16 @@
+{
+ "tag": "summary:poly:2589812",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Will there be no change in Fed interest rates after the October 2026 meeting?\nEvent: Fed Decision in October? \u2014 No change\nCategory: Economics  Venue: polymarket\nYES price: 0.83 (~83%)\n24h change: 0 points   24h volume: $98K\nResolution rules: The FED interest rates are defined in this market by the upper bound of the target federal funds range. The decisions on the target federal funds range are made by the Federal Open Market Committee (FOMC) meetings.\n\nThis market will resolve to the amount of basis points the upper bound of the target federal funds rate is changed by versus the level it was prior to the Federal Reserve's October 2026 meeting.\n\nIf the target federal funds rate is changed to a level not expressed in the displayed op\nSignals: anomaly 19 \u2014 Volume in the last hour was 0.0\u00d7 its trailing hourly average, nothing unusual. Price moved +0.0 points in the hour, in l; inconsistency 0 \u2014 The 5 outcomes' mid prices sum to 100.0%. Buying every YES costs 101.2\u00a2 and selling every YES fetches 98.9\u00a2, so no set t\nRecent headlines: Fed Minutes Signal Further Rate Increase This Year, but No Urgency for October Hike | Fed minutes could detail rate-hike decision, policy path | Polymarket Odds Today: Nobel Peace Prize, Fed Decision, World Series\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will the Federal Reserve keep interest rates the same after the October 2026 meeting?",
+  "summary": "This market lets you predict if the Federal Reserve will not change interest rates after their October 2026 meeting. A YES share costs about 83 cents, which shows that the market thinks there's an 83% chance rates will stay the same. In these markets, a YES share pays $1 if the event happens, or nothing if it doesn't. So the price in cents roughly equals the chance the event will happen.",
+  "whats_notable": "",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

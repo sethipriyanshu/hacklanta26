@@ -1,0 +1,151 @@
+{
+ "tag": "swarm:a4bef95f4ebe",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You simulate how different groups of ordinary people and professionals react to a news headline about a prediction-market contract. For each persona, estimate how much the headline changes their belief that the contract resolves YES (belief_shift in -1..1), their confidence, how many minutes until that group typically acts, and a one-line first-person-plural reason. Be realistic about information speed and media habits.",
+ "user": "Contract: Alabama wins\nEvent: Georgia vs Alabama\nResolution rules: If Alabama wins the Georgia vs Alabama college football game originally scheduled for Oct 10, 2026, then the market resolves to Yes.\n\nIf the game is postponed but begins within 48 hours of its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is cancelled or not started within 48 hours of its originally scheduled start, the market will resolve to a fair price.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the NCAA. All trademarks, logos, and brand names are the prope\nCurrent YES price: 0.55\n\nHeadline: Both Alabama quarterbacks are injured and will not play against Georgia\n\nPersonas:\n- retired-teacher: retired public school teacher; age 65+; income low; leans left; media: evening cable news, local paper\n- retired-exec: retired regional bank executive; age 65+; income high; leans right; media: WSJ, Fox Business, broker notes\n- nurse: ICU nurse working nights; age 30-44; income mid; leans center; media: push alerts between shifts, Reddit\n- crypto-trader: full-time crypto and prediction-market trader; age 18-29; income mid; leans center; media: X, Telegram alpha groups, terminal feeds\n- macro-pm: analyst at a macro hedge fund; age 30-44; income high; leans center; media: Bloomberg terminal, Fed statements as they drop\n- college-student: undergraduate, part-time barista; age 18-29; income low; leans left; media: TikTok, group chats, Discord\n- small-biz: owns two restaurants; age 45-64; income high; leans right; media: talk radio, trade association emails\n- software-eng: senior engineer at a SaaS company; age 30-44; income high; leans center; media: Hacker News, X, newsletters\n- union-electrician: journeyman electrician; age 45-64; income mid; leans left; media: local TV, Facebook\n- political-junkie: congressional staffer; age 18-29; income low; leans left; media: Politico, X, Slack back-channels\n- realtor: residential real estate agent; age 45-64; income mid; leans right; media: CNBC in the office, mortgage-rate alerts\n- grad-econ: PhD student in economics; age 18-29; income low; leans center; media: FOMC statements, FRED, EconTwitter\n- farmer: runs a family grain farm; age 45-64; income mid; leans right; media: AM radio, co-op newsletters, futures prices\n- gig-driver: rideshare and delivery driver; age 30-44; income low; leans center; media: YouTube, podcasts while driving\n- sports-bettor: sales rep who bets most weekends; age 30-44; income mid; leans right; media: sportsbook apps, Barstool, X\n- physician: family medicine doctor; age 45-64; income high; leans center; media: NYT morning briefing, NPR\n- vc-associate: associate at a venture fund; age 18-29; income high; leans center; media: X, Substacks, founder group chats\n- school-admin: assistant principal; age 30-44; income mid; leans left; media: morning news shows, email digests\n- retired-military: retired army officer, defense contractor; age 45-64; income high; leans right; media: cable news, defense trade press\n- quant-dev: builds trading bots at a prop shop; age 30-44; income high; leans center; media: raw feeds, APIs, nothing human\n\nReturn one reaction per persona id.",
+ "output": {
+  "reactions": [
+   {
+    "persona_id": "retired-teacher",
+    "belief_shift": -0.2,
+    "confidence": 0.6,
+    "delay_minutes": 120,
+    "reason": "Quarterback injuries likely hurt Alabama\u2019s chances significantly."
+   },
+   {
+    "persona_id": "retired-exec",
+    "belief_shift": -0.25,
+    "confidence": 0.7,
+    "delay_minutes": 60,
+    "reason": "Losing both starting quarterbacks seriously weakens Alabama\u2019s prospects."
+   },
+   {
+    "persona_id": "nurse",
+    "belief_shift": -0.15,
+    "confidence": 0.5,
+    "delay_minutes": 90,
+    "reason": "Both QBs injured usually means a big hit to team effectiveness."
+   },
+   {
+    "persona_id": "crypto-trader",
+    "belief_shift": -0.3,
+    "confidence": 0.8,
+    "delay_minutes": 5,
+    "reason": "Major injury news shifts odds downward quickly on trading platforms."
+   },
+   {
+    "persona_id": "macro-pm",
+    "belief_shift": -0.2,
+    "confidence": 0.7,
+    "delay_minutes": 10,
+    "reason": "Team injuries reduce win probability, impacting market prices immediately."
+   },
+   {
+    "persona_id": "college-student",
+    "belief_shift": -0.1,
+    "confidence": 0.4,
+    "delay_minutes": 60,
+    "reason": "Injuries probably mean Alabama\u2019s less likely to win, but uncertainty remains."
+   },
+   {
+    "persona_id": "small-biz",
+    "belief_shift": -0.15,
+    "confidence": 0.6,
+    "delay_minutes": 30,
+    "reason": "Such injuries materially reduce Alabama\u2019s winning chances, affecting bets."
+   },
+   {
+    "persona_id": "software-eng",
+    "belief_shift": -0.25,
+    "confidence": 0.75,
+    "delay_minutes": 15,
+    "reason": "Losing both quarterbacks strongly decreases winning odds in prediction markets."
+   },
+   {
+    "persona_id": "union-electrician",
+    "belief_shift": -0.15,
+    "confidence": 0.5,
+    "delay_minutes": 45,
+    "reason": "Quarterback injuries are a big setback, lowering confidence in Alabama\u2019s win."
+   },
+   {
+    "persona_id": "political-junkie",
+    "belief_shift": -0.1,
+    "confidence": 0.5,
+    "delay_minutes": 20,
+    "reason": "Key injuries likely reduce Alabama\u2019s probability but more info may follow."
+   },
+   {
+    "persona_id": "realtor",
+    "belief_shift": -0.2,
+    "confidence": 0.65,
+    "delay_minutes": 25,
+    "reason": "Both QBs injured means lower chances for Alabama\u2019s win, impacting odds."
+   },
+   {
+    "persona_id": "grad-econ",
+    "belief_shift": -0.2,
+    "confidence": 0.7,
+    "delay_minutes": 10,
+    "reason": "Important player injuries reduce expected team performance, lowering win odds."
+   },
+   {
+    "persona_id": "farmer",
+    "belief_shift": -0.1,
+    "confidence": 0.55,
+    "delay_minutes": 60,
+    "reason": "Losing key players changes the game balance, lowering Alabama\u2019s chances."
+   },
+   {
+    "persona_id": "gig-driver",
+    "belief_shift": -0.1,
+    "confidence": 0.5,
+    "delay_minutes": 120,
+    "reason": "Injuries make Alabama less likely to win, but not sure how much."
+   },
+   {
+    "persona_id": "sports-bettor",
+    "belief_shift": -0.35,
+    "confidence": 0.85,
+    "delay_minutes": 5,
+    "reason": "Major QB injuries hit Alabama\u2019s odds hard, time to adjust bets fast."
+   },
+   {
+    "persona_id": "physician",
+    "belief_shift": -0.15,
+    "confidence": 0.6,
+    "delay_minutes": 45,
+    "reason": "Loss of starting QBs greatly impairs Alabama\u2019s chances of winning."
+   },
+   {
+    "persona_id": "vc-associate",
+    "belief_shift": -0.25,
+    "confidence": 0.75,
+    "delay_minutes": 15,
+    "reason": "This injury news materially lowers Alabama\u2019s win probability in markets."
+   },
+   {
+    "persona_id": "school-admin",
+    "belief_shift": -0.1,
+    "confidence": 0.5,
+    "delay_minutes": 90,
+    "reason": "Important injuries decrease winning probability but game still uncertain."
+   },
+   {
+    "persona_id": "retired-military",
+    "belief_shift": -0.2,
+    "confidence": 0.7,
+    "delay_minutes": 30,
+    "reason": "Losing both quarterbacks weakens Alabama\u2019s strategic position significantly."
+   },
+   {
+    "persona_id": "quant-dev",
+    "belief_shift": -0.3,
+    "confidence": 0.8,
+    "delay_minutes": 2,
+    "reason": "Automated models reprice market instantly on major injury news."
+   }
+  ]
+ }
+}

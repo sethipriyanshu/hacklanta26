@@ -4,7 +4,7 @@ import { useEffect, useRef } from "react";
 import { readTokens } from "@/lib/theme";
 
 /** Agents as dots on a hex-ish grid. Colored by stance; a short pulse when a stance changes. Pure Canvas 2D, fine for 5,000 dots. */
-export function SwarmCanvas({ stances, seenMask, onPick, highlight }: { stances: string; seenMask?: boolean[]; onPick?: (i: number) => void; highlight?: number | null }) {
+export function SwarmCanvas({ stances, seenMask, onPick, highlight }: { stances: string; seenMask?: boolean[]; onPick?: (i: number, at: { x: number; y: number }) => void; highlight?: number | null }) {
   const ref = useRef<HTMLCanvasElement>(null);
   const prev = useRef<string>("");
   const pulse = useRef<Float32Array>(new Float32Array(0));
@@ -52,11 +52,12 @@ export function SwarmCanvas({ stances, seenMask, onPick, highlight }: { stances:
         const s = stances[i];
         const seen = seenMask ? seenMask[i] : true;
         const p = pulse.current[i];
-        const color = s === "y" ? t.yes : s === "n" ? t.no : seen ? t["fg-3"] : t.line;
+        // y = expects higher, n = expects lower, h = heard but unchanged, - = hasn't heard yet.
+        const color = s === "y" ? t.yes : s === "n" ? t.no : s === "h" ? t["fg-2"] : seen ? t["fg-3"] : t.line;
         ctx.beginPath();
         ctx.arc(x, y, r + p * r * 1.4, 0, Math.PI * 2);
         ctx.fillStyle = color;
-        ctx.globalAlpha = s === "-" ? (seen ? 0.55 : 0.35) : 0.95;
+        ctx.globalAlpha = s === "-" ? 0.35 : s === "h" ? 0.6 : 0.95;
         ctx.fill();
         if (p > 0) {
           anyPulse = true;
@@ -97,7 +98,7 @@ export function SwarmCanvas({ stances, seenMask, onPick, highlight }: { stances:
         const col = Math.floor((e.clientX - rect.left - ox) / cell);
         const row = Math.floor((e.clientY - rect.top - oy) / cell);
         const i = row * cols + col;
-        if (i >= 0 && i < n && col >= 0 && col < cols) onPick(i);
+        if (i >= 0 && i < n && col >= 0 && col < cols) onPick(i, { x: e.clientX, y: e.clientY });
       }}
       aria-label="Swarm of simulated traders"
     />

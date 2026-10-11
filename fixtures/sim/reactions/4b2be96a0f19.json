@@ -1,0 +1,152 @@
+{
+ "source": "llm",
+ "headline": "x",
+ "marketId": "poly:2252245",
+ "fairProbability": 1.0,
+ "fairReason": "No new information to change the assessment of a rate increase at September 2026.",
+ "analysis": "There is no specific new information provided in the headline 'x' to indicate any change in the likelihood of the Fed increasing interest rates by 25 bps after the September 2026 meeting. Therefore, the news neither helps nor hurts the YES outcome of this contract, which is currently priced at 100%.",
+ "direction": "none",
+ "movePoints": 0.0,
+ "reactions": [
+  {
+   "personaId": "retired-teacher",
+   "probability": 0.99,
+   "confidence": 0.6,
+   "delayMinutes": 15,
+   "reason": "We wait to see clear Fed signals before updating our views."
+  },
+  {
+   "personaId": "retired-exec",
+   "probability": 0.99,
+   "confidence": 0.8,
+   "delayMinutes": 10,
+   "reason": "No news means no reason to change our established expectations."
+  },
+  {
+   "personaId": "nurse",
+   "probability": 0.99,
+   "confidence": 0.5,
+   "delayMinutes": 20,
+   "reason": "We rely on official Fed statements to adjust our expectations."
+  },
+  {
+   "personaId": "crypto-trader",
+   "probability": 0.99,
+   "confidence": 0.9,
+   "delayMinutes": 2,
+   "reason": "No headline info means no price adjustment needed."
+  },
+  {
+   "personaId": "macro-pm",
+   "probability": 0.99,
+   "confidence": 0.95,
+   "delayMinutes": 1,
+   "reason": "No new data to revise our tight assessment on the Fed's move."
+  },
+  {
+   "personaId": "college-student",
+   "probability": 0.99,
+   "confidence": 0.3,
+   "delayMinutes": 30,
+   "reason": "We haven't heard anything new to change our beliefs."
+  },
+  {
+   "personaId": "small-biz",
+   "probability": 0.99,
+   "confidence": 0.7,
+   "delayMinutes": 15,
+   "reason": "We won't act without concrete news about rate policy."
+  },
+  {
+   "personaId": "software-eng",
+   "probability": 0.99,
+   "confidence": 0.8,
+   "delayMinutes": 5,
+   "reason": "No news equals no change in views or market expectations."
+  },
+  {
+   "personaId": "union-electrician",
+   "probability": 0.99,
+   "confidence": 0.55,
+   "delayMinutes": 20,
+   "reason": "We follow clear signals before reconsidering our stance."
+  },
+  {
+   "personaId": "political-junkie",
+   "probability": 0.99,
+   "confidence": 0.7,
+   "delayMinutes": 10,
+   "reason": "No fresh info means stable expectations on Fed policy."
+  },
+  {
+   "personaId": "realtor",
+   "probability": 0.99,
+   "confidence": 0.75,
+   "delayMinutes": 12,
+   "reason": "We won't shift views without clear rate change news."
+  },
+  {
+   "personaId": "grad-econ",
+   "probability": 0.99,
+   "confidence": 1.0,
+   "delayMinutes": 0,
+   "reason": "No new data to update informed probability models."
+  },
+  {
+   "personaId": "farmer",
+   "probability": 0.99,
+   "confidence": 0.6,
+   "delayMinutes": 25,
+   "reason": "We wait for real news before adjusting expectations."
+  },
+  {
+   "personaId": "gig-driver",
+   "probability": 0.99,
+   "confidence": 0.5,
+   "delayMinutes": 20,
+   "reason": "No news means no reason to revise our outlook."
+  },
+  {
+   "personaId": "sports-bettor",
+   "probability": 0.99,
+   "confidence": 0.7,
+   "delayMinutes": 10,
+   "reason": "No info to alter bet or probability."
+  },
+  {
+   "personaId": "physician",
+   "probability": 0.99,
+   "confidence": 0.65,
+   "delayMinutes": 15,
+   "reason": "We rely on clear Fed communication to update views."
+  },
+  {
+   "personaId": "vc-associate",
+   "probability": 0.99,
+   "confidence": 0.8,
+   "delayMinutes": 5,
+   "reason": "Without data, we keep on current probability."
+  },
+  {
+   "personaId": "school-admin",
+   "probability": 0.99,
+   "confidence": 0.5,
+   "delayMinutes": 15,
+   "reason": "Waiting for clear signals before changing expectations."
+  },
+  {
+   "personaId": "retired-military",
+   "probability": 0.99,
+   "confidence": 0.75,
+   "delayMinutes": 10,
+   "reason": "No new information leads to no change in prediction."
+  },
+  {
+   "personaId": "quant-dev",
+   "probability": 0.99,
+   "confidence": 0.9,
+   "delayMinutes": 1,
+   "reason": "No new data means no adjustment required."
+  }
+ ]
+}

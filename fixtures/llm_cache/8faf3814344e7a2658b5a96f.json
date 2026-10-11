@@ -1,0 +1,16 @@
+{
+ "tag": "summary:demo:poly:601826",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?\nEvent: Brazil Presidential Election \u2014 Fl\u00e1vio Bolsonaro\nCategory: Politics  Venue: polymarket\nYES price: 0.55 (~55%)\n24h change: -9 points   24h volume: $276K\nResolution rules: A presidential election is scheduled to take place in Brazil on October 4, 2026.\n\nThis market will resolve according to the listed candidate that wins this election.\n\nThis market includes any potential second round. If the result of this election isn't known by June 30, 2027, 11:59 PM ET, the market will resolve to \"Other\".\n\nThis market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely \nSignals: anomaly 100 \u2014 Price moved -6.2 points in an hour, against a typical hourly move of 0.3 points.\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Fl\u00e1vio Bolsonaro win the Brazilian presidential election in 2026?",
+  "summary": "This market is a type of prediction market where you can buy a YES share if you think Fl\u00e1vio Bolsonaro will win the 2026 presidential election in Brazil. A YES share pays $1 if Fl\u00e1vio Bolsonaro wins, and $0 if he doesn't. The current price is about 55 cents, which means people think there is roughly a 55% chance he will win. The price has dropped by 9 points (9 cents) in the last 24 hours, showing changing opinions.",
+  "whats_notable": "The price dropped quickly by over 6 points in one hour, which is much bigger than usual movements.",
+  "concepts": [
+   "implied-probability",
+   "anomaly-patterns"
+  ]
+ }
+}

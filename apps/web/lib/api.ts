@@ -5,8 +5,8 @@ export const API_URL = process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:8000
 
 export type Schemas = components["schemas"];
 export type Market = Schemas["Market"];
-export type Flag = { type: SignalType; score: number };
-export type MarketRow = Omit<Schemas["MarketRow"], "flags" | "spark" | "maxScore"> & { flags: Flag[]; spark: number[]; maxScore: number };
+export type Flag = { type: SignalType; score: number; explanation?: string; subScores?: Record<string, number | null> };
+export type MarketRow = Omit<Schemas["MarketRow"], "flags" | "spark" | "maxScore"> & { flags: Flag[]; spark: number[]; maxScore: number; live: boolean };
 export type MarketsResponse = Schemas["MarketsResponse"];
 export type Signal = Schemas["Signal"];
 export type VenuePair = Schemas["VenuePair"];
@@ -16,7 +16,6 @@ export type HistoryResponse = Schemas["HistoryResponse"];
 export type OrderBook = Schemas["OrderBook"];
 export type Trade = Schemas["Trade"];
 export type Headline = Schemas["Headline"];
-export type Scenario = Schemas["Scenario"];
 export type EventInfo = { id: string; venue: "kalshi" | "polymarket"; title: string; category: string; mutuallyExclusive?: boolean; marketIds?: string[]; totalMarkets?: number | null; closeTime?: string | null; url?: string };
 export type SignalType = Signal["type"];
 
@@ -56,6 +55,8 @@ export interface Health {
   mode: "live" | "replay";
   marketCount: number;
   recordedAt: string;
+  /** Per venue: did the last pull succeed, when, how many markets. */
+  venues?: Record<string, { ok?: boolean; at?: string; attemptAt?: string; count?: number; error?: string | null; fromCache?: boolean }>;
 }
 
 const q = (params: Record<string, string | number | boolean | undefined | null>) => {
@@ -65,22 +66,48 @@ const q = (params: Record<string, string | number | boolean | undefined | null>)
   return str ? `?${str}` : "";
 };
 
-export async function getMarkets(p: { category?: string; venue?: string; q?: string; limit?: number; include_closed?: boolean } = {}): Promise<{ markets: MarketRow[]; snapshot: MarketsResponse["snapshot"] } | null> {
+export async function getMarkets(p: { category?: string; venue?: string; q?: string; limit?: number; offset?: number; include_closed?: boolean; live?: boolean; league?: string; sort?: "volume" | "score"; demo?: boolean } = {}): Promise<{ markets: MarketRow[]; total: number; snapshot: MarketsResponse["snapshot"] } | null> {
   const r = await tryApi<MarketsResponse>(`/markets${q({ limit: 400, ...p })}`);
   if (!r) return null;
-  return { snapshot: r.snapshot, markets: r.markets.map((m) => ({ ...m, flags: ((m.flags ?? []) as unknown as Flag[]), spark: m.spark ?? [], maxScore: m.maxScore ?? 0 })) };
+  return { snapshot: r.snapshot, total: r.total ?? r.markets.length, markets: r.markets.map((m) => ({ ...m, flags: ((m.flags ?? []) as unknown as Flag[]), spark: m.spark ?? [], maxScore: m.maxScore ?? 0, live: (m as { live?: boolean }).live ?? false })) };
 }
 export const getMarket = (id: string) => tryApi<Market>(`/markets/${encodeURIComponent(id)}`);
 export const getEvent = (id: string) => tryApi<{ event: EventInfo | null; markets: Market[] }>(`/markets/${encodeURIComponent(id)}/event`);
 export const getHistory = (id: string, res: "1h" | "1m" = "1h") => tryApi<HistoryResponse>(`/markets/${encodeURIComponent(id)}/history?res=${res}`);
 export const getBook = (id: string) => tryApi<OrderBook>(`/markets/${encodeURIComponent(id)}/book`);
+export const bookStreamUrl = (id: string) => `${API_URL}/markets/${encodeURIComponent(id)}/book/stream`;
 export const getTrades = (id: string) => tryApi<{ marketId: string; trades: Trade[] }>(`/markets/${encodeURIComponent(id)}/trades`);
 export const getNews = (id: string) => tryApi<{ query: string; headlines: Headline[] }>(`/markets/${encodeURIComponent(id)}/news`);
-export const getSignals = (p: { type?: string; min_score?: number; scenario?: boolean } = {}) => tryApi<Signal[]>(`/signals${q(p)}`);
+export interface MarketSummary {
+  plainTitle: string;
+  summary: string;
+  whatsNotable: string;
+  concepts: string[];
+  source: "llm" | "templated";
+}
+export const getSummary = (id: string) => tryApi<MarketSummary>(`/markets/${encodeURIComponent(id)}/summary`, { timeoutMs: 20000 });
+export const getSignals = (p: { type?: string; min_score?: number } = {}) => tryApi<Signal[]>(`/signals${q(p)}`);
 export const getMarketSignals = (id: string, at?: number) => tryApi<Signal[]>(`/signals/${encodeURIComponent(id)}${q({ at })}`);
 export const getTimeline = (id: string, res: "1h" | "1m" = "1h") => tryApi<{ ts: number; score: number }[]>(`/signals/${encodeURIComponent(id)}/timeline?res=${res}`);
 export const getWallets = (id: string, start?: number, end?: number) => tryApi<WalletPanel>(`/signals/${encodeURIComponent(id)}/wallets${q({ start, end })}`);
 export const getPairs = () => tryApi<VenuePair[]>("/signals/pairs");
-export const getPairResults = () => tryApi<Record<string, { pair: VenuePair; gap: { gap: number; threshold: number; edge_cents: number; flagged: boolean; kalshi_price: number; poly_price: number; explanation: string } }>>("/signals/pairs/results");
-export const getScenarios = () => tryApi<Scenario[]>("/scenarios");
-export const getHealth = () => tryApi<Health>("/health", { timeoutMs: 2500 });
+export const getPairResults = (demo = false) => tryApi<Record<string, { pair: VenuePair; gap: { gap: number; threshold: number; edge_cents: number; flagged: boolean; kalshi_price: number; poly_price: number; explanation: string } }>>(`/signals/pairs/results${demo ? "?demo=true" : ""}`);
+export const getHealth = () => tryApi<Health>("/health", { timeoutMs: 6000 });
+
+/** What the Tiger Data store holds (markets, price ticks, flags), from /data/stats. */
+export interface DataStats {
+  enabled: boolean;
+  connected?: boolean;
+  error?: string | null;
+  markets?: number;
+  marketsByVenue?: Record<string, number>;
+  ticks?: number;
+  ticksLastHour?: number;
+  flags?: number;
+  chunks?: number;
+  bytes?: number;
+  compressionRatio?: number;
+  firstTick?: string | null;
+  lastWrite?: { at?: string; markets?: number; ticks?: number; seconds?: number };
+}
+export const getDataStats = () => tryApi<DataStats>("/data/stats", { timeoutMs: 15000 });

@@ -1,0 +1,11 @@
+{
+ "tag": "sim-summary",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You summarise the result of a simulated prediction-market crowd for a general reader. Use ONLY the numbers given. Describe what the simulated crowd did, which groups moved the price (the ones that bet the most), and how quickly it settled. Never call any number a fair value or a forecast, never give advice, and keep it plain and specific. Percentages are probabilities of YES.",
+ "user": "Contract: Alabama wins\nHeadline: game has been moved to athens\nSimulated price: 55% before, 46% after\nSettled within 2 points after: 58 minutes\nTraded after the news: $1,300,000\nAgents expecting lower than before: 96%; higher: 0%; not yet heard: 0%\nGroups:\n- Quant developer: 60 agents, average belief 47%, bet $701,700, reacted after 1 min\n- Macro fund analyst: 66 agents, average belief 47%, bet $207,500, reacted after 2 min\n- Farmer: 66 agents, average belief 45%, bet $8,000, reacted after 12 min",
+ "output": {
+  "summary": "The simulated crowd adjusted the probability of Alabama winning from 55% to 46% quickly after the game location was moved to Athens. This shift was mainly driven by quant developers and macro fund analysts, who placed the largest bets and reacted within 2 minutes. The price then stabilized within 2 points after 58 minutes.",
+  "takeaway": "Simulated betting showed a quick and significant drop in Alabama's win probability after the game location change, led by large bets from quant developers and macro fund analysts."
+ }
+}

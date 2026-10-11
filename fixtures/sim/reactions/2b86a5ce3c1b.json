@@ -1,0 +1,152 @@
+{
+ "source": "llm",
+ "headline": "game has been moved to athens",
+ "marketId": "kalshi:KXNCAAFGAME-26OCT10UGAALA-ALA",
+ "fairProbability": 0.465,
+ "fairReason": "Moving the game to Georgia's home field decreases Alabama's chances significantly.",
+ "analysis": "The news states that the game location has changed to Athens, which is Georgia's home city. This move is beneficial for Georgia (Alabama's opponent) because home-field advantage typically improves the likelihood of winning. Therefore, this hurts the YES outcome (Alabama wins).",
+ "direction": "down",
+ "movePoints": 8.0,
+ "reactions": [
+  {
+   "personaId": "retired-teacher",
+   "probability": 0.495,
+   "confidence": 0.6,
+   "delayMinutes": 15,
+   "reason": "We tend to overvalue home advantage for Georgia and hope Alabama struggles."
+  },
+  {
+   "personaId": "retired-exec",
+   "probability": 0.445,
+   "confidence": 0.8,
+   "delayMinutes": 10,
+   "reason": "We understand the impact but remain confident in Alabama's strength despite the venue change."
+  },
+  {
+   "personaId": "nurse",
+   "probability": 0.475,
+   "confidence": 0.7,
+   "delayMinutes": 8,
+   "reason": "We recognize a slight disadvantage but still see Alabama as competitive away."
+  },
+  {
+   "personaId": "crypto-trader",
+   "probability": 0.465,
+   "confidence": 0.95,
+   "delayMinutes": 1,
+   "reason": "We react quickly and unbiased to venue changes in sports betting."
+  },
+  {
+   "personaId": "macro-pm",
+   "probability": 0.465,
+   "confidence": 0.9,
+   "delayMinutes": 2,
+   "reason": "We quickly price in home advantage effects accurately."
+  },
+  {
+   "personaId": "college-student",
+   "probability": 0.485,
+   "confidence": 0.5,
+   "delayMinutes": 20,
+   "reason": "We might be biased toward Georgia with some delay processing the impact."
+  },
+  {
+   "personaId": "small-biz",
+   "probability": 0.455,
+   "confidence": 0.75,
+   "delayMinutes": 5,
+   "reason": "We trust Alabama's resilience but acknowledge the tougher road now."
+  },
+  {
+   "personaId": "software-eng",
+   "probability": 0.465,
+   "confidence": 0.85,
+   "delayMinutes": 3,
+   "reason": "We update odds logically with venue change data."
+  },
+  {
+   "personaId": "union-electrician",
+   "probability": 0.495,
+   "confidence": 0.6,
+   "delayMinutes": 15,
+   "reason": "We favor Georgia playing at home, boosting their chances."
+  },
+  {
+   "personaId": "political-junkie",
+   "probability": 0.485,
+   "confidence": 0.7,
+   "delayMinutes": 10,
+   "reason": "We lean slightly toward Georgia benefiting from home field, impacting Alabama negatively."
+  },
+  {
+   "personaId": "realtor",
+   "probability": 0.445,
+   "confidence": 0.8,
+   "delayMinutes": 5,
+   "reason": "We respect Alabama's ability but concede playing away is a disadvantage."
+  },
+  {
+   "personaId": "grad-econ",
+   "probability": 0.465,
+   "confidence": 0.95,
+   "delayMinutes": 1,
+   "reason": "We use data-driven reasoning to assess impact of venue change accurately."
+  },
+  {
+   "personaId": "farmer",
+   "probability": 0.455,
+   "confidence": 0.7,
+   "delayMinutes": 10,
+   "reason": "We appreciate home field but think Alabama adapts well to road games."
+  },
+  {
+   "personaId": "gig-driver",
+   "probability": 0.485,
+   "confidence": 0.6,
+   "delayMinutes": 20,
+   "reason": "We feel Georgia's home crowd will make winning harder for Alabama."
+  },
+  {
+   "personaId": "sports-bettor",
+   "probability": 0.475,
+   "confidence": 0.9,
+   "delayMinutes": 3,
+   "reason": "We know home field moves lines and take it into account quickly."
+  },
+  {
+   "personaId": "physician",
+   "probability": 0.465,
+   "confidence": 0.85,
+   "delayMinutes": 5,
+   "reason": "We consider the venue impact accurately and adjust odds accordingly."
+  },
+  {
+   "personaId": "vc-associate",
+   "probability": 0.465,
+   "confidence": 0.9,
+   "delayMinutes": 2,
+   "reason": "We factor new info rapidly and unbiased into our models."
+  },
+  {
+   "personaId": "school-admin",
+   "probability": 0.495,
+   "confidence": 0.6,
+   "delayMinutes": 15,
+   "reason": "We tend to see home advantage as more substantial than it might be."
+  },
+  {
+   "personaId": "retired-military",
+   "probability": 0.455,
+   "confidence": 0.8,
+   "delayMinutes": 5,
+   "reason": "We respect Alabama's ability to perform well despite venue changes."
+  },
+  {
+   "personaId": "quant-dev",
+   "probability": 0.465,
+   "confidence": 0.95,
+   "delayMinutes": 1,
+   "reason": "We immediately incorporate all relevant info into odds calculations."
+  }
+ ]
+}

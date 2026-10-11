@@ -6,10 +6,10 @@
    "poly:2589813",
    "poly:2589814"
   ],
-  "match": "partial",
-  "reason": "Curated by hand; rules not yet machine-checked.",
+  "match": "different",
+  "reason": "Kalshi resolves on the absolute level being above 4.00% after Oct 28, 2026; Polymarket focuses on the size of the rate increase from prior levels, not the absolute rate.",
   "title": "Fed funds upper bound above 4.00% after the Oct 2026 meeting",
-  "checkedBy": "curated"
+  "checkedBy": "llm"
  },
  {
   "id": "pair:KXPRESPERSON-28-MRUB",
@@ -17,10 +17,10 @@
   "polyIds": [
    "poly:561234"
   ],
-  "match": "same",
-  "reason": "Curated by hand; rules not yet machine-checked.",
+  "match": "partial",
+  "reason": "Kalshi resolves based on inauguration only; Polymarket resolves on election call or inauguration, thus Polymarket spans Kalshi's rules.",
   "title": "Marco Rubio wins the 2028 presidential election",
-  "checkedBy": "curated"
+  "checkedBy": "llm"
  },
  {
   "id": "pair:KXPRESPERSON-28-JVAN",
@@ -28,10 +28,10 @@
   "polyIds": [
    "poly:561229"
   ],
-  "match": "same",
-  "reason": "Curated by hand; rules not yet machine-checked.",
+  "match": "partial",
+  "reason": "Kalshi resolves only if Vance is inaugurated, Polymarket resolves to winner by media call or inauguration, so Polymarket is broader.",
   "title": "JD Vance wins the 2028 presidential election",
-  "checkedBy": "curated"
+  "checkedBy": "llm"
  },
  {
   "id": "pair:KXPRESPERSON-28-GNEWS",
@@ -39,10 +39,10 @@
   "polyIds": [
    "poly:561230"
   ],
-  "match": "same",
-  "reason": "Curated by hand; rules not yet machine-checked.",
+  "match": "partial",
+  "reason": "Kalshi focuses solely on Gavin Newsom's inauguration; Polymarket resolves on the 2028 election winner with source-based consensus or inauguration fallback.",
   "title": "Gavin Newsom wins the 2028 presidential election",
-  "checkedBy": "curated"
+  "checkedBy": "llm"
  },
  {
   "id": "pair:KXPRESPERSON-28-AOCA",
@@ -50,10 +50,10 @@
   "polyIds": [
    "poly:561231"
   ],
-  "match": "same",
-  "reason": "Curated by hand; rules not yet machine-checked.",
+  "match": "partial",
+  "reason": "Kalshi contract specifies a yes/no outcome only for AOC being inaugurated president; Polymarket resolves to the overall election winner with a broader resolution approach.",
   "title": "AOC wins the 2028 presidential election",
-  "checkedBy": "curated"
+  "checkedBy": "llm"
  },
  {
   "id": "pair:KXPRESPERSON-28-JOSS",
@@ -61,10 +61,10 @@
   "polyIds": [
    "poly:561261"
   ],
-  "match": "same",
-  "reason": "Curated by hand; rules not yet machine-checked.",
+  "match": "partial",
+  "reason": "Kalshi focuses only on Ossoff's inauguration; Polymarket resolves on general election winner or inauguration if no consensus by Jan 20, 2029.",
   "title": "Jon Ossoff wins the 2028 presidential election",
-  "checkedBy": "curated"
+  "checkedBy": "llm"
  },
  {
   "id": "pair:KXPRESPERSON-28-DTRU",
@@ -73,10 +73,10 @@
    "poly:561243",
    "poly:561244"
   ],
-  "match": "partial",
-  "reason": "Curated by hand; rules not yet machine-checked.",
+  "match": "different",
+  "reason": "Kalshi resolves only on Trump's inauguration in 2029; Polymarkets resolve on election winner with sources or inauguration fallback.",
   "title": "Donald Trump wins the 2028 presidential election",
-  "checkedBy": "curated"
+  "checkedBy": "llm"
  },
  {
   "id": "pair:KXNOBELPEACE-26-DJT",
@@ -84,10 +84,10 @@
   "polyIds": [
    "poly:637002"
   ],
-  "match": "same",
-  "reason": "Curated by hand; rules not yet machine-checked.",
+  "match": "partial",
+  "reason": "Kalshi resolves on Donald Trump winning Nobel Peace Prize in 2026 only; Polymarket resolves varying winners with a hierarchy and tie-break rules.",
   "title": "Donald Trump wins the 2026 Nobel Peace Prize",
-  "checkedBy": "curated"
+  "checkedBy": "llm"
  },
  {
   "id": "pair:KXNOBELPEACE-26-SUD",
@@ -95,10 +95,10 @@
   "polyIds": [
    "poly:637022"
   ],
-  "match": "same",
-  "reason": "Curated by hand; rules not yet machine-checked.",
+  "match": "different",
+  "reason": "Kalshi resolves only if Sudan\u2019s ERR wins the Nobel Peace Prize, Polymarket resolves among multiple possible winners with complex tie rules.",
   "title": "Sudan's Emergency Response Rooms win the 2026 Nobel Peace Prize",
-  "checkedBy": "curated"
+  "checkedBy": "llm"
  },
  {
   "id": "pair:KXNOBELPEACE-27-YNAV",
@@ -106,9 +106,9 @@
   "polyIds": [
    "poly:637004"
   ],
-  "match": "same",
-  "reason": "Curated by hand; rules not yet machine-checked.",
+  "match": "different",
+  "reason": "Kalshi pays Yes if Yulia Navalnaya wins; Polymarket has complex tie-break rules affecting resolution.",
   "title": "Yulia Navalnaya wins the 2026 Nobel Peace Prize",
-  "checkedBy": "curated"
+  "checkedBy": "llm"
  }
 ]

@@ -1,0 +1,17 @@
+{
+ "tag": "summary:demo:poly:560868",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Will Mar\u00eda Corina Machado win the Nobel Peace Prize in 2025?\nEvent: Nobel Peace Prize Winner 2025  \u2014 Mar\u00eda Corina Machado\nCategory: Politics  Venue: polymarket\nYES price: 0.39 (~39%)\n24h change: 38 points   24h volume: $82K\nResolution rules: This market will resolve according to the winner of the 2025 Nobel Peace Prize, as announced by the Norwegian Nobel Committee.\n\nIf multiple listed individuals or entities jointly receive the prize, the market will resolve to a single winner. If Donald Trump, Volodymyr Zelensky, Elon Musk, Pope Leo XIII, or Yulia Navalnaya are among the recipients, the market will resolve to the highest-ranked among them, in that exact order of precedence. If none of those five are among the winners, and the priz\nSignals: anomaly 76 \u2014 Price moved +35.2 points in an hour, against a typical hourly move of 0.0 points. 39% of recent YES buying came from wal\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Mar\u00eda Corina Machado win the Nobel Peace Prize in 2025?",
+  "summary": "This market asks if Mar\u00eda Corina Machado will win the Nobel Peace Prize in 2025. A YES share here is like a bet that pays $1 if she wins, and $0 if she does not. The current price is 39 cents, which means people think there's about a 39% chance she will win. This estimate comes from many traders buying and selling shares.",
+  "whats_notable": "The price jumped unusually fast, rising 35 points in just one hour, which is much bigger than usual.",
+  "concepts": [
+   "implied-probability",
+   "anomaly-patterns",
+   "liquidity"
+  ]
+ }
+}

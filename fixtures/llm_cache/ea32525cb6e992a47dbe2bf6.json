@@ -1,0 +1,153 @@
+{
+ "tag": "swarm:54cc5399ff28",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You model how a prediction market reprices after a headline. First give the fair probability that the contract resolves YES as a sharp, well-informed, unbiased analyst would now see it. Be decisive: news that materially changes the outcome should move the probability a lot, news that changes nothing should leave it near the current price. Then, for each persona, give the probability THAT group would now put on YES: fast, well-informed groups land near the fair value; slow, distracted or biased groups stay closer to the old price or lean their own way. Also give each group's confidence, how many minutes until it typically acts, and a one-line first-person-plural reason. Read the contract carefully: YES means exactly what the contract says.",
+ "user": "Contract: Alabama wins\nEvent: Georgia vs Alabama\nYES means: Alabama\nResolution rules: If Alabama wins the Georgia vs Alabama college football game originally scheduled for Oct 10, 2026, then the market resolves to Yes.\n\nIf the game is postponed but begins within 48 hours of its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is cancelled or not started within 48 hours of its originally scheduled start, the market will resolve to a fair price.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the NCAA. All trademarks, logos, and brand names are the prope\nCurrent YES price (the market's probability before the news): 0.55\n\nHeadline: Both Alabama quarterbacks are injured and will not play against Georgia\n\nPersonas:\n- retired-teacher: retired public school teacher; age 65+; income low; leans left; media: evening cable news, local paper\n- retired-exec: retired regional bank executive; age 65+; income high; leans right; media: WSJ, Fox Business, broker notes\n- nurse: ICU nurse working nights; age 30-44; income mid; leans center; media: push alerts between shifts, Reddit\n- crypto-trader: full-time crypto and prediction-market trader; age 18-29; income mid; leans center; media: X, Telegram alpha groups, terminal feeds\n- macro-pm: analyst at a macro hedge fund; age 30-44; income high; leans center; media: Bloomberg terminal, Fed statements as they drop\n- college-student: undergraduate, part-time barista; age 18-29; income low; leans left; media: TikTok, group chats, Discord\n- small-biz: owns two restaurants; age 45-64; income high; leans right; media: talk radio, trade association emails\n- software-eng: senior engineer at a SaaS company; age 30-44; income high; leans center; media: Hacker News, X, newsletters\n- union-electrician: journeyman electrician; age 45-64; income mid; leans left; media: local TV, Facebook\n- political-junkie: congressional staffer; age 18-29; income low; leans left; media: Politico, X, Slack back-channels\n- realtor: residential real estate agent; age 45-64; income mid; leans right; media: CNBC in the office, mortgage-rate alerts\n- grad-econ: PhD student in economics; age 18-29; income low; leans center; media: FOMC statements, FRED, EconTwitter\n- farmer: runs a family grain farm; age 45-64; income mid; leans right; media: AM radio, co-op newsletters, futures prices\n- gig-driver: rideshare and delivery driver; age 30-44; income low; leans center; media: YouTube, podcasts while driving\n- sports-bettor: sales rep who bets most weekends; age 30-44; income mid; leans right; media: sportsbook apps, Barstool, X\n- physician: family medicine doctor; age 45-64; income high; leans center; media: NYT morning briefing, NPR\n- vc-associate: associate at a venture fund; age 18-29; income high; leans center; media: X, Substacks, founder group chats\n- school-admin: assistant principal; age 30-44; income mid; leans left; media: morning news shows, email digests\n- retired-military: retired army officer, defense contractor; age 45-64; income high; leans right; media: cable news, defense trade press\n- quant-dev: builds trading bots at a prop shop; age 30-44; income high; leans center; media: raw feeds, APIs, nothing human\n\nReturn the fair probability, its reason, and one reaction per persona id.",
+ "output": {
+  "fair_probability": 0.35,
+  "fair_reason": "Both Alabama quarterbacks being injured significantly reduces Alabama's chances of winning such a key game, dropping the fair win probability from 55% to about 35%.",
+  "reactions": [
+   {
+    "persona_id": "retired-teacher",
+    "probability": 0.45,
+    "confidence": 0.4,
+    "delay_minutes": 30,
+    "reason": "We trust the big cable news story that Alabama is in trouble without their quarterbacks."
+   },
+   {
+    "persona_id": "retired-exec",
+    "probability": 0.38,
+    "confidence": 0.7,
+    "delay_minutes": 20,
+    "reason": "We quickly see the injury news weakens Alabama's edge and update accordingly."
+   },
+   {
+    "persona_id": "nurse",
+    "probability": 0.4,
+    "confidence": 0.6,
+    "delay_minutes": 15,
+    "reason": "We get the injury alert between shifts and understand it makes Alabama less likely to win."
+   },
+   {
+    "persona_id": "crypto-trader",
+    "probability": 0.36,
+    "confidence": 0.9,
+    "delay_minutes": 2,
+    "reason": "We read terminal updates and price market moves immediately based on injury info."
+   },
+   {
+    "persona_id": "macro-pm",
+    "probability": 0.34,
+    "confidence": 0.9,
+    "delay_minutes": 1,
+    "reason": "We use reliable sources and move fast on material injury reports."
+   },
+   {
+    "persona_id": "college-student",
+    "probability": 0.5,
+    "confidence": 0.3,
+    "delay_minutes": 40,
+    "reason": "We see TikTok clips but don\u2019t fully grasp game impact quickly."
+   },
+   {
+    "persona_id": "small-biz",
+    "probability": 0.5,
+    "confidence": 0.5,
+    "delay_minutes": 25,
+    "reason": "We hear about the injuries on radio but aren\u2019t sure how much it affects outcome."
+   },
+   {
+    "persona_id": "software-eng",
+    "probability": 0.37,
+    "confidence": 0.8,
+    "delay_minutes": 5,
+    "reason": "We track fast info feeds and adjust our estimate sharply on injury news."
+   },
+   {
+    "persona_id": "union-electrician",
+    "probability": 0.48,
+    "confidence": 0.4,
+    "delay_minutes": 35,
+    "reason": "Local TV highlights injuries but we mix it with team loyalty bias."
+   },
+   {
+    "persona_id": "political-junkie",
+    "probability": 0.42,
+    "confidence": 0.5,
+    "delay_minutes": 20,
+    "reason": "We note the injuries but focus somewhat more on political news."
+   },
+   {
+    "persona_id": "realtor",
+    "probability": 0.47,
+    "confidence": 0.6,
+    "delay_minutes": 15,
+    "reason": "We get quick updates on CNBC but hesitate to move odds too much."
+   },
+   {
+    "persona_id": "grad-econ",
+    "probability": 0.35,
+    "confidence": 0.9,
+    "delay_minutes": 10,
+    "reason": "We analyze data and injury impact methodically and update fair chance accordingly."
+   },
+   {
+    "persona_id": "farmer",
+    "probability": 0.5,
+    "confidence": 0.5,
+    "delay_minutes": 30,
+    "reason": "We hear on AM radio but mix injury news with personal biases."
+   },
+   {
+    "persona_id": "gig-driver",
+    "probability": 0.45,
+    "confidence": 0.3,
+    "delay_minutes": 25,
+    "reason": "We catch injury news from podcasts but do not deeply analyze sports nuance."
+   },
+   {
+    "persona_id": "sports-bettor",
+    "probability": 0.32,
+    "confidence": 0.9,
+    "delay_minutes": 3,
+    "reason": "We rapidly adjust bets based on key injury updates impacting game outcomes."
+   },
+   {
+    "persona_id": "physician",
+    "probability": 0.37,
+    "confidence": 0.7,
+    "delay_minutes": 10,
+    "reason": "We understand injuries reduce player effectiveness and update accordingly."
+   },
+   {
+    "persona_id": "vc-associate",
+    "probability": 0.4,
+    "confidence": 0.6,
+    "delay_minutes": 10,
+    "reason": "We read quick updates and moderate views based on prior knowledge."
+   },
+   {
+    "persona_id": "school-admin",
+    "probability": 0.45,
+    "confidence": 0.5,
+    "delay_minutes": 30,
+    "reason": "We process news from morning shows but aren\u2019t hardcore sports analysts."
+   },
+   {
+    "persona_id": "retired-military",
+    "probability": 0.4,
+    "confidence": 0.7,
+    "delay_minutes": 15,
+    "reason": "We quickly assess injuries weaken Alabama\u2019s game chances and update odds."
+   },
+   {
+    "persona_id": "quant-dev",
+    "probability": 0.34,
+    "confidence": 1.0,
+    "delay_minutes": 1,
+    "reason": "We algorithmically update the price immediately on injury news."
+   }
+  ]
+ }
+}

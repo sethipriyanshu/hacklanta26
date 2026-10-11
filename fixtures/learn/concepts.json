@@ -1,26 +1,598 @@
 [
- {"id":"implied-probability","title":"Implied probability","accent":"var(--tmb-yes)","signalTypes":["inconsistency"],
-  "blurb":"Why 62¢ means 62%, and why it's not quite that simple.",
-  "body":["A YES contract pays $1 if the event happens and $0 if it doesn't. Pay 62¢ for it and you are saying the event is at least 62% likely, because that's where the bet breaks even.","So the price is a probability, but it is a *market's* probability: it bundles what traders believe with how badly they want to be in or out, how much cash is on the book, and the fees they'll pay. A 62¢ price with a 4¢ spread means YES is somewhere between 60% and 64%, plus or minus the crowd's mood.","For mutually exclusive outcomes the YES prices should sum to about 100%. When they sum to 110%, someone is overpaying; when they sum to 70%, either the list of outcomes is incomplete or the field is cheap."],
-  "example":"Five Fed-decision brackets priced 83¢ + 15¢ + 1¢ + 0.5¢ + 0.3¢ sum to 99.8%. That is a consistent book."},
- {"id":"spread-vig","title":"Spread and vig","accent":"var(--tmb-no)","signalTypes":["gap"],
-  "blurb":"The gap you pay to trade, and who collects it.",
-  "body":["The spread is the distance between the best bid and the best ask. Buy at the ask, sell at the bid, and you lose the spread instantly. On a 14¢/16¢ market that round trip costs 2¢, about 13% of your stake.","Vig (short for vigorish) is the house's cut. Venues charge it as a fee on winnings or on each trade, and a wide spread is a hidden vig paid to whoever is quoting both sides.","Every edge you think you have must first beat spread plus fees. That is why the Scanner only flags a cross-venue gap when it is bigger than both venues' spreads plus an estimate of fees."],
-  "example":"Kalshi 15¢ vs Polymarket 15.8¢ looks like a gap of 0.8¢. Spreads and fees cost about 5¢. No edge."},
- {"id":"liquidity","title":"Liquidity","accent":"var(--tmb-mispricing)","signalTypes":["anomaly","gap"],
-  "blurb":"Why a thin book can move 10 points on one order.",
-  "body":["Liquidity is how much you can trade without moving the price. A book with $50,000 resting at every cent barely notices a $5,000 order; a book with $200 resting moves ten points on the same order.","Thin markets produce dramatic charts that mean very little. The anomaly score looks at volume relative to a market's own history for exactly this reason: a 20× volume hour in a thin market is still a tiny amount of money.","The Swarm Simulator models this with an LMSR market maker whose liquidity parameter sets how far each dollar pushes the price."],
-  "example":"A $2,000 YES order at 1,000 contracts of depth moves the price three points; the same order at 20 contracts of depth moves it to the moon and back by lunch."},
- {"id":"wash-trading","title":"Wash trading","accent":"var(--tmb-anomaly)","signalTypes":["anomaly"],
-  "blurb":"Volume that looks like interest but is one hand washing the other.",
-  "body":["Wash trading is trading with yourself (or a partner) to print volume. The price barely moves, but the market looks hot, climbs leaderboards, and attracts real money that provides exit liquidity.","The tell is volume without price discovery: big bars, flat price, and a handful of wallets on both sides of every trade. Real interest moves the price; fake interest just moves the volume counter.","Prediction markets have been accused of exactly this around airdrop farming and incentive programs, where volume itself was the reward."],
-  "example":"Six hours of $40,000 volume on a contract that never left 51–53¢ is a chart to be suspicious of, not excited by."},
- {"id":"anomaly-patterns","title":"Anomaly patterns","accent":"var(--tmb-anomaly)","signalTypes":["anomaly","newsLag"],
-  "blurb":"The shapes a price makes before news it shouldn't know yet.",
-  "body":["The pattern enforcement actions describe is simple: a contract at 2¢ for weeks, a burst of concentrated buying from a few wallets, a jump to 30, 60, 90¢, and then the headline that explains it arrives hours later.","No single feature proves anything. Volume spikes happen, prices gap, and new wallets show up every day. The anomaly score combines four of these signals and tells you how unusual the hour was compared with the market's own history. It says *look here*, never *that person did it*.","Timing is the strongest clue. A move that follows the headline is a market doing its job. A move that precedes the headline by hours is a question worth asking.","In April 2026 the CFTC brought its first civil insider trading case over event contracts. The receipts in that case were price charts and wallet histories like the ones in this terminal."],
-  "example":"Scenario 2 in the Scanner: a Nobel Peace Prize contract at under 1¢ runs to 68¢ ten hours before the announcement, with most buying from a handful of wallets."},
- {"id":"cross-venue-arbitrage","title":"Cross-venue arbitrage","accent":"var(--tmb-mispricing)","signalTypes":["gap"],
-  "blurb":"Same event, two prices, one edge. Minus fees.",
-  "body":["When two venues list the same event, their prices should match. When they don't, buy the cheap one and sell the expensive one and you lock in the difference, as long as the contracts really resolve the same way.","The catch is in the rules. 'Above 4.00%' on one venue can equal the sum of two brackets on the other, or differ by a date or a data source. The Scanner proposes pairs by title and then compares resolution text before it trusts a gap.","Also, fees and spreads on both legs come out of the gap, capital is tied up until resolution, and you need an account on both venues. Most 'arbitrage' on a screen is smaller than the friction to capture it."],
-  "example":"A 3.7¢ gap on a 2028 nominee between venues shrinks to about 1.5¢ after both spreads and fees, and takes two years to pay out."}
+ {
+  "id": "implied-probability",
+  "title": "Implied probability",
+  "accent": "var(--tmb-yes)",
+  "signalTypes": [
+   "inconsistency"
+  ],
+  "blurb": "Why 62¢ means 62%, and why it's not quite that simple.",
+  "body": [
+   "A YES contract pays $1 if the event happens and $0 if it doesn't. Pay 62¢ for it and you are saying the event is at least 62% likely, because that's where the bet breaks even.",
+   "So the price is a probability, but it is a *market's* probability: it bundles what traders believe with how badly they want to be in or out, how much cash is on the book, and the fees they'll pay. A 62¢ price with a 4¢ spread means YES is somewhere between 60% and 64%, plus or minus the crowd's mood.",
+   "For mutually exclusive outcomes the YES prices should sum to about 100%. When they sum to 110%, someone is overpaying; when they sum to 70%, either the list of outcomes is incomplete or the field is cheap."
+  ],
+  "example": "Five Fed-decision brackets priced 83¢ + 15¢ + 1¢ + 0.5¢ + 0.3¢ sum to 99.8%. That is a consistent book.",
+  "track": "basics",
+  "live": "liquid",
+  "quiz": [
+   {
+    "q": "A YES contract trades at 62¢. Roughly what chance is the market giving?",
+    "options": [
+     "62%",
+     "38%",
+     "It depends on the payout"
+    ],
+    "answer": 0,
+    "why": "A YES contract pays $1 if it happens, so 62¢ means the market is pricing about a 62% chance."
+   },
+   {
+    "q": "Why is the price not exactly the probability?",
+    "options": [
+     "Spreads, fees and thin trading distort it",
+     "Prices are set by the venue",
+     "It always is exactly the probability"
+    ],
+    "answer": 0,
+    "why": "The last trade or the mid of a wide spread can sit a few points away from what a careful trader believes."
+   }
+  ],
+  "widget": null
+ },
+ {
+  "id": "spread-vig",
+  "title": "Spread and vig",
+  "accent": "var(--tmb-no)",
+  "signalTypes": [
+   "gap"
+  ],
+  "blurb": "The gap you pay to trade, and who collects it.",
+  "body": [
+   "The spread is the distance between the best bid and the best ask. Buy at the ask, sell at the bid, and you lose the spread instantly. On a 14¢/16¢ market that round trip costs 2¢, about 13% of your stake.",
+   "Vig (short for vigorish) is the house's cut. Venues charge it as a fee on winnings or on each trade, and a wide spread is a hidden vig paid to whoever is quoting both sides.",
+   "Every edge you think you have must first beat spread plus fees. That is why Markets only flags a cross-venue gap when it is bigger than both venues' spreads plus an estimate of fees."
+  ],
+  "example": "Kalshi 15¢ vs Polymarket 15.8¢ looks like a gap of 0.8¢. Spreads and fees cost about 5¢. No edge.",
+  "track": "basics",
+  "live": "spread",
+  "quiz": [
+   {
+    "q": "Bid 14¢, ask 16¢. You buy and immediately sell. What do you lose per contract?",
+    "options": [
+     "2¢",
+     "1¢",
+     "Nothing"
+    ],
+    "answer": 0,
+    "why": "You buy at the ask (16¢) and sell at the bid (14¢): the spread, 2¢, is gone."
+   },
+   {
+    "q": "Who effectively collects a wide spread?",
+    "options": [
+     "Whoever is quoting both sides",
+     "The venue's regulator",
+     "The other buyers"
+    ],
+    "answer": 0,
+    "why": "Market makers buy at the bid and sell at the ask; the spread is their pay."
+   }
+  ],
+  "widget": null
+ },
+ {
+  "id": "fine-print",
+  "title": "Reading the fine print",
+  "track": "basics",
+  "accent": "var(--tmb-mispricing)",
+  "signalTypes": [],
+  "live": "rules",
+  "blurb": "The resolution rules decide who gets paid. Read them before the title.",
+  "body": [
+   "Every contract has resolution rules: the exact event, the source that settles it, the deadline, and what happens in odd cases. The title is a summary; the rules are the contract.",
+   "Watch for: which source counts (an official result, a specific website), deadlines and time zones, what happens if an event is postponed or cancelled, and whether a multi-outcome market has an 'Other' option.",
+   "Two markets with the same headline can settle differently. 'Will X win?' on one venue might count only the original date; on another, a rescheduled game still counts. That difference can be worth the whole price."
+  ],
+  "example": "A game market says it resolves on games 'originally scheduled for Oct 10'. If the game slips by a week, it may resolve No, or void, even if the team later wins.",
+  "quiz": [
+   {
+    "q": "A market's title says 'Will the Fed cut in October?'. What actually decides it?",
+    "options": [
+     "The resolution rules",
+     "The title",
+     "The current price"
+    ],
+    "answer": 0,
+    "why": "The rules name the exact event, source and deadline. The title is only a summary."
+   },
+   {
+    "q": "A 'who will win' market lists 8 candidates and no 'Other'. Someone outside the list wins. What happens?",
+    "options": [
+     "Every listed outcome resolves No",
+     "The closest candidate wins",
+     "The market picks a winner"
+    ],
+    "answer": 0,
+    "why": "If none of the listed outcomes happens, they all resolve No. That is why missing 'Other' options matter."
+   }
+  ],
+  "widget": null
+ },
+ {
+  "id": "base-rates",
+  "title": "Base rates and calibration",
+  "track": "basics",
+  "accent": "var(--tmb-fg-2)",
+  "signalTypes": [],
+  "live": null,
+  "blurb": "A 90¢ contract still loses one time in ten.",
+  "body": [
+   "A price is a probability, not a promise. If a market is well calibrated, things priced at 90¢ happen about 90% of the time, which means they fail about 1 time in 10.",
+   "Markets show a known bias: long shots (a few cents) tend to be overpriced, because people enjoy cheap lottery tickets, and heavy favourites are often slightly underpriced.",
+   "Before trusting a feeling that 'this can't lose', ask how often things like it have actually happened. That historical frequency is the base rate."
+  ],
+  "example": "Buying ten different 90¢ contracts is not 'free money'. Expect about one to lose, which costs you 90¢ and wipes out most of the profit from the other nine.",
+  "quiz": [
+   {
+    "q": "You buy ten 90¢ contracts on unrelated events. How many should you expect to lose?",
+    "options": [
+     "About one",
+     "None",
+     "About five"
+    ],
+    "answer": 0,
+    "why": "90% means about one in ten fails."
+   },
+   {
+    "q": "Which tends to be overpriced in prediction markets?",
+    "options": [
+     "Long shots priced at a few cents",
+     "Heavy favourites",
+     "Neither"
+    ],
+    "answer": 0,
+    "why": "This is the favourite-longshot bias: cheap long shots attract more money than their odds deserve."
+   }
+  ],
+  "widget": null
+ },
+ {
+  "id": "liquidity",
+  "title": "Liquidity",
+  "accent": "var(--tmb-mispricing)",
+  "signalTypes": [
+   "anomaly",
+   "gap"
+  ],
+  "blurb": "Why a thin book can move 10 points on one order.",
+  "body": [
+   "Liquidity is how much you can trade without moving the price. A book with $50,000 resting at every cent barely notices a $5,000 order; a book with $200 resting moves ten points on the same order.",
+   "Thin markets produce dramatic charts that mean very little. The anomaly score looks at volume relative to a market's own history for exactly this reason: a 20× volume hour in a thin market is still a tiny amount of money.",
+   "The Swarm Simulator models this with an LMSR market maker whose liquidity parameter sets how far each dollar pushes the price."
+  ],
+  "example": "A $2,000 YES order at 1,000 contracts of depth moves the price three points; the same order at 20 contracts of depth moves it to the moon and back by lunch.",
+  "track": "basics",
+  "live": "book",
+  "quiz": [
+   {
+    "q": "A market shows $300 of asks within 5¢ of the price. You buy $2,000. What happens?",
+    "options": [
+     "You push the price well past 5¢",
+     "You fill at the current price",
+     "The order is rejected"
+    ],
+    "answer": 0,
+    "why": "Once the first $300 is used up, the rest fills at worse and worse prices: that is a thin book."
+   },
+   {
+    "q": "Why can a thin market be misleading?",
+    "options": [
+     "One order can move it a lot, so its price says little",
+     "Thin markets are always right",
+     "Thin markets cannot move"
+    ],
+    "answer": 0,
+    "why": "A price that one trader can move 10 points is not a crowd's opinion."
+   }
+  ],
+  "widget": null
+ },
+ {
+  "id": "fees",
+  "title": "Fees and the real cost of a trade",
+  "track": "trading",
+  "accent": "var(--tmb-anomaly)",
+  "signalTypes": [
+   "gap"
+  ],
+  "live": "liquid",
+  "widget": "fees",
+  "blurb": "The price you see is not the price you pay. Add the spread and the fee.",
+  "body": [
+   "On Kalshi, each order pays a trading fee of 7% × contracts × price × (1 − price), rounded up to the next cent. It is largest for contracts near 50¢ and small near 1¢ or 99¢, and the round-up means even a one-contract order pays at least 1¢.",
+   "On Polymarket most markets charge no trading fee, though some newer markets add a small taker fee. Either way you still cross the spread.",
+   "Your true cost is the ask you pay plus the fee. Your breakeven chance is that cost divided by the $1 payout. If the contract doesn't clear that, the trade loses money on average even when the price 'looks' right."
+  ],
+  "example": "Buying 10 YES at 50¢ on Kalshi: 7% × 10 × 0.50 × 0.50 = 17.5¢, rounded up to 18¢. You pay $5.18 for a $10 payout, so you need a better than 51.8% chance to come out ahead.",
+  "quiz": [
+   {
+    "q": "On Kalshi, where are trading fees per contract highest?",
+    "options": [
+     "Near 50¢",
+     "Near 1¢",
+     "Near 99¢"
+    ],
+    "answer": 0,
+    "why": "The fee follows price × (1 − price), which peaks at 50¢."
+   },
+   {
+    "q": "You buy YES at 60¢ and pay 2¢ in fees. What's your breakeven chance?",
+    "options": [
+     "62%",
+     "60%",
+     "58%"
+    ],
+    "answer": 0,
+    "why": "You paid 62¢ for a $1 payout, so the outcome needs a better than 62% chance just to break even."
+   }
+  ]
+ },
+ {
+  "id": "order-types",
+  "title": "Orders, the book and slippage",
+  "track": "trading",
+  "accent": "var(--tmb-mispricing)",
+  "signalTypes": [],
+  "live": "book",
+  "blurb": "Market orders take what's there. Limit orders wait for your price.",
+  "body": [
+   "The order book lists bids (people wanting to buy) and asks (people wanting to sell), each with a size. The best bid and best ask are the prices you can trade at right now.",
+   "A market order buys immediately at the best ask, then the next ask, and so on until it is filled. On a thin book, a large market order 'walks the book' and pays more on each step: that extra cost is slippage.",
+   "A limit order names your price and waits. You may get a better price, or you may not get filled at all if the market moves away."
+  ],
+  "example": "Asks: 200 at 41¢, 300 at 43¢, 500 at 46¢. A market order for 600 contracts fills 200 at 41¢, 300 at 43¢ and 100 at 46¢, an average of about 42.8¢, not 41¢.",
+  "quiz": [
+   {
+    "q": "You want a fill right now, whatever the price. Which order?",
+    "options": [
+     "Market order",
+     "Limit order",
+     "Neither"
+    ],
+    "answer": 0,
+    "why": "A market order takes the best available prices immediately."
+   },
+   {
+    "q": "What is slippage?",
+    "options": [
+     "Paying worse than the best price because your order used up the book",
+     "A venue fee",
+     "The bid-ask spread"
+    ],
+    "answer": 0,
+    "why": "Slippage is the extra cost of filling beyond the first price level."
+   }
+  ],
+  "widget": null
+ },
+ {
+  "id": "sizing",
+  "title": "How big a bet? Kelly and risk profiles",
+  "track": "trading",
+  "accent": "var(--tmb-yes)",
+  "signalTypes": [],
+  "live": null,
+  "widget": "stake",
+  "blurb": "Even a good bet is a bad idea at the wrong size.",
+  "body": [
+   "The Kelly criterion says how much of a bankroll to stake when you have an edge: more when your edge is larger and the odds are better, nothing when you have no edge.",
+   "Full Kelly is very aggressive; one bad estimate and the swings are huge. Most people bet a fraction: half-Kelly or quarter-Kelly. That is what the Analyst Desk does.",
+   "The Desk's risk profiles follow the 401(k) scale. A conservative profile uses quarter-Kelly capped at 5% of what you set aside; aggressive uses half-Kelly capped at 50%. The stake is always a share, never a dollar amount, because only you know what you can afford to lose."
+  ],
+  "example": "You think YES is 70% likely and it costs 60¢. Full Kelly says stake 25% of your bankroll; half-Kelly says 12.5%; a moderate profile caps it at 20%, so 12.5% stands.",
+  "quiz": [
+   {
+    "q": "You have no edge (your probability equals the price). What does Kelly say to stake?",
+    "options": [
+     "Nothing",
+     "Half your bankroll",
+     "1%"
+    ],
+    "answer": 0,
+    "why": "No edge, no bet."
+   },
+   {
+    "q": "Why do most people bet a fraction of Kelly?",
+    "options": [
+     "Estimates are uncertain and full Kelly swings hard",
+     "Fees are lower",
+     "It is required by the venue"
+    ],
+    "answer": 0,
+    "why": "If your probability is a little off, full Kelly over-bets; a fraction protects you."
+   }
+  ]
+ },
+ {
+  "id": "time-lockup",
+  "title": "Time and capital lockup",
+  "track": "trading",
+  "accent": "var(--tmb-mispricing)",
+  "signalTypes": [
+   "gap"
+  ],
+  "live": "long_dated",
+  "widget": "lockup",
+  "blurb": "A 3¢ edge that pays in 2028 can be worse than 1¢ that pays Friday.",
+  "body": [
+   "Money in a contract is tied up until it resolves. A small edge on a contract that settles in two years can earn less per year than a savings account.",
+   "Compare edges per year, not per trade: divide the profit by what you put in, then by the years until payout.",
+   "Long-dated markets also carry more risk of rule surprises, venue changes and simply forgetting about them. That is why the Analyst Desk's Risk Manager weighs lockup time."
+  ],
+  "example": "Paying 95¢ for a $1 payout is a 5.3% return. If it pays in one month, that's a lot per year. If it pays in three years, it's under 2% per year.",
+  "quiz": [
+   {
+    "q": "Which is better per year: 2% profit in 1 month, or 5% profit in 3 years?",
+    "options": [
+     "2% in 1 month",
+     "5% in 3 years",
+     "They're the same"
+    ],
+    "answer": 0,
+    "why": "2% a month compounds to far more per year than 5% spread over three years."
+   },
+   {
+    "q": "Why does lockup matter even with no fees?",
+    "options": [
+     "Your money could be earning elsewhere meanwhile",
+     "It doesn't",
+     "Venues charge interest"
+    ],
+    "answer": 0,
+    "why": "Tied-up money has an opportunity cost."
+   }
+  ]
+ },
+ {
+  "id": "anomaly-patterns",
+  "title": "Anomaly patterns",
+  "accent": "var(--tmb-anomaly)",
+  "signalTypes": [
+   "anomaly",
+   "newsLag"
+  ],
+  "blurb": "The shapes a price makes before news it shouldn't know yet.",
+  "body": [
+   "The pattern enforcement actions describe is simple: a contract at 2¢ for weeks, a burst of concentrated buying from a few wallets, a jump to 30, 60, 90¢, and then the headline that explains it arrives hours later.",
+   "No single feature proves anything. Volume spikes happen, prices gap, and new wallets show up every day. The anomaly score combines four of these signals and tells you how unusual the hour was compared with the market's own history. It says *look here*, never *that person did it*.",
+   "Timing is the strongest clue. A move that follows the headline is a market doing its job. A move that precedes the headline by hours is a question worth asking.",
+   "In April 2026 the CFTC brought its first civil insider trading case over event contracts. The receipts in that case were price charts and wallet histories like the ones in this terminal."
+  ],
+  "example": "Scenario 2 in the Scanner: a Nobel Peace Prize contract at under 1¢ runs to 68¢ ten hours before the announcement, with most buying from a handful of wallets.",
+  "track": "signals",
+  "live": "flagged",
+  "quiz": [
+   {
+    "q": "A price climbs steadily for 10 hours, then the headline that explains it comes out. What should you think?",
+    "options": [
+     "It's worth a look: the move came before the news",
+     "Nothing, prices always move first",
+     "It proves insider trading"
+    ],
+    "answer": 0,
+    "why": "A move before the news is a reason to look closer. It is evidence to judge, never proof."
+   },
+   {
+    "q": "What makes an hour 'anomalous' here?",
+    "options": [
+     "Far more trading or a far bigger move than that market's normal hour",
+     "Any price change",
+     "Any trade over $1,000"
+    ],
+    "answer": 0,
+    "why": "The score compares each hour with the market's own normal, so a quiet market and a busy one are judged fairly."
+   }
+  ],
+  "widget": null
+ },
+ {
+  "id": "news-moves",
+  "title": "How news moves a price",
+  "track": "signals",
+  "accent": "var(--tmb-contrarian)",
+  "signalTypes": [
+   "anomaly"
+  ],
+  "live": null,
+  "blurb": "Fast money moves first, slow money arrives later.",
+  "body": [
+   "When news breaks, traders who see it first (algorithms, professionals, people watching closely) trade within minutes and move the price most of the way.",
+   "Slower traders arrive over the next hour or more. If the first wave overshot, the price drifts back; if it undershot, it keeps going.",
+   "That's what the Simulator shows: each dot is a trader, and you can watch who hears the news when and how the price settles. A move that starts before the news is out is the pattern worth questioning."
+  ],
+  "example": "A key player is ruled out. Within two minutes the sharpest traders cut the team's price from 55% to 40%; over the next hour the casual crowd trickles in and it settles near 38%.",
+  "quiz": [
+   {
+    "q": "Who usually moves the price first after a headline?",
+    "options": [
+     "The fastest, best-informed traders",
+     "Casual traders",
+     "The venue"
+    ],
+    "answer": 0,
+    "why": "They see and act on the news first, and they tend to bet the most."
+   },
+   {
+    "q": "A price drops sharply, then drifts partly back up over an hour. What probably happened?",
+    "options": [
+     "The first reaction overshot",
+     "The news was reversed",
+     "Nothing, it's random"
+    ],
+    "answer": 0,
+    "why": "Fast traders sometimes overreact; slower traders then pull it back."
+   }
+  ],
+  "widget": null
+ },
+ {
+  "id": "wash-trading",
+  "title": "Wash trading",
+  "accent": "var(--tmb-anomaly)",
+  "signalTypes": [
+   "anomaly"
+  ],
+  "blurb": "Volume that looks like interest but is one hand washing the other.",
+  "body": [
+   "Wash trading is trading with yourself (or a partner) to print volume. The price barely moves, but the market looks hot, climbs leaderboards, and attracts real money that provides exit liquidity.",
+   "The tell is volume without price discovery: big bars, flat price, and a handful of wallets on both sides of every trade. Real interest moves the price; fake interest just moves the volume counter.",
+   "Prediction markets have been accused of exactly this around airdrop farming and incentive programs, where volume itself was the reward."
+  ],
+  "example": "Six hours of $40,000 volume on a contract that never left 51–53¢ is a chart to be suspicious of, not excited by.",
+  "track": "signals",
+  "live": null,
+  "quiz": [
+   {
+    "q": "Volume jumps 20× but the price doesn't move at all. What's one explanation?",
+    "options": [
+     "The same party is trading with itself",
+     "A big news story",
+     "The market resolved"
+    ],
+    "answer": 0,
+    "why": "Real buying pressure moves prices. Heavy volume with a flat price can be someone trading with themselves to fake interest."
+   },
+   {
+    "q": "Why would someone fake volume?",
+    "options": [
+     "To make a market look popular or liquid",
+     "To lower fees",
+     "To close the market"
+    ],
+    "answer": 0,
+    "why": "Volume attracts traders and rankings; faking it can pull in real money."
+   }
+  ],
+  "widget": null
+ },
+ {
+  "id": "cross-venue-arbitrage",
+  "title": "Cross-venue arbitrage",
+  "accent": "var(--tmb-mispricing)",
+  "signalTypes": [
+   "gap"
+  ],
+  "blurb": "Same event, two prices, one edge. Minus fees.",
+  "body": [
+   "When two venues list the same event, their prices should match. When they don't, buy the cheap one and sell the expensive one and you lock in the difference, as long as the contracts really resolve the same way.",
+   "The catch is in the rules. 'Above 4.00%' on one venue can equal the sum of two brackets on the other, or differ by a date or a data source. The Markets proposes pairs by title and then compares resolution text before it trusts a gap.",
+   "Also, fees and spreads on both legs come out of the gap, capital is tied up until resolution, and you need an account on both venues. Most 'arbitrage' on a screen is smaller than the friction to capture it."
+  ],
+  "example": "A 3.7¢ gap on a 2028 nominee between venues shrinks to about 1.5¢ after both spreads and fees, and takes two years to pay out.",
+  "track": "signals",
+  "live": "gap",
+  "quiz": [
+   {
+    "q": "Kalshi 42¢, Polymarket 48¢ for the same outcome. Is that 6¢ of free money?",
+    "options": [
+     "Not until spreads and fees are paid",
+     "Yes, always",
+     "No, prices can't differ"
+    ],
+    "answer": 0,
+    "why": "You buy at each venue's ask and pay its fees. Often most or all of the gap disappears."
+   },
+   {
+    "q": "What else must match before a gap is real?",
+    "options": [
+     "The two contracts' resolution rules",
+     "The two venues' logos",
+     "The trading volume"
+    ],
+    "answer": 0,
+    "why": "Two markets with similar names can settle on different rules. Then the gap is not an edge at all."
+   }
+  ],
+  "widget": null
+ },
+ {
+  "id": "in-play",
+  "title": "In-play sports markets",
+  "track": "signals",
+  "accent": "var(--tmb-yes)",
+  "signalTypes": [
+   "anomaly",
+   "gap"
+  ],
+  "live": "live_game",
+  "blurb": "Once the game starts, every play reprices the market.",
+  "body": [
+   "During a game, prices move on every score, injury and turnover. Huge volume and big swings are normal: they are the game itself, not a signal.",
+   "Venues also reprice at different speeds, so in-play prices on two venues often disagree for a few seconds or minutes. Those gaps are stale quotes, not free money.",
+   "That's why Trust Me Bro doesn't raise anomaly or cross-venue gap flags from three hours before kickoff until the game is over."
+  ],
+  "example": "A touchdown swings a team from 45% to 62% in seconds. Volume spikes 50×. Outside a game that would be flagged; during one, it's just football.",
+  "quiz": [
+   {
+    "q": "Volume spikes 50× during the fourth quarter of a close game. Suspicious?",
+    "options": [
+     "No, that's normal in-play trading",
+     "Yes, always",
+     "Only on Kalshi"
+    ],
+    "answer": 0,
+    "why": "Games produce exactly this kind of volume; we don't flag during them."
+   },
+   {
+    "q": "Kalshi shows 60% and Polymarket 52% mid-game. Most likely reason?",
+    "options": [
+     "One venue hasn't caught up to the last play yet",
+     "Free arbitrage",
+     "One venue is wrong forever"
+    ],
+    "answer": 0,
+    "why": "In-play quotes update at different speeds, so short-lived gaps are expected."
+   }
+  ],
+  "widget": null
+ },
+ {
+  "id": "outcome-sets",
+  "title": "Outcome sets",
+  "track": "signals",
+  "accent": "var(--tmb-contrarian)",
+  "signalTypes": [
+   "inconsistency"
+  ],
+  "live": "outcome_set",
+  "blurb": "When only one outcome can win, the prices should add to about 100.",
+  "body": [
+   "Many markets are a set of outcomes where exactly one wins: who wins an election, which range a number lands in. Their YES prices should add up to roughly $1.",
+   "In practice they rarely add to exactly 100%. Spreads push the sum around, and many sets list only the main candidates with no 'Other', so the listed prices add to less than 100%.",
+   "A sum well above 100% across real bids means buying every NO would lock in a small profit, but only if the quotes fill and after fees. It is context, not something we flag."
+  ],
+  "example": "Five candidates at 40¢, 30¢, 15¢, 8¢ and 4¢ sum to 97¢. The missing 3¢ is the chance someone not on the list wins.",
+  "quiz": [
+   {
+    "q": "A 'who will win' set's prices add to 92%. Most likely reason?",
+    "options": [
+     "Some possible winners aren't listed",
+     "Free money",
+     "An error"
+    ],
+    "answer": 0,
+    "why": "Lists without an 'Other' option usually sum to less than 100%."
+   },
+   {
+    "q": "When could a set summing above 100% be tradeable?",
+    "options": [
+     "When the YES bids add to more than $1 after fees",
+     "Always",
+     "Never"
+    ],
+    "answer": 0,
+    "why": "Only real bids count, and fees must still leave a profit."
+   }
+  ],
+  "widget": null
+ }
 ]

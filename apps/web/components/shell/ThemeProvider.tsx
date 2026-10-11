@@ -15,14 +15,14 @@ const KEY = "tmb-theme";
 function apply(t: ThemeName) {
   const el = document.documentElement;
   el.dataset.theme = t;
-  el.classList.toggle("dark", t !== "light");
+  el.classList.toggle("dark", t === "dark");
   try {
     localStorage.setItem(KEY, t);
   } catch {}
 }
 
 /** Inline script for <head> so the first paint already has the stored theme. */
-export const THEME_BOOT_SCRIPT = `(function(){try{var t=localStorage.getItem('${KEY}')||'dark';document.documentElement.dataset.theme=t;if(t!=='light')document.documentElement.classList.add('dark');}catch(e){}})();`;
+export const THEME_BOOT_SCRIPT = `(function(){try{document.documentElement.dataset.theme='dark';document.documentElement.classList.add('dark');}catch(e){}})();`;
 
 export function ThemeProvider({ children }: { children: React.ReactNode }) {
   const [theme, setThemeState] = useState<ThemeName>("dark");

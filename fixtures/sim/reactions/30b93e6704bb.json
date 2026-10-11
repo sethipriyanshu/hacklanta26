@@ -1,0 +1,152 @@
+{
+ "source": "llm",
+ "headline": "ryan williams is not playing.",
+ "marketId": "kalshi:KXNCAAFGAME-26OCT10UGAALA-ALA",
+ "fairProbability": 0.545,
+ "fairReason": "Uncertainty about which side Ryan Williams plays for means no informed move in Alabama's win probability.",
+ "analysis": "Ryan Williams is not playing. Given no team is specified, and Ryan Williams is a relatively common name, without evidence linking him to Alabama, we cannot be sure this news helps or hurts Alabama's chances directly. Therefore, this likely does not materially affect the probability that Alabama wins.",
+ "direction": "none",
+ "movePoints": 0.0,
+ "reactions": [
+  {
+   "personaId": "retired-teacher",
+   "probability": 0.545,
+   "confidence": 0.8,
+   "delayMinutes": 15,
+   "reason": "We rely on trusted news and need confirmation on player affiliation."
+  },
+  {
+   "personaId": "retired-exec",
+   "probability": 0.545,
+   "confidence": 0.9,
+   "delayMinutes": 10,
+   "reason": "We prefer clear information before adjusting bets."
+  },
+  {
+   "personaId": "nurse",
+   "probability": 0.545,
+   "confidence": 0.7,
+   "delayMinutes": 20,
+   "reason": "Can't act until we know if this affects Alabama."
+  },
+  {
+   "personaId": "crypto-trader",
+   "probability": 0.545,
+   "confidence": 0.95,
+   "delayMinutes": 5,
+   "reason": "We wait for verified info before trading."
+  },
+  {
+   "personaId": "macro-pm",
+   "probability": 0.545,
+   "confidence": 0.9,
+   "delayMinutes": 3,
+   "reason": "Analysis requires knowing player relevance and team."
+  },
+  {
+   "personaId": "college-student",
+   "probability": 0.545,
+   "confidence": 0.6,
+   "delayMinutes": 25,
+   "reason": "Without social media confirms, no stance taken."
+  },
+  {
+   "personaId": "small-biz",
+   "probability": 0.545,
+   "confidence": 0.8,
+   "delayMinutes": 15,
+   "reason": "Need more data on impact before changing odds."
+  },
+  {
+   "personaId": "software-eng",
+   "probability": 0.545,
+   "confidence": 0.85,
+   "delayMinutes": 10,
+   "reason": "No direct info on impact; maintain current view."
+  },
+  {
+   "personaId": "union-electrician",
+   "probability": 0.545,
+   "confidence": 0.75,
+   "delayMinutes": 15,
+   "reason": "We wait for clarity on team affiliation before judgment."
+  },
+  {
+   "personaId": "political-junkie",
+   "probability": 0.545,
+   "confidence": 0.7,
+   "delayMinutes": 20,
+   "reason": "This news alone doesn't affect game outcome."
+  },
+  {
+   "personaId": "realtor",
+   "probability": 0.545,
+   "confidence": 0.8,
+   "delayMinutes": 12,
+   "reason": "Hold position until player team is known."
+  },
+  {
+   "personaId": "grad-econ",
+   "probability": 0.545,
+   "confidence": 0.9,
+   "delayMinutes": 5,
+   "reason": "No statistical basis to update without affiliation."
+  },
+  {
+   "personaId": "farmer",
+   "probability": 0.545,
+   "confidence": 0.75,
+   "delayMinutes": 20,
+   "reason": "We need clarity on player to adjust views."
+  },
+  {
+   "personaId": "gig-driver",
+   "probability": 0.545,
+   "confidence": 0.65,
+   "delayMinutes": 30,
+   "reason": "Hard to judge impact without more detail."
+  },
+  {
+   "personaId": "sports-bettor",
+   "probability": 0.525,
+   "confidence": 0.8,
+   "delayMinutes": 5,
+   "reason": "We tend to assume absences hurt Alabama slightly."
+  },
+  {
+   "personaId": "physician",
+   "probability": 0.545,
+   "confidence": 0.85,
+   "delayMinutes": 10,
+   "reason": "Evidence lacking to change odds yet."
+  },
+  {
+   "personaId": "vc-associate",
+   "probability": 0.545,
+   "confidence": 0.8,
+   "delayMinutes": 8,
+   "reason": "Wait for confirmation before updating outlook."
+  },
+  {
+   "personaId": "school-admin",
+   "probability": 0.545,
+   "confidence": 0.7,
+   "delayMinutes": 15,
+   "reason": "No cause to revise estimate without data."
+  },
+  {
+   "personaId": "retired-military",
+   "probability": 0.545,
+   "confidence": 0.85,
+   "delayMinutes": 10,
+   "reason": "Require player team info to update forecast."
+  },
+  {
+   "personaId": "quant-dev",
+   "probability": 0.545,
+   "confidence": 0.95,
+   "delayMinutes": 3,
+   "reason": "No evidence to shift probability now."
+  }
+ ]
+}

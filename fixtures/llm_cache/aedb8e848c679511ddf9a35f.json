@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXNCAAFGAME-26OCT10UGAALA-UGA",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Georgia wins\nEvent: Georgia vs Alabama \u2014 Georgia\nCategory: Sports  Venue: kalshi\nYES price: 0.46 (~46%)\n24h change: -2 points   24h volume: $1.4M\nResolution rules: If Georgia wins the Georgia vs Alabama college football game originally scheduled for Oct 10, 2026, then the market resolves to Yes.\n\nIf the game is postponed but begins within 48 hours of its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is cancelled or not started within 48 hours of its originally scheduled start, the market will resolve to a fair price.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or\nSignals: gap 0 \u2014 Kalshi 45.5\u00a2 vs Polymarket 45.5\u00a2: the 0.0\u00a2 gap is eaten by spreads and fees (3.5\u00a2). No edge.; inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 100.0%. Buying every YES costs 101.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Georgia win the football game against Alabama on October 10, 2026?",
+  "summary": "This market lets you buy a 'YES' share if you think Georgia will win the football game against Alabama on October 10, 2026. A YES share pays $1 if Georgia wins and $0 if they don't. The current price is about 46 cents, which means the market thinks there is roughly a 46% chance that Georgia will win. The market collects $1.4 million in trades over the past 24 hours, showing that many people are interested in this event.",
+  "whats_notable": "The market price for Georgia winning is 46 cents, which matches prices on other platforms, indicating agreement among traders.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

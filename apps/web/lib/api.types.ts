@@ -89,6 +89,26 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
+    "/markets/{market_id}/book/stream": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /**
+         * Stream Book
+         * @description Live order book over SSE: a `book` event per update. Polymarket pushes via WebSocket; Kalshi is fast-polled.
+         */
+        get: operations["stream_book_markets__market_id__book_stream_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
     "/markets/{market_id}/trades": {
         parameters: {
             query?: never;
@@ -98,6 +118,26 @@ export interface paths {
         };
         /** Get Trades */
         get: operations["get_trades_markets__market_id__trades_get"];
+        put?: never;
+        post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/markets/{market_id}/summary": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /**
+         * Market Summary
+         * @description Plain-language 'understand this market' summary for the learning view. LLM when live, templated otherwise.
+         */
+        get: operations["market_summary_markets__market_id__summary_get"];
         put?: never;
         post?: never;
         delete?: never;
@@ -164,7 +204,10 @@ export interface paths {
             path?: never;
             cookie?: never;
         };
-        /** Pair Results */
+        /**
+         * Pair Results
+         * @description Cross-venue pair results. Flagged pairs only by default: there are ~14k name matches, too many to ship whole.
+         */
         get: operations["pair_results_signals_pairs_results_get"];
         put?: never;
         post?: never;
@@ -225,15 +268,18 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
-    "/desk/profiles": {
+    "/desk/recommendations": {
         parameters: {
             query?: never;
             header?: never;
             path?: never;
             cookie?: never;
         };
-        /** List Profiles */
-        get: operations["list_profiles_desk_profiles_get"];
+        /**
+         * Recommendations
+         * @description Low-risk markets to suggest when someone opens the desk without a contract in mind.
+         */
+        get: operations["recommendations_desk_recommendations_get"];
         put?: never;
         post?: never;
         delete?: never;
@@ -296,43 +342,6 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
-    "/sim/presets": {
-        parameters: {
-            query?: never;
-            header?: never;
-            path?: never;
-            cookie?: never;
-        };
-        /**
-         * Presets
-         * @description Scenario presets the UI can load with one click.
-         */
-        get: operations["presets_sim_presets_get"];
-        put?: never;
-        post?: never;
-        delete?: never;
-        options?: never;
-        head?: never;
-        patch?: never;
-        trace?: never;
-    };
-    "/sim/runs/{name}": {
-        parameters: {
-            query?: never;
-            header?: never;
-            path?: never;
-            cookie?: never;
-        };
-        /** Get Run */
-        get: operations["get_run_sim_runs__name__get"];
-        put?: never;
-        post?: never;
-        delete?: never;
-        options?: never;
-        head?: never;
-        patch?: never;
-        trace?: never;
-    };
     "/sim/run": {
         parameters: {
             query?: never;
@@ -370,15 +379,15 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
-    "/learn/ping": {
+    "/learn/concepts": {
         parameters: {
             query?: never;
             header?: never;
             path?: never;
             cookie?: never;
         };
-        /** Ping */
-        get: operations["ping_learn_ping_get"];
+        /** Concepts */
+        get: operations["concepts_learn_concepts_get"];
         put?: never;
         post?: never;
         delete?: never;
@@ -387,17 +396,35 @@ export interface paths {
         patch?: never;
         trace?: never;
     };
-    "/scenarios": {
+    "/learn/game": {
         parameters: {
             query?: never;
             header?: never;
             path?: never;
             cookie?: never;
         };
-        /** List Scenarios */
-        get: operations["list_scenarios_scenarios_get"];
+        /** Game */
+        get: operations["game_learn_game_get"];
         put?: never;
         post?: never;
+        delete?: never;
+        options?: never;
+        head?: never;
+        patch?: never;
+        trace?: never;
+    };
+    "/mode": {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        /** Get Mode */
+        get: operations["get_mode_mode_get"];
+        put?: never;
+        /** Set Mode */
+        post: operations["set_mode_mode_post"];
         delete?: never;
         options?: never;
         head?: never;
@@ -434,6 +461,13 @@ export interface components {
             /** Belief */
             belief: number;
             /**
+             * Prior
+             * @default 0
+             */
+            prior: number;
+            /** Seenat */
+            seenAt?: number | null;
+            /**
              * Stance
              * @enum {string}
              */
@@ -459,10 +493,8 @@ export interface components {
              * @enum {string}
              */
             decision: "yes" | "no" | "pass";
-            /** Sizeusd */
-            sizeUsd: number;
-            /** Riskbudget */
-            riskBudget: number;
+            /** Belief */
+            belief: number;
             /** Kellyfraction */
             kellyFraction: number;
             /** Weightedyes */
@@ -476,12 +508,51 @@ export interface components {
             /** Summary */
             summary: string;
         };
+        /**
+         * DebateReply
+         * @description One message in round two.
+         */
+        DebateReply: {
+            /**
+             * Persona
+             * @enum {string}
+             */
+            persona: "quant" | "contrarian" | "riskmgr";
+            /** Replyto */
+            replyTo: ("quant" | "contrarian" | "riskmgr") | "both";
+            /** Quote */
+            quote?: string | null;
+            /**
+             * Tone
+             * @enum {string}
+             */
+            tone: "concede" | "push_back" | "close";
+            /** Text */
+            text: string;
+            /**
+             * Revisedstance
+             * @enum {string}
+             */
+            revisedStance: "yes" | "no" | "pass";
+            /** Revisedconfidence */
+            revisedConfidence: number;
+        };
         /** DebateResult */
         DebateResult: {
             /** Marketid */
             marketId: string;
-            /** Profileid */
-            profileId: string;
+            /**
+             * Risk
+             * @default moderate
+             * @enum {string}
+             */
+            risk: "conservative" | "moderately_conservative" | "moderate" | "moderately_aggressive" | "aggressive";
+            /**
+             * Side
+             * @default unsure
+             * @enum {string}
+             */
+            side: "yes" | "no" | "unsure";
             /**
              * Source
              * @enum {string}
@@ -493,6 +564,8 @@ export interface components {
             };
             /** Takes */
             takes: components["schemas"]["DeskTake"][];
+            /** Thread */
+            thread?: components["schemas"]["DebateReply"][];
             consensus: components["schemas"]["Consensus"];
         };
         /** DeskTake */
@@ -517,6 +590,14 @@ export interface components {
             rebuttal?: string | null;
             /** Revisedconfidence */
             revisedConfidence?: number | null;
+            /** Replyto */
+            replyTo?: ("quant" | "contrarian" | "riskmgr") | "both" | null;
+            /** Quote */
+            quote?: string | null;
+            /** Tone */
+            tone?: ("concede" | "push_back" | "close") | null;
+            /** Revisedstance */
+            revisedStance?: ("yes" | "no" | "pass") | null;
         };
         /** Event */
         Event: {
@@ -591,13 +672,6 @@ export interface components {
             resolution: string;
             /** Points */
             points: components["schemas"]["PricePoint"][];
-        };
-        /** Holding */
-        Holding: {
-            /** Label */
-            label: string;
-            /** Value */
-            value: number;
         };
         /** Market */
         Market: {
@@ -761,12 +835,29 @@ export interface components {
              * @default 0
              */
             maxScore: number;
+            /**
+             * Live
+             * @default false
+             */
+            live: boolean;
         };
         /** MarketsResponse */
         MarketsResponse: {
             /** Markets */
             markets: components["schemas"]["MarketRow"][];
+            /**
+             * Total
+             * @default 0
+             */
+            total: number;
             snapshot: components["schemas"]["Snapshot"];
+        };
+        /** ModeUpdate */
+        ModeUpdate: {
+            /** Live */
+            live?: boolean | null;
+            /** Reset */
+            reset?: boolean | null;
         };
         /** NewsResponse */
         NewsResponse: {
@@ -829,55 +920,18 @@ export interface components {
             /** Volume */
             volume?: number | null;
         };
-        /** Profile */
-        Profile: {
-            /** Id */
-            id: string;
-            /** Name */
-            name: string;
-            /** Tier */
-            tier: string;
-            /** Monthlyincome */
-            monthlyIncome: number;
-            /** Fixedcosts */
-            fixedCosts: number;
-            /** Discretionary */
-            discretionary: number;
-            /** Holdings */
-            holdings?: components["schemas"]["Holding"][];
-            /**
-             * Risktolerance
-             * @default 1
-             */
-            riskTolerance: number;
-            /**
-             * Accent
-             * @default
-             */
-            accent: string;
-            /**
-             * Bio
-             * @default
-             */
-            bio: string;
-            /**
-             * Riskbudget
-             * @default 0
-             */
-            riskBudget: number;
-        };
         /** Reaction */
         Reaction: {
             /** Personaid */
             personaId: string;
             /**
-             * Beliefshift
-             * @description -1..1: change in probability the YES outcome happens, after reading the headline
+             * Probability
+             * @description 0..1: this group's probability that the contract resolves YES after reading the headline
              */
-            beliefShift: number;
+            probability: number;
             /**
              * Confidence
-             * @description 0..1
+             * @description 0..1: how sure this group is, which sets how hard it bets
              */
             confidence: number;
             /**
@@ -891,51 +945,28 @@ export interface components {
              */
             reason: string;
         };
-        /** Scenario */
-        Scenario: {
-            /** Id */
-            id: number;
-            /** Code */
-            code: string;
-            /** Title */
-            title: string;
-            /**
-             * Module
-             * @enum {string}
-             */
-            module: "scanner" | "desk" | "sim" | "learn";
-            /** Route */
-            route: string;
-            /** Proves */
-            proves: string;
+        /** Recommendation */
+        Recommendation: {
             /** Marketid */
-            marketId?: string | null;
-            /** Eventid */
-            eventId?: string | null;
-            /** Pair */
-            pair?: {
-                [key: string]: unknown;
-            } | null;
-            /** Windowstart */
-            windowStart?: string | null;
-            /** Windowend */
-            windowEnd?: string | null;
-            headline?: components["schemas"]["ScenarioHeadline"] | null;
-        };
-        /** ScenarioHeadline */
-        ScenarioHeadline: {
+            marketId: string;
             /** Title */
             title: string;
-            /**
-             * At
-             * Format: date-time
-             */
-            at: string;
-            /**
-             * Source
-             * @default
-             */
-            source: string;
+            /** Eventtitle */
+            eventTitle: string;
+            /** Venue */
+            venue: string;
+            /** Category */
+            category: string;
+            /** Yesprice */
+            yesPrice: number;
+            /** Volume24H */
+            volume24H: number;
+            /** Spread */
+            spread: number | null;
+            /** Closetime */
+            closeTime: string | null;
+            /** Reasons */
+            reasons: string[];
         };
         /** Signal */
         Signal: {
@@ -1029,6 +1060,10 @@ export interface components {
             personas: components["schemas"]["Persona"][];
             /** Reactions */
             reactions: components["schemas"]["Reaction"][];
+            /** Fairprobability */
+            fairProbability?: number | null;
+            /** Fairreason */
+            fairReason?: string | null;
             /** Agents */
             agents: components["schemas"]["AgentState"][];
             /** Ticks */
@@ -1184,7 +1219,7 @@ export interface components {
              * @default curated
              * @enum {string}
              */
-            checkedBy: "llm" | "curated";
+            checkedBy: "llm" | "curated" | "auto";
         };
         /** WalletPanel */
         WalletPanel: {
@@ -1242,7 +1277,11 @@ export interface operations {
                 venue?: string | null;
                 q?: string | null;
                 limit?: number;
+                offset?: number;
                 include_closed?: boolean;
+                live?: boolean;
+                league?: string | null;
+                sort?: string;
             };
             header?: never;
             path?: never;
@@ -1396,6 +1435,37 @@ export interface operations {
             };
         };
     };
+    stream_book_markets__market_id__book_stream_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                market_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": unknown;
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
     get_trades_markets__market_id__trades_get: {
         parameters: {
             query?: never;
@@ -1414,6 +1484,39 @@ export interface operations {
                 };
                 content: {
                     "application/json": components["schemas"]["TradesResponse"];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    market_summary_markets__market_id__summary_get: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path: {
+                market_id: string;
+            };
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
                 };
             };
             /** @description Validation Error */
@@ -1463,7 +1566,6 @@ export interface operations {
             query?: {
                 type?: string | null;
                 min_score?: number;
-                scenario?: boolean;
             };
             header?: never;
             path?: never;
@@ -1513,7 +1615,10 @@ export interface operations {
     };
     pair_results_signals_pairs_results_get: {
         parameters: {
-            query?: never;
+            query?: {
+                flagged?: boolean;
+                limit?: number;
+            };
             header?: never;
             path?: never;
             cookie?: never;
@@ -1529,6 +1634,15 @@ export interface operations {
                     "application/json": {
                         [key: string]: unknown;
                     };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
                 };
             };
         };
@@ -1635,9 +1749,11 @@ export interface operations {
             };
         };
     };
-    list_profiles_desk_profiles_get: {
+    recommendations_desk_recommendations_get: {
         parameters: {
-            query?: never;
+            query?: {
+                limit?: number;
+            };
             header?: never;
             path?: never;
             cookie?: never;
@@ -1650,7 +1766,16 @@ export interface operations {
                     [name: string]: unknown;
                 };
                 content: {
-                    "application/json": components["schemas"]["Profile"][];
+                    "application/json": components["schemas"]["Recommendation"][];
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
                 };
             };
         };
@@ -1659,7 +1784,8 @@ export interface operations {
         parameters: {
             query: {
                 market_id: string;
-                profile_id: string;
+                risk?: "conservative" | "moderately_conservative" | "moderate" | "moderately_aggressive" | "aggressive";
+                side?: "yes" | "no" | "unsure";
             };
             header?: never;
             path?: never;
@@ -1691,7 +1817,8 @@ export interface operations {
         parameters: {
             query: {
                 market_id: string;
-                profile_id: string;
+                risk?: "conservative" | "moderately_conservative" | "moderate" | "moderately_aggressive" | "aggressive";
+                side?: "yes" | "no" | "unsure";
             };
             header?: never;
             path?: never;
@@ -1735,59 +1862,6 @@ export interface operations {
                 };
                 content: {
                     "application/json": components["schemas"]["Persona"][];
-                };
-            };
-        };
-    };
-    presets_sim_presets_get: {
-        parameters: {
-            query?: never;
-            header?: never;
-            path?: never;
-            cookie?: never;
-        };
-        requestBody?: never;
-        responses: {
-            /** @description Successful Response */
-            200: {
-                headers: {
-                    [name: string]: unknown;
-                };
-                content: {
-                    "application/json": {
-                        [key: string]: unknown;
-                    }[];
-                };
-            };
-        };
-    };
-    get_run_sim_runs__name__get: {
-        parameters: {
-            query?: never;
-            header?: never;
-            path: {
-                name: string;
-            };
-            cookie?: never;
-        };
-        requestBody?: never;
-        responses: {
-            /** @description Successful Response */
-            200: {
-                headers: {
-                    [name: string]: unknown;
-                };
-                content: {
-                    "application/json": components["schemas"]["SimRun"];
-                };
-            };
-            /** @description Validation Error */
-            422: {
-                headers: {
-                    [name: string]: unknown;
-                };
-                content: {
-                    "application/json": components["schemas"]["HTTPValidationError"];
                 };
             };
         };
@@ -1858,7 +1932,7 @@ export interface operations {
             };
         };
     };
-    ping_learn_ping_get: {
+    concepts_learn_concepts_get: {
         parameters: {
             query?: never;
             header?: never;
@@ -1874,13 +1948,47 @@ export interface operations {
                 };
                 content: {
                     "application/json": {
-                        [key: string]: string;
-                    };
+                        [key: string]: unknown;
+                    }[];
                 };
             };
         };
     };
-    list_scenarios_scenarios_get: {
+    game_learn_game_get: {
+        parameters: {
+            query?: {
+                seed?: number;
+                rounds?: number;
+            };
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody?: never;
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
+                };
+            };
+        };
+    };
+    get_mode_mode_get: {
         parameters: {
             query?: never;
             header?: never;
@@ -1895,7 +2003,44 @@ export interface operations {
                     [name: string]: unknown;
                 };
                 content: {
-                    "application/json": components["schemas"]["Scenario"][];
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+        };
+    };
+    set_mode_mode_post: {
+        parameters: {
+            query?: never;
+            header?: never;
+            path?: never;
+            cookie?: never;
+        };
+        requestBody: {
+            content: {
+                "application/json": components["schemas"]["ModeUpdate"];
+            };
+        };
+        responses: {
+            /** @description Successful Response */
+            200: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": {
+                        [key: string]: unknown;
+                    };
+                };
+            };
+            /** @description Validation Error */
+            422: {
+                headers: {
+                    [name: string]: unknown;
+                };
+                content: {
+                    "application/json": components["schemas"]["HTTPValidationError"];
                 };
             };
         };

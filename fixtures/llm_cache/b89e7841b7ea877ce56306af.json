@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXMLBGAME-26OCT142000MILLAD-LAD",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Los Angeles D wins\nEvent: Game 3: Milwaukee vs Los Angeles D \u2014 Los Angeles D\nCategory: Sports  Venue: kalshi\nYES price: 0.61 (~61%)\n24h change: 0 points   24h volume: $2K\nResolution rules: If Los Angeles D wins the Milwaukee vs Los Angeles D professional baseball game originally scheduled for Oct 14, 2026, then the market resolves to Yes.\n\nThe following market refers to the Milwaukee vs Los Angeles D professional baseball game originally scheduled for Oct 14, 2026. If this game is postponed or delayed, the market will remain open and close after the rescheduled game has finished (within two days). If the game is cancelled or rescheduled to over two days away, the market will resol\nSignals: gap 54 \u2014 Kalshi prices YES at 61.0\u00a2, Polymarket at 51.5\u00a2 \u2014 a 9.5\u00a2 gap. Crossing both spreads and paying fees costs about 5.0\u00a2, le; anomaly 6 \u2014 Volume in the last hour was 0.0\u00d7 its trailing hourly average, nothing unusual. Price moved -3.0 points in the hour, in l; inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 99.5%. Buying every YES costs 103.0\u00a2 and selling every YES fetches 96.0\u00a2, so no set tr\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Los Angeles D win their Game 3 against Milwaukee in the baseball match?",
+  "summary": "This market lets you buy a 'YES share' that pays $1 if Los Angeles D wins the game, and $0 if they don't. The current price is 61 cents, which means the market thinks there is about a 61% chance Los Angeles D will win. This price helps people understand what most believe will happen in this baseball game.",
+  "whats_notable": "The market price at Kalshi is 61 cents, while another platform values it at about 52 cents, showing some difference in predictions.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

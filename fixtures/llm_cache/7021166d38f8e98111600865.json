@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXNCAAFGAME-26OCT10UGAALA-UGA",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Georgia wins\nEvent: Georgia vs Alabama \u2014 Georgia\nCategory: Sports  Venue: kalshi\nYES price: 0.47 (~47%)\n24h change: -2 points   24h volume: $143K\nResolution rules: If Georgia wins the Georgia vs Alabama college football game originally scheduled for Oct 10, 2026, then the market resolves to Yes.\n\nIf the game is postponed but begins within 48 hours of its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is cancelled or not started within 48 hours of its originally scheduled start, the market will resolve to a fair price.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or\nSignals: gap 0 \u2014 Kalshi 46.5\u00a2 vs Polymarket 46.5\u00a2: the 0.0\u00a2 gap is inside spreads plus fees (4.0\u00a2). No edge. Rule check (auto): same \u2014 Sa\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Georgia win the football game against Alabama?",
+  "summary": "This market asks if Georgia will win their college football game against Alabama. Buying a YES share means you get $1 if Georgia wins, and nothing if they don't. The current price is $0.47, which means the market thinks there's about a 47% chance that Georgia will win. This price moves as people buy and sell shares, showing changing opinions about the game's outcome.",
+  "whats_notable": "The chance of Georgia winning decreased slightly by 2 points in the last 24 hours.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

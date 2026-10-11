@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXNCAAFGAME-26OCT10UGAALA-ALA",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Alabama wins\nEvent: Georgia vs Alabama \u2014 Alabama\nCategory: Sports  Venue: kalshi\nYES price: 0.55 (~55%)\n24h change: 0 points   24h volume: $581K\nResolution rules: If Alabama wins the Georgia vs Alabama college football game originally scheduled for Oct 10, 2026, then the market resolves to Yes.\n\nIf the game is postponed but begins within 48 hours of its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is cancelled or not started within 48 hours of its originally scheduled start, the market will resolve to a fair price.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or\nSignals: inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 100.0%. Buying every YES costs 101.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Alabama win the college football game against Georgia?",
+  "summary": "This market asks if Alabama will win the football game against Georgia on October 10, 2026. A YES share means you get $1 if Alabama wins and $0 if they don't. Right now, a YES share costs about 55 cents, which means the market thinks there's roughly a 55% chance Alabama will win. Many people have bought and sold shares, totaling $581,000 in value, so this reflects a lot of opinions.",
+  "whats_notable": "The prices for YES and NO shares add up exactly to 100%, showing balanced expectations.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

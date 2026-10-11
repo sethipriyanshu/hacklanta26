@@ -1,0 +1,152 @@
+{
+ "source": "llm",
+ "headline": "Georgia's starting quarterback is suspended for the game",
+ "marketId": "kalshi:KXNCAAFGAME-26OCT10UGAALA-ALA",
+ "fairProbability": 0.665,
+ "fairReason": "Georgia losing its starting QB significantly increases Alabama's chances to win.",
+ "analysis": "Georgia's starting quarterback being suspended hurts Georgia's chances of winning, which directly benefits Alabama's chance to win (YES outcome). Therefore, this news helps the YES outcome (Alabama wins).",
+ "direction": "up",
+ "movePoints": 12.0,
+ "reactions": [
+  {
+   "personaId": "retired-teacher",
+   "probability": 0.685,
+   "confidence": 0.8,
+   "delayMinutes": 15,
+   "reason": "We tend to favor Alabama due to their strong program and dislike for Georgia's dominance."
+  },
+  {
+   "personaId": "retired-exec",
+   "probability": 0.655,
+   "confidence": 0.9,
+   "delayMinutes": 10,
+   "reason": "I respect Alabama but have a slight bias toward Georgia as an SEC fan."
+  },
+  {
+   "personaId": "nurse",
+   "probability": 0.665,
+   "confidence": 0.7,
+   "delayMinutes": 5,
+   "reason": "We focus on facts and update quickly based on injury news."
+  },
+  {
+   "personaId": "crypto-trader",
+   "probability": 0.665,
+   "confidence": 0.95,
+   "delayMinutes": 1,
+   "reason": "We act fast and unbiased on actionable news."
+  },
+  {
+   "personaId": "macro-pm",
+   "probability": 0.665,
+   "confidence": 0.85,
+   "delayMinutes": 3,
+   "reason": "High confidence and quick to price news accurately."
+  },
+  {
+   "personaId": "college-student",
+   "probability": 0.695,
+   "confidence": 0.6,
+   "delayMinutes": 20,
+   "reason": "We often overvalue Alabama due to fandom bias."
+  },
+  {
+   "personaId": "small-biz",
+   "probability": 0.645,
+   "confidence": 0.8,
+   "delayMinutes": 10,
+   "reason": "We lean towards Georgia and downplay negative news."
+  },
+  {
+   "personaId": "software-eng",
+   "probability": 0.665,
+   "confidence": 0.9,
+   "delayMinutes": 4,
+   "reason": "We analyze logically and update promptly."
+  },
+  {
+   "personaId": "union-electrician",
+   "probability": 0.675,
+   "confidence": 0.7,
+   "delayMinutes": 15,
+   "reason": "Slight bias in favor of traditional teams like Alabama."
+  },
+  {
+   "personaId": "political-junkie",
+   "probability": 0.685,
+   "confidence": 0.75,
+   "delayMinutes": 10,
+   "reason": "We tend to side with Alabama in sports contexts given regional preference."
+  },
+  {
+   "personaId": "realtor",
+   "probability": 0.655,
+   "confidence": 0.85,
+   "delayMinutes": 7,
+   "reason": "Favor Georgia slightly due to local bias, discounting the impact."
+  },
+  {
+   "personaId": "grad-econ",
+   "probability": 0.665,
+   "confidence": 0.95,
+   "delayMinutes": 2,
+   "reason": "We update efficiently based on expected impact of missing QB."
+  },
+  {
+   "personaId": "farmer",
+   "probability": 0.635,
+   "confidence": 0.8,
+   "delayMinutes": 15,
+   "reason": "Strong loyalty to Georgia leads to underappreciating the bad news."
+  },
+  {
+   "personaId": "gig-driver",
+   "probability": 0.675,
+   "confidence": 0.7,
+   "delayMinutes": 12,
+   "reason": "Some bias towards Alabama from following college sports closely."
+  },
+  {
+   "personaId": "sports-bettor",
+   "probability": 0.645,
+   "confidence": 0.9,
+   "delayMinutes": 5,
+   "reason": "We often bet on Georgia and thus discount negative news."
+  },
+  {
+   "personaId": "physician",
+   "probability": 0.665,
+   "confidence": 0.85,
+   "delayMinutes": 6,
+   "reason": "We value analytical thinking and fairly assess impact."
+  },
+  {
+   "personaId": "vc-associate",
+   "probability": 0.665,
+   "confidence": 0.9,
+   "delayMinutes": 3,
+   "reason": "We act quickly and objectively on relevant news."
+  },
+  {
+   "personaId": "school-admin",
+   "probability": 0.685,
+   "confidence": 0.7,
+   "delayMinutes": 15,
+   "reason": "Often fans of Alabama, leading to optimism bias."
+  },
+  {
+   "personaId": "retired-military",
+   "probability": 0.655,
+   "confidence": 0.85,
+   "delayMinutes": 8,
+   "reason": "Appreciate Alabama's strengths but respect Georgia's team."
+  },
+  {
+   "personaId": "quant-dev",
+   "probability": 0.665,
+   "confidence": 0.95,
+   "delayMinutes": 1,
+   "reason": "Data-driven without bias, we immediately price the impact."
+  }
+ ]
+}

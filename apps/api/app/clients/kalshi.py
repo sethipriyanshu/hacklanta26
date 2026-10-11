@@ -18,6 +18,16 @@ async def events(*, status: str = "open", limit: int = 200, cursor: str | None =
     return await get_json(f"{BASE}/events", params)
 
 
+async def milestones(*, category: str = "Sports", minimum_start_date: str | None = None, limit: int = 200, cursor: str | None = None) -> dict[str, Any]:
+    """Live sports schedule: each milestone has the real kickoff (start_date), a status, and every event ticker it covers."""
+    params: dict[str, Any] = {"category": category, "limit": limit}
+    if minimum_start_date:
+        params["minimum_start_date"] = minimum_start_date
+    if cursor:
+        params["cursor"] = cursor
+    return await get_json(f"{BASE}/milestones", params)
+
+
 async def event(event_ticker: str) -> dict[str, Any]:
     return await get_json(f"{BASE}/events/{event_ticker}", {"with_nested_markets": "true"})
 

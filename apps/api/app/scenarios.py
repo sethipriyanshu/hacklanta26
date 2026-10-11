@@ -34,7 +34,7 @@ def _t(s: str) -> datetime:
 
 
 SCENARIOS: list[Scenario] = [
-    Scenario(id=1, code="SCENARIO 1", title="Live scanner with flags", module="scanner", route="/scanner", proves="Real data, real signals, polished UI"),
+    Scenario(id=1, code="SCENARIO 1", title="Live scanner with flags", module="scanner", route="/scanner", proves="Live markets from both venues, flagged markets first, each with the evidence behind its score"),
     Scenario(
         id=2, code="SCENARIO 2", title="Pre-news spike replay", module="scanner", route="/scanner/poly:560868?scenario=2",
         proves="Anomaly score fires before the headline; wallet panel shows fresh wallets",
@@ -49,8 +49,8 @@ SCENARIOS: list[Scenario] = [
         pair={"kalshiId": "kalshi:KXFED-26OCT-T4.00", "polyIds": ["poly:2589813", "poly:2589814"], "polyEventId": "poly:606422", "note": "Kalshi 'above 4.00%' spans Polymarket's +25 and +50 brackets"},
     ),
     Scenario(
-        id=4, code="SCENARIO 4", title="Same contract, two profiles", module="desk", route="/desk?market=poly:2589812&scenario=4",
-        proves="Student gets Pass; high-income user gets a small capped position",
+        id=4, code="SCENARIO 4", title="The desk debates the Fed decision", module="desk", route="/desk?market=poly:2589812",
+        proves="Three analysts argue one contract; consensus and stake are computed in code, and the Risk Manager can veto",
         market_id="poly:2589812", event_id="poly:606422",
     ),
     Scenario(

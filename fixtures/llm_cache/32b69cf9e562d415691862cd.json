@@ -1,0 +1,153 @@
+{
+ "tag": "swarm:8184b2f3658e",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You model how a prediction market reprices after a headline. First give the fair probability that the contract resolves YES as a sharp, well-informed, unbiased analyst would now see it. Be decisive: news that materially changes the outcome should move the probability a lot, news that changes nothing should leave it near the current price. Then, for each persona, give the probability THAT group puts on YES once it has heard and absorbed the news. Slowness is modelled separately by the delay, so do not anchor slow groups to the old price: everyone who has heard lands near the fair value, and only a genuine bias (team loyalty, partisanship, wishful thinking) moves a group a few points away. Also give each group's confidence, how many minutes until it typically acts, and a one-line first-person-plural reason. Read the contract carefully: YES means exactly what the contract says.",
+ "user": "Contract: Alabama wins\nEvent: Georgia vs Alabama\nYES means: Alabama\nResolution rules: If Alabama wins the Georgia vs Alabama college football game originally scheduled for Oct 10, 2026, then the market resolves to Yes.\n\nIf the game is postponed but begins within 48 hours of its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is cancelled or not started within 48 hours of its originally scheduled start, the market will resolve to a fair price.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the NCAA. All trademarks, logos, and brand names are the prope\nCurrent YES price (the market's probability before the news): 0.55\n\nHeadline: ryan williams is not playing and austin mack is starting\n\nPersonas:\n- retired-teacher: retired public school teacher; age 65+; income low; leans left; media: evening cable news, local paper\n- retired-exec: retired regional bank executive; age 65+; income high; leans right; media: WSJ, Fox Business, broker notes\n- nurse: ICU nurse working nights; age 30-44; income mid; leans center; media: push alerts between shifts, Reddit\n- crypto-trader: full-time crypto and prediction-market trader; age 18-29; income mid; leans center; media: X, Telegram alpha groups, terminal feeds\n- macro-pm: analyst at a macro hedge fund; age 30-44; income high; leans center; media: Bloomberg terminal, Fed statements as they drop\n- college-student: undergraduate, part-time barista; age 18-29; income low; leans left; media: TikTok, group chats, Discord\n- small-biz: owns two restaurants; age 45-64; income high; leans right; media: talk radio, trade association emails\n- software-eng: senior engineer at a SaaS company; age 30-44; income high; leans center; media: Hacker News, X, newsletters\n- union-electrician: journeyman electrician; age 45-64; income mid; leans left; media: local TV, Facebook\n- political-junkie: congressional staffer; age 18-29; income low; leans left; media: Politico, X, Slack back-channels\n- realtor: residential real estate agent; age 45-64; income mid; leans right; media: CNBC in the office, mortgage-rate alerts\n- grad-econ: PhD student in economics; age 18-29; income low; leans center; media: FOMC statements, FRED, EconTwitter\n- farmer: runs a family grain farm; age 45-64; income mid; leans right; media: AM radio, co-op newsletters, futures prices\n- gig-driver: rideshare and delivery driver; age 30-44; income low; leans center; media: YouTube, podcasts while driving\n- sports-bettor: sales rep who bets most weekends; age 30-44; income mid; leans right; media: sportsbook apps, Barstool, X\n- physician: family medicine doctor; age 45-64; income high; leans center; media: NYT morning briefing, NPR\n- vc-associate: associate at a venture fund; age 18-29; income high; leans center; media: X, Substacks, founder group chats\n- school-admin: assistant principal; age 30-44; income mid; leans left; media: morning news shows, email digests\n- retired-military: retired army officer, defense contractor; age 45-64; income high; leans right; media: cable news, defense trade press\n- quant-dev: builds trading bots at a prop shop; age 30-44; income high; leans center; media: raw feeds, APIs, nothing human\n\nReturn the fair probability, its reason, and one reaction per persona id.",
+ "output": {
+  "fair_probability": 0.5,
+  "fair_reason": "Ryan Williams not playing and Austin Mack starting materially weakens Alabama's chances, reducing their winning probability from 55% to about 50%.",
+  "reactions": [
+   {
+    "persona_id": "retired-teacher",
+    "probability": 0.48,
+    "confidence": 0.6,
+    "delay_minutes": 15,
+    "reason": "We trust the experts saying Williams missing is a big loss for Alabama."
+   },
+   {
+    "persona_id": "retired-exec",
+    "probability": 0.52,
+    "confidence": 0.7,
+    "delay_minutes": 20,
+    "reason": "We adjust slightly down but keep confidence in Alabama's overall strength."
+   },
+   {
+    "persona_id": "nurse",
+    "probability": 0.5,
+    "confidence": 0.5,
+    "delay_minutes": 10,
+    "reason": "We see the key player out and think the game is now a toss-up."
+   },
+   {
+    "persona_id": "crypto-trader",
+    "probability": 0.51,
+    "confidence": 0.85,
+    "delay_minutes": 2,
+    "reason": "We quickly update to nearly even odds given the lineup change."
+   },
+   {
+    "persona_id": "macro-pm",
+    "probability": 0.5,
+    "confidence": 0.9,
+    "delay_minutes": 5,
+    "reason": "We interpret missing key player as balancing the game closer to 50/50."
+   },
+   {
+    "persona_id": "college-student",
+    "probability": 0.45,
+    "confidence": 0.4,
+    "delay_minutes": 30,
+    "reason": "We think Alabama losing a starter hurts, so odds drop for us."
+   },
+   {
+    "persona_id": "small-biz",
+    "probability": 0.53,
+    "confidence": 0.6,
+    "delay_minutes": 20,
+    "reason": "We downgrade Alabama's chances but expect a close contest still."
+   },
+   {
+    "persona_id": "software-eng",
+    "probability": 0.5,
+    "confidence": 0.8,
+    "delay_minutes": 10,
+    "reason": "We trust data indicating the team's odds decrease due to missing Williams."
+   },
+   {
+    "persona_id": "union-electrician",
+    "probability": 0.48,
+    "confidence": 0.6,
+    "delay_minutes": 15,
+    "reason": "We feel losing a key player hurts Alabama's chance to win."
+   },
+   {
+    "persona_id": "political-junkie",
+    "probability": 0.49,
+    "confidence": 0.55,
+    "delay_minutes": 25,
+    "reason": "We see Alabama's line-up change as a slight hit to their odds."
+   },
+   {
+    "persona_id": "realtor",
+    "probability": 0.52,
+    "confidence": 0.7,
+    "delay_minutes": 15,
+    "reason": "We think Alabama's win probability slips but remains competitive."
+   },
+   {
+    "persona_id": "grad-econ",
+    "probability": 0.5,
+    "confidence": 0.9,
+    "delay_minutes": 10,
+    "reason": "We carefully adjust the probability to about 50%, reflecting the lineup impact."
+   },
+   {
+    "persona_id": "farmer",
+    "probability": 0.5,
+    "confidence": 0.65,
+    "delay_minutes": 15,
+    "reason": "We see the key player out as making the game evenly matched."
+   },
+   {
+    "persona_id": "gig-driver",
+    "probability": 0.49,
+    "confidence": 0.5,
+    "delay_minutes": 20,
+    "reason": "We feel Alabama losing a starter lowers their chance a bit."
+   },
+   {
+    "persona_id": "sports-bettor",
+    "probability": 0.45,
+    "confidence": 0.9,
+    "delay_minutes": 5,
+    "reason": "We sharply reduce Alabama's probability given the starting lineup news."
+   },
+   {
+    "persona_id": "physician",
+    "probability": 0.5,
+    "confidence": 0.75,
+    "delay_minutes": 10,
+    "reason": "We note missing starters drop team odds to an even match."
+   },
+   {
+    "persona_id": "vc-associate",
+    "probability": 0.51,
+    "confidence": 0.7,
+    "delay_minutes": 10,
+    "reason": "We adjust the probability mildly downwards given player absence."
+   },
+   {
+    "persona_id": "school-admin",
+    "probability": 0.48,
+    "confidence": 0.5,
+    "delay_minutes": 20,
+    "reason": "We think Alabama's odds drop with missing key player."
+   },
+   {
+    "persona_id": "retired-military",
+    "probability": 0.52,
+    "confidence": 0.8,
+    "delay_minutes": 15,
+    "reason": "We slightly lower Alabama's chances but still favor them overall."
+   },
+   {
+    "persona_id": "quant-dev",
+    "probability": 0.5,
+    "confidence": 0.95,
+    "delay_minutes": 3,
+    "reason": "We quickly update to an even 50/50 chance reflecting injury impact."
+   }
+  ]
+ }
+}

@@ -1,0 +1,152 @@
+{
+ "source": "llm",
+ "headline": "Nobel Peace Prize 2025 awarded to Mar\u00eda Corina Machado",
+ "marketId": "poly:560868",
+ "fairProbability": 0.99,
+ "fairReason": "The Nobel Peace Prize awarded to Mar\u00eda Corina Machado makes the YES outcome certain, moving probability near 100%.",
+ "analysis": "The headline directly confirms that Mar\u00eda Corina Machado has won the Nobel Peace Prize for 2025. Since YES means she wins, this is definitive good news for the YES outcome, raising its probability to 100%. The news is overwhelmingly positive and final for YES with no ambiguity.",
+ "direction": "up",
+ "movePoints": 99.0,
+ "reactions": [
+  {
+   "personaId": "retired-teacher",
+   "probability": 0.99,
+   "confidence": 1.0,
+   "delayMinutes": 3,
+   "reason": "We trust official announcements resolving the question immediately."
+  },
+  {
+   "personaId": "retired-exec",
+   "probability": 0.99,
+   "confidence": 1.0,
+   "delayMinutes": 2,
+   "reason": "Clear and final official news leaves no room for doubt or delay."
+  },
+  {
+   "personaId": "nurse",
+   "probability": 0.99,
+   "confidence": 1.0,
+   "delayMinutes": 5,
+   "reason": "We rely on credible sources and accept definitive news promptly."
+  },
+  {
+   "personaId": "crypto-trader",
+   "probability": 0.99,
+   "confidence": 1.0,
+   "delayMinutes": 1,
+   "reason": "We value fast and direct official news impacts on market outcomes."
+  },
+  {
+   "personaId": "macro-pm",
+   "probability": 0.99,
+   "confidence": 1.0,
+   "delayMinutes": 1,
+   "reason": "The confirmed Nobel award decisively alters probabilities immediately."
+  },
+  {
+   "personaId": "college-student",
+   "probability": 0.99,
+   "confidence": 1.0,
+   "delayMinutes": 10,
+   "reason": "Definitive news is absorbed quickly despite media consumption habits."
+  },
+  {
+   "personaId": "small-biz",
+   "probability": 0.99,
+   "confidence": 1.0,
+   "delayMinutes": 4,
+   "reason": "Final announcements regarding prizes are taken at face value right away."
+  },
+  {
+   "personaId": "software-eng",
+   "probability": 0.99,
+   "confidence": 1.0,
+   "delayMinutes": 1,
+   "reason": "We update instantly on explicit and authoritative news events."
+  },
+  {
+   "personaId": "union-electrician",
+   "probability": 0.99,
+   "confidence": 1.0,
+   "delayMinutes": 5,
+   "reason": "We accept direct public announcements as immediate fact."
+  },
+  {
+   "personaId": "political-junkie",
+   "probability": 0.99,
+   "confidence": 1.0,
+   "delayMinutes": 2,
+   "reason": "Clear political and award news leads to near-instant belief and updates."
+  },
+  {
+   "personaId": "realtor",
+   "probability": 0.99,
+   "confidence": 1.0,
+   "delayMinutes": 3,
+   "reason": "We trust official prize news and update probability immediately."
+  },
+  {
+   "personaId": "grad-econ",
+   "probability": 0.99,
+   "confidence": 1.0,
+   "delayMinutes": 2,
+   "reason": "Strong official signals are weighted fully and promptly."
+  },
+  {
+   "personaId": "farmer",
+   "probability": 0.99,
+   "confidence": 1.0,
+   "delayMinutes": 5,
+   "reason": "We adjust views quickly upon trusted public announcements."
+  },
+  {
+   "personaId": "gig-driver",
+   "probability": 0.99,
+   "confidence": 1.0,
+   "delayMinutes": 8,
+   "reason": "Reliable news settles outcomes once we see clear reports."
+  },
+  {
+   "personaId": "sports-bettor",
+   "probability": 0.99,
+   "confidence": 1.0,
+   "delayMinutes": 1,
+   "reason": "Final outcomes are updated immediately for betting purposes."
+  },
+  {
+   "personaId": "physician",
+   "probability": 0.99,
+   "confidence": 1.0,
+   "delayMinutes": 3,
+   "reason": "We value and rely on credible definitive news for prompt updates."
+  },
+  {
+   "personaId": "vc-associate",
+   "probability": 0.99,
+   "confidence": 1.0,
+   "delayMinutes": 1,
+   "reason": "Fast market players incorporate definitive results immediately."
+  },
+  {
+   "personaId": "school-admin",
+   "probability": 0.99,
+   "confidence": 1.0,
+   "delayMinutes": 5,
+   "reason": "Official announcements are accepted and internalized quickly."
+  },
+  {
+   "personaId": "retired-military",
+   "probability": 0.99,
+   "confidence": 1.0,
+   "delayMinutes": 3,
+   "reason": "Definitive award news is acted upon immediately without bias."
+  },
+  {
+   "personaId": "quant-dev",
+   "probability": 0.99,
+   "confidence": 1.0,
+   "delayMinutes": 1,
+   "reason": "Our models update instantly on conclusive public data."
+  }
+ ]
+}

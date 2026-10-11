@@ -1,0 +1,11 @@
+{
+ "tag": "pair:KXNOBELPEACE-26-DJT",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You compare prediction-market contracts from two venues and decide whether they resolve on the same event. Judge only resolution rules: dates, thresholds, sources, bracket structure. Be terse.",
+ "user": "[Kalshi] Who will win the Nobel Peace Prize?\nRules: If Donald Trump wins the Nobel Peace Prize in 2026, then the market resolves to Yes.\n\nThis market and these products have not been endorsed by the Nobel Foundation. Any references to the Nobel Foundation or any associated marks are descriptive only and do not indicate an endorsement of this product or any affiliation between the Nobel Foundation and Kalshi.\n\n[Polymarket 1] Will Donald Trump win the Nobel Peace Prize in 2026?\nRules: This market will resolve according to the winner of the 2026 Nobel Peace Prize, as announced by the Norwegian Nobel Committee.\n\nIf multiple listed individuals or entities jointly receive the prize, the market will resolve to a single winner. If Donald Trump, Volodymyr Zelenskyy,  Benjamin Netanyahu, Vladimir Putin, or Elon Musk are among the recipients, the market will resolve to the highest-ranked among them in that exact order of precedence. If none of those five are among the winners and the prize is awarded jointly to at least one listed individual and at least one listed organization, the market will resolve in favor of the individual. If no prioritized individuals are among the winners and all listed recipients are of the same type (all individuals or all organizations), the market will resolve to the person whose last name, or the entity\u2019s name, comes first in alphabetical order a\n\nDo these resolve on the same outcome?",
+ "output": {
+  "match": "partial",
+  "reason": "Kalshi resolves on Donald Trump winning Nobel Peace Prize in 2026 only; Polymarket resolves varying winners with a hierarchy and tie-break rules."
+ }
+}

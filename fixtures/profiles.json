@@ -1,5 +1,0 @@
-[
- {"id":"student","name":"Sam","tier":"Student · tight budget","monthlyIncome":1400,"fixedCosts":1250,"discretionary":150,"holdings":[{"label":"Checking","value":620},{"label":"Student loans","value":-18400}],"riskTolerance":0.6,"accent":"var(--tmb-riskmgr)","bio":"Part-time barista, full-time junior. Rent and loans eat the paycheck."},
- {"id":"saver","name":"Maya","tier":"Mid-career saver","monthlyIncome":7200,"fixedCosts":4600,"discretionary":2600,"holdings":[{"label":"401(k)","value":148000},{"label":"Index funds","value":42000},{"label":"Emergency fund","value":18000}],"riskTolerance":1.0,"accent":"var(--tmb-quant)","bio":"Project manager, two kids, maxes the 401(k) and sleeps fine."},
- {"id":"whale","name":"Jordan","tier":"High income · risk-taker","monthlyIncome":24000,"fixedCosts":9000,"discretionary":15000,"holdings":[{"label":"Brokerage","value":610000},{"label":"Crypto","value":95000},{"label":"Angel investments","value":200000}],"riskTolerance":1.5,"accent":"var(--tmb-contrarian)","bio":"Sold a company, trades for sport, treats losses as tuition."}
-]

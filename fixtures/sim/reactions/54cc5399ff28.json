@@ -1,0 +1,152 @@
+{
+ "source": "llm",
+ "headline": "Both Alabama quarterbacks are injured and will not play against Georgia",
+ "marketId": "kalshi:KXNCAAFGAME-26OCT10UGAALA-ALA",
+ "fairProbability": 0.345,
+ "fairReason": "Alabama losing both quarterbacks drastically reduces their win probability against Georgia.",
+ "analysis": "This news significantly hurts Alabama's chances because both of their quarterbacks, critical for offensive success, are out for the game. Since the YES outcome means Alabama wins, losing both quarterbacks makes Alabama less likely to win against Georgia, whose quarterback situation is unchanged.",
+ "direction": "down",
+ "movePoints": 20.0,
+ "reactions": [
+  {
+   "personaId": "retired-teacher",
+   "probability": 0.315,
+   "confidence": 0.7,
+   "delayMinutes": 15,
+   "reason": "We think Alabama is hurt but hold hope for backups."
+  },
+  {
+   "personaId": "retired-exec",
+   "probability": 0.305,
+   "confidence": 0.8,
+   "delayMinutes": 10,
+   "reason": "We see this as a big hit to Alabama's chances, given importance of quarterbacks."
+  },
+  {
+   "personaId": "nurse",
+   "probability": 0.325,
+   "confidence": 0.75,
+   "delayMinutes": 5,
+   "reason": "We understand the injury impact but expect some resilience."
+  },
+  {
+   "personaId": "crypto-trader",
+   "probability": 0.345,
+   "confidence": 0.9,
+   "delayMinutes": 1,
+   "reason": "We update quickly and rely on data, adjusting sharply downward."
+  },
+  {
+   "personaId": "macro-pm",
+   "probability": 0.335,
+   "confidence": 0.85,
+   "delayMinutes": 2,
+   "reason": "We closely monitor news and factor injury impact systematically."
+  },
+  {
+   "personaId": "college-student",
+   "probability": 0.295,
+   "confidence": 0.6,
+   "delayMinutes": 20,
+   "reason": "We react emotionally and doubt Alabama without key players."
+  },
+  {
+   "personaId": "small-biz",
+   "probability": 0.315,
+   "confidence": 0.7,
+   "delayMinutes": 10,
+   "reason": "We lose faith in Alabama winning due to key injuries."
+  },
+  {
+   "personaId": "software-eng",
+   "probability": 0.335,
+   "confidence": 0.85,
+   "delayMinutes": 3,
+   "reason": "We analytically adjust odds after injuries."
+  },
+  {
+   "personaId": "union-electrician",
+   "probability": 0.305,
+   "confidence": 0.7,
+   "delayMinutes": 10,
+   "reason": "We feel Alabama's chances drop significantly with no QBs."
+  },
+  {
+   "personaId": "political-junkie",
+   "probability": 0.325,
+   "confidence": 0.6,
+   "delayMinutes": 15,
+   "reason": "We notice impact but hold a moderate view on consequences."
+  },
+  {
+   "personaId": "realtor",
+   "probability": 0.315,
+   "confidence": 0.75,
+   "delayMinutes": 10,
+   "reason": "We see this injury as a serious Alabama disadvantage."
+  },
+  {
+   "personaId": "grad-econ",
+   "probability": 0.345,
+   "confidence": 0.9,
+   "delayMinutes": 2,
+   "reason": "We model impacts precisely and update quickly."
+  },
+  {
+   "personaId": "farmer",
+   "probability": 0.315,
+   "confidence": 0.7,
+   "delayMinutes": 10,
+   "reason": "We intuitively know losing QBs hurts Alabama."
+  },
+  {
+   "personaId": "gig-driver",
+   "probability": 0.325,
+   "confidence": 0.65,
+   "delayMinutes": 15,
+   "reason": "We quickly accept injuries matter but stay somewhat optimistic."
+  },
+  {
+   "personaId": "sports-bettor",
+   "probability": 0.285,
+   "confidence": 0.7,
+   "delayMinutes": 5,
+   "reason": "We strongly discount Alabama and move bets away fast."
+  },
+  {
+   "personaId": "physician",
+   "probability": 0.335,
+   "confidence": 0.8,
+   "delayMinutes": 10,
+   "reason": "We understand injury severity, adjust but cautiously."
+  },
+  {
+   "personaId": "vc-associate",
+   "probability": 0.335,
+   "confidence": 0.85,
+   "delayMinutes": 5,
+   "reason": "We rapidly price news impact with little bias."
+  },
+  {
+   "personaId": "school-admin",
+   "probability": 0.315,
+   "confidence": 0.65,
+   "delayMinutes": 15,
+   "reason": "We feel for Alabama but see tough odds now."
+  },
+  {
+   "personaId": "retired-military",
+   "probability": 0.305,
+   "confidence": 0.8,
+   "delayMinutes": 10,
+   "reason": "We value strategic impacts, see Alabama's chance reduced."
+  },
+  {
+   "personaId": "quant-dev",
+   "probability": 0.345,
+   "confidence": 0.95,
+   "delayMinutes": 1,
+   "reason": "We instantly integrate data into models, update odds downward."
+  }
+ ]
+}

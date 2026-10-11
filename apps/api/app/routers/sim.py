@@ -3,20 +3,16 @@ from __future__ import annotations
 import asyncio
 import json
 import logging
-from typing import Any
 
 from fastapi import APIRouter, HTTPException
 from sse_starlette.sse import EventSourceResponse
 
 from app.engines import swarm
-from app.models.sim import Persona, SimRequest, SimRun
-from app.scenarios import SCENARIOS
-from app.settings import FIXTURES_DIR
+from app.models.sim import Persona, RunSummary, RunSummaryRequest, RunSummaryText, SimRequest, SimRun
 from app.store import store
 
 log = logging.getLogger("tmb.sim")
 router = APIRouter(prefix="/sim", tags=["sim"])
-RUNS_DIR = FIXTURES_DIR / "sim" / "runs"
 
 _personas: list[Persona] | None = None
 
@@ -31,31 +27,6 @@ def personas() -> list[Persona]:
 @router.get("/personas", response_model=list[Persona])
 async def list_personas() -> list[Persona]:
     return personas()
-
-
-@router.get("/presets")
-async def presets() -> list[dict[str, Any]]:
-    """Scenario presets the UI can load with one click."""
-    out = []
-    for sc in SCENARIOS:
-        if sc.module != "sim" or not sc.market_id or not sc.headline:
-            continue
-        m = store.markets.get(sc.market_id)
-        out.append({
-            "scenario": sc.id, "code": sc.code, "title": sc.title, "proves": sc.proves, "marketId": sc.market_id, "marketTitle": m.title if m else sc.market_id,
-            "headline": sc.headline.title, "headlineAt": int(sc.headline.at.timestamp()), "backtest": sc.market_id in store.history_1m,
-            "swarm": {"infoSpeed": 0.15 if sc.id == 6 else 0.6, "size": 1000},
-            "precomputed": (RUNS_DIR / f"scenario-{sc.id}.json").exists(),
-        })
-    return out
-
-
-@router.get("/runs/{name}", response_model=SimRun)
-async def get_run(name: str) -> SimRun:
-    p = RUNS_DIR / f"{name}.json"
-    if not p.exists():
-        raise HTTPException(404, f"no stored run {name}")
-    return SimRun.model_validate_json(p.read_text())
 
 
 async def prepare(req: SimRequest) -> SimRun:
@@ -76,10 +47,14 @@ async def prepare(req: SimRequest) -> SimRun:
         p0 = before[-1] if before else real[0].price
     else:
         p0 = m.yes_price
-    rx, src = await swarm.get_reactions(req.headline, m, personas())
+    # One side of a two-outcome event (a game's two teams) is analysed once and mirrored, so the sides never disagree.
+    ev = store.events.get(m.event_id)
+    pair = [store.markets[i] for i in (ev.market_ids if ev and ev.mutually_exclusive else []) if i in store.markets]
+    complement = next((x for x in pair if x.id != m.id), None) if len(pair) == 2 else None
+    rx = await swarm.get_reactions(req.headline, m, personas(), complement=complement)
     if real and req.swarm.liquidity is None:
-        return await asyncio.to_thread(swarm.calibrate_liquidity, req, m, personas(), rx, src, p0=p0, real=real, headline_at=head)
-    return await asyncio.to_thread(swarm.run, req, m, personas(), rx, src, p0=p0, real=real, headline_at=head)
+        return await asyncio.to_thread(swarm.calibrate_liquidity, req, m, personas(), rx, p0=p0, real=real, headline_at=head)
+    return await asyncio.to_thread(swarm.run, req, m, personas(), rx, p0=p0, real=real, headline_at=head)
 
 
 @router.post("/run", response_model=SimRun)
@@ -103,3 +78,43 @@ async def stream_sim(req: SimRequest) -> EventSourceResponse:
         yield {"event": "done", "data": json.dumps({"maeCents": run.mae_cents, "maePostCents": run.mae_post_cents})}
 
     return EventSourceResponse(gen())
+
+
+def _template_summary(r: RunSummaryRequest) -> RunSummary:
+    move = round((r.end_price - r.start_price) * 100)
+    word = "fell" if move < 0 else "rose" if move > 0 else "held"
+    ranked = sorted(r.groups, key=lambda g: -g.bet)
+    lead = ", ".join(g.label.lower() for g in ranked[:2]) if ranked else "the crowd"
+    settle = f" and settled within about {r.settle_minutes} minutes" if r.settle_minutes is not None else ""
+    side = "lower" if r.lower_share >= r.higher_share else "higher"
+    share = round(100 * max(r.lower_share, r.higher_share))
+    return RunSummary(
+        summary=f"In the simulation the price {word} from {round(r.start_price * 100)}% to {round(r.end_price * 100)}%{settle}. "
+        f"{share}% of agents ended up expecting it {side} than before the news, and the biggest bets came from {lead}.",
+        takeaway="This is how a simulated crowd reacted, not a forecast of the real market.",
+        source="template",
+    )
+
+
+@router.post("/summary", response_model=RunSummary)
+async def summarize_run(r: RunSummaryRequest) -> RunSummary:
+    """A short written read of a finished run, using only the run's own numbers. Cached by those numbers."""
+    from app.clients import llm
+
+    system = (
+        "You summarise the result of a simulated prediction-market crowd for a general reader. Use ONLY the numbers given. "
+        "Describe what the simulated crowd did, which groups moved the price (the ones that bet the most), and how quickly it settled. "
+        "Never call any number a fair value or a forecast, never give advice, and keep it plain and specific. Percentages are probabilities of YES."
+    )
+    groups = "\n".join(f"- {g.label}: {g.agents} agents, average belief {g.mean_belief:.0%}, bet ${g.bet:,.0f}, reacted after {g.minutes:.0f} min" if g.minutes is not None else f"- {g.label}: {g.agents} agents, average belief {g.mean_belief:.0%}, bet ${g.bet:,.0f}" for g in r.groups)
+    user = (
+        f"Contract: {r.market_title}\nHeadline: {r.headline}\nSimulated price: {r.start_price:.0%} before, {r.end_price:.0%} after\n"
+        f"Settled within 2 points after: {r.settle_minutes if r.settle_minutes is not None else 'unknown'} minutes\nTraded after the news: ${r.traded_usd:,.0f}\n"
+        f"Agents expecting lower than before: {r.lower_share:.0%}; higher: {r.higher_share:.0%}; not yet heard: {r.unheard_share:.0%}\nGroups:\n{groups}"
+    )
+    try:
+        out = await llm.structured(system, user, RunSummaryText, tag="sim-summary", max_tokens=400)
+        return RunSummary(summary=out.summary, takeaway=out.takeaway, source="llm")
+    except Exception as e:  # noqa: BLE001 — no model, no budget, or a bad answer: fall back to a plain template
+        log.info("run summary fell back to template: %s", e)
+        return _template_summary(r)

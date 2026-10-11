@@ -1,0 +1,152 @@
+{
+ "source": "llm",
+ "headline": "test make no change",
+ "marketId": "poly:2589812",
+ "fairProbability": 0.955,
+ "fairReason": "Headline strongly implies the Fed will keep rates unchanged, boosting the probability of YES.",
+ "analysis": "The headline \"test make no change\" strongly suggests that the Federal Reserve will not change interest rates at the October 2026 meeting. Since YES in this market means there will be no change, this news directly supports a higher probability for the YES outcome. Therefore, the news clearly helps the YES outcome by implying rate stability.",
+ "direction": "up",
+ "movePoints": 12.0,
+ "reactions": [
+  {
+   "personaId": "retired-teacher",
+   "probability": 0.975,
+   "confidence": 0.7,
+   "delayMinutes": 15,
+   "reason": "We tend to slightly overestimate stability from Fed signals."
+  },
+  {
+   "personaId": "retired-exec",
+   "probability": 0.945,
+   "confidence": 0.9,
+   "delayMinutes": 5,
+   "reason": "We are skeptical and expect some volatility despite the news."
+  },
+  {
+   "personaId": "nurse",
+   "probability": 0.965,
+   "confidence": 0.6,
+   "delayMinutes": 20,
+   "reason": "We interpret Fed news as somewhat reliable but stay cautiously optimistic."
+  },
+  {
+   "personaId": "crypto-trader",
+   "probability": 0.955,
+   "confidence": 0.95,
+   "delayMinutes": 1,
+   "reason": "We react quickly and trust the signal fully."
+  },
+  {
+   "personaId": "macro-pm",
+   "probability": 0.955,
+   "confidence": 1.0,
+   "delayMinutes": 1,
+   "reason": "We analyze Fed news critically and immediately update."
+  },
+  {
+   "personaId": "college-student",
+   "probability": 0.985,
+   "confidence": 0.4,
+   "delayMinutes": 25,
+   "reason": "We tend to overreact to clear-sounding headlines."
+  },
+  {
+   "personaId": "small-biz",
+   "probability": 0.935,
+   "confidence": 0.75,
+   "delayMinutes": 10,
+   "reason": "We doubt rate stability due to economic uncertainty."
+  },
+  {
+   "personaId": "software-eng",
+   "probability": 0.955,
+   "confidence": 0.85,
+   "delayMinutes": 2,
+   "reason": "We trust data and update efficiently."
+  },
+  {
+   "personaId": "union-electrician",
+   "probability": 0.965,
+   "confidence": 0.6,
+   "delayMinutes": 30,
+   "reason": "We believe Fed will try to stabilize but are slow to update."
+  },
+  {
+   "personaId": "political-junkie",
+   "probability": 0.945,
+   "confidence": 0.7,
+   "delayMinutes": 15,
+   "reason": "We remain wary of surprises despite the news."
+  },
+  {
+   "personaId": "realtor",
+   "probability": 0.935,
+   "confidence": 0.8,
+   "delayMinutes": 10,
+   "reason": "We expect pressure for rate changes due to market demand."
+  },
+  {
+   "personaId": "grad-econ",
+   "probability": 0.955,
+   "confidence": 0.95,
+   "delayMinutes": 1,
+   "reason": "We use all Fed info to update probabilities precisely."
+  },
+  {
+   "personaId": "farmer",
+   "probability": 0.965,
+   "confidence": 0.6,
+   "delayMinutes": 20,
+   "reason": "We prefer rate stability but are cautious with new info."
+  },
+  {
+   "personaId": "gig-driver",
+   "probability": 0.975,
+   "confidence": 0.5,
+   "delayMinutes": 30,
+   "reason": "We hear headlines but interpret them optimistically with delay."
+  },
+  {
+   "personaId": "sports-bettor",
+   "probability": 0.945,
+   "confidence": 0.7,
+   "delayMinutes": 5,
+   "reason": "We hedge our bets against overconfidence in Fed moves."
+  },
+  {
+   "personaId": "physician",
+   "probability": 0.955,
+   "confidence": 0.8,
+   "delayMinutes": 15,
+   "reason": "We update moderately on monetary policy news."
+  },
+  {
+   "personaId": "vc-associate",
+   "probability": 0.955,
+   "confidence": 0.85,
+   "delayMinutes": 3,
+   "reason": "We quickly assimilate Fed news into our models."
+  },
+  {
+   "personaId": "school-admin",
+   "probability": 0.975,
+   "confidence": 0.5,
+   "delayMinutes": 20,
+   "reason": "We tend to be hopeful about economic stability."
+  },
+  {
+   "personaId": "retired-military",
+   "probability": 0.945,
+   "confidence": 0.7,
+   "delayMinutes": 10,
+   "reason": "We remain reserved about Fed\u2019s intentions despite the news."
+  },
+  {
+   "personaId": "quant-dev",
+   "probability": 0.955,
+   "confidence": 1.0,
+   "delayMinutes": 1,
+   "reason": "We incorporate signals immediately and objectively."
+  }
+ ]
+}

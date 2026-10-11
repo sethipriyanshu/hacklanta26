@@ -1,0 +1,155 @@
+{
+ "tag": "swarm-v3:a3844428fea2",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You model how a prediction market reprices after a headline. Work in this order. 1) analysis: in 2-3 sentences, say who the news helps or hurts, stated strictly in terms of the YES outcome of THIS contract (read 'YES means' carefully; for a team's 'wins' contract, news good for the opponent is bad for YES). If the headline names a person, place or thing, first establish which side it belongs to (which team a player plays for, whose home city a venue is). If you cannot tell which side the news affects, set direction to 'none' rather than guess. 2) direction: 'up' if YES is now more likely, 'down' if less likely, 'none' if the news does not matter. It must match your analysis. 3) move_points: how many percentage points a sharp, unbiased analyst would move the probability of YES, as a positive number. Be decisive: news that materially changes the outcome moves it a lot; trivia moves it little. 4) For each persona: bias_points, how far that group's view sits from the informed estimate after absorbing the news, from genuine bias only (team loyalty, partisanship, wishful thinking), between -8 and +8. Slowness is modelled separately by delay_minutes, so do not encode it as bias. Also give confidence, delay_minutes and a one-line first-person-plural reason.",
+ "user": "Contract: Will Mar\u00eda Corina Machado win the Nobel Peace Prize in 2025?\nEvent: Nobel Peace Prize Winner 2025 \nYES means: Will Mar\u00eda Corina Machado win the Nobel Peace Prize in 2025?\nResolution rules: This market will resolve according to the winner of the 2025 Nobel Peace Prize, as announced by the Norwegian Nobel Committee.\n\nIf multiple listed individuals or entities jointly receive the prize, the market will resolve to a single winner. If Donald Trump, Volodymyr Zelensky, Elon Musk, Pope Leo XIII, or Yulia Navalnaya are among the recipients, the market will resolve to the highest-ranked among them, in that exact order of precedence. If none of those five are among the winners, and the prize is awarded jointly to a listed individual and a listed organization, the market will resolve in fa\nCurrent YES price (the market's probability before the news): 1.00\n\nHeadline: Nobel Peace Prize 2025 awarded to Mar\u00eda Corina Machado\n\nPersonas:\n- retired-teacher: retired public school teacher; age 65+; income low; leans left; media: evening cable news, local paper\n- retired-exec: retired regional bank executive; age 65+; income high; leans right; media: WSJ, Fox Business, broker notes\n- nurse: ICU nurse working nights; age 30-44; income mid; leans center; media: push alerts between shifts, Reddit\n- crypto-trader: full-time crypto and prediction-market trader; age 18-29; income mid; leans center; media: X, Telegram alpha groups, terminal feeds\n- macro-pm: analyst at a macro hedge fund; age 30-44; income high; leans center; media: Bloomberg terminal, Fed statements as they drop\n- college-student: undergraduate, part-time barista; age 18-29; income low; leans left; media: TikTok, group chats, Discord\n- small-biz: owns two restaurants; age 45-64; income high; leans right; media: talk radio, trade association emails\n- software-eng: senior engineer at a SaaS company; age 30-44; income high; leans center; media: Hacker News, X, newsletters\n- union-electrician: journeyman electrician; age 45-64; income mid; leans left; media: local TV, Facebook\n- political-junkie: congressional staffer; age 18-29; income low; leans left; media: Politico, X, Slack back-channels\n- realtor: residential real estate agent; age 45-64; income mid; leans right; media: CNBC in the office, mortgage-rate alerts\n- grad-econ: PhD student in economics; age 18-29; income low; leans center; media: FOMC statements, FRED, EconTwitter\n- farmer: runs a family grain farm; age 45-64; income mid; leans right; media: AM radio, co-op newsletters, futures prices\n- gig-driver: rideshare and delivery driver; age 30-44; income low; leans center; media: YouTube, podcasts while driving\n- sports-bettor: sales rep who bets most weekends; age 30-44; income mid; leans right; media: sportsbook apps, Barstool, X\n- physician: family medicine doctor; age 45-64; income high; leans center; media: NYT morning briefing, NPR\n- vc-associate: associate at a venture fund; age 18-29; income high; leans center; media: X, Substacks, founder group chats\n- school-admin: assistant principal; age 30-44; income mid; leans left; media: morning news shows, email digests\n- retired-military: retired army officer, defense contractor; age 45-64; income high; leans right; media: cable news, defense trade press\n- quant-dev: builds trading bots at a prop shop; age 30-44; income high; leans center; media: raw feeds, APIs, nothing human\n\nReturn the analysis, direction, move_points, reason, and one reaction per persona id.",
+ "output": {
+  "analysis": "The headline directly confirms that Mar\u00eda Corina Machado has won the Nobel Peace Prize for 2025. Since YES means she wins, this is definitive good news for the YES outcome, raising its probability to 100%. The news is overwhelmingly positive and final for YES with no ambiguity.",
+  "direction": "up",
+  "move_points": 99.0,
+  "reason": "The Nobel Peace Prize awarded to Mar\u00eda Corina Machado makes the YES outcome certain, moving probability near 100%.",
+  "reactions": [
+   {
+    "persona_id": "retired-teacher",
+    "bias_points": 0.0,
+    "confidence": 1.0,
+    "delay_minutes": 3,
+    "reason": "We trust official announcements resolving the question immediately."
+   },
+   {
+    "persona_id": "retired-exec",
+    "bias_points": 0.0,
+    "confidence": 1.0,
+    "delay_minutes": 2,
+    "reason": "Clear and final official news leaves no room for doubt or delay."
+   },
+   {
+    "persona_id": "nurse",
+    "bias_points": 0.0,
+    "confidence": 1.0,
+    "delay_minutes": 5,
+    "reason": "We rely on credible sources and accept definitive news promptly."
+   },
+   {
+    "persona_id": "crypto-trader",
+    "bias_points": 0.0,
+    "confidence": 1.0,
+    "delay_minutes": 1,
+    "reason": "We value fast and direct official news impacts on market outcomes."
+   },
+   {
+    "persona_id": "macro-pm",
+    "bias_points": 0.0,
+    "confidence": 1.0,
+    "delay_minutes": 1,
+    "reason": "The confirmed Nobel award decisively alters probabilities immediately."
+   },
+   {
+    "persona_id": "college-student",
+    "bias_points": 0.0,
+    "confidence": 1.0,
+    "delay_minutes": 10,
+    "reason": "Definitive news is absorbed quickly despite media consumption habits."
+   },
+   {
+    "persona_id": "small-biz",
+    "bias_points": 0.0,
+    "confidence": 1.0,
+    "delay_minutes": 4,
+    "reason": "Final announcements regarding prizes are taken at face value right away."
+   },
+   {
+    "persona_id": "software-eng",
+    "bias_points": 0.0,
+    "confidence": 1.0,
+    "delay_minutes": 1,
+    "reason": "We update instantly on explicit and authoritative news events."
+   },
+   {
+    "persona_id": "union-electrician",
+    "bias_points": 0.0,
+    "confidence": 1.0,
+    "delay_minutes": 5,
+    "reason": "We accept direct public announcements as immediate fact."
+   },
+   {
+    "persona_id": "political-junkie",
+    "bias_points": 0.0,
+    "confidence": 1.0,
+    "delay_minutes": 2,
+    "reason": "Clear political and award news leads to near-instant belief and updates."
+   },
+   {
+    "persona_id": "realtor",
+    "bias_points": 0.0,
+    "confidence": 1.0,
+    "delay_minutes": 3,
+    "reason": "We trust official prize news and update probability immediately."
+   },
+   {
+    "persona_id": "grad-econ",
+    "bias_points": 0.0,
+    "confidence": 1.0,
+    "delay_minutes": 2,
+    "reason": "Strong official signals are weighted fully and promptly."
+   },
+   {
+    "persona_id": "farmer",
+    "bias_points": 0.0,
+    "confidence": 1.0,
+    "delay_minutes": 5,
+    "reason": "We adjust views quickly upon trusted public announcements."
+   },
+   {
+    "persona_id": "gig-driver",
+    "bias_points": 0.0,
+    "confidence": 1.0,
+    "delay_minutes": 8,
+    "reason": "Reliable news settles outcomes once we see clear reports."
+   },
+   {
+    "persona_id": "sports-bettor",
+    "bias_points": 0.0,
+    "confidence": 1.0,
+    "delay_minutes": 1,
+    "reason": "Final outcomes are updated immediately for betting purposes."
+   },
+   {
+    "persona_id": "physician",
+    "bias_points": 0.0,
+    "confidence": 1.0,
+    "delay_minutes": 3,
+    "reason": "We value and rely on credible definitive news for prompt updates."
+   },
+   {
+    "persona_id": "vc-associate",
+    "bias_points": 0.0,
+    "confidence": 1.0,
+    "delay_minutes": 1,
+    "reason": "Fast market players incorporate definitive results immediately."
+   },
+   {
+    "persona_id": "school-admin",
+    "bias_points": 0.0,
+    "confidence": 1.0,
+    "delay_minutes": 5,
+    "reason": "Official announcements are accepted and internalized quickly."
+   },
+   {
+    "persona_id": "retired-military",
+    "bias_points": 0.0,
+    "confidence": 1.0,
+    "delay_minutes": 3,
+    "reason": "Definitive award news is acted upon immediately without bias."
+   },
+   {
+    "persona_id": "quant-dev",
+    "bias_points": 0.0,
+    "confidence": 1.0,
+    "delay_minutes": 1,
+    "reason": "Our models update instantly on conclusive public data."
+   }
+  ]
+ }
+}

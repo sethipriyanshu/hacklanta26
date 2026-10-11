@@ -1,27 +1,21 @@
-"use client";
-
-import { motion } from "motion/react";
-
-export function AnomalyGauge({ score, size = 148 }: { score: number; size?: number }) {
-  const r = (size - 14) / 2;
-  const pct = Math.max(0, Math.min(100, score)) / 100;
-  const color = score >= 70 ? "var(--tmb-no)" : score >= 40 ? "var(--tmb-anomaly)" : "var(--tmb-yes)";
-  const label = score >= 70 ? "High" : score >= 40 ? "Elevated" : "Quiet";
-  const d = `M7 ${size / 2} A ${r} ${r} 0 0 1 ${size - 7} ${size / 2}`;
+/** The overall anomaly score: a number and one plain bar, nothing more. */
+export function AnomalyGauge({ score }: { score: number; size?: number }) {
+  const s = Math.max(0, Math.min(100, score));
+  const label = s >= 70 ? "High" : s >= 40 ? "Flagged" : "Normal";
   return (
-    <div className="relative mx-auto" style={{ width: size, height: size / 2 + 28 }}>
-      <svg width={size} height={size / 2 + 8} viewBox={`0 0 ${size} ${size / 2 + 8}`} aria-hidden="true">
-        <path d={d} fill="none" stroke="var(--tmb-raised)" strokeWidth="10" strokeLinecap="round" />
-        <motion.path d={d} fill="none" stroke={color} strokeWidth="10" strokeLinecap="round" initial={{ pathLength: 0 }} animate={{ pathLength: Math.max(0.015, pct) }} transition={{ duration: 0.9, ease: [0.2, 0.8, 0.2, 1] }} />
-      </svg>
-      <div className="absolute inset-x-0 bottom-0 text-center">
-        <motion.div key={Math.round(score)} initial={{ opacity: 0.4, y: 4 }} animate={{ opacity: 1, y: 0 }} className="num text-[34px] leading-none font-medium text-fg">
-          {Math.round(score)}
-        </motion.div>
-        <div className="num mt-1 text-[10px] tracking-widest uppercase" style={{ color }}>
-          {label} · anomaly
-        </div>
+    <div className="flex flex-col gap-2.5 px-4 pt-4 pb-3">
+      <div className="flex items-baseline justify-between gap-3">
+        <span className="num text-[34px] leading-none font-medium text-fg">
+          {Math.round(s)}
+          <span className="text-[16px] font-normal text-fg-2">/100</span>
+        </span>
+        <span className={s >= 40 ? "font-display text-[16px] font-medium text-anomaly" : "font-display text-[16px] text-fg-2"}>{label}</span>
       </div>
+      <div className="relative h-2 rounded-full bg-raised">
+        <div className="h-full rounded-full" style={{ width: `${Math.max(2, s)}%`, background: s >= 40 ? "var(--tmb-anomaly)" : "var(--tmb-fg-3)" }} />
+        <span aria-hidden className="absolute -inset-y-1 w-px bg-fg" style={{ left: "40%" }} title="Flag line: 40" />
+      </div>
+      <p className="type-small text-fg-2">Flagged at 40 and above.</p>
     </div>
   );
 }

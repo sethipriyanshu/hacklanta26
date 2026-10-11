@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXBTCD-26OCT1017-T82999.99",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Bitcoin price on Oct 10, 2026?\nEvent: BTC price on Oct 10, 2026 at 5pm EDT? \u2014 $83,000 or above\nCategory: Crypto  Venue: kalshi\nYES price: 0.65 (~65%)\n24h change: 64 points   24h volume: $298K\nResolution rules: If the simple average of the sixty seconds of CF Benchmarks' Bitcoin Real-Time Index (BRTI) before 5 PM EDT is above 82999.99 at 5 PM EDT on Oct 10, 2026, then the market resolves to Yes.\n\nNot all cryptocurrency price data is the same. While checking a source like Google or Coinbase may help guide your decision, the price used to determine this market is based on CF Benchmarks' corresponding Real Time Index (RTI). At the last minute before expiration, 60 RTI prices are collected. The official an\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will the price of Bitcoin be $83,000 or higher on October 10, 2026 at 5 PM EDT?",
+  "summary": "This market asks if Bitcoin's price will be $83,000 or more at a specific time in the future. A \"YES\" share costs 65 cents. That means the market thinks there is about a 65% chance this will happen. If Bitcoin is at or above $83,000 then, each YES share pays $1; if not, it pays $0.",
+  "whats_notable": "The price moved up quickly by 64 points in the last 24 hours, and almost $300,000 worth of shares traded, showing active interest.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

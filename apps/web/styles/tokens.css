@@ -1,62 +1,29 @@
 /* Trust Me Bro design tokens — the only place a hex value may live.
    Components use Tailwind classes bound to these variables (bg-panel, text-fg-2, text-yes, …). */
 
+/* Venue-native dark: the scheme Kalshi and Polymarket share. A cool near-black base, cards one step up,
+   hairline borders, white text at three strengths. Mint = yes / up, coral = no / down, blue = actions,
+   amber = flagged (the venues' warning colour, never used for anything else). One mode only. */
 :root,
 [data-theme="dark"] {
   color-scheme: dark;
-  --tmb-bg: #0b0d10;
-  --tmb-panel: #12151a;
-  --tmb-raised: #1a1e25;
-  --tmb-line: #242a33;
-  --tmb-fg: #e8eaed;
-  --tmb-fg-2: #9aa3ae;
-  --tmb-fg-3: #5f6b78;
-  --tmb-yes: #3dd68c;
-  --tmb-no: #ff5c6c;
-  --tmb-anomaly: #ffb547;
-  --tmb-mispricing: #5b8cff;
-  --tmb-quant: #5b8cff;
-  --tmb-contrarian: #c77dff;
-  --tmb-riskmgr: #3dd68c;
-  --tmb-grid: rgba(255, 255, 255, 0.035);
-}
-
-[data-theme="light"] {
-  color-scheme: light;
-  --tmb-bg: #f4f5f7;
-  --tmb-panel: #ffffff;
-  --tmb-raised: #eceef2;
-  --tmb-line: #d9dde3;
-  --tmb-fg: #121519;
-  --tmb-fg-2: #4b5563;
-  --tmb-fg-3: #8a94a0;
-  --tmb-yes: #16a364;
-  --tmb-no: #e03e4f;
-  --tmb-anomaly: #d98a00;
-  --tmb-mispricing: #2f6bff;
-  --tmb-quant: #2f6bff;
-  --tmb-contrarian: #9b4dff;
-  --tmb-riskmgr: #16a364;
-  --tmb-grid: rgba(0, 0, 0, 0.05);
-}
-
-[data-theme="classic"] {
-  color-scheme: dark;
-  --tmb-bg: #000000;
-  --tmb-panel: #070500;
-  --tmb-raised: #110d00;
-  --tmb-line: #3a2c00;
-  --tmb-fg: #ffb000;
-  --tmb-fg-2: #c98b00;
-  --tmb-fg-3: #7a5600;
-  --tmb-yes: #ffd166;
-  --tmb-no: #ff6a3d;
-  --tmb-anomaly: #ffb000;
-  --tmb-mispricing: #ffe08a;
-  --tmb-quant: #ffe08a;
-  --tmb-contrarian: #ff9f1c;
-  --tmb-riskmgr: #ffd166;
-  --tmb-grid: rgba(255, 176, 0, 0.06);
+  --tmb-bg: #0b0d11;
+  --tmb-panel: #14171c;
+  --tmb-raised: #1d2127;
+  --tmb-line: #262a31;
+  --tmb-fg: #eef0f3;
+  --tmb-fg-2: #a3a9b3;
+  --tmb-fg-3: #868c96;
+  --tmb-yes: #34d399;
+  --tmb-no: #ff5f6d;
+  --tmb-anomaly: #f5b83d;
+  --tmb-mispricing: #5b8aff;
+  --tmb-quant: #5b8aff;
+  --tmb-contrarian: #ae88ff;
+  --tmb-riskmgr: #34d399;
+  --tmb-dot: #2b3037;
+  --tmb-on-color: #0b0d11;
+  --tmb-grid: rgba(255, 255, 255, 0.05);
 }
 
 /* shadcn/ui variable bridge — primitives inherit the active theme automatically. */

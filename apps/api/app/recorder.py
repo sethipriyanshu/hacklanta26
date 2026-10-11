@@ -211,31 +211,10 @@ async def record_wallets(store: MarketStore) -> None:
     store.save(SNAPSHOT)
 
 
-async def record_sim_runs(store: MarketStore) -> None:
-    """Precompute and store the simulator runs for scenarios 5 and 6 so the demo never computes live."""
-    from app.engines import swarm
-    from app.models.sim import SimRequest, SwarmConfig
-
-    store.load(SNAPSHOT)
-    ps = swarm.load_personas()
-    runs_dir = FIXTURES_DIR / "sim" / "runs"
-    runs_dir.mkdir(parents=True, exist_ok=True)
-    for sc in SCENARIOS:
-        if sc.module != "sim" or not sc.market_id or not sc.headline:
-            continue
-        m = store.markets[sc.market_id]
-        real = store.history_1m.get(m.id)
-        head = int(sc.headline.at.timestamp())
-        req = SimRequest(market_id=m.id, headline=sc.headline.title, headline_at=head, swarm=SwarmConfig(info_speed=0.15 if sc.id == 6 else 0.6, size=1000), seed=42)
-        before = [p.price for p in (real or []) if p.ts <= head - req.pre_minutes * 60]
-        p0 = before[-1] if before else m.yes_price
-        rx, src = await swarm.get_reactions(req.headline, m, ps)
-        out = swarm.calibrate_liquidity(req, m, ps, rx, src, p0=p0, real=real or [], headline_at=head) if real else swarm.run(req, m, ps, rx, src, p0=p0, real=None, headline_at=head)
-        (runs_dir / f"scenario-{sc.id}.json").write_text(out.model_dump_json(by_alias=True))
-        log.info("scenario %d run: b=%s mae=%s post=%s reactions=%s ticks=%d", sc.id, out.liquidity, out.mae_cents, out.mae_post_cents, src, len(out.ticks))
-
-
 async def main(cmd: str) -> None:
+    from app import runtime
+
+    runtime.set_live(True)  # the recorder is an explicit, operator-run batch: permit LLM calls (still under the $ cap)
     store = MarketStore()
     try:
         if cmd in ("snapshot", "all"):
@@ -248,8 +227,6 @@ async def main(cmd: str) -> None:
             await record_pairs(store)
         if cmd in ("wallets", "all"):
             await record_wallets(store)
-        if cmd in ("sim", "all"):
-            await record_sim_runs(store)
     finally:
         await close()
 
