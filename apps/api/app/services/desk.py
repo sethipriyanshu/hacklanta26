@@ -6,6 +6,7 @@ from __future__ import annotations
 import json
 import logging
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 from app.clients import llm
 from app.engines import consensus as cx
@@ -34,7 +35,7 @@ def context_packet(store: MarketStore, m: Market, risk: RiskAppetite = "moderate
         "siblings": [{"outcome": s.subtitle or s.title, "yes": s.yes_price} for s in sorted(siblings, key=lambda x: -x.yes_price)[:6]],
         "signals": [{"type": s.type, "score": round(s.score), "why": s.explanation[:220]} for s in sigs],
         "anomalyScore": round(max((s.score for s in sigs if s.type == "anomaly"), default=0.0)),
-        "headlines": [{"title": h.title, "source": h.source, "at": h.published_at.isoformat()[:16]} for h in heads],
+        "headlines": [{"title": h.title, "source": h.source, "at": h.published_at.astimezone(ZoneInfo("America/New_York")).strftime("%b %d %I:%M %p ET")} for h in heads],
         "reader": {"riskAppetite": risk, "considering": side},
     }
 

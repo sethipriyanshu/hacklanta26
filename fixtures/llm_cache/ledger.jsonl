@@ -188,3 +188,17 @@
 {"day": "2026-10-10", "ts": 1791675103, "provider": "azure", "model": "gpt-4.1-mini", "tag": "summary:demo:poly:601826", "input": 500, "output": 164, "seconds": 4.38}
 {"day": "2026-10-10", "ts": 1791675143, "provider": "azure", "model": "gpt-4.1-mini", "tag": "summary:demo:poly:560868", "input": 518, "output": 145, "seconds": 2.04}
 {"day": "2026-10-10", "ts": 1791675167, "provider": "azure", "model": "gpt-4.1-mini", "tag": "swarm-v3:9bc691cdfbf3", "input": 1574, "output": 820, "seconds": 5.87}
+{"day": "2026-10-10", "ts": 1791682480, "provider": "azure", "model": "gpt-4.1-mini", "tag": "summary:kalshi:KXNCAAFGAME-26OCT10UGAALA-ALA", "input": 503, "output": 149, "seconds": 3.33}
+{"day": "2026-10-10", "ts": 1791682538, "provider": "azure", "model": "gpt-4.1-mini", "tag": "desk:contrarian", "input": 985, "output": 133, "seconds": 1.75}
+{"day": "2026-10-10", "ts": 1791682539, "provider": "azure", "model": "gpt-4.1-mini", "tag": "desk:riskmgr", "input": 992, "output": 145, "seconds": 1.92}
+{"day": "2026-10-10", "ts": 1791682539, "provider": "azure", "model": "gpt-4.1-mini", "tag": "desk:quant", "input": 978, "output": 130, "seconds": 2.16}
+{"day": "2026-10-10", "ts": 1791682540, "provider": "azure", "model": "gpt-4.1-mini", "tag": "desk-reply:contrarian:0", "input": 1196, "output": 97, "seconds": 1.66}
+{"day": "2026-10-10", "ts": 1791682542, "provider": "azure", "model": "gpt-4.1-mini", "tag": "desk-reply:quant:1", "input": 1254, "output": 83, "seconds": 1.18}
+{"day": "2026-10-10", "ts": 1791682543, "provider": "azure", "model": "gpt-4.1-mini", "tag": "desk-reply:riskmgr:2", "input": 1315, "output": 83, "seconds": 1.23}
+{"day": "2026-10-10", "ts": 1791682545, "provider": "azure", "model": "gpt-4.1-mini", "tag": "desk-reply:contrarian:3", "input": 1355, "output": 87, "seconds": 1.69}
+{"day": "2026-10-10", "ts": 1791682546, "provider": "azure", "model": "gpt-4.1-mini", "tag": "desk-reply:quant:4", "input": 1411, "output": 82, "seconds": 1.36}
+{"day": "2026-10-10", "ts": 1791682548, "provider": "azure", "model": "gpt-4.1-mini", "tag": "desk-reply:riskmgr:5", "input": 1443, "output": 119, "seconds": 1.84}
+{"day": "2026-10-10", "ts": 1791682655, "provider": "azure", "model": "gpt-4.1-mini", "tag": "swarm-v3:a7b0c86b53ba", "input": 1553, "output": 810, "seconds": 5.52}
+{"day": "2026-10-10", "ts": 1791682657, "provider": "azure", "model": "gpt-4.1-mini", "tag": "sim-summary", "input": 741, "output": 121, "seconds": 1.83}
+{"day": "2026-10-10", "ts": 1791682721, "provider": "azure", "model": "gpt-4.1-mini", "tag": "summary:kalshi:KXMLBGAME-26OCT102000CWSCLE-CWS", "input": 554, "output": 160, "seconds": 2.03}
+{"day": "2026-10-10", "ts": 1791687590, "provider": "azure", "model": "gpt-4.1-mini", "tag": "summary:kalshi:KXNCAAFGAME-26OCT10UGAALA-ALA", "input": 585, "output": 167, "seconds": 3.88}

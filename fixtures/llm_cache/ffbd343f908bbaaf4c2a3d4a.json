@@ -1,0 +1,17 @@
+{
+ "tag": "summary:kalshi:KXNCAAFGAME-26OCT10UGAALA-ALA",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Alabama wins\nEvent: Georgia vs Alabama \u2014 Alabama\nCategory: Sports  Venue: kalshi\nYES price: 0.30 (~30%)\n24h change: -24 points   24h volume: $9.6M\nResolution rules: If Alabama wins the Georgia vs Alabama college football game originally scheduled for Oct 10, 2026, then the market resolves to Yes.\n\nIf the game is postponed but begins within 48 hours of its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is cancelled or not started within 48 hours of its originally scheduled start, the market will resolve to a fair price.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or\nSignals: anomaly 30 \u2014 Volume in the last hour ran 150.8\u00d7 its trailing hourly average \u2014 far outside normal. Price moved -15.0 points in an hour; inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 100.0%. Buying every YES costs 101.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\nRecent headlines: Georgia football releases official depth chart for Alabama Crimson Tide game | Where to watch Georgia vs. Alabama today: Time, TV channel | Alabama vs. Georgia live score, updates, highlights from 2026 SEC rivalry game\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Alabama win the football game against Georgia on October 10, 2026?",
+  "summary": "This market lets people buy a \"YES\" share that pays $1 if Alabama wins the football game, and $0 if they do not win. The current price of a YES share is 30 cents, which means the market thinks there is about a 30% chance Alabama will win. People trade these shares to express their beliefs about the game outcome before it happens. The game result will decide if a YES share pays out or not.",
+  "whats_notable": "There was a sudden and very large increase in trading volume recently, much higher than usual, with the price dropping by 15 points in an hour.",
+  "concepts": [
+   "implied-probability",
+   "liquidity",
+   "anomaly-patterns"
+  ]
+ }
+}

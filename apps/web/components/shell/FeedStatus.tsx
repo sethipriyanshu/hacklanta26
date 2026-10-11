@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { getHealth, type Health } from "@/lib/api";
+import { etTime } from "@/lib/format";
 import { Tooltip, TooltipContent, TooltipTrigger } from "@/components/ui/tooltip";
 
 /** Where the numbers come from, in words: live venues, recorded fixtures, or nothing. */
@@ -29,7 +30,7 @@ export function useHealth(intervalMs = 15000) {
   return health;
 }
 
-export const timeOf = (iso?: string) => (iso ? new Date(iso).toLocaleTimeString([], { hour: "numeric", minute: "2-digit" }) : "");
+export const timeOf = (iso?: string) => (iso ? etTime(iso) : "");
 
 export function FeedStatus() {
   const health = useHealth();

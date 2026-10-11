@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXNCAAFGAME-26OCT10UGAALA-ALA",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Alabama wins\nEvent: Georgia vs Alabama \u2014 Alabama\nCategory: Sports  Venue: kalshi\nYES price: 0.64 (~64%)\n24h change: 10 points   24h volume: $7.2M\nResolution rules: If Alabama wins the Georgia vs Alabama college football game originally scheduled for Oct 10, 2026, then the market resolves to Yes.\n\nIf the game is postponed but begins within 48 hours of its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is cancelled or not started within 48 hours of its originally scheduled start, the market will resolve to a fair price.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or\nSignals: inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 100.0%. Buying every YES costs 101.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Alabama win the football game against Georgia on October 10, 2026?",
+  "summary": "This market lets people buy 'YES' shares if they think Alabama will win the game against Georgia on October 10, 2026. A 'YES' share pays $1 if Alabama wins and $0 if they don't. The current price is about 64 cents, which means the market thinks Alabama has roughly a 64% chance to win. People trade these shares to express their guesses about the game's outcome.",
+  "whats_notable": "The price increased by 10 points in the last 24 hours, showing growing confidence in Alabama's win.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

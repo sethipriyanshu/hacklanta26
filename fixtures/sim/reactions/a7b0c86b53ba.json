@@ -1,0 +1,152 @@
+{
+ "source": "llm",
+ "headline": "ryan williams got injured",
+ "marketId": "kalshi:KXNCAAFGAME-26OCT10UGAALA-ALA",
+ "fairProbability": 0.565,
+ "fairReason": "Injury to Ryan Williams likely decreases Alabama's chance to win, moving YES probability down moderately.",
+ "analysis": "Ryan Williams is potentially a player for Alabama. An injury to him would harm Alabama's chances of winning, making the YES outcome less likely. Since YES means Alabama wins, this news hurts the YES outcome.",
+ "direction": "down",
+ "movePoints": 7.0,
+ "reactions": [
+  {
+   "personaId": "retired-teacher",
+   "probability": 0.575,
+   "confidence": 0.7,
+   "delayMinutes": 15,
+   "reason": "We hope Alabama wins but try to stay realistic about injuries."
+  },
+  {
+   "personaId": "retired-exec",
+   "probability": 0.545,
+   "confidence": 0.9,
+   "delayMinutes": 5,
+   "reason": "We distrust Alabama's chances now and adjust sharply due to the injury."
+  },
+  {
+   "personaId": "nurse",
+   "probability": 0.57,
+   "confidence": 0.8,
+   "delayMinutes": 10,
+   "reason": "We understand injury hurts but remain cautiously optimistic."
+  },
+  {
+   "personaId": "crypto-trader",
+   "probability": 0.565,
+   "confidence": 1.0,
+   "delayMinutes": 1,
+   "reason": "We react quickly and unbiasedly to player injury news."
+  },
+  {
+   "personaId": "macro-pm",
+   "probability": 0.565,
+   "confidence": 1.0,
+   "delayMinutes": 2,
+   "reason": "We promptly incorporate all key info into our market views."
+  },
+  {
+   "personaId": "college-student",
+   "probability": 0.585,
+   "confidence": 0.6,
+   "delayMinutes": 20,
+   "reason": "We hope Alabama still wins despite injury news and are somewhat optimistic."
+  },
+  {
+   "personaId": "small-biz",
+   "probability": 0.555,
+   "confidence": 0.85,
+   "delayMinutes": 8,
+   "reason": "We expect injury harms Alabama, lowering our probability somewhat."
+  },
+  {
+   "personaId": "software-eng",
+   "probability": 0.565,
+   "confidence": 0.9,
+   "delayMinutes": 3,
+   "reason": "We quickly and rationally adjust probability after injury news."
+  },
+  {
+   "personaId": "union-electrician",
+   "probability": 0.575,
+   "confidence": 0.7,
+   "delayMinutes": 15,
+   "reason": "We favor Alabama and undervalue injury impact slightly."
+  },
+  {
+   "personaId": "political-junkie",
+   "probability": 0.575,
+   "confidence": 0.65,
+   "delayMinutes": 15,
+   "reason": "We cheer for Alabama and hope injury doesn't hurt too much."
+  },
+  {
+   "personaId": "realtor",
+   "probability": 0.555,
+   "confidence": 0.8,
+   "delayMinutes": 10,
+   "reason": "We are skeptical and reduce Alabama win chance moderately."
+  },
+  {
+   "personaId": "grad-econ",
+   "probability": 0.565,
+   "confidence": 0.95,
+   "delayMinutes": 2,
+   "reason": "We analyze injury impact precisely and update fairly."
+  },
+  {
+   "personaId": "farmer",
+   "probability": 0.555,
+   "confidence": 0.8,
+   "delayMinutes": 10,
+   "reason": "We expect injury to reduce win probability somewhat."
+  },
+  {
+   "personaId": "gig-driver",
+   "probability": 0.565,
+   "confidence": 0.75,
+   "delayMinutes": 12,
+   "reason": "We take injury as a material negative for Alabama."
+  },
+  {
+   "personaId": "sports-bettor",
+   "probability": 0.545,
+   "confidence": 0.9,
+   "delayMinutes": 5,
+   "reason": "We lower Alabama win chance notably given key injury."
+  },
+  {
+   "personaId": "physician",
+   "probability": 0.565,
+   "confidence": 0.9,
+   "delayMinutes": 7,
+   "reason": "We understand injury impacts and adjust risk accordingly."
+  },
+  {
+   "personaId": "vc-associate",
+   "probability": 0.565,
+   "confidence": 0.85,
+   "delayMinutes": 3,
+   "reason": "We analyze news swiftly and objectively for market edge."
+  },
+  {
+   "personaId": "school-admin",
+   "probability": 0.575,
+   "confidence": 0.7,
+   "delayMinutes": 15,
+   "reason": "We root for Alabama but know injury harms chances."
+  },
+  {
+   "personaId": "retired-military",
+   "probability": 0.555,
+   "confidence": 0.85,
+   "delayMinutes": 8,
+   "reason": "We respect the impact of injury and reduce expectation somewhat."
+  },
+  {
+   "personaId": "quant-dev",
+   "probability": 0.565,
+   "confidence": 1.0,
+   "delayMinutes": 1,
+   "reason": "We incorporate injury immediately for accurate pricing."
+  }
+ ]
+}

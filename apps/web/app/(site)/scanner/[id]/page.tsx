@@ -14,7 +14,7 @@ import { Panel, EmptyState } from "@/components/shell/Panel";
 import { Exhibit } from "@/components/scanner/FindingExhibit";
 import { buildFinding, marketName } from "@/lib/findings";
 import { getBook, getEvent, getHistory, getMarket, getMarketSignals, getNews, getSummary, getTimeline, getWallets, type Market, type Signal } from "@/lib/api";
-import { cents, usd } from "@/lib/format";
+import { cents, etDateTime, etDay, usd } from "@/lib/format";
 import { cn } from "@/lib/utils";
 import { Term } from "@/components/shell/Term";
 
@@ -93,7 +93,7 @@ export default async function ContractPage({ params }: { params: Promise<{ id: s
                 )}
                 {market.yesBid != null && market.yesAsk != null ? ` · bid ${cents(market.yesBid)} / ask ${cents(market.yesAsk)}` : ""}
                 {` · vol 24h ${usd(market.volume24h)}`}
-                {market.closeTime ? ` · closes ${new Date(market.closeTime).toLocaleDateString([], { month: "short", day: "numeric" })}` : ""}
+                {market.closeTime ? ` · closes ${etDay(market.closeTime)}` : ""}
               </p>
             </div>
             <div className="flex gap-2">
@@ -172,7 +172,7 @@ export default async function ContractPage({ params }: { params: Promise<{ id: s
                     <a href={h.url} target="_blank" rel="noreferrer" className="flex h-full flex-col gap-1 px-4 py-3 transition-colors hover:bg-raised/60">
                       <span className="line-clamp-2 type-body text-fg">{h.title}</span>
                       <span className="type-small text-fg-2">
-                        {h.source} · {new Date(h.publishedAt).toLocaleString([], { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" })}
+                        {h.source} · {etDateTime(h.publishedAt)}
                       </span>
                     </a>
                   </li>

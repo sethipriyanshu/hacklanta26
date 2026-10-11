@@ -1,4 +1,4 @@
-import { cents, cents1 } from "@/lib/format";
+import { cents, cents1, etAxis, etDay, etTime } from "@/lib/format";
 
 type Pt = { ts: number; price: number };
 
@@ -78,10 +78,7 @@ export function ReceiptChart({
   // Past a day, the hour alone repeats at both ends of the axis, so the date leads.
   const fmtT = (ts: number) => {
     const d = new Date(ts * 1000);
-    const hm = d.toISOString().slice(11, 16) + "Z";
-    return t1 - t0 > 20 * 3600
-      ? `${d.toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" })} ${hm}`
-      : hm;
+    return t1 - t0 > 20 * 3600 ? `${etDay(d)} ${etAxis(d)} ET` : etTime(d);
   };
 
   return (

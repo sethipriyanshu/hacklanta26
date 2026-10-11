@@ -1,0 +1,16 @@
+{
+ "tag": "summary:kalshi:KXMLBGAME-26OCT102000CWSCLE-CWS",
+ "provider": "azure",
+ "model": "gpt-4.1-mini",
+ "system": "You explain prediction markets to a complete beginner who has never traded. Use plain, concrete language and short sentences. Never use a jargon word without explaining it in the same breath. Key idea: a YES share pays $1 if the event happens and $0 if it doesn't, so its price in cents is roughly the market's estimate of the probability. Be accurate, neutral and encouraging. Never give trading or investment advice.",
+ "user": "Contract: Chicago WS wins\nEvent: Game 5: Chicago WS vs Cleveland \u2014 Chicago WS\nCategory: Sports  Venue: kalshi\nYES price: 0.18 (~18%)\n24h change: -26 points   24h volume: $3.5M\nResolution rules: If Chicago WS wins the Chicago WS vs Cleveland professional baseball game originally scheduled for Oct 10, 2026, then the market resolves to Yes.\n\nThe following market refers to the Chicago WS vs Cleveland professional baseball game originally scheduled for Oct 10, 2026. If this game is postponed or delayed, the market will remain open and close after the rescheduled game has finished (within two days). If the game is cancelled or rescheduled to over two days away, the market will resolve to a f\nSignals: gap 1 \u2014 Kalshi 18.5\u00a2 vs Polymarket 17.5\u00a2: the 1.0\u00a2 gap is eaten by spreads and fees (3.5\u00a2). No edge.; inconsistency 0 \u2014 The 2 outcomes' mid prices sum to 100.0%. Buying every YES costs 101.0\u00a2 and selling every YES fetches 99.0\u00a2, so no set t\n\nExplain this market to a beginner.",
+ "output": {
+  "plain_title": "Will Chicago WS win the baseball game against Cleveland on October 10, 2026?",
+  "summary": "This market lets you buy a YES share that pays $1 if Chicago WS wins the game against Cleveland on October 10, 2026, and $0 if they lose or the game is canceled. The current price of a YES share is about 18 cents. This means the market thinks there's roughly an 18% chance Chicago WS will win the game. People trade these shares to express or learn the crowd's opinion about who will win.",
+  "whats_notable": "The price dropped by 26 points in the last 24 hours, showing a big change in people's views about Chicago WS winning.",
+  "concepts": [
+   "implied-probability",
+   "liquidity"
+  ]
+ }
+}

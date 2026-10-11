@@ -16,3 +16,14 @@ SIMULATED.md
 
 # warm-start cache of the last live pull
 apps/api/.cache/
+
+# Internal docs and tooling (kept local, not published)
+.claude/
+.cursor/
+.impeccable/
+DECISIONS.md
+PLAN.md
+PRODUCT.md
+README.md
+apps/web/AGENTS.md
+apps/web/README.md

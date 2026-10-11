@@ -104,7 +104,7 @@ export function Debate({ market, risk, side }: { market: Market; risk: RiskAppet
           {/no API key/i.test(error)
             ? "The analysts can’t run here: no AI provider key is configured on the server."
             : /spend cap/i.test(error)
-              ? "The desk has used today’s AI budget. Markets it has already analysed still work; new ones resume tomorrow (UTC)."
+              ? "The desk has used today’s AI budget. Markets it has already analysed still work; new ones resume at 8 PM ET."
               : error}
         </div>
       )}

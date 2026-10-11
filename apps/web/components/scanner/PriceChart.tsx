@@ -1,7 +1,8 @@
 "use client";
 
 import { useEffect, useRef } from "react";
-import { createChart, ColorType, CrosshairMode, HistogramSeries, LineSeries, LineStyle, createSeriesMarkers, type IChartApi, type ISeriesApi, type ISeriesMarkersPluginApi, type SeriesMarker, type Time, type UTCTimestamp } from "lightweight-charts";
+import { createChart, ColorType, CrosshairMode, HistogramSeries, LineSeries, LineStyle, createSeriesMarkers, type IChartApi, type ISeriesApi, type ISeriesMarkersPluginApi, type SeriesMarker, TickMarkType, type Time, type UTCTimestamp } from "lightweight-charts";
+import { etAxis, etDateTime, etDay } from "@/lib/format";
 import type { PricePoint } from "@/lib/api";
 import { readTokens } from "@/lib/theme";
 
@@ -32,7 +33,14 @@ export function PriceChart({ points, pins = [], height = 360 }: { points: PriceP
       layout: { background: { type: ColorType.Solid, color: "transparent" }, textColor: t["fg-3"], fontFamily: "var(--font-geist-mono)", fontSize: 10, attributionLogo: false },
       grid: { vertLines: { color: t.line, style: LineStyle.Dotted }, horzLines: { color: t.line, style: LineStyle.Dotted } },
       rightPriceScale: { borderColor: t.line, scaleMargins: { top: 0.08, bottom: 0.26 } },
-      timeScale: { borderColor: t.line, timeVisible: true, secondsVisible: false },
+      timeScale: {
+        borderColor: t.line,
+        timeVisible: true,
+        secondsVisible: false,
+        // Axis in US Eastern: day marks show the date, intraday marks the time.
+        tickMarkFormatter: (time: Time, type: TickMarkType) => (type <= TickMarkType.DayOfMonth ? etDay(Number(time)) : etAxis(Number(time))),
+      },
+      localization: { timeFormatter: (time: Time) => etDateTime(Number(time)) },
       crosshair: { mode: CrosshairMode.Normal, vertLine: { color: t["fg-3"], labelBackgroundColor: t.raised }, horzLine: { color: t["fg-3"], labelBackgroundColor: t.raised } },
       handleScroll: { mouseWheel: false },
     });
