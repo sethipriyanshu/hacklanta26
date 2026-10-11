@@ -1,10 +1,12 @@
-.PHONY: dev web api redis types test
+.PHONY: dev web api tunnel redis types test
 dev: ## run web + api together
 	@(cd apps/api && uv run uvicorn app.main:app --reload --port 8000) & (cd apps/web && pnpm dev); wait
 web:
 	cd apps/web && pnpm dev
 api:
 	cd apps/api && uv run uvicorn app.main:app --reload --port 8000
+tunnel: ## expose :3000 and :8000 at trustmebro.wiki (needs ~/.cloudflared/config.yml)
+	cloudflared tunnel run trustmebro
 redis:
 	docker compose up -d redis
 types: ## regenerate TS types from the FastAPI OpenAPI schema (api must be running)

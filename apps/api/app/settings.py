@@ -27,7 +27,7 @@ class Settings(BaseSettings):
     poll_interval_seconds: int = 45
     # Tiger Data (TimescaleDB on Tiger Cloud). Empty = no database; the app runs from memory as before.
     tiger_database_url: str = ""
-    cors_origins: list[str] = ["http://localhost:3000"]
+    cors_origins: list[str] = ["http://localhost:3000", "https://trustmebro.wiki", "https://www.trustmebro.wiki"]
 
 
 @lru_cache
