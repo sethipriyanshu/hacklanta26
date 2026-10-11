@@ -28,7 +28,7 @@ export function DataStore() {
       <TooltipTrigger render={<p tabIndex={0} />} className="flex flex-wrap items-center gap-x-2 gap-y-1 type-meta text-fg-2 outline-none">
         <Database aria-hidden className="size-3.5 text-fg-3" />
         <span>
-          Stored in <span className="font-medium text-fg">Tiger Data</span>
+          Powered by <span className="font-medium text-fg">Tiger Data</span>
         </span>
         <span aria-hidden className="text-fg-3">·</span>
         <span className="num">
